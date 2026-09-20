@@ -9,24 +9,13 @@ permissions:
 jobs:
   debug:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Fetch X 50-list
+      - name: Verify Z.ai handle
         env:
           X_COOKIES: ${{ secrets.X_COOKIES }}
-        run: python scripts/x_client.py --out /tmp/x.json --hours 0 --limit 15 --group default
-      - name: Summary
-        run: |
-          python - <<'PY'
-          import json
-          d=json.load(open('/tmp/x.json'))
-          print('总数:', d['count'])
-          ok=[s for s in d['stats'] if s['count']]
-          bad=[s for s in d['stats'] if not s['count']]
-          print('成功:', len(ok), ' 零条:', len(bad))
-          for b in bad: print('  零条:', b['user'], b['err'][:40])
-          PY
+        run: python scripts/verify_zai.py
