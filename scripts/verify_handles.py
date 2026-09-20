@@ -10,28 +10,24 @@ sys.path.insert(0, os.path.dirname(__file__))
 from x_client import XClient, DOC_USER_BY_SCREEN_NAME, USER_FEATURES
 
 CANDIDATES = [
-    # 主人点名
-    "elonmusk", "sama", "RayDalio",
-    "ClaudeAI", "AnthropicAI", "Anthropic",
-    "GeminiApp", "GoogleDeepMind", "GoogleAI", "Google",
-    "ChatGPT", "OpenAI", "OpenAIDevs",
-    "grok", "xai",
-    "opencode_ai", "sst", "opencode",
-    "commandcode", "commandcodeai", "CommandCodeAI",
-    # 大厂官方
-    "MetaAI", "AIatMeta", "MicrosoftAI", "MSFTResearch", "MistralAI",
-    "cohere", "CohereForAI", "huggingface", "ollama", "LangChainAI",
-    "llama_index", "vllm_project", "NVIDIAAI", "nvidia",
-    "StabilityAI", "runwayml", "midjourney", "Perplexity_ai",
-    "Scale_AI", "Replicate", "GroqInc", "elevenlabs", "cursor_ai", "windsurf",
-    # 大佬
-    "demishassabis", "DrJimFan", "ylecun", "karpathy", "AndrewYNg",
-    "natolambert", "JeffDean", "sundarpichai", "satyanadella",
-    # AI 媒体 / 快讯（一手）
-    "TechCrunch", "TheInformation", "wired", "arstechnica", "TheDecoder",
-    "VentureBeat", "marktechpost", "TheRundownAI", "rowancheung",
-    "deeplearningai", "TLDRai", "QbitAI", "SyncedAI", "arxiv",
-    "StanfordHAI", "MIT_CSAIL", "Techmeme", "simonw",
+    # 复查可疑（上次结果里粉丝数异常或名字不符）
+    "AnthropicAI", "xai", "sst", "opencode_ai", "opencode", "GroqInc", "Groq",
+    "TheDecoder", "TLDRai", "TLDR_ai", "SyncedAI", "SyncedReview",
+    "MetaAI", "AIatMeta", "CohereForAI", "cohere",
+    "LangChainAI", "LangChain", "QbitAI", "QbitAI_", "量子位",
+    # 补充候选
+    "MSFTResearch", "MicrosoftAI", "NousResearch", "Alibaba_Qwen", "QwenLM",
+    "zhipu_ai", "ZhipuAI", "MiniMax_AI", "MiniMaxAI", "MoonshotAI", "kimi_moonshot",
+    "deepseek_ai", "DeepSeekAI", "ByteDance", "Baidu_Inc", "TencentAI",
+    "AnthropicNews", "claudeai", "ClaudeDevs",
+    "sama", "gdb", "ID_AA_Carmack",
+    "TheStalwart", "EMostaque", "hardmaru", "BlancheMinerva",
+    "Blaine_AI", "TheAIObserver", "aiindex", "AI_News_",
+    "OpenAINewsroom", "OpenAIResearch",
+    "Apple", "AppleML", "awscloud", "Azure", "googlecloud",
+    "vercel", "supabase", "github", "huggingface",
+    "PyTorch", "TensorFlow", "Keras_io", "pytorch",
+    "ClementDelangue", "julien_c", "Thom_Wolf",
 ]
 
 
