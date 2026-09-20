@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Self-built X client probe
+      - name: Fetch X (self-built client)
         env:
           X_COOKIES: ${{ secrets.X_COOKIES }}
-        run: python scripts/x_client.py
+        run: python scripts/x_client.py --out /tmp/x.json --hours 0 --limit 20
