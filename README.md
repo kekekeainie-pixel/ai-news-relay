@@ -68,3 +68,11 @@ Actions → AI News Relay → Run workflow
 ```bash
 python scripts/fetch_relay.py
 ```
+
+
+## X（推特）抓取方案
+
+完整实测方案见 [`docs/X-GRAB.md`](docs/X-GRAB.md) —— 不用 twscrape/Nitter/付费 API，
+用一个 X 小号 cookie + GitHub Actions 即可（实测 10 账号 126 条）。
+
+**命门**：cookie 的 `ct0` 必须同时作为 `x-csrf-token` 请求头发送，否则 403。
