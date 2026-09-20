@@ -109,6 +109,9 @@ RSSHUB_INSTANCES = [
 
 X_KOLS = ["sama", "karpathy", "OpenAI", "AnthropicAI", "GoogleDeepMind", "ylecun"]
 
+# 关键词搜索（主人 09-20 要求：大佬动态 + AI 关键词都要）
+X_SEARCH_TERMS = ["AI model release", "LLM open source", "AI agent"]
+
 
 def fetch_rsshub():
     n = 0
@@ -205,6 +208,7 @@ def fetch_reddit():
 # ------------------------------------------------------------------
 def fetch_twitter_twscrape():
     cookies = os.environ.get("X_COOKIES", "").strip()
+    xuser = os.environ.get("X_USERNAME", "").strip() or "relay"
     if not cookies:
         STATS.append(("X twscrape", 0, "未配置 X_COOKIES"))
         log("  X twscrape: 跳过（未配置 X_COOKIES）")
@@ -219,12 +223,22 @@ def fetch_twitter_twscrape():
         api = API()
 
         async def run():
-            await api.pool.add_account("relay", "relay", "relay@example.com", "relay", cookies=cookies)
+            # add_account_cookies 只需 username + cookies（不用密码）
+            try:
+                await api.pool.add_account_cookies(xuser, cookies)
+            except Exception as e:
+                log(f"  [x:cookies] {type(e).__name__}: {str(e)[:80]}")
+                # 已存在就更新
+                try:
+                    await api.pool.accounts_info()
+                except Exception:
+                    pass
             n = 0
             for user in X_KOLS:
                 try:
                     u = await api.user_by_login(user)
                     if not u:
+                        log(f"  [x:{user}] 用户不存在")
                         continue
                     async for tw in api.user_tweets(u.id, limit=10):
                         add(f"X @{user}", (tw.rawContent or "")[:200],
@@ -232,14 +246,24 @@ def fetch_twitter_twscrape():
                             tw.date.timestamp() if tw.date else 0, tw.rawContent or "")
                         n += 1
                 except Exception as e:
-                    log(f"  [x:{user}] {type(e).__name__}: {str(e)[:60]}")
+                    log(f"  [x:{user}] {type(e).__name__}: {str(e)[:70]}")
+            # 关键词搜索
+            for term in X_SEARCH_TERMS:
+                try:
+                    async for tw in api.search(f"{term} lang:en", limit=15):
+                        add(f"X 搜索:{term}", (tw.rawContent or "")[:200],
+                            f"https://x.com/{tw.user.username}/status/{tw.id}",
+                            tw.date.timestamp() if tw.date else 0, tw.rawContent or "")
+                        n += 1
+                except Exception as e:
+                    log(f"  [x:search:{term}] {type(e).__name__}: {str(e)[:70]}")
             return n
         n = asyncio.run(run())
         STATS.append(("X twscrape", n, ""))
         log(f"  X twscrape: {n}")
     except Exception as e:
         STATS.append(("X twscrape", 0, f"{type(e).__name__}"))
-        log(f"  X twscrape 失败: {type(e).__name__}: {str(e)[:100]}")
+        log(f"  X twscrape 失败: {type(e).__name__}: {str(e)[:120]}")
 
 
 def main():
