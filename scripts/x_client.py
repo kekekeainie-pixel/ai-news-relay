@@ -2,15 +2,21 @@
 """
 自建 X 客户端 —— 不依赖 twscrape（它的 doc_id 已过期）。
 
-关键点（本次实测得出）：
-  * cookie 里的 `ct0` 必须**同时**作为 `x-csrf-token` 请求头发送，
-    否则 GraphQL 返回 403 code=353 "requires a matching csrf cookie and header"
-  * 官方 API v2 无 key → 401，必须付费，放弃
-  * syndication 嵌入接口对数据中心 IP 返回 429
+★ 关键（2026-09-20 实测得出）：
+  cookie 里的 `ct0` 必须**同时**作为 `x-csrf-token` 请求头发送，
+  否则 GraphQL 返回 403 code=353 "requires a matching csrf cookie and header"。
+  官方 API v2 无 key → 401（必须付费，放弃）。
+  syndication 嵌入接口对数据中心 IP 返回 429。
 
-用法：X_COOKIES='auth_token=...; ct0=...' python scripts/x_client.py
-输出：data/x_debug.json（抓到的推文）
+可用 doc_id（2026-09-20 实测）：
+  UserByScreenName = 32pL5BWe9WKeSK1MoPvFQQ
+  UserTweets       = V7H0Ap3_Hh2FyS75OCDO3Q
+
+用法：
+  X_COOKIES='auth_token=...; ct0=...' python scripts/x_client.py           # 自测
+  X_COOKIES=... python scripts/x_client.py --out data/x.json --hours 48     # 供 relay 调用
 """
+import argparse
 import json
 import os
 import re
@@ -26,58 +32,14 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 BEARER = ("AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D"
           "1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA")
 
+DOC_USER_BY_SCREEN_NAME = "32pL5BWe9WKeSK1MoPvFQQ"
+DOC_USER_TWEETS = "V7H0Ap3_Hh2FyS75OCDO3Q"
 
-def parse_cookies(v):
-    return dict(x.strip().split("=", 1) for x in v.split(";") if "=" in x)
-
-
-class XClient:
-    def __init__(self, cookies_str):
-        self.ck = parse_cookies(cookies_str)
-        self.ct0 = self.ck.get("ct0", "")
-        self.auth = self.ck.get("auth_token", "")
-        if not (self.ct0 and self.auth):
-            raise ValueError("cookie 必须含 auth_token 和 ct0")
-
-    def headers(self, extra=None):
-        return {
-            "User-Agent": UA,
-            "Accept": "*/*",
-            "Accept-Language": "en-US,en;q=0.9",
-            "authorization": f"Bearer {BEARER}",
-            "x-csrf-token": self.ct0,          # ★ 关键：ct0 必须同时在这里
-            "x-twitter-active-user": "yes",
-            "x-twitter-auth-type": "OAuth2Session",
-            "x-twitter-client-language": "en",
-            "Referer": "https://x.com/",
-            "Origin": "https://x.com",
-            "Cookie": f"auth_token={self.auth}; ct0={self.ct0}",
-            **(extra or {}),
-        }
-
-    def graphql(self, doc_id, op_name, variables, features=None, timeout=30):
-        url = (f"https://x.com/i/api/graphql/{doc_id}/{op_name}"
-               f"?variables={urllib.parse.quote(json.dumps(variables, separators=(',', ':')))}")
-        if features:
-            url += f"&features={urllib.parse.quote(json.dumps(features, separators=(',', ':')))}"
-        try:
-            with urllib.request.urlopen(
-                    urllib.request.Request(url, headers=self.headers()), timeout=timeout) as r:
-                return r.status, json.loads(r.read())
-        except urllib.error.HTTPError as e:
-            body = e.read(800).decode("utf-8", "ignore")
-            return e.code, {"_raw": body}
-        except Exception as e:
-            return 0, {"_err": f"{type(e).__name__}: {str(e)[:120]}"}
-
-
-# 候选 doc_id（会随 X 更新变化；下面几个来自公开的 twscrape/网页快照）
-DOC_IDS = {
-    "UserByScreenName": ["32pL5BWe9WKeSK1MoPvFQQ", "G3KGOASz96M-Qu0nwmGXNg",
-                         "sLVLhk0bGj3MVFEKTdax1w", "1VOOyvKkiI3FMmkeDNxM9A"],
-    "UserTweets": ["V7H0Ap3_Hh2FyS75OCDO3Q", "E3opETHurmVJflFsUBVuUQ",
-                   "HuTx74BxAnezK1gWvYY7zg", "QqZBEqganhHwmU9QssUirQ"],
-}
+# 大佬名单（主人 09-20 点名要的 + 常见 AI 圈核心）
+X_KOLS = [
+    "sama", "karpathy", "OpenAI", "AnthropicAI", "GoogleDeepMind", "ylecun",
+    "demishassabis", "AndrewYNg", "DrJimFan", "natolambert",
+]
 
 USER_FEATURES = {
     "hidden_profile_subscriptions_enabled": True,
@@ -123,78 +85,188 @@ TWEET_FEATURES = {
 }
 
 
+def parse_cookies(v):
+    return dict(x.strip().split("=", 1) for x in v.split(";") if "=" in x)
+
+
+class XClient:
+    def __init__(self, cookies_str, timeout=30):
+        self.ck = parse_cookies(cookies_str)
+        self.ct0 = self.ck.get("ct0", "")
+        self.auth = self.ck.get("auth_token", "")
+        self.timeout = timeout
+        if not (self.ct0 and self.auth):
+            raise ValueError("cookie 必须含 auth_token 和 ct0")
+
+    def headers(self):
+        return {
+            "User-Agent": UA,
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "authorization": f"Bearer {BEARER}",
+            "x-csrf-token": self.ct0,          # ★ 命门：ct0 必须同时在这里
+            "x-twitter-active-user": "yes",
+            "x-twitter-auth-type": "OAuth2Session",
+            "x-twitter-client-language": "en",
+            "Referer": "https://x.com/",
+            "Origin": "https://x.com",
+            "Cookie": f"auth_token={self.auth}; ct0={self.ct0}",
+        }
+
+    def graphql(self, doc_id, op, variables, features=None):
+        url = (f"https://x.com/i/api/graphql/{doc_id}/{op}"
+               f"?variables={urllib.parse.quote(json.dumps(variables, separators=(',', ':')))}")
+        if features:
+            url += f"&features={urllib.parse.quote(json.dumps(features, separators=(',', ':')))}"
+        try:
+            with urllib.request.urlopen(
+                    urllib.request.Request(url, headers=self.headers()),
+                    timeout=self.timeout) as r:
+                return r.status, json.loads(r.read())
+        except urllib.error.HTTPError as e:
+            raw = e.read(700).decode("utf-8", "ignore")
+            return e.code, {"_raw": raw}
+        except Exception as e:
+            return 0, {"_err": f"{type(e).__name__}: {str(e)[:110]}"}
+
+    def user_id(self, screen_name):
+        st, j = self.graphql(DOC_USER_BY_SCREEN_NAME, "UserByScreenName",
+                             {"screen_name": screen_name,
+                              "withSafetyModeUserFields": True}, USER_FEATURES)
+        if st != 200:
+            return None, f"HTTP{st} {j.get('_raw','')[:80]}"
+        try:
+            res = j["data"]["user"]["result"]
+            return res["rest_id"], res.get("legacy", {}).get("name", "")
+        except Exception:
+            return None, f"结构异常 {json.dumps(j)[:100]}"
+
+    def user_tweets(self, uid, limit=20):
+        st, j = self.graphql(DOC_USER_TWEETS, "UserTweets",
+                             {"userId": str(uid), "count": limit,
+                              "includePromotedContent": True,
+                              "withQuickPromoteEligibilityTweetFields": True,
+                              "withVoice": True, "withV2Timeline": True},
+                             TWEET_FEATURES)
+        if st != 200:
+            return [], f"HTTP{st} {j.get('_raw','')[:80]}"
+        return parse_timeline(j), ""
+
+
+def parse_timeline(j):
+    """从 UserTweets 响应里抽出推文。兼容 note_tweet / retweet / quote 等形态。"""
+    out = []
+    try:
+        instructions = (j["data"]["user"]["result"]["timeline_v2"]["timeline"]
+                        ["instructions"])
+    except Exception:
+        # 备用路径（有些账号用 timeline）
+        try:
+            instructions = (j["data"]["user"]["result"]["timeline"]["timeline"]
+                            ["instructions"])
+        except Exception:
+            return out
+    for ins in instructions:
+        for e in ins.get("entries", []) or []:
+            c = e.get("content", {}) or {}
+            item = c.get("itemContent") or {}
+            tr = (item.get("tweet_results") or {}).get("result") or {}
+            if not tr:
+                continue
+            tw = unwrap(tr)
+            if not tw:
+                continue
+            lg = tw.get("legacy", {}) or {}
+            text = lg.get("full_text") or ""
+            # 长推文
+            note = ((tw.get("note_tweet") or {}).get("note_tweet_results") or {}) \
+                .get("result", {}).get("text")
+            if note:
+                text = note
+            if not text:
+                continue
+            created = lg.get("created_at") or ""
+            ts = 0
+            if created:
+                try:
+                    ts = datetime.strptime(created, "%a %b %d %H:%M:%S %z %Y").timestamp()
+                except Exception:
+                    ts = 0
+            tid = tw.get("rest_id") or lg.get("id_str") or ""
+            screen = ((tw.get("core") or {}).get("user_results") or {}) \
+                .get("result", {}).get("legacy", {}).get("screen_name") \
+                or lg.get("user_id_str", "")
+            out.append({"id": tid, "text": text, "ts": ts, "user": screen,
+                        "url": f"https://x.com/{screen or 'i'}/status/{tid}" if tid else "",
+                        "retweet": bool(lg.get("retweeted_status_result")),
+                        "quote": bool(lg.get("quoted_status_result"))})
+    return out
+
+
+def unwrap(tr):
+    """处理 TweetWithVisibilityResults / Tweet 两种包装。"""
+    if not isinstance(tr, dict):
+        return None
+    if tr.get("__typename") == "TweetWithVisibilityResults":
+        tr = tr.get("tweet", {}) or {}
+    return tr if tr.get("legacy") or tr.get("rest_id") else None
+
+
 def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--out", default="data/x_debug.json")
+    ap.add_argument("--hours", type=int, default=0, help="0=不过滤时间")
+    ap.add_argument("--limit", type=int, default=20)
+    ap.add_argument("--users", default="", help="逗号分隔，覆盖默认名单")
+    a = ap.parse_args()
+
     cs = os.environ.get("X_COOKIES", "").strip()
     if not cs:
         print("❌ 无 X_COOKIES")
         return 1
     cli = XClient(cs)
+    users = [u.strip() for u in a.users.split(",") if u.strip()] or X_KOLS
     print("=" * 60)
-    print("自建 X 客户端实测")
+    print(f"X 抓取：{len(users)} 个账号")
     print("=" * 60)
 
-    # 1) 找可用的 UserByScreenName doc_id
-    print("\n--- 1) 探测 UserByScreenName doc_id ---")
-    good = None
-    for did in DOC_IDS["UserByScreenName"]:
-        st, j = cli.graphql(did, "UserByScreenName",
-                            {"screen_name": "sama", "withSafetyModeUserFields": True},
-                            USER_FEATURES)
-        err = ""
-        if isinstance(j, dict) and "errors" in j:
-            err = json.dumps(j["errors"])[:110]
-        print(f"  doc_id={did:<24} HTTP {st} {err}")
-        if st == 200 and "errors" not in j:
-            good = did
-            print("     ★★ 有效 ★★")
-            break
-    if not good:
-        print("\n  ❌ 所有候选 doc_id 都不可用 → 需要从 x.com 网页里现抓 doc_id")
-        # 尝试从网页 bundle 里提取
-        print("\n--- 尝试从 x.com 网页提取最新 doc_id ---")
-        try:
-            with urllib.request.urlopen(urllib.request.Request(
-                    "https://x.com/sama", headers=cli.headers()), timeout=30) as r:
-                html = r.read(900000).decode("utf-8", "ignore")
-            for op in ["UserByScreenName", "UserTweets"]:
-                m = re.findall(r'"([A-Za-z0-9_-]{20,24})"\s*,\s*"' + op + r'"', html)
-                if not m:
-                    m = re.findall(op + r'"\s*,?\s*"?([A-Za-z0-9_-]{20,24})', html)
-                print(f"   {op} 候选: {m[:5]}")
-        except Exception as e:
-            print(f"   取网页失败: {type(e).__name__}: {str(e)[:80]}")
-        return 1
+    all_items, stats = [], []
+    for u in users:
+        t0 = time.time()
+        uid, note = cli.user_id(u)
+        if not uid:
+            print(f"  [{u}] ✗ {note}")
+            stats.append({"user": u, "count": 0, "err": note})
+            continue
+        tws, err = cli.user_tweets(uid, a.limit)
+        if err:
+            print(f"  [{u}] ✗ {err}")
+            stats.append({"user": u, "count": 0, "err": err})
+            continue
+        n = 0
+        for t in tws:
+            if a.hours and t["ts"] and t["ts"] < time.time() - a.hours * 3600:
+                continue
+            all_items.append({"source": f"X @{u}", "title": t["text"].replace("\n", " ")[:250],
+                              "url": t["url"], "ts": int(t["ts"]),
+                              "desc": t["text"][:400]})
+            n += 1
+        print(f"  [{u}] ✅ {n} 条 ({time.time()-t0:.1f}s) uid={uid}")
+        stats.append({"user": u, "count": n, "err": ""})
+        time.sleep(1.2)   # 温和点，别触发限流
 
-    # 2) 取用户 ID
-    st, j = cli.graphql(good, "UserByScreenName",
-                        {"screen_name": "sama", "withSafetyModeUserFields": True}, USER_FEATURES)
-    uid = None
-    try:
-        uid = j["data"]["user"]["result"]["rest_id"]
-        print(f"\n  ✅ 拿到 user id: {uid}   (name={j['data']['user']['result'].get('legacy',{}).get('name')})")
-    except Exception:
-        print(f"\n  ⚠️ 结构异常: {json.dumps(j)[:300]}")
-
-    # 3) 探测 UserTweets doc_id
-    if uid:
-        print("\n--- 2) 探测 UserTweets doc_id ---")
-        for did in DOC_IDS["UserTweets"]:
-            st, j = cli.graphql(did, "UserTweets",
-                                {"userId": uid, "count": 10, "includePromotedContent": True,
-                                 "withQuickPromoteEligibilityTweetFields": True,
-                                 "withVoice": True, "withV2Timeline": True},
-                                TWEET_FEATURES)
-            err = json.dumps(j.get("errors", []))[:110] if isinstance(j, dict) else ""
-            print(f"  doc_id={did:<24} HTTP {st} {err}")
-            if st == 200 and "errors" not in (j if isinstance(j, dict) else {}):
-                print("     ★★ 有效 ★★")
-                os.makedirs("data", exist_ok=True)
-                with open("data/x_debug.json", "w", encoding="utf-8") as f:
-                    json.dump({"uid": uid, "doc_id": did, "sample": j}, f,
-                              ensure_ascii=False, indent=1)
-                print("     样例已存 data/x_debug.json")
-                break
-    print("\n=== 结束 ===")
+    if all_items and a.out:
+        os.makedirs(os.path.dirname(a.out) or ".", exist_ok=True)
+        with open(a.out, "w", encoding="utf-8") as f:
+            json.dump({"generated_at": datetime.now(timezone.utc).isoformat(),
+                       "count": len(all_items), "stats": stats,
+                       "items": all_items}, f, ensure_ascii=False, indent=1)
+        print(f"\n=== 共 {len(all_items)} 条 → {a.out} ===")
+        for it in all_items[:6]:
+            dt = datetime.fromtimestamp(it["ts"], timezone.utc).strftime("%m-%d %H:%M") if it["ts"] else "?"
+            print(f"   [{it['source']:<20}] {dt} {it['title'][:60]}")
+    else:
+        print(f"\n=== 0 条 ===")
     return 0
 
 
