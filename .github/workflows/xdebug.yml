@@ -15,10 +15,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install
-        run: pip install --quiet twscrape
-      - name: Diagnose X cookie
+      - name: Probe X paths (no library)
+        env:
+          X_COOKIES: ${{ secrets.X_COOKIES }}
+        run: python scripts/probe_x_paths.py
+      - name: Diagnose X cookie (twscrape)
         env:
           X_COOKIES: ${{ secrets.X_COOKIES }}
           X_USERNAME: ${{ secrets.X_USERNAME }}
-        run: python scripts/debug_x.py
+        run: |
+          pip install --quiet twscrape
+          python scripts/debug_x.py || true
