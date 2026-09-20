@@ -9,13 +9,13 @@ permissions:
 jobs:
   debug:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Fetch X (self-built client)
+      - name: Verify handles
         env:
           X_COOKIES: ${{ secrets.X_COOKIES }}
-        run: python scripts/x_client.py --out /tmp/x.json --hours 0 --limit 20
+        run: python scripts/verify_handles.py
