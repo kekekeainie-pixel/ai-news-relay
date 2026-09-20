@@ -62,6 +62,7 @@ X_OFFICIAL = [
     "MiniMax_AI",      # ★ 国内
     "Zai_org",         # ★ 国内：智谱（海外品牌 Z.ai 的官方号，16.1万粉 1252帖）
     "Baidu_Inc",       # 国内：百度
+    "TencentHunyuan",  # ★ 国内：腾讯混元（5.2万粉 782帖，真官号）
     "cursor_ai",       # 工具
     "opencode",        # 工具
     "commandcodeai",   # 工具
