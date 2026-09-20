@@ -9,13 +9,13 @@ permissions:
 jobs:
   debug:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Verify Z.ai handle
+      - name: Verify Tencent handles
         env:
           X_COOKIES: ${{ secrets.X_COOKIES }}
-        run: python scripts/verify_zai.py
+        run: python scripts/verify_tencent.py
