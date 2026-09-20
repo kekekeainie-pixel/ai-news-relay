@@ -35,11 +35,46 @@ BEARER = ("AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D"
 DOC_USER_BY_SCREEN_NAME = "32pL5BWe9WKeSK1MoPvFQQ"
 DOC_USER_TWEETS = "V7H0Ap3_Hh2FyS75OCDO3Q"
 
-# 大佬名单（主人 09-20 点名要的 + 常见 AI 圈核心）
-X_KOLS = [
-    "sama", "karpathy", "OpenAI", "AnthropicAI", "GoogleDeepMind", "ylecun",
-    "demishassabis", "AndrewYNg", "DrJimFan", "natolambert",
+# ============================================================
+# 抓取名单（主人 2026-09-20 点名扩展；全部经 verify_handles.py 实测验真）
+# ⚠️ 剔除了同名高仿号（粉丝数暴露）：@xai(0粉) @TheDecoder(13) @TLDRai(59)
+#    @zhipu_ai(97) @MoonshotAI(145) @TencentAI(5) @MetaAI(1万, 真号是@AIatMeta)
+#    @QbitAI/@量子位/@QwenLM/@ByteDance/@AppleML/@Keras_io/@LangChainAI 不存在
+# ============================================================
+
+# ① 官方产品号（一手发布）
+X_OFFICIAL = [
+    "OpenAI", "ChatGPT", "OpenAIDevs", "OpenAINewsroom",
+    "AnthropicAI", "claudeai", "ClaudeDevs",
+    "GoogleDeepMind", "GoogleAI", "GeminiApp",
+    "grok", "AIatMeta", "MistralAI", "huggingface", "ollama",
+    "cursor_ai", "opencode", "commandcodeai",
+    "NVIDIAAI", "nvidia", "StabilityAI", "runwayml", "midjourney",
+    "Perplexity_ai", "Scale_AI", "Replicate", "elevenlabs",
+    "deepseek_ai", "Alibaba_Qwen", "kimi_moonshot", "MiniMax_AI",
+    "ZhipuAI", "Baidu_Inc", "LangChain", "llama_index", "vllm_project",
+    "github", "vercel", "PyTorch", "TensorFlow", "awscloud", "Azure", "googlecloud",
+    "MSFTResearch", "MicrosoftAI", "NousResearch", "Apple",
 ]
+
+# ② 大佬 / 研究者（一手观点）
+X_KOLS = [
+    "elonmusk", "sama", "RayDalio", "karpathy", "gdb", "ID_AA_Carmack",
+    "demishassabis", "ylecun", "AndrewYNg", "DrJimFan", "natolambert",
+    "JeffDean", "sundarpichai", "satyanadella",
+    "hardmaru", "EMostaque", "ClementDelangue", "Thom_Wolf", "julien_c",
+    "TheStalwart", "BlancheMinerva",
+]
+
+# ③ AI 媒体 / 快讯（二手，但快）
+X_MEDIA = [
+    "TechCrunch", "TheInformation", "wired", "arstechnica", "VentureBeat",
+    "marktechpost", "TheRundownAI", "rowancheung", "deeplearningai",
+    "arxiv", "StanfordHAI", "MIT_CSAIL",
+]
+
+# 默认抓取 = 官方 + 大佬（媒体放得少，避免二手刷屏）
+X_DEFAULT = X_OFFICIAL + X_KOLS
 
 USER_FEATURES = {
     "hidden_profile_subscriptions_enabled": True,
@@ -218,6 +253,8 @@ def main():
     ap.add_argument("--hours", type=int, default=0, help="0=不过滤时间")
     ap.add_argument("--limit", type=int, default=20)
     ap.add_argument("--users", default="", help="逗号分隔，覆盖默认名单")
+    ap.add_argument("--group", default="default", choices=["default", "official", "kols", "media", "all"],
+                    help="默认 default=官方+大佬；all=全部含媒体")
     a = ap.parse_args()
 
     cs = os.environ.get("X_COOKIES", "").strip()
@@ -225,9 +262,20 @@ def main():
         print("❌ 无 X_COOKIES")
         return 1
     cli = XClient(cs)
-    users = [u.strip() for u in a.users.split(",") if u.strip()] or X_KOLS
+    if a.users:
+        users = [u.strip() for u in a.users.split(",") if u.strip()]
+    elif a.group == "official":
+        users = X_OFFICIAL
+    elif a.group == "kols":
+        users = X_KOLS
+    elif a.group == "media":
+        users = X_MEDIA
+    elif a.group == "all":
+        users = X_OFFICIAL + X_KOLS + X_MEDIA
+    else:
+        users = X_DEFAULT
     print("=" * 60)
-    print(f"X 抓取：{len(users)} 个账号")
+    print(f"X 抓取：{len(users)} 个账号 (group={a.group})")
     print("=" * 60)
 
     all_items, stats = [], []
