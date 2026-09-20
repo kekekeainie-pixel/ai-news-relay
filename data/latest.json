@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T12:38:52.405627+00:00",
+ "generated_at": "2026-09-20T12:43:34.957024+00:00",
  "count": 195,
  "stats": [
   {
@@ -1238,7 +1238,7 @@
    "title": "AI and the Destruction of the Creative Commons",
    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
    "ts": 1789898871,
-   "desc": "98 points"
+   "desc": "101 points"
   },
   {
    "source": "HN",
@@ -1298,6 +1298,13 @@
   },
   {
    "source": "HN",
+   "title": "If AI coding is lowering your code quality, you're not managing quality right",
+   "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+   "ts": 1789904230,
+   "desc": "38 points"
+  },
+  {
+   "source": "HN",
    "title": "Ask HN: How do you interview devs in a post-AI world?",
    "url": "https://news.ycombinator.com/item?id=49768826",
    "ts": 1789841434,
@@ -1312,17 +1319,10 @@
   },
   {
    "source": "HN",
-   "title": "If AI coding is lowering your code quality, you're not managing quality right",
-   "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-   "ts": 1789904230,
-   "desc": "35 points"
-  },
-  {
-   "source": "HN",
    "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
    "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
    "ts": 1789889917,
-   "desc": "34 points"
+   "desc": "35 points"
   },
   {
    "source": "HN",
