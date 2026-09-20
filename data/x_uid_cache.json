@@ -1,0 +1,218 @@
+{
+ "OpenAI": {
+  "uid": "4398626122",
+  "name": ""
+ },
+ "ChatGPT": {
+  "uid": "1714438092655149056",
+  "name": ""
+ },
+ "OpenAIDevs": {
+  "uid": "1633874951508721686",
+  "name": ""
+ },
+ "OpenAINewsroom": {
+  "uid": "1803847768781524992",
+  "name": ""
+ },
+ "AnthropicAI": {
+  "uid": "1353836358901501952",
+  "name": ""
+ },
+ "claudeai": {
+  "uid": "1943306828697550848",
+  "name": ""
+ },
+ "ClaudeDevs": {
+  "uid": "2024518793679294464",
+  "name": ""
+ },
+ "GoogleDeepMind": {
+  "uid": "4783690002",
+  "name": ""
+ },
+ "GoogleAI": {
+  "uid": "33838201",
+  "name": ""
+ },
+ "GeminiApp": {
+  "uid": "1806359170830172162",
+  "name": ""
+ },
+ "grok": {
+  "uid": "1720665183188922368",
+  "name": ""
+ },
+ "AIatMeta": {
+  "uid": "1034844617261248512",
+  "name": ""
+ },
+ "MistralAI": {
+  "uid": "1667249535519805451",
+  "name": ""
+ },
+ "huggingface": {
+  "uid": "778764142412984320",
+  "name": ""
+ },
+ "ollama": {
+  "uid": "1688410127378829312",
+  "name": ""
+ },
+ "deepseek_ai": {
+  "uid": "1714580962569588736",
+  "name": ""
+ },
+ "Alibaba_Qwen": {
+  "uid": "1753339277386342400",
+  "name": ""
+ },
+ "kimi_moonshot": {
+  "uid": "1863959670169501696",
+  "name": ""
+ },
+ "MiniMax_AI": {
+  "uid": "1875078099538423808",
+  "name": ""
+ },
+ "cursor_ai": {
+  "uid": "1695890961094909952",
+  "name": ""
+ },
+ "opencode": {
+  "uid": "1965545045089792000",
+  "name": ""
+ },
+ "commandcodeai": {
+  "uid": "1729539607174483968",
+  "name": ""
+ },
+ "NousResearch": {
+  "uid": "1318419526132862976",
+  "name": ""
+ },
+ "elonmusk": {
+  "uid": "44196397",
+  "name": ""
+ },
+ "sama": {
+  "uid": "1605",
+  "name": ""
+ },
+ "RayDalio": {
+  "uid": "62603893",
+  "name": ""
+ },
+ "karpathy": {
+  "uid": "33836629",
+  "name": ""
+ },
+ "gdb": {
+  "uid": "10588302",
+  "name": ""
+ },
+ "ID_AA_Carmack": {
+  "uid": "32219091",
+  "name": ""
+ },
+ "demishassabis": {
+  "uid": "1482581556",
+  "name": ""
+ },
+ "ylecun": {
+  "uid": "48008938",
+  "name": ""
+ },
+ "AndrewYNg": {
+  "uid": "216939636",
+  "name": ""
+ },
+ "DrJimFan": {
+  "uid": "1007413134",
+  "name": ""
+ },
+ "natolambert": {
+  "uid": "2939913921",
+  "name": ""
+ },
+ "JeffDean": {
+  "uid": "13368172",
+  "name": ""
+ },
+ "drfeifei": {
+  "uid": "32332256",
+  "name": ""
+ },
+ "geoffreyhinton": {
+  "uid": "1113993853551271936",
+  "name": ""
+ },
+ "ilyasut": {
+  "uid": "1683885368",
+  "name": ""
+ },
+ "simonw": {
+  "uid": "1244301",
+  "name": ""
+ },
+ "bcherny": {
+  "uid": "282671454",
+  "name": ""
+ },
+ "steipete": {
+  "uid": "119029277",
+  "name": ""
+ },
+ "sundarpichai": {
+  "uid": "14130366",
+  "name": ""
+ },
+ "TheRundownAI": {
+  "uid": "1614192369476845569",
+  "name": ""
+ },
+ "rowancheung": {
+  "uid": "1505008661674598403",
+  "name": ""
+ },
+ "_akhaliq": {
+  "uid": "1108330429",
+  "name": ""
+ },
+ "arankomatsuzaki": {
+  "uid": "1041675765291130880",
+  "name": ""
+ },
+ "rohanpaul_ai": {
+  "uid": "1386120575105351682",
+  "name": ""
+ },
+ "dair_ai": {
+  "uid": "1090881631281078272",
+  "name": ""
+ },
+ "TheTuringPost": {
+  "uid": "1504133151110541314",
+  "name": ""
+ },
+ "Yuchenj_UW": {
+  "uid": "1595488114292867072",
+  "name": ""
+ },
+ "alexalbert__": {
+  "uid": "1481463762122698753",
+  "name": ""
+ },
+ "teortaxesTex": {
+  "uid": "1514096147335229440",
+  "name": ""
+ },
+ "karminski3": {
+  "uid": "2235476349",
+  "name": ""
+ },
+ "AInewsletter": {
+  "uid": "1714222803080318976",
+  "name": ""
+ }
+}
