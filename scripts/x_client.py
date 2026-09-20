@@ -36,40 +36,56 @@ DOC_USER_BY_SCREEN_NAME = "32pL5BWe9WKeSK1MoPvFQQ"
 DOC_USER_TWEETS = "V7H0Ap3_Hh2FyS75OCDO3Q"
 
 # ============================================================
-# ★ 50 大名单（主人 2026-09-20 定：官方产品号 + 核心大佬 + AI 快讯猎手）
-#    全部经 verify_handles.py / verify_news_accounts.py 实测验真。
-#    剔除的同名高仿号（粉丝数暴露）：@xai(0) @TheDecoder(13) @TLDRai(59)
-#    @zhipu_ai(97) @MoonshotAI(145) @TencentAI(5) @MetaAI(1万,真号@AIatMeta)
-#    @TheAIObserver(57) @AIExplained(187) @model_behavior(661) @chrisolah(58)
-#    @ImportAI(65) @MehdiHassan(168) @CohereForAI(198) @haiper_ai(0)
+# ★ 抓取名单（主人 2026-09-20 定稿）
+#    原则①：大厂只留「最全的那个官方号」，不堆重叠号
+#    原则②：全部经 verify_handles.py / verify_news_accounts.py 实测验真
+#    剔除的同名高仿号（粉丝数暴露）：@xai(0) @tibo_maker(不是OpenAI那个Tibo!)
+#    @TheDecoder(13) @TLDRai(59) @zhipu_ai(97) @MoonshotAI(145) @TencentAI(5)
+#    @MetaAI(1万,真号@AIatMeta) @TheAIObserver(57) @AIExplained(187)
+#    @model_behavior(661) @chrisolah(58) @ImportAI(65) @MehdiHassan(168)
+#    @CohereForAI(198) @haiper_ai(0) @QbitAI/@量子位/@QwenLM/@ByteDance 不存在
 # ============================================================
 
-# ① 官方产品号（一手发布，18 个）
+# ① 官方号（每个厂商只留最全的一个）
 X_OFFICIAL = [
-    "OpenAI", "ChatGPT", "OpenAIDevs", "OpenAINewsroom",
-    "AnthropicAI", "claudeai", "ClaudeDevs",
-    "GoogleDeepMind", "GoogleAI", "GeminiApp",
-    "grok", "AIatMeta", "MistralAI", "huggingface", "ollama",
-    "deepseek_ai", "Alibaba_Qwen", "kimi_moonshot", "MiniMax_AI",
-    "cursor_ai", "opencode", "commandcodeai", "NousResearch",
+    "OpenAI",          # ★ 御三家：产品+研究+政策全在这发
+    "AnthropicAI",     # ★
+    "GoogleDeepMind",  # ★
+    "grok",            # xAI（@xai 是 0 粉假号）
+    "AIatMeta",        # Meta
+    "MistralAI",       # 欧洲开源
+    "huggingface",     # 开源社区中枢
+    "NousResearch",    # 开源模型
+    "deepseek_ai",     # ★ 国内
+    "Alibaba_Qwen",    # ★ 国内
+    "kimi_moonshot",   # ★ 国内
+    "MiniMax_AI",      # ★ 国内
+    "Zai_org",         # ★ 国内：智谱（海外品牌 Z.ai 的官方号，16.1万粉 1252帖）
+    "Baidu_Inc",       # 国内：百度
+    "cursor_ai",       # 工具
+    "opencode",        # 工具
+    "commandcodeai",   # 工具
 ]
 
-# ② 核心大佬 / 研究者（一手观点，17 个）
+# ② 核心大佬 / 研究者
 X_KOLS = [
-    "elonmusk", "sama", "RayDalio", "karpathy", "gdb", "ID_AA_Carmack",
-    "demishassabis", "ylecun", "AndrewYNg", "DrJimFan", "natolambert",
-    "JeffDean", "drfeifei", "geoffreyhinton", "ilyasut", "simonw",
-    "bcherny", "steipete", "sundarpichai",
+    "elonmusk", "sama", "RayDalio",
+    "karpathy", "gdb", "ID_AA_Carmack",
+    "demishassabis", "sundarpichai", "JeffDean",
+    "ylecun", "AndrewYNg", "drfeifei", "geoffreyhinton", "ilyasut", "simonw",
+    "DrJimFan", "natolambert",
 ]
 
-# ③ AI 快讯猎手（第一时间转 AI 消息的个人/组织，12 个）
+# ③ 快讯 / 额度重置 / 员工线人（第一时间发 AI 消息）
 X_MEDIA = [
+    "thsottiaux",      # ★★ OpenAI 的 Tibo —— 天天宣布 Codex 额度重置
+    "lydiahallie",     # ★ Claude 侧「赛博义母」，也发重置
     "TheRundownAI", "rowancheung", "_akhaliq", "arankomatsuzaki",
     "rohanpaul_ai", "dair_ai", "TheTuringPost", "Yuchenj_UW",
-    "alexalbert__", "teortaxesTex", "karminski3", "AInewsletter",
+    "teortaxesTex", "karminski3", "bcherny", "steipete",
 ]
 
-# ★ 默认抓取 = 50 大名单（官方 23 + 大佬 19 + 快讯 12 = 54，去重后 53）
+# ★ 默认抓取名单
 X_DEFAULT = X_OFFICIAL + X_KOLS + X_MEDIA
 
 USER_FEATURES = {
