@@ -206,74 +206,51 @@ def fetch_reddit():
 # ------------------------------------------------------------------
 # 5) X/Twitter via twscrape（需 X_COOKIES secret，可选）
 # ------------------------------------------------------------------
-def fetch_twitter_twscrape():
+def fetch_twitter():
+    """X/Twitter via 自建客户端（x_client.py）—— 不依赖 twscrape。
+    ★ 命门：cookie 的 ct0 必须同时作为 x-csrf-token 头发送。"""
     cookies = os.environ.get("X_COOKIES", "").strip()
-    xuser = os.environ.get("X_USERNAME", "").strip() or "relay"
     if not cookies:
-        STATS.append(("X twscrape", 0, "未配置 X_COOKIES"))
-        log("  X twscrape: 跳过（未配置 X_COOKIES）")
+        STATS.append(("X", 0, "未配置 X_COOKIES"))
+        log("  X: 跳过（未配置 X_COOKIES）")
         return
     try:
-        import twscrape  # noqa
-    except ImportError:
-        os.system(f"{sys.executable} -m pip install -q twscrape")
-    try:
-        from twscrape import API
-        import asyncio
-        api = API()
-
-        async def run():
-            # add_account_cookies 只需 username + cookies（不用密码）
-            try:
-                await api.pool.add_account_cookies(xuser, cookies)
-            except Exception as e:
-                log(f"  [x:cookies] {type(e).__name__}: {str(e)[:80]}")
-                # 已存在就更新
-                try:
-                    await api.pool.accounts_info()
-                except Exception:
-                    pass
-            n = 0
-            import asyncio as _a
-            for user in X_KOLS:
-                try:
-                    u = await api.user_by_login(user)
-                    if not u:
-                        log(f"  [x:{user}] 用户不存在")
-                        continue
-                    async for tw in api.user_tweets(u.id, limit=10):
-                        add(f"X @{user}", (tw.rawContent or "")[:200],
-                            f"https://x.com/{user}/status/{tw.id}",
-                            tw.date.timestamp() if tw.date else 0, tw.rawContent or "")
-                        n += 1
-                except Exception as e:
-                    log(f"  [x:{user}] {type(e).__name__}: {str(e)[:70]}")
-            # 关键词搜索
-            for term in X_SEARCH_TERMS:
-                try:
-                    async for tw in api.search(f"{term} lang:en", limit=15):
-                        add(f"X 搜索:{term}", (tw.rawContent or "")[:200],
-                            f"https://x.com/{tw.user.username}/status/{tw.id}",
-                            tw.date.timestamp() if tw.date else 0, tw.rawContent or "")
-                        n += 1
-                except Exception as e:
-                    log(f"  [x:search:{term}] {type(e).__name__}: {str(e)[:70]}")
-            return n
-        try:
-            n = asyncio.run(asyncio.wait_for(run(), timeout=300))
-        except asyncio.TimeoutError:
-            n = 0
-            log("  X twscrape 总超时(300s)，跳过")
-        STATS.append(("X twscrape", n, ""))
-        log(f"  X twscrape: {n}")
+        sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
+        from x_client import XClient, X_KOLS
     except Exception as e:
-        STATS.append(("X twscrape", 0, f"{type(e).__name__}"))
-        log(f"  X twscrape 失败: {type(e).__name__}: {str(e)[:120]}")
+        STATS.append(("X", 0, f"导入失败 {type(e).__name__}"))
+        log(f"  X: 导入 x_client 失败 {e}")
+        return
+    try:
+        cli = XClient(cookies)
+        n = 0
+        for u in X_KOLS:
+            uid, note = cli.user_id(u)
+            if not uid:
+                log(f"  [x:{u}] ✗ {note}")
+                continue
+            tws, err = cli.user_tweets(uid, 20)
+            if err:
+                log(f"  [x:{u}] ✗ {err}")
+                continue
+            got = 0
+            for t in tws:
+                add(f"X @{u}", t["text"].replace("\n", " ")[:250], t["url"],
+                    int(t["ts"]), t["text"][:400])
+                got += 1
+                n += 1
+            log(f"  [x:{u}] {got} 条")
+            time.sleep(1.0)
+        STATS.append(("X (自建客户端)", n, f"{len(X_KOLS)} 账号"))
+        log(f"  X: {n}")
+    except Exception as e:
+        STATS.append(("X", 0, f"{type(e).__name__}"))
+        log(f"  X 失败: {type(e).__name__}: {str(e)[:120]}")
 
 
 def main():
     log(f"=== AI News Relay 启动 {datetime.now(timezone.utc).isoformat()} ===")
-    for fn in (fetch_bluesky, fetch_rsshub, fetch_hn, fetch_reddit, fetch_twitter_twscrape):
+    for fn in (fetch_twitter, fetch_bluesky, fetch_rsshub, fetch_hn, fetch_reddit):
         try:
             fn()
         except Exception as e:
