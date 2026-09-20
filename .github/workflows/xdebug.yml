@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Fetch X (full list)
+      - name: Verify news accounts
         env:
           X_COOKIES: ${{ secrets.X_COOKIES }}
-        run: python scripts/x_client.py --out /tmp/x.json --hours 0 --limit 15 --group all
+        run: python scripts/verify_news_accounts.py
