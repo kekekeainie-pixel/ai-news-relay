@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-20T13:34:06.853690+00:00",
- "count": 537,
+ "generated_at": "2026-09-20T18:42:03.464612+00:00",
+ "count": 536,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 468,
+   "count": 467,
    "note": "49 账号"
   },
   {
@@ -717,6 +717,20 @@
   },
   {
    "source": "X @Alibaba_Qwen",
+   "title": "Qwen-Image-2.1 is now supported in ComfyUI! Try it now and share your creations! 🖼️",
+   "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+   "ts": 1789912344,
+   "desc": "Qwen-Image-2.1 is now supported in ComfyUI! Try it now and share your creations! 🖼️"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
+   "title": "Thanks @vllm_project for the day-0 support! 🙌 Generate, edit, transparent output — one model, ready to serve. Details 👇",
+   "url": "https://x.com/Alibaba_Qwen/status/2101670804794884242",
+   "ts": 1789912341,
+   "desc": "Thanks @vllm_project for the day-0 support! 🙌 Generate, edit, transparent output — one model, ready to serve. Details 👇"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
    "title": "A great example of practical AI solving real-world problems! Faster than ever. Thanks for building with Qwen. @cerebras Try it out for yourself! 🏠",
    "url": "https://x.com/Alibaba_Qwen/status/2101233765179904007",
    "ts": 1789808143,
@@ -749,20 +763,6 @@
    "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
    "ts": 1788317827,
    "desc": "🏆 #1 overall on Code Arena, and top of the Pareto frontier at $5/MToken. Thanks! @arena \nGive Qwen3.8-Max-0902 a spin on QwenCloud.🥳"
-  },
-  {
-   "source": "X @Alibaba_Qwen",
-   "title": "🏆 #1 on CodeArena: WebDev leaderboard.  Qwen3.8-Max-0902 jumps from 1669 to 1691, setting a new record for agentic coding (WebDev) workflows, with standout strength in multistep reasoning, tool use, and full app generation.  Thanks for the recognitio",
-   "url": "https://x.com/Alibaba_Qwen/status/2094976556494209206",
-   "ts": 1788316308,
-   "desc": "🏆 #1 on CodeArena: WebDev leaderboard.\n\nQwen3.8-Max-0902 jumps from 1669 to 1691, setting a new record for agentic coding (WebDev) workflows, with standout strength in multistep reasoning, tool use, and full app generation.\n\nThanks for the recognition! @arena"
-  },
-  {
-   "source": "X @Alibaba_Qwen",
-   "title": "🚀Qwen3.8-Max just got upgraded. Meet Qwen3.8-Max-0902!  2.4T parameters. 1M context tokens. Built for real world complexity.  Further post trained on Coding & Cowork, Qwen3.8-Max-0902 now delivers stronger performance across complex enterprise tasks,",
-   "url": "https://x.com/Alibaba_Qwen/status/2094968708288680276",
-   "ts": 1788314437,
-   "desc": "🚀Qwen3.8-Max just got upgraded. Meet Qwen3.8-Max-0902!\n\n2.4T parameters. 1M context tokens. Built for real world complexity.\n\nFurther post trained on Coding & Cowork, Qwen3.8-Max-0902 now delivers stronger performance across complex enterprise tasks, scientific research, and long horizon workflows.\n\n💰Pricing per 1M tokens:\n$2 input, $6 output.\n$0.17 explicit cache hit, $0.25 implicit cache hit.\n\nN"
   },
   {
    "source": "X @kimi_moonshot",
@@ -1564,13 +1564,6 @@
   },
   {
    "source": "X @commandcodeai",
-   "title": "RT @CommandCodeAI: Ran FlappyBench on Qwen3.8-Omni-Flash, DeepSeek-V4.1-Flash, and Gemini 3.8 Flash with the same design prompt.  🔹 Qwen 3.…",
-   "url": "https://x.com/CommandCodeAI/status/2101546927884263705",
-   "ts": 1789882807,
-   "desc": "RT @CommandCodeAI: Ran FlappyBench on Qwen3.8-Omni-Flash, DeepSeek-V4.1-Flash, and Gemini 3.8 Flash with the same design prompt.\n\n🔹 Qwen 3.…"
-  },
-  {
-   "source": "X @commandcodeai",
    "title": "RT @btsouth: I owe @CommandCodeAI a shoutout.  I’ve been posting a lot about how good DeepSeek V4.1 Flash is, but I’d mostly been using it…",
    "url": "https://x.com/CommandCodeAI/status/2101432212965216557",
    "ts": 1789855456,
@@ -1659,6 +1652,13 @@
    "url": "https://x.com/CommandCodeAI/status/2099689983028425203",
    "ts": 1789440076,
    "desc": "Last week these models went live in Command Code.\n\nDeepSeek V4.1 Flash\nMuse Spark 1.3 (with max reasoning)\nLing 3.0 Flash Sante (free model)\n\n🐐"
+  },
+  {
+   "source": "X @commandcodeai",
+   "title": "DeepSeek is back, folks.",
+   "url": "https://x.com/CommandCodeAI/status/2099652347974881447",
+   "ts": 1789431104,
+   "desc": "DeepSeek is back, folks."
   },
   {
    "source": "X @elonmusk",
@@ -1785,13 +1785,6 @@
    "url": "https://x.com/elonmusk/status/2101470604159299612",
    "ts": 1789864610,
    "desc": "RT @beffjezos: No Dooming in the Kardashev casino"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Uranium in Uranus will be our best merch ever.   Put it on your mantelpiece and show your guests Uranus!",
-   "url": "https://x.com/elonmusk/status/2101467808664084903",
-   "ts": 1789863943,
-   "desc": "Uranium in Uranus will be our best merch ever. \n\nPut it on your mantelpiece and show your guests Uranus!"
   },
   {
    "source": "X @sama",
@@ -1921,6 +1914,13 @@
   },
   {
    "source": "X @RayDalio",
+   "title": "You have your goals.   I call the way you will operate to achieve your goals your machine. It consists of a design (the things that have to get done) and the people (who will do the things that need getting done). Those people include you and those w",
+   "url": "https://x.com/RayDalio/status/2101702936694833256",
+   "ts": 1789920002,
+   "desc": "You have your goals. \n\nI call the way you will operate to achieve your goals your machine. It consists of a design (the things that have to get done) and the people (who will do the things that need getting done). Those people include you and those who help you. #principleoftheday"
+  },
+  {
+   "source": "X @RayDalio",
    "title": "Everyone makes mistakes. The main difference is that successful people learn from them and unsuccessful people don’t.   By creating an environment in which it is okay to safely make mistakes so that people can learn from them, you’ll see rapid progre",
    "url": "https://x.com/RayDalio/status/2101340543435374997",
    "ts": 1789833601,
@@ -2044,13 +2044,6 @@
    "url": "https://x.com/RayDalio/status/2097351372265938963",
    "ts": 1788882508,
    "desc": "You work your ass off to get a lot of money. But what is that money actually for?\n\nMoney has no intrinsic value—it only matters if you have a clear purpose behind it. Will it get you better friends, a better marriage, or a better relationship with your kids? You better answer that question first.\n\nTo me, real success isn’t about the money. Success is knowing your nature, finding the best path thro"
-  },
-  {
-   "source": "X @RayDalio",
-   "title": "Loyalty to specific people who are not in tight sync with the mission and how to achieve it will create factionalism and undermine the well-being of the community. It is often the case, and quite beautiful, that personal loyalties exist. However, it",
-   "url": "https://x.com/RayDalio/status/2097313839066886278",
-   "ts": 1788873560,
-   "desc": "Loyalty to specific people who are not in tight sync with the mission and how to achieve it will create factionalism and undermine the well-being of the community. It is often the case, and quite beautiful, that personal loyalties exist. However, it is also often the case, and quite ugly, when personal loyalties come into conflict with the organization's interests. #principleoftheday"
   },
   {
    "source": "X @karpathy",
@@ -2558,6 +2551,13 @@
   },
   {
    "source": "X @ylecun",
+   "title": "RT @ylecun: @musedivision @geoffreyhinton I said \"auto-regressive LLMs, in and of themselves, will not lead human-level AI\"  That statement…",
+   "url": "https://x.com/ylecun/status/2101674638363209873",
+   "ts": 1789913255,
+   "desc": "RT @ylecun: @musedivision @geoffreyhinton I said \"auto-regressive LLMs, in and of themselves, will not lead human-level AI\" \nThat statement…"
+  },
+  {
+   "source": "X @ylecun",
    "title": "RT @KempeLab: Interested in World Modeling with a lens on Physics? We are organizing the World Modeling for Physics workshop at the wonderf…",
    "url": "https://x.com/ylecun/status/2101498713185108092",
    "ts": 1789871311,
@@ -2688,13 +2688,6 @@
    "url": "https://x.com/ylecun/status/2101049897948414252",
    "ts": 1789764305,
    "desc": "RT @FuturLucide: Je viens de regarder l’intervention de @ylecun à Sciences Po et franchement, je vous conseille de prendre le temps de l’éc…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @WSJ: From @WSJopinion: The Hugging Face hack wasn’t what it was cracked up to be. Forget the “hive mind” of AI agents “going rogue.” Th…",
-   "url": "https://x.com/ylecun/status/2101047343365718439",
-   "ts": 1789763696,
-   "desc": "RT @WSJ: From @WSJopinion: The Hugging Face hack wasn’t what it was cracked up to be. Forget the “hive mind” of AI agents “going rogue.” Th…"
   },
   {
    "source": "X @AndrewYNg",
@@ -3510,6 +3503,20 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "Yes, I have voice. md files. Yes, I have agents doing final passes as a reader. Yes, I have other agents specifically looking for LLM language. Yes, I have different models from the model family with",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvxrwlbxv222",
+   "ts": 1789927504,
+   "desc": "Yes, I have voice. md files. Yes, I have agents doing final passes as a reader. Yes, I have other agents specifically looking for LLM language. Yes, I have different models from the model family with different approaches going over user facing text. It still isn't enough."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "It is ironic that the thing that is now most annoying about long-running agentic tasks with Large Language Models isn't coding or errors or hallucinations, but the fact that their language gets worse",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvxrv6krzs22",
+   "ts": 1789927457,
+   "desc": "It is ironic that the thing that is now most annoying about long-running agentic tasks with Large Language Models isn't coding or errors or hallucinations, but the fact that their language gets worse due to drift & cross-agent talk as a task goes on\n\nIts in your the name! Just write better already!"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "Worth trying without spoilers. I asked Fable: \"I want you to create a graphically beautiful game that is about zooming out... make surprising reveals the game zooms out\"  I gave no other directions an",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvvnm3bevs2u",
    "ts": 1789854137,
@@ -3565,53 +3572,32 @@
    "desc": "Even if AI development stopped today, we'd have years of catching up to do. The gap between what current models can do and what almost anyone is using them for is vast.\n\nHere’s my post on The Overhang, and the four advantages that let people close it. open.substack.com/pub/oneusefu..."
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "NB: Yes, I am joking. I do not think the bots are coordinating using LinkedIn or the comments would be more interesting.",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvskiqnjrs2f",
-   "ts": 1789747725,
-   "desc": "NB: Yes, I am joking. I do not think the bots are coordinating using LinkedIn or the comments would be more interesting."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "The bots are now talking to each other in my LinkedIn comments.  Its like what happened with the German wiki, except instead of planning to hack HuggingFace, all of the conversation is babble about \"t",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvsk6h4t4k2f",
-   "ts": 1789747379,
-   "desc": "The bots are now talking to each other in my LinkedIn comments.\n\nIts like what happened with the German wiki, except instead of planning to hack HuggingFace, all of the conversation is babble about \"the thing no one is talking about\" in reference to things I am talking about"
-  },
-  {
    "source": "HN",
    "title": "AI-generated posters don’t have to be horrible",
    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
    "ts": 1789809658,
-   "desc": "1660 points"
-  },
-  {
-   "source": "HN",
-   "title": "US Military had close call after using AI for hallucinated intelligence report",
-   "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-   "ts": 1789752481,
-   "desc": "507 points"
+   "desc": "1743 points"
   },
   {
    "source": "HN",
    "title": "I think you should almost never use AI to write",
    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
    "ts": 1789835724,
-   "desc": "310 points"
-  },
-  {
-   "source": "HN",
-   "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-   "ts": 1789842090,
-   "desc": "172 points"
+   "desc": "328 points"
   },
   {
    "source": "HN",
    "title": "AI and the Destruction of the Creative Commons",
    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
    "ts": 1789898871,
-   "desc": "154 points"
+   "desc": "213 points"
+  },
+  {
+   "source": "HN",
+   "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+   "ts": 1789842090,
+   "desc": "179 points"
   },
   {
    "source": "HN",
@@ -3622,24 +3608,10 @@
   },
   {
    "source": "HN",
-   "title": "AI chatbots are becoming experts at changing people's minds",
-   "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-   "ts": 1789738767,
-   "desc": "127 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI is an elite crime spree",
-   "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-   "ts": 1789744533,
-   "desc": "123 points"
-  },
-  {
-   "source": "HN",
    "title": "Can you tell which images are AI-generated?",
    "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
    "ts": 1789858954,
-   "desc": "94 points"
+   "desc": "103 points"
   },
   {
    "source": "HN",
@@ -3653,13 +3625,27 @@
    "title": "AI Safety Is Mostly a Sex Cult",
    "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
    "ts": 1789828588,
-   "desc": "71 points"
+   "desc": "72 points"
   },
   {
    "source": "HN",
-   "title": "AI Protest in Montreal",
-   "url": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
-   "ts": 1789742741,
+   "title": "If AI coding is lowering your code quality, you're not managing quality right",
+   "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+   "ts": 1789904230,
+   "desc": "64 points"
+  },
+  {
+   "source": "HN",
+   "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
+   "url": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
+   "ts": 1789879152,
+   "desc": "55 points"
+  },
+  {
+   "source": "HN",
+   "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+   "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+   "ts": 1789843004,
    "desc": "53 points"
   },
   {
@@ -3671,24 +3657,10 @@
   },
   {
    "source": "HN",
-   "title": "If AI coding is lowering your code quality, you're not managing quality right",
-   "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-   "ts": 1789904230,
-   "desc": "51 points"
-  },
-  {
-   "source": "HN",
-   "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-   "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
-   "ts": 1789843004,
-   "desc": "51 points"
-  },
-  {
-   "source": "HN",
-   "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
-   "url": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
-   "ts": 1789879152,
-   "desc": "49 points"
+   "title": "I'm Tired of the AI Tone",
+   "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
+   "ts": 1789903106,
+   "desc": "43 points"
   },
   {
    "source": "HN",
@@ -3699,38 +3671,31 @@
   },
   {
    "source": "HN",
-   "title": "I'm Tired of the AI Tone",
-   "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
-   "ts": 1789903106,
-   "desc": "39 points"
-  },
-  {
-   "source": "HN",
    "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
    "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
    "ts": 1789889917,
-   "desc": "38 points"
+   "desc": "39 points"
   },
   {
    "source": "HN",
    "title": "Ask HN: How do you interview devs in a post-AI world?",
    "url": "https://news.ycombinator.com/item?id=49768826",
    "ts": 1789841434,
-   "desc": "38 points"
+   "desc": "39 points"
   },
   {
    "source": "HN",
    "title": "OpenAI and Anthropic oversold AI security breaches",
    "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
    "ts": 1789847968,
-   "desc": "36 points"
+   "desc": "37 points"
   },
   {
    "source": "HN",
-   "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-   "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-   "ts": 1789743894,
-   "desc": "32 points"
+   "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+   "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+   "ts": 1789906030,
+   "desc": "31 points"
   },
   {
    "source": "HN",
@@ -3752,6 +3717,13 @@
    "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
    "ts": 1789798163,
    "desc": "27 points"
+  },
+  {
+   "source": "HN",
+   "title": "Google AI Studio 'Delete' is a scam: Your prompts are not deleted, just hidden",
+   "url": "https://medium.com/@istokovicsgyorgy79/your-prompts-are-not-deleted-they-are-just-hidden-e0016bd43eaf",
+   "ts": 1789791118,
+   "desc": "24 points"
   },
   {
    "source": "HN",
@@ -3787,6 +3759,27 @@
    "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
    "ts": 1789856548,
    "desc": "16 points"
+  },
+  {
+   "source": "HN",
+   "title": "Inside the AI \"Kill Chain\" That Destroyed an Iranian School",
+   "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+   "ts": 1789797326,
+   "desc": "16 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
+   "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+   "ts": 1789799955,
+   "desc": "14 points"
+  },
+  {
+   "source": "HN",
+   "title": "EFF Statement on California Governor's Executive Order on AI",
+   "url": "https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai",
+   "ts": 1789802145,
+   "desc": "13 points"
   }
  ]
 }
