@@ -36,45 +36,41 @@ DOC_USER_BY_SCREEN_NAME = "32pL5BWe9WKeSK1MoPvFQQ"
 DOC_USER_TWEETS = "V7H0Ap3_Hh2FyS75OCDO3Q"
 
 # ============================================================
-# 抓取名单（主人 2026-09-20 点名扩展；全部经 verify_handles.py 实测验真）
-# ⚠️ 剔除了同名高仿号（粉丝数暴露）：@xai(0粉) @TheDecoder(13) @TLDRai(59)
-#    @zhipu_ai(97) @MoonshotAI(145) @TencentAI(5) @MetaAI(1万, 真号是@AIatMeta)
-#    @QbitAI/@量子位/@QwenLM/@ByteDance/@AppleML/@Keras_io/@LangChainAI 不存在
+# ★ 50 大名单（主人 2026-09-20 定：官方产品号 + 核心大佬 + AI 快讯猎手）
+#    全部经 verify_handles.py / verify_news_accounts.py 实测验真。
+#    剔除的同名高仿号（粉丝数暴露）：@xai(0) @TheDecoder(13) @TLDRai(59)
+#    @zhipu_ai(97) @MoonshotAI(145) @TencentAI(5) @MetaAI(1万,真号@AIatMeta)
+#    @TheAIObserver(57) @AIExplained(187) @model_behavior(661) @chrisolah(58)
+#    @ImportAI(65) @MehdiHassan(168) @CohereForAI(198) @haiper_ai(0)
 # ============================================================
 
-# ① 官方产品号（一手发布）
+# ① 官方产品号（一手发布，18 个）
 X_OFFICIAL = [
     "OpenAI", "ChatGPT", "OpenAIDevs", "OpenAINewsroom",
     "AnthropicAI", "claudeai", "ClaudeDevs",
     "GoogleDeepMind", "GoogleAI", "GeminiApp",
     "grok", "AIatMeta", "MistralAI", "huggingface", "ollama",
-    "cursor_ai", "opencode", "commandcodeai",
-    "NVIDIAAI", "nvidia", "StabilityAI", "runwayml", "midjourney",
-    "Perplexity_ai", "Scale_AI", "Replicate", "elevenlabs",
     "deepseek_ai", "Alibaba_Qwen", "kimi_moonshot", "MiniMax_AI",
-    "ZhipuAI", "Baidu_Inc", "LangChain", "llama_index", "vllm_project",
-    "github", "vercel", "PyTorch", "TensorFlow", "awscloud", "Azure", "googlecloud",
-    "MSFTResearch", "MicrosoftAI", "NousResearch", "Apple",
+    "cursor_ai", "opencode", "commandcodeai", "NousResearch",
 ]
 
-# ② 大佬 / 研究者（一手观点）
+# ② 核心大佬 / 研究者（一手观点，17 个）
 X_KOLS = [
     "elonmusk", "sama", "RayDalio", "karpathy", "gdb", "ID_AA_Carmack",
     "demishassabis", "ylecun", "AndrewYNg", "DrJimFan", "natolambert",
-    "JeffDean", "sundarpichai", "satyanadella",
-    "hardmaru", "EMostaque", "ClementDelangue", "Thom_Wolf", "julien_c",
-    "TheStalwart", "BlancheMinerva",
+    "JeffDean", "drfeifei", "geoffreyhinton", "ilyasut", "simonw",
+    "bcherny", "steipete", "sundarpichai",
 ]
 
-# ③ AI 媒体 / 快讯（二手，但快）
+# ③ AI 快讯猎手（第一时间转 AI 消息的个人/组织，12 个）
 X_MEDIA = [
-    "TechCrunch", "TheInformation", "wired", "arstechnica", "VentureBeat",
-    "marktechpost", "TheRundownAI", "rowancheung", "deeplearningai",
-    "arxiv", "StanfordHAI", "MIT_CSAIL",
+    "TheRundownAI", "rowancheung", "_akhaliq", "arankomatsuzaki",
+    "rohanpaul_ai", "dair_ai", "TheTuringPost", "Yuchenj_UW",
+    "alexalbert__", "teortaxesTex", "karminski3", "AInewsletter",
 ]
 
-# 默认抓取 = 官方 + 大佬（媒体放得少，避免二手刷屏）
-X_DEFAULT = X_OFFICIAL + X_KOLS
+# ★ 默认抓取 = 50 大名单（官方 23 + 大佬 19 + 快讯 12 = 54，去重后 53）
+X_DEFAULT = X_OFFICIAL + X_KOLS + X_MEDIA
 
 USER_FEATURES = {
     "hidden_profile_subscriptions_enabled": True,
@@ -132,6 +128,24 @@ class XClient:
         self.timeout = timeout
         if not (self.ct0 and self.auth):
             raise ValueError("cookie 必须含 auth_token 和 ct0")
+        # ★ uid 缓存：UserByScreenName 每个账号要花 1 次请求额度，
+        #   缓存后可省一半请求（限流约 50/窗口 → 从 25 个账号变 50 个）
+        self._uid_cache = {}
+        self._cache_path = os.environ.get("X_UID_CACHE", "data/x_uid_cache.json")
+        try:
+            if os.path.exists(self._cache_path):
+                with open(self._cache_path, encoding="utf-8") as f:
+                    self._uid_cache = json.load(f)
+        except Exception:
+            self._uid_cache = {}
+
+    def save_uid_cache(self):
+        try:
+            os.makedirs(os.path.dirname(self._cache_path) or ".", exist_ok=True)
+            with open(self._cache_path, "w", encoding="utf-8") as f:
+                json.dump(self._uid_cache, f, ensure_ascii=False, indent=1)
+        except Exception:
+            pass
 
     def headers(self):
         return {
@@ -165,6 +179,10 @@ class XClient:
             return 0, {"_err": f"{type(e).__name__}: {str(e)[:110]}"}
 
     def user_id(self, screen_name):
+        # ★ 命中缓存就不花请求额度
+        ck = self._uid_cache.get(screen_name)
+        if ck and ck.get("uid"):
+            return ck["uid"], ck.get("name", "")
         st, j = self.graphql(DOC_USER_BY_SCREEN_NAME, "UserByScreenName",
                              {"screen_name": screen_name,
                               "withSafetyModeUserFields": True}, USER_FEATURES)
@@ -172,7 +190,10 @@ class XClient:
             return None, f"HTTP{st} {j.get('_raw','')[:80]}"
         try:
             res = j["data"]["user"]["result"]
-            return res["rest_id"], res.get("legacy", {}).get("name", "")
+            uid = res["rest_id"]
+            nm = res.get("legacy", {}).get("name", "")
+            self._uid_cache[screen_name] = {"uid": uid, "name": nm}
+            return uid, nm
         except Exception:
             return None, f"结构异常 {json.dumps(j)[:100]}"
 
@@ -278,16 +299,38 @@ def main():
     print(f"X 抓取：{len(users)} 个账号 (group={a.group})")
     print("=" * 60)
 
+    # ★ 限流处理：X 对 cookie 账号约有「50 次/窗口」上限。
+    #   策略：连续 3 次 429 就停止本轮（保留已抓到的），下次 cron 从断点继续。
+    rate_limited_at = None
+    consec_429 = 0
     all_items, stats = [], []
-    for u in users:
+    for idx, u in enumerate(users):
+        if rate_limited_at is None and consec_429 >= 3:
+            rate_limited_at = idx
+            print(f"  ⚠️ 连续 3 次 429，本轮在 [{u}] 处停止（已抓 {len(all_items)} 条）")
+            break
         t0 = time.time()
         uid, note = cli.user_id(u)
         if not uid:
-            print(f"  [{u}] ✗ {note}")
-            stats.append({"user": u, "count": 0, "err": note})
+            if "429" in str(note):
+                consec_429 += 1
+                print(f"  [{u}] 429 限流 (第{consec_429}次连续)")
+                stats.append({"user": u, "count": 0, "err": "429"})
+                time.sleep(3.0)
+            else:
+                consec_429 = 0
+                print(f"  [{u}] ✗ {note}")
+                stats.append({"user": u, "count": 0, "err": note})
             continue
+        consec_429 = 0
         tws, err = cli.user_tweets(uid, a.limit)
         if err:
+            if "429" in str(err):
+                consec_429 += 1
+                print(f"  [{u}] 429 限流 (第{consec_429}次连续)")
+                stats.append({"user": u, "count": 0, "err": "429"})
+                time.sleep(3.0)
+                continue
             print(f"  [{u}] ✗ {err}")
             stats.append({"user": u, "count": 0, "err": err})
             continue
@@ -301,8 +344,9 @@ def main():
             n += 1
         print(f"  [{u}] ✅ {n} 条 ({time.time()-t0:.1f}s) uid={uid}")
         stats.append({"user": u, "count": n, "err": ""})
-        time.sleep(1.2)   # 温和点，别触发限流
+        time.sleep(1.5)   # 温和点，别触发限流
 
+    cli.save_uid_cache()   # ★ 保存 uid 缓存，下轮省掉 UserByScreenName 请求
     if all_items and a.out:
         os.makedirs(os.path.dirname(a.out) or ".", exist_ok=True)
         with open(a.out, "w", encoding="utf-8") as f:
