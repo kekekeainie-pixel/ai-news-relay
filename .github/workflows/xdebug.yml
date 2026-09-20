@@ -9,25 +9,13 @@ permissions:
 jobs:
   debug:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Fetch X (self-built client)
+      - name: Self-built X client probe
         env:
           X_COOKIES: ${{ secrets.X_COOKIES }}
-        run: python scripts/x_client.py --out /tmp/x.json --hours 72 --limit 15
-      - name: Show result
-        run: |
-          python -c "
-          import json
-          d=json.load(open('/tmp/x.json'))
-          print('总数:', d['count'])
-          for s in d['stats']: print(' ', s)
-          "
-      - uses: actions/upload-artifact@v4
-        with:
-          name: x-data
-          path: /tmp/x.json
+        run: python scripts/x_client.py
