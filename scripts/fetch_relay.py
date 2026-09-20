@@ -234,6 +234,7 @@ def fetch_twitter_twscrape():
                 except Exception:
                     pass
             n = 0
+            import asyncio as _a
             for user in X_KOLS:
                 try:
                     u = await api.user_by_login(user)
@@ -258,7 +259,11 @@ def fetch_twitter_twscrape():
                 except Exception as e:
                     log(f"  [x:search:{term}] {type(e).__name__}: {str(e)[:70]}")
             return n
-        n = asyncio.run(run())
+        try:
+            n = asyncio.run(asyncio.wait_for(run(), timeout=300))
+        except asyncio.TimeoutError:
+            n = 0
+            log("  X twscrape 总超时(300s)，跳过")
         STATS.append(("X twscrape", n, ""))
         log(f"  X twscrape: {n}")
     except Exception as e:
