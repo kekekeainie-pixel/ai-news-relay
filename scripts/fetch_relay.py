@@ -216,7 +216,7 @@ def fetch_twitter():
         return
     try:
         sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
-        from x_client import XClient, X_KOLS
+        from x_client import XClient, X_DEFAULT, XClient
     except Exception as e:
         STATS.append(("X", 0, f"导入失败 {type(e).__name__}"))
         log(f"  X: 导入 x_client 失败 {e}")
@@ -224,7 +224,7 @@ def fetch_twitter():
     try:
         cli = XClient(cookies)
         n = 0
-        for u in X_KOLS:
+        for u in X_DEFAULT:
             uid, note = cli.user_id(u)
             if not uid:
                 log(f"  [x:{u}] ✗ {note}")
@@ -241,7 +241,8 @@ def fetch_twitter():
                 n += 1
             log(f"  [x:{u}] {got} 条")
             time.sleep(1.0)
-        STATS.append(("X (自建客户端)", n, f"{len(X_KOLS)} 账号"))
+        cli.save_uid_cache()
+        STATS.append(("X (自建客户端)", n, f"{len(X_DEFAULT)} 账号"))
         log(f"  X: {n}")
     except Exception as e:
         STATS.append(("X", 0, f"{type(e).__name__}"))
