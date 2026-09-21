@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-21T06:48:33.511011+00:00",
- "count": 538,
+ "generated_at": "2026-09-21T12:44:08.772280+00:00",
+ "count": 534,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 469,
+   "count": 465,
    "note": "49 账号"
   },
   {
@@ -423,6 +423,13 @@
   },
   {
    "source": "X @huggingface",
+   "title": "RT @vanstriendaniel: 1,274 hours of egocentric video with paired 7-IMU arm tracking, now CC-BY-4.0 on @huggingface.  @eidon_ai, a robotics…",
+   "url": "https://x.com/huggingface/status/2101995717921309032",
+   "ts": 1789989807,
+   "desc": "RT @vanstriendaniel: 1,274 hours of egocentric video with paired 7-IMU arm tracking, now CC-BY-4.0 on @huggingface.\n\n@eidon_ai, a robotics…"
+  },
+  {
+   "source": "X @huggingface",
    "title": "RT @RisingSayak: Hot off the press on a Sunday!  Available Day-0 in Diffusers 🤗  The model is really cool and has an interesting way of usi…",
    "url": "https://x.com/huggingface/status/2101921654117191967",
    "ts": 1789972148,
@@ -553,13 +560,6 @@
    "url": "https://x.com/huggingface/status/2098479579036041516",
    "ts": 1789151494,
    "desc": "RT @vanstriendaniel: The real tokenmaxxing move: use frontier agents to build small classifiers for large-scale data curation.\n\nSmall class…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @novita_labs: 🤗 Novita now supports DeepSeek-V4.1-Flash on @huggingface.  • 552B backbone parameters • Native image and text input • Up…",
-   "url": "https://x.com/huggingface/status/2098479557552873670",
-   "ts": 1789151489,
-   "desc": "RT @novita_labs: 🤗 Novita now supports DeepSeek-V4.1-Flash on @huggingface.\n\n• 552B backbone parameters\n• Native image and text input\n• Up…"
   },
   {
    "source": "X @NousResearch",
@@ -1262,20 +1262,6 @@
    "desc": "Baidu's voluntary conversion to dual-primary listing on HKEX will become effective on September 1, 2026. \n\nUpon taking effect, Baidu will be dual-primary listed in the US and Hong Kong.\nhttps://t.co/arg5iT9dCh"
   },
   {
-   "source": "X @Baidu_Inc",
-   "title": "The latest from Baidu AI Day: the Baidu App is becoming more hands-on, with ERNIE Assistant taking complex tasks from start to finish.  With daily active users up 83% year over year in June, its latest upgrade brings 400+ professional skills across 3",
-   "url": "https://x.com/Baidu_Inc/status/2092536874858696715",
-   "ts": 1787734643,
-   "desc": "The latest from Baidu AI Day: the Baidu App is becoming more hands-on, with ERNIE Assistant taking complex tasks from start to finish.\n\nWith daily active users up 83% year over year in June, its latest upgrade brings 400+ professional skills across 30+ industries and the ability to carry complex tasks from research to final deliverable.\n\nSearch is getting more hands-on too. Baidu Search now turns"
-  },
-  {
-   "source": "X @Baidu_Inc",
-   "title": "Famou Agent is advancing AI4S in forestry, helping researchers at Nanjing Forestry University detect pine wilt disease at its earliest, most treatable stage. 🌲  Watch the full story ↓ https://t.co/CA4HhF63Y1",
-   "url": "https://x.com/Baidu_Inc/status/2090704703701287337",
-   "ts": 1787297819,
-   "desc": "Famou Agent is advancing AI4S in forestry, helping researchers at Nanjing Forestry University detect pine wilt disease at its earliest, most treatable stage. 🌲\n\nWatch the full story ↓ https://t.co/CA4HhF63Y1"
-  },
-  {
    "source": "X @TencentHunyuan",
    "title": "RT @xiangyuli: 说真的， Hy4 preview @TencentHunyuan 这次帮了我大忙。  单位这边，要做 GPCR 配体筛选。 很多候选分子是亲脂的， 真正进口袋之前 先在磷脂双层里分区、侧向扩散  膜的厚度、面积、尾链有序性也会把受体的构象平衡往一边…",
    "url": "https://x.com/TencentHunyuan/status/2100788786473132516",
@@ -1662,6 +1648,13 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "Intelligence is improving exponentially",
+   "url": "https://x.com/elonmusk/status/2101975928800714904",
+   "ts": 1789985088,
+   "desc": "Intelligence is improving exponentially"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @wormuth: GPT-6 Astra pushed a simulated person off a ledge in multiple trials. Grok, Gemini, and Claude did not. https://t.co/Yep9lVxgi3",
    "url": "https://x.com/elonmusk/status/2101924386810786013",
    "ts": 1789972800,
@@ -1792,13 +1785,6 @@
    "url": "https://x.com/elonmusk/status/2101756818993422434",
    "ts": 1789932849,
    "desc": "RT @jk_rowling: Every glib, arrogant, virtue-signalling celebrity who’s broadcast the lie that  kids will kill themselves if not allowed to…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @JTLonsdale: Amazing.  Everybody is sleeping on how important this is. For all of us!  For a relatively very small additional cost, we c…",
-   "url": "https://x.com/elonmusk/status/2101756333884342669",
-   "ts": 1789932733,
-   "desc": "RT @JTLonsdale: Amazing.\n\nEverybody is sleeping on how important this is. For all of us!\n\nFor a relatively very small additional cost, we c…"
   },
   {
    "source": "X @sama",
@@ -2565,6 +2551,13 @@
   },
   {
    "source": "X @ylecun",
+   "title": "RT @ylecun: @Christiano92 @musedivision @geoffreyhinton I have absolutely never ever \"asked\" to stop R&amp;D on LLMs.  In fact, I was very supp…",
+   "url": "https://x.com/ylecun/status/2101993408872972547",
+   "ts": 1789989256,
+   "desc": "RT @ylecun: @Christiano92 @musedivision @geoffreyhinton I have absolutely never ever \"asked\" to stop R&amp;D on LLMs.\n\nIn fact, I was very supp…"
+  },
+  {
+   "source": "X @ylecun",
    "title": "RT @ylecun: @musedivision @geoffreyhinton I said \"auto-regressive LLMs, in and of themselves, will not lead human-level AI\"  That statement…",
    "url": "https://x.com/ylecun/status/2101674638363209873",
    "ts": 1789913255,
@@ -2695,13 +2688,6 @@
    "url": "https://x.com/ylecun/status/2101052811412963591",
    "ts": 1789765000,
    "desc": "RT @togelius: There are these two nice ideas meant to increase fairness in publishing: anyone can submit a paper anywhere, and the are eval…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @FuturLucide: Je viens de regarder l’intervention de @ylecun à Sciences Po et franchement, je vous conseille de prendre le temps de l’éc…",
-   "url": "https://x.com/ylecun/status/2101049897948414252",
-   "ts": 1789764305,
-   "desc": "RT @FuturLucide: Je viens de regarder l’intervention de @ylecun à Sciences Po et franchement, je vous conseille de prendre le temps de l’éc…"
   },
   {
    "source": "X @AndrewYNg",
@@ -3066,20 +3052,6 @@
    "url": "https://x.com/natolambert/status/2100623399609344231",
    "ts": 1789662620,
    "desc": "What it looks like when yelling too loudly about AI risk too early may start to hurt your plans."
-  },
-  {
-   "source": "X @natolambert",
-   "title": "RT @giffmana: At this point, \"researchers\" are basically DDoSing classic academia. It's pretty sad to see. Either someone comes up with, an…",
-   "url": "https://x.com/natolambert/status/2100555064641261910",
-   "ts": 1789646328,
-   "desc": "RT @giffmana: At this point, \"researchers\" are basically DDoSing classic academia. It's pretty sad to see. Either someone comes up with, an…"
-  },
-  {
-   "source": "X @natolambert",
-   "title": "One of the coolest at-scale RL resources made public yet!  You love to see it.",
-   "url": "https://x.com/natolambert/status/2100324332916335033",
-   "ts": 1789591317,
-   "desc": "One of the coolest at-scale RL resources made public yet! \nYou love to see it."
   },
   {
    "source": "X @thsottiaux",
@@ -3447,6 +3419,13 @@
   },
   {
    "source": "Bluesky Nathan Lambert",
+   "title": "I was asked by Congressional staff to share my views on open models performance, adoption, and competition vis a vis China. Here’s my briefing with all our latest data and predictions for what comes n",
+   "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mvzo2lneqg2j",
+   "ts": 1789992063,
+   "desc": "I was asked by Congressional staff to share my views on open models performance, adoption, and competition vis a vis China. Here’s my briefing with all our latest data and predictions for what comes next.\nwww.interconnects.ai/p/the-curren..."
+  },
+  {
+   "source": "Bluesky Nathan Lambert",
    "title": "My best guess is that for scaled RL most of the top Chinese AI labs are starting to use a lot of Huawei for inference and Nvidia for training (maybe not for weird architectures). As agent swarms, even",
    "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mvxajmx5cz2n",
    "ts": 1789908816,
@@ -3507,13 +3486,6 @@
    "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mvlbzltrjc2x",
    "ts": 1789498108,
    "desc": "Is RL actually making your LLM better? \n\nGains from RL are mostly on easy questions🤯\n\nWe're calling this the Matthew Effect for RL on LLMs. We then leverage async RL to solve harder problems by Never Giving Up!\n\narxiv.org/abs/2609.13443 and mnoukhov.github.io/posts/ngu/ and check out thread below\n🧵👇"
-  },
-  {
-   "source": "Bluesky Nathan Lambert",
-   "title": "Michael’s nice blog post walking you through it: mnoukhov.github.io/posts/ngu/",
-   "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mvlclmjuqe2e",
-   "ts": 1789498713,
-   "desc": "Michael’s nice blog post walking you through it: mnoukhov.github.io/posts/ngu/"
   },
   {
    "source": "Bluesky Ethan Mollick",
@@ -3587,24 +3559,17 @@
   },
   {
    "source": "HN",
-   "title": "AI-generated posters don’t have to be horrible",
-   "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-   "ts": 1789809658,
-   "desc": "1801 points"
-  },
-  {
-   "source": "HN",
    "title": "I think you should almost never use AI to write",
    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
    "ts": 1789835724,
-   "desc": "346 points"
+   "desc": "353 points"
   },
   {
    "source": "HN",
    "title": "AI and the Destruction of the Creative Commons",
    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
    "ts": 1789898871,
-   "desc": "229 points"
+   "desc": "230 points"
   },
   {
    "source": "HN",
@@ -3615,24 +3580,31 @@
   },
   {
    "source": "HN",
+   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+   "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+   "ts": 1789964924,
+   "desc": "124 points"
+  },
+  {
+   "source": "HN",
    "title": "Can you tell which images are AI-generated?",
    "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
    "ts": 1789858954,
-   "desc": "106 points"
+   "desc": "109 points"
   },
   {
    "source": "HN",
    "title": "If AI coding is lowering your code quality, you're not managing quality right",
    "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
    "ts": 1789904230,
-   "desc": "83 points"
+   "desc": "101 points"
   },
   {
    "source": "HN",
    "title": "AI Safety Is Mostly a Sex Cult",
    "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
    "ts": 1789828588,
-   "desc": "74 points"
+   "desc": "75 points"
   },
   {
    "source": "HN",
@@ -3640,13 +3612,6 @@
    "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
    "ts": 1789939046,
    "desc": "62 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-   "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-   "ts": 1789964924,
-   "desc": "57 points"
   },
   {
    "source": "HN",
@@ -3660,21 +3625,21 @@
    "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
    "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
    "ts": 1789843004,
-   "desc": "54 points"
+   "desc": "55 points"
   },
   {
    "source": "HN",
    "title": "I'm Tired of the AI Tone",
    "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
    "ts": 1789903106,
-   "desc": "44 points"
+   "desc": "45 points"
   },
   {
    "source": "HN",
    "title": "Ask HN: How do you interview devs in a post-AI world?",
    "url": "https://news.ycombinator.com/item?id=49768826",
    "ts": 1789841434,
-   "desc": "42 points"
+   "desc": "44 points"
   },
   {
    "source": "HN",
@@ -3685,6 +3650,13 @@
   },
   {
    "source": "HN",
+   "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+   "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+   "ts": 1789906030,
+   "desc": "38 points"
+  },
+  {
+   "source": "HN",
    "title": "OpenAI and Anthropic oversold AI security breaches",
    "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
    "ts": 1789847968,
@@ -3692,17 +3664,17 @@
   },
   {
    "source": "HN",
-   "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-   "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-   "ts": 1789906030,
-   "desc": "37 points"
-  },
-  {
-   "source": "HN",
    "title": "Can I Let My AI Agent Run on Shabbat?",
    "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
    "ts": 1789956345,
-   "desc": "29 points"
+   "desc": "33 points"
+  },
+  {
+   "source": "HN",
+   "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+   "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+   "ts": 1789977558,
+   "desc": "30 points"
   },
   {
    "source": "HN",
@@ -3713,37 +3685,23 @@
   },
   {
    "source": "HN",
-   "title": "How come AI-related posts get so many points on HN?",
-   "url": "https://news.ycombinator.com/item?id=49764057",
-   "ts": 1789801070,
-   "desc": "27 points"
-  },
-  {
-   "source": "HN",
    "title": "Not all AI workers think the tech could kill everyone",
    "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
    "ts": 1789942936,
-   "desc": "23 points"
+   "desc": "25 points"
   },
   {
    "source": "HN",
    "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'",
    "url": "https://www.youtube.com/watch?v=KnckQp-c388",
    "ts": 1789927901,
-   "desc": "21 points"
+   "desc": "22 points"
   },
   {
    "source": "HN",
-   "title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
-   "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/",
-   "ts": 1789801990,
-   "desc": "20 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI hallucination nearly triggers US Military operation",
-   "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-   "ts": 1789805228,
+   "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+   "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+   "ts": 1789946344,
    "desc": "20 points"
   },
   {
@@ -3776,16 +3734,9 @@
   },
   {
    "source": "HN",
-   "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-   "url": "https://github.com/BytedTsinghua-SIA/DAPO",
-   "ts": 1789946344,
-   "desc": "15 points"
-  },
-  {
-   "source": "HN",
-   "title": "EFF Statement on California Governor's Executive Order on AI",
-   "url": "https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai",
-   "ts": 1789802145,
+   "title": "Flock Partnered with Nonprofit That Uses AI to Rally Public Support",
+   "url": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
+   "ts": 1789953833,
    "desc": "13 points"
   },
   {
@@ -3794,6 +3745,27 @@
    "url": "https://www.youtube.com/watch?v=XlY7DI5v4ZU",
    "ts": 1789927771,
    "desc": "12 points"
+  },
+  {
+   "source": "HN",
+   "title": "Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]",
+   "url": "https://www.youtube.com/watch?v=M0cWcAIeOyU",
+   "ts": 1789928299,
+   "desc": "12 points"
+  },
+  {
+   "source": "HN",
+   "title": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+   "url": "https://faceanalysisai.com/",
+   "ts": 1789894115,
+   "desc": "11 points"
+  },
+  {
+   "source": "HN",
+   "title": "The president wanted to unleash AI. Then came Anthropic",
+   "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
+   "ts": 1789963291,
+   "desc": "11 points"
   }
  ]
 }
