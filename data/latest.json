@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T18:30:55.308862+00:00",
+ "generated_at": "2026-09-22T18:44:18.008546+00:00",
  "count": 544,
  "stats": [
   {
@@ -29,6 +29,20 @@
   }
  ],
  "items": [
+  {
+   "source": "X @OpenAI",
+   "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.  Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.  https://t.co/RPvGV3ptNr",
+   "url": "https://x.com/OpenAI/status/2102460995180663204",
+   "ts": 1790100737,
+   "desc": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.\n\nBoth are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.\n\nhttps://t.co/RPvGV3ptNr"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.  GPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.  We’ve also made caching and",
+   "url": "https://x.com/OpenAI/status/2102460975790137662",
+   "ts": 1790100733,
+   "desc": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.\n\nWe’ve also made caching and inference more efficient, and we’re passing the savings directly to you: 50% lower API prices for Sol and Luna compared with GPT‑5.6 promotional prici"
+  },
   {
    "source": "X @OpenAI",
    "title": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments with deep levels of access across training, evaluation, and deployment.  That access should enable third party assessors to challenge our assumptions,",
@@ -1683,6 +1697,13 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @bot: We rebuilt customer support around Grok Bot to scale our operations without adding headcount.  It works autonomously to respond to…",
+   "url": "https://x.com/elonmusk/status/2102465645334220901",
+   "ts": 1790101846,
+   "desc": "RT @bot: We rebuilt customer support around Grok Bot to scale our operations without adding headcount.\n\nIt works autonomously to respond to…"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @AmOptimistShow: 🚨NEW: @JTLonsdale &amp; @SquawkCNBC clash on AI and wealth inequality.  Joe Lonsdale: 2030s is the disinflation decade... w…",
    "url": "https://x.com/elonmusk/status/2102465393105523156",
    "ts": 1790101786,
@@ -1815,11 +1836,18 @@
    "desc": "RT @XFreeze: Grok 4.7 just outperformed GPT-6 Astra on professional work\n\nOn the same Artificial Analysis run:\n\n• GDPval-AA — Grok leads by…"
   },
   {
-   "source": "X @elonmusk",
-   "title": "RT @dragosroua: @XFreeze Not a big fan of benchmarking.   I just took it out for a real life test. Asked it to build me a bash only, self c…",
-   "url": "https://x.com/elonmusk/status/2102412796042629466",
-   "ts": 1790089246,
-   "desc": "RT @dragosroua: @XFreeze Not a big fan of benchmarking. \n\nI just took it out for a real life test. Asked it to build me a bash only, self c…"
+   "source": "X @sama",
+   "title": "michelle embodies this as much as anyone  openai is so, so lucky to have benefited from everything she has done so far and i think people will be quite pleased to see what she + team have cooking next!",
+   "url": "https://x.com/sama/status/2102468713866055872",
+   "ts": 1790102578,
+   "desc": "michelle embodies this as much as anyone\n\nopenai is so, so lucky to have benefited from everything she has done so far and i think people will be quite pleased to see what she + team have cooking next!"
+  },
+  {
+   "source": "X @sama",
+   "title": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).  And then we want you all to come up with great ideas and build them and to get to be happy users. The best id",
+   "url": "https://x.com/sama/status/2102466603111551187",
+   "ts": 1790102074,
+   "desc": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).\n\nAnd then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all."
   },
   {
    "source": "X @sama",
@@ -1932,34 +1960,6 @@
    "url": "https://x.com/sama/status/2097449884530131057",
    "ts": 1788905995,
    "desc": "RT @polynoamial: Yes, this result cost millions of dollars.\n\nBut remember that when @OpenAI announced o3 it cost ~$500,000 to score 87.5% o…"
-  },
-  {
-   "source": "X @sama",
-   "title": "Images 2.5 is here.  I don't think it can solve super difficult math problems, but it is really good and we hope you enjoy it.  https://t.co/LdZhGF5AcZ",
-   "url": "https://x.com/sama/status/2097410967978324010",
-   "ts": 1788896717,
-   "desc": "Images 2.5 is here.\n\nI don't think it can solve super difficult math problems, but it is really good and we hope you enjoy it.\n\nhttps://t.co/LdZhGF5AcZ"
-  },
-  {
-   "source": "X @sama",
-   "title": "We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun.  We’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out.  Apply by Sep 10:  https://t.c",
-   "url": "https://x.com/sama/status/2097404861642137851",
-   "ts": 1788895261,
-   "desc": "We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun.\n\nWe’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out.\n\nApply by Sep 10:\n\nhttps://t.co/3LIMfGOBRQ"
-  },
-  {
-   "source": "X @sama",
-   "title": "RT @TrapitBansal: Congratulations Levent, Tristan, and OpenAI! What a miraculous time to be alive!  I view this as the first successful ach…",
-   "url": "https://x.com/sama/status/2097398202710577494",
-   "ts": 1788893673,
-   "desc": "RT @TrapitBansal: Congratulations Levent, Tristan, and OpenAI! What a miraculous time to be alive!\n\nI view this as the first successful ach…"
-  },
-  {
-   "source": "X @sama",
-   "title": "RT @mobav0: My team worked very hard on the setup, infra, and the runs that resulted in this breakthrough. Many sleepless nights for many p…",
-   "url": "https://x.com/sama/status/2097398155386257737",
-   "ts": 1788893662,
-   "desc": "RT @mobav0: My team worked very hard on the setup, infra, and the runs that resulted in this breakthrough. Many sleepless nights for many p…"
   },
   {
    "source": "X @RayDalio",
@@ -3632,7 +3632,7 @@
    "title": "AI Has No Wisdom and Neither Will You",
    "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
    "ts": 1790079069,
-   "desc": "339 points"
+   "desc": "340 points"
   },
   {
    "source": "HN",
@@ -3695,7 +3695,7 @@
    "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
    "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
    "ts": 1790085176,
-   "desc": "75 points"
+   "desc": "76 points"
   },
   {
    "source": "HN",
@@ -3713,17 +3713,17 @@
   },
   {
    "source": "HN",
+   "title": "JetBrains Air: A System of Products for Agentic Software Development",
+   "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+   "ts": 1790074858,
+   "desc": "65 points"
+  },
+  {
+   "source": "HN",
    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
    "url": "https://github.com/aru-labs/lossless-memory",
    "ts": 1789993697,
    "desc": "64 points"
-  },
-  {
-   "source": "HN",
-   "title": "JetBrains Air: A System of Products for Agentic Software Development",
-   "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
-   "ts": 1790074858,
-   "desc": "63 points"
   },
   {
    "source": "HN",
@@ -3797,6 +3797,13 @@
   },
   {
    "source": "HN",
+   "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+   "url": "https://ai-rete-rag.com/",
+   "ts": 1790093706,
+   "desc": "25 points"
+  },
+  {
+   "source": "HN",
    "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
    "url": "https://github.com/BytedTsinghua-SIA/DAPO",
    "ts": 1789946344,
@@ -3828,13 +3835,6 @@
    "title": "Boomers love making AI images of their grandkids. Millennial parents hate it",
    "url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
    "ts": 1790015405,
-   "desc": "19 points"
-  },
-  {
-   "source": "HN",
-   "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-   "url": "https://ai-rete-rag.com/",
-   "ts": 1790093706,
    "desc": "19 points"
   }
  ]
