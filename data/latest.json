@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-22T06:46:32.046544+00:00",
- "count": 538,
+ "generated_at": "2026-09-22T12:46:25.165037+00:00",
+ "count": 539,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 469,
+   "count": 470,
    "note": "49 账号"
   },
   {
@@ -430,6 +430,13 @@
   },
   {
    "source": "X @huggingface",
+   "title": "RT @multimodalart: Introducing the Decision Index 0.1 ⚖️  a rigorous leaderboard comparing jev with 30+ open weights decision models   35+…",
+   "url": "https://x.com/huggingface/status/2102346802024284575",
+   "ts": 1790073511,
+   "desc": "RT @multimodalart: Introducing the Decision Index 0.1 ⚖️\n\na rigorous leaderboard comparing jev with 30+ open weights decision models \n\n35+…"
+  },
+  {
+   "source": "X @huggingface",
    "title": "RT @lancedb: A great blog written by @loldedxd &amp; @ariG23498 🤗👏 https://t.co/Lxy9hSIuQG  funes, by @huggingface, turns past agent sessions i…",
    "url": "https://x.com/huggingface/status/2102249738150257055",
    "ts": 1790050370,
@@ -562,13 +569,6 @@
    "desc": "RT @PrismML: Today, we’re announcing Ternary Bonsai 2 27B.\n\nBased on Qwen3.8 27B, Bonsai 2 27B is 9x smaller than its full-precision counte…"
   },
   {
-   "source": "X @huggingface",
-   "title": "RT @multimodalart: too many open jev claims and reproductions  which one works? which one can you run on your laptop?  i created this track…",
-   "url": "https://x.com/huggingface/status/2100691690084565314",
-   "ts": 1789678902,
-   "desc": "RT @multimodalart: too many open jev claims and reproductions\n\nwhich one works? which one can you run on your laptop?\n\ni created this track…"
-  },
-  {
    "source": "X @NousResearch",
    "title": "RT @Teknium: Welcome back to Hermes Agent, Claude  New official plugin that uses Claude SDK without the tradeoffs to enable Claude Code sub…",
    "url": "https://x.com/NousResearch/status/2102135429952671950",
@@ -644,6 +644,20 @@
    "url": "https://x.com/NousResearch/status/2100317830323327354",
    "ts": 1789589767,
    "desc": "RT @theemozilla: hang it in the Louvre https://t.co/g7Z6qkG3KL"
+  },
+  {
+   "source": "X @NousResearch",
+   "title": "Working on a cool plugin and want to add it to the catalog? Follow this handy guide:  https://t.co/gUgQGwDhEz",
+   "url": "https://x.com/NousResearch/status/2100266422882451793",
+   "ts": 1789577510,
+   "desc": "Working on a cool plugin and want to add it to the catalog? Follow this handy guide:\n\nhttps://t.co/gUgQGwDhEz"
+  },
+  {
+   "source": "X @NousResearch",
+   "title": "Hermes Agent now has a Plugin Catalog: starting with 4 official plugins and 96 from the community, covering desktop mods, new platforms, browsing, specialized tools, and more.  Our team reviews every community plugin, and we will add new ones regular",
+   "url": "https://x.com/NousResearch/status/2100266421020152114",
+   "ts": 1789577510,
+   "desc": "Hermes Agent now has a Plugin Catalog: starting with 4 official plugins and 96 from the community, covering desktop mods, new platforms, browsing, specialized tools, and more.\n\nOur team reviews every community plugin, and we will add new ones regularly.\n\nhttps://t.co/sNGEQVvUlc https://t.co/dZl0eGJbHu"
   },
   {
    "source": "X @NousResearch",
@@ -773,6 +787,13 @@
   },
   {
    "source": "X @kimi_moonshot",
+   "title": "Meet the new Kimi Browser Extension, formerly Kimi WebBridge.  From your browser sidebar, you can chat with Kimi to navigate websites, fill out forms, and get things done.  For repetitive tasks, record your steps once and save them as a skill. Kimi c",
+   "url": "https://x.com/Kimi_Moonshot/status/2102372557190230244",
+   "ts": 1790079652,
+   "desc": "Meet the new Kimi Browser Extension, formerly Kimi WebBridge.\n\nFrom your browser sidebar, you can chat with Kimi to navigate websites, fill out forms, and get things done.\n\nFor repetitive tasks, record your steps once and save them as a skill. Kimi can take it from there next time.\n\nAvailable now on https://t.co/3u29cgYcJQ and the Chrome Web Store."
+  },
+  {
+   "source": "X @kimi_moonshot",
    "title": "Kimi K3 is now on Amazon Bedrock!  Run coding, document analysis, and extended agent workflows with Bedrock's access, encryption, and auditing controls.  Explicit prompt caching supported.  Start building with K3 on AWS 👉 https://t.co/vm32dU0TN1 http",
    "url": "https://x.com/Kimi_Moonshot/status/2102244258531213596",
    "ts": 1790049063,
@@ -896,13 +917,6 @@
    "url": "https://x.com/Kimi_Moonshot/status/2081807244010868851",
    "ts": 1785176499,
    "desc": "RT @arena: Big update: Among open-weight models, Kimi K3 (Max) is #1 in the Agent Arena with +9.75% net-improvement, surpassing GLM-5.2 (Ma…"
-  },
-  {
-   "source": "X @kimi_moonshot",
-   "title": "Kimi K3 is now live on @togethercompute!    Happy to have Together AI as our day0 launch partner, giving developers immediate access to K3 through high-throughput inference optimized for coding agents and production workloads.    A huge thank-you to",
-   "url": "https://x.com/Kimi_Moonshot/status/2081804933188501886",
-   "ts": 1785175948,
-   "desc": "Kimi K3 is now live on @togethercompute!  \n\nHappy to have Together AI as our day0 launch partner, giving developers immediate access to K3 through high-throughput inference optimized for coding agents and production workloads.  \n\nA huge thank-you to the Together AI team for moving fast and making this launch possible!"
   },
   {
    "source": "X @MiniMax_AI",
@@ -1172,6 +1186,13 @@
   },
   {
    "source": "X @Baidu_Inc",
+   "title": "Two teams took home the 2026 Baidu Highest Award at our annual party yesterday for their work in AI infra and AI adoption. 🎉  Belief in the value of technology is our true edge, and the people behind it deserve a celebration.  Cue the AI demos, live",
+   "url": "https://x.com/Baidu_Inc/status/2102341853026885927",
+   "ts": 1790072332,
+   "desc": "Two teams took home the 2026 Baidu Highest Award at our annual party yesterday for their work in AI infra and AI adoption. 🎉\n\nBelief in the value of technology is our true edge, and the people behind it deserve a celebration.\n\nCue the AI demos, live music and good food. Here's to building together!"
+  },
+  {
+   "source": "X @Baidu_Inc",
    "title": "Welcome back to AI, Evolving.  In our second episode, we compare how companies in China and other markets are building AI agents for the workday — and what will set them apart as advanced models and infrastructure become more widely available.  This",
    "url": "https://x.com/Baidu_Inc/status/2099427458231771278",
    "ts": 1789377486,
@@ -1262,18 +1283,32 @@
    "desc": "DuMate just rolled out a whole new set of upgrades at yesterday's AI Day.\n\nThe goal: move from AI that helps with individual steps to AI that delivers finished results you can actually use.\n\nWhat's new👇\n• Upgrades across personal and enterprise offerings, professional suites, and workspaces\n• 15 suites and 96 specialized skills across finance & accounting, business & legal, product & R&D, and oper"
   },
   {
-   "source": "X @Baidu_Inc",
-   "title": "Baidu's voluntary conversion to dual-primary listing on HKEX will become effective on September 1, 2026.   Upon taking effect, Baidu will be dual-primary listed in the US and Hong Kong. https://t.co/arg5iT9dCh",
-   "url": "https://x.com/Baidu_Inc/status/2092815993215303898",
-   "ts": 1787801190,
-   "desc": "Baidu's voluntary conversion to dual-primary listing on HKEX will become effective on September 1, 2026. \n\nUpon taking effect, Baidu will be dual-primary listed in the US and Hong Kong.\nhttps://t.co/arg5iT9dCh"
+   "source": "X @TencentHunyuan",
+   "title": "Share some genius cases generated by Hy Image3.5 preview.  😎 https://t.co/l3mWcOEoLm",
+   "url": "https://x.com/TencentHunyuan/status/2102324577976426830",
+   "ts": 1790068213,
+   "desc": "Share some genius cases generated by Hy Image3.5 preview.  😎 https://t.co/l3mWcOEoLm"
   },
   {
    "source": "X @TencentHunyuan",
-   "title": "Hy Image3.5 preview is live. 🚀  Professional-grade image generation, +30% win rate in human eval vs Hy Image3.0 Both Text to image & Image to image available. Up to 2K. Better Consistency.  API: https://t.co/5BvR2SdI6Q Priced for everyone. $0.024 per",
-   "url": "https://x.com/TencentHunyuan/status/2102226552310419473",
-   "ts": 1790044842,
-   "desc": "Hy Image3.5 preview is live. 🚀\n\nProfessional-grade image generation, +30% win rate in human eval vs Hy Image3.0\nBoth Text to image & Image to image available.\nUp to 2K. Better Consistency.\n\nAPI: https://t.co/5BvR2SdI6Q\nPriced for everyone. $0.024 per image on Tencent Cloud API.\nWe only charge for what we generate — your reference images are free.\n\nTwo weeks free (Only in OnSolo and Miora):\nMiora h"
+   "title": "Sure you can edits images with this model.✔️",
+   "url": "https://x.com/TencentHunyuan/status/2102322504908050724",
+   "ts": 1790067719,
+   "desc": "Sure you can edits images with this model.✔️"
+  },
+  {
+   "source": "X @TencentHunyuan",
+   "title": "RT @AiwithShoaib: @Miora_Design Free for a limited time. Miora throws in a 2-week free trial.  → open Miora in your browser → sign in with…",
+   "url": "https://x.com/TencentHunyuan/status/2102322081715409303",
+   "ts": 1790067618,
+   "desc": "RT @AiwithShoaib: @Miora_Design Free for a limited time. Miora throws in a 2-week free trial.\n\n→ open Miora in your browser\n→ sign in with…"
+  },
+  {
+   "source": "X @TencentHunyuan",
+   "title": "The AI says the site is done. Then the homepage errors, the buttons overlap, and it added a login flow you never asked for. 🙃 Introduces WebCraftBench: agents actually use the live app, coverage-guided exploration finds what never got reached, then w",
+   "url": "https://x.com/TencentHunyuan/status/2102320407860977861",
+   "ts": 1790067219,
+   "desc": "The AI says the site is done. Then the homepage errors, the buttons overlap, and it added a login flow you never asked for. 🙃\nIntroduces WebCraftBench: agents actually use the live app, coverage-guided exploration finds what never got reached, then we score aesthetics, usability, and whether the original request was met.\nOn 197 human-validated pairs, it matches human preference 85.3% of the time."
   },
   {
    "source": "X @TencentHunyuan",
@@ -1379,34 +1414,6 @@
    "url": "https://x.com/TencentHunyuan/status/2094378879666594221",
    "ts": 1788173811,
    "desc": "RT @filicroval: hy4 preview is definitely not a model we should sleep on\n\nsame prompt for each model, one-shot.\n\ni would have expected the…"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "RT @Lonely__MH: 🎉恭喜鹅厂！恭喜 姚顺雨 ！  这绝对是鹅厂大模型最提气的一次！混元 Hy4 实测有点东西  我用平时测各大模型的专属提示词（一句话生成太空星体）跑了一下最新的 Hy4 preview，结果非常惊喜，效果极其唯美  虽然渲染和思考耗时 50 分钟…",
-   "url": "https://x.com/TencentHunyuan/status/2094008889985675287",
-   "ts": 1788085598,
-   "desc": "RT @Lonely__MH: 🎉恭喜鹅厂！恭喜 姚顺雨 ！\n\n这绝对是鹅厂大模型最提气的一次！混元 Hy4 实测有点东西\n\n我用平时测各大模型的专属提示词（一句话生成太空星体）跑了一下最新的 Hy4 preview，结果非常惊喜，效果极其唯美\n\n虽然渲染和思考耗时 50 分钟…"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "RT @jenzhuscott: The interesting bit isn’t “1.5TB → ~200GiB.” It’s that they refused uniform low-bit &amp; treated bit-width as an allocation p…",
-   "url": "https://x.com/TencentHunyuan/status/2094008605196656665",
-   "ts": 1788085530,
-   "desc": "RT @jenzhuscott: The interesting bit isn’t “1.5TB → ~200GiB.” It’s that they refused uniform low-bit &amp; treated bit-width as an allocation p…"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "🤝",
-   "url": "https://x.com/TencentHunyuan/status/2093732416225697905",
-   "ts": 1788019682,
-   "desc": "🤝"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "Hy4 preview runs in vLLM",
-   "url": "https://x.com/TencentHunyuan/status/2093732139456254111",
-   "ts": 1788019616,
-   "desc": "Hy4 preview runs in vLLM"
   },
   {
    "source": "X @cursor_ai",
@@ -3587,73 +3594,59 @@
   },
   {
    "source": "HN",
-   "title": "AI and the Destruction of the Creative Commons",
-   "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-   "ts": 1789898871,
-   "desc": "235 points"
+   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+   "url": "https://linear.app/now/ci-bottleneck-reworked",
+   "ts": 1790018613,
+   "desc": "265 points"
   },
   {
    "source": "HN",
    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
    "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
    "ts": 1789999849,
-   "desc": "221 points"
+   "desc": "230 points"
   },
   {
    "source": "HN",
    "title": "US halts flights at busy East Coast airports, says fiber line cut",
    "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
    "ts": 1790016119,
-   "desc": "219 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-   "url": "https://linear.app/now/ci-bottleneck-reworked",
-   "ts": 1790018613,
-   "desc": "206 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-   "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-   "ts": 1789964924,
-   "desc": "153 points"
-  },
-  {
-   "source": "HN",
-   "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-   "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-   "ts": 1790010023,
-   "desc": "145 points"
+   "desc": "225 points"
   },
   {
    "source": "HN",
    "title": "Frontier AI on Your Own Hardware",
    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
    "ts": 1790016781,
-   "desc": "139 points"
+   "desc": "170 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+   "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+   "ts": 1789964924,
+   "desc": "154 points"
+  },
+  {
+   "source": "HN",
+   "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+   "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+   "ts": 1790010023,
+   "desc": "149 points"
   },
   {
    "source": "HN",
    "title": "Don't Use AI to Write",
    "url": "https://paulbakker.io/writing/no-ai-for-writing/",
    "ts": 1789980884,
-   "desc": "138 points"
-  },
-  {
-   "source": "HN",
-   "title": "If AI coding is lowering your code quality, you're not managing quality right",
-   "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-   "ts": 1789904230,
-   "desc": "121 points"
+   "desc": "142 points"
   },
   {
    "source": "HN",
    "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
    "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
    "ts": 1790040289,
-   "desc": "81 points"
+   "desc": "90 points"
   },
   {
    "source": "HN",
@@ -3667,42 +3660,42 @@
    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
    "url": "https://github.com/aru-labs/lossless-memory",
    "ts": 1789993697,
-   "desc": "60 points"
+   "desc": "62 points"
   },
   {
    "source": "HN",
    "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
    "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
    "ts": 1789992436,
-   "desc": "46 points"
+   "desc": "58 points"
   },
   {
    "source": "HN",
-   "title": "I'm Tired of the AI Tone",
-   "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
-   "ts": 1789903106,
-   "desc": "45 points"
+   "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+   "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+   "ts": 1790068734,
+   "desc": "56 points"
   },
   {
    "source": "HN",
-   "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-   "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-   "ts": 1789889917,
-   "desc": "42 points"
+   "title": "AI Has No Wisdom and Neither Will You",
+   "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+   "ts": 1790079069,
+   "desc": "56 points"
+  },
+  {
+   "source": "HN",
+   "title": "JetBrains Air: A System of Products for Agentic Software Development",
+   "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+   "ts": 1790074858,
+   "desc": "50 points"
   },
   {
    "source": "HN",
    "title": "Big AI to humanity: drop dead",
    "url": "https://matthewbutterick.com/chron/drop-dead.html",
    "ts": 1790011399,
-   "desc": "41 points"
-  },
-  {
-   "source": "HN",
-   "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
-   "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
-   "ts": 1789906030,
-   "desc": "38 points"
+   "desc": "43 points"
   },
   {
    "source": "HN",
@@ -3713,9 +3706,23 @@
   },
   {
    "source": "HN",
+   "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
+   "url": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday",
+   "ts": 1790041406,
+   "desc": "34 points"
+  },
+  {
+   "source": "HN",
    "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
    "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
    "ts": 1789977558,
+   "desc": "32 points"
+  },
+  {
+   "source": "HN",
+   "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+   "ts": 1790015636,
    "desc": "32 points"
   },
   {
@@ -3727,24 +3734,10 @@
   },
   {
    "source": "HN",
-   "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
-   "url": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday",
-   "ts": 1790041406,
-   "desc": "30 points"
-  },
-  {
-   "source": "HN",
    "title": "Do not fear AI. Fear AI companies",
    "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
    "ts": 1790030431,
-   "desc": "29 points"
-  },
-  {
-   "source": "HN",
-   "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
-   "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
-   "ts": 1790015636,
-   "desc": "29 points"
+   "desc": "30 points"
   },
   {
    "source": "HN",
@@ -3769,6 +3762,13 @@
   },
   {
    "source": "HN",
+   "title": "Why AI resembles a charismatic religious leader",
+   "url": "https://theconversation.com/why-ai-resembles-a-charismatic-religious-leader-291831",
+   "ts": 1790055497,
+   "desc": "19 points"
+  },
+  {
+   "source": "HN",
    "title": "Boomers love making AI images of their grandkids. Millennial parents hate it",
    "url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
    "ts": 1790015405,
@@ -3779,14 +3779,21 @@
    "title": "New bill to protect American citizens access to AI – Please read and share",
    "url": "https://righttorun.us",
    "ts": 1790022638,
-   "desc": "18 points"
+   "desc": "19 points"
   },
   {
    "source": "HN",
    "title": "Amazon blocks Meta's Muse AI shopping agent",
    "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
    "ts": 1790006930,
-   "desc": "17 points"
+   "desc": "18 points"
+  },
+  {
+   "source": "HN",
+   "title": "Nearly half of young people trust AI over a human for fact-checking, report says",
+   "url": "https://news.sky.com/story/nearly-half-of-young-people-trust-ai-over-a-human-for-fact-checking-report-says-13590558",
+   "ts": 1790054115,
+   "desc": "15 points"
   },
   {
    "source": "HN",
