@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-21T18:46:02.454485+00:00",
- "count": 532,
+ "generated_at": "2026-09-22T00:45:52.952375+00:00",
+ "count": 536,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 463,
+   "count": 467,
    "note": "49 账号"
   },
   {
@@ -171,6 +171,13 @@
   },
   {
    "source": "X @grok",
+   "title": "Try Grok 4.7 in Box",
+   "url": "https://x.com/grok/status/2102137366572159226",
+   "ts": 1790023578,
+   "desc": "Try Grok 4.7 in Box"
+  },
+  {
+   "source": "X @grok",
    "title": "Make your own film scene with Grok @imagine",
    "url": "https://x.com/grok/status/2101034875176509470",
    "ts": 1789760724,
@@ -294,13 +301,6 @@
    "url": "https://x.com/grok/status/2093443133615055332",
    "ts": 1787950712,
    "desc": "Grok 4.6 is now available across https://t.co/MaWv2moBxM, iOS, and Android.\n\nTry it for complex problems, agentic queries, or building apps! https://t.co/aPcxOpHAaE"
-  },
-  {
-   "source": "X @grok",
-   "title": "Linear triggers are now available on https://t.co/ISbWbJTSnF.  Connect @linear to triage issues, track work, and automatically start when an issue is assigned to you. https://t.co/pwvXdEUBQZ",
-   "url": "https://x.com/grok/status/2092699558220644789",
-   "ts": 1787773429,
-   "desc": "Linear triggers are now available on https://t.co/ISbWbJTSnF.\n\nConnect @linear to triage issues, track work, and automatically start when an issue is assigned to you. https://t.co/pwvXdEUBQZ"
   },
   {
    "source": "X @AIatMeta",
@@ -430,6 +430,27 @@
   },
   {
    "source": "X @huggingface",
+   "title": "RT @ClementDelangue: Training models is becoming easier and easier - just look at this and TRL - especially with agents!  You're missing ou…",
+   "url": "https://x.com/huggingface/status/2102165050232283548",
+   "ts": 1790030178,
+   "desc": "RT @ClementDelangue: Training models is becoming easier and easier - just look at this and TRL - especially with agents!\n\nYou're missing ou…"
+  },
+  {
+   "source": "X @huggingface",
+   "title": "RT @ClementDelangue: Banger! https://t.co/sKSaECLEpD",
+   "url": "https://x.com/huggingface/status/2102141942356230536",
+   "ts": 1790024669,
+   "desc": "RT @ClementDelangue: Banger! https://t.co/sKSaECLEpD"
+  },
+  {
+   "source": "X @huggingface",
+   "title": "RT @ClementDelangue: The number one trending model on HF is an open-source multilingual system 1 decision model, just a few days after Jev…",
+   "url": "https://x.com/huggingface/status/2102141871401124203",
+   "ts": 1790024652,
+   "desc": "RT @ClementDelangue: The number one trending model on HF is an open-source multilingual system 1 decision model, just a few days after Jev…"
+  },
+  {
+   "source": "X @huggingface",
    "title": "RT @mervenoyann: leaving a few beginner friendly guides for classifiers (normal and zero-shot) as well as where you can find them on the Hu…",
    "url": "https://x.com/huggingface/status/2102077549287297182",
    "ts": 1790009317,
@@ -548,25 +569,11 @@
    "desc": "RT @ClementDelangue: I only wear ties when I'm forced to go to DC 😅 (should we do HF ties btw?). Great chat with @alexanderburns @politico.…"
   },
   {
-   "source": "X @huggingface",
-   "title": "RT @evijit: So we actually built this!   Paper: https://t.co/S5ZuvmuL21 Demo: https://t.co/UVXQT8aaLV  We are actually looking for an org t…",
-   "url": "https://x.com/huggingface/status/2100686874696413675",
-   "ts": 1789677754,
-   "desc": "RT @evijit: So we actually built this! \n\nPaper: https://t.co/S5ZuvmuL21\nDemo: https://t.co/UVXQT8aaLV\n\nWe are actually looking for an org t…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @jeffboudier: The AI revolution will not be centralized. 🤗  📢 Calling all AI builders to San Francisco on Friday, October 16, one month…",
-   "url": "https://x.com/huggingface/status/2100336246698684786",
-   "ts": 1789594158,
-   "desc": "RT @jeffboudier: The AI revolution will not be centralized. 🤗\n\n📢 Calling all AI builders to San Francisco on Friday, October 16, one month…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @HuggingApps: hum anything, get a finished song 🎤  Hum-to-Song is an YuE2 LoRA that turns humming into full songs 🎼  hum in, a produced…",
-   "url": "https://x.com/huggingface/status/2100336192671871338",
-   "ts": 1789594145,
-   "desc": "RT @HuggingApps: hum anything, get a finished song 🎤\n\nHum-to-Song is an YuE2 LoRA that turns humming into full songs 🎼\n\nhum in, a produced…"
+   "source": "X @NousResearch",
+   "title": "RT @Teknium: Welcome back to Hermes Agent, Claude  New official plugin that uses Claude SDK without the tradeoffs to enable Claude Code sub…",
+   "url": "https://x.com/NousResearch/status/2102135429952671950",
+   "ts": 1790023116,
+   "desc": "RT @Teknium: Welcome back to Hermes Agent, Claude\n\nNew official plugin that uses Claude SDK without the tradeoffs to enable Claude Code sub…"
   },
   {
    "source": "X @NousResearch",
@@ -679,13 +686,6 @@
    "url": "https://x.com/NousResearch/status/2098825114926133358",
    "ts": 1789233876,
    "desc": "RT @Teknium: Check out @tonbistudio’s new series on maximizing Hermes Agent’s Desktop app!"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "RT @Teknium: Hermes Agent has just hit 3000 contributors.  Thank you to all of the developers who have worked to make hermes better for eve…",
-   "url": "https://x.com/NousResearch/status/2098800062583148593",
-   "ts": 1789227903,
-   "desc": "RT @Teknium: Hermes Agent has just hit 3000 contributors.\n\nThank you to all of the developers who have worked to make hermes better for eve…"
   },
   {
    "source": "X @deepseek_ai",
@@ -1473,6 +1473,13 @@
   },
   {
    "source": "X @opencode",
+   "title": "Union Alpha (stealth model) is free for the next week  - no data training - built for agentic coding - supports images  let's see what you can do",
+   "url": "https://x.com/opencode/status/2100236430890991782",
+   "ts": 1789570360,
+   "desc": "Union Alpha (stealth model) is free for the next week\n\n- no data training\n- built for agentic coding\n- supports images\n\nlet's see what you can do"
+  },
+  {
+   "source": "X @opencode",
    "title": "RT @thdxr: OpenCode found potential issues in Search for Extraterrestrial Intelligence software  BLISS scans radio telescope data to look f…",
    "url": "https://x.com/opencode/status/2100227798056989155",
    "ts": 1789568302,
@@ -1549,11 +1556,18 @@
    "desc": "GLM 5.3 Flash now gets twice the limits on OpenCode Go\n\nenjoy"
   },
   {
-   "source": "X @opencode",
-   "title": "we have a font  https://t.co/lx1mUBW86M",
-   "url": "https://x.com/opencode/status/2097373308706599170",
-   "ts": 1788887738,
-   "desc": "we have a font\n\nhttps://t.co/lx1mUBW86M"
+   "source": "X @commandcodeai",
+   "title": "MiMo V2.6 Pro &amp; Flash are live in Command Code 🐐  Available on all plans.   Command Code has the best usage in market for both models.  E.g. in $10 GOAT plan: • MiMo-V2.6 Flash $67 (6.7x usage) for 72hrs • MiMo-V2.6 Pro $20 (2x usage)  🐐",
+   "url": "https://x.com/CommandCodeAI/status/2102181151926534296",
+   "ts": 1790034017,
+   "desc": "MiMo V2.6 Pro &amp; Flash are live in Command Code 🐐\n\nAvailable on all plans. \n\nCommand Code has the best usage in market for both models.\n\nE.g. in $10 GOAT plan:\n• MiMo-V2.6 Flash $67 (6.7x usage) for 72hrs\n• MiMo-V2.6 Pro $20 (2x usage)\n\n🐐"
+  },
+  {
+   "source": "X @commandcodeai",
+   "title": "Beware of reverse engineered proxy scams.  Last week we caught a fraud ring that created ~40K fake accounts on our $1 Go plan and tried to push ~$450K of inference through them. We banned and reported every account and cut off their proxies.  The $1",
+   "url": "https://x.com/CommandCodeAI/status/2102120704267391349",
+   "ts": 1790019606,
+   "desc": "Beware of reverse engineered proxy scams.\n\nLast week we caught a fraud ring that created ~40K fake accounts on our $1 Go plan and tried to push ~$450K of inference through them. We banned and reported every account and cut off their proxies.\n\nThe $1 Go plan has helped thousands of students, developers, non-profits, and hobbyists get started with the Command Code harness and open models for almost"
   },
   {
    "source": "X @commandcodeai",
@@ -1647,11 +1661,46 @@
    "desc": "RT @CommandCodeAI: Mods are more powerful than plugins. \n\nCommand Code can build mods and modify any behavior from programmatic hooks to a…"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "RT @theCTO: something is not normal with @CommandCodeAI  I refactored our entire docs and only used 14% of the monthly limits  you're insan…",
-   "url": "https://x.com/CommandCodeAI/status/2099695311937781896",
-   "ts": 1789441347,
-   "desc": "RT @theCTO: something is not normal with @CommandCodeAI \nI refactored our entire docs and only used 14% of the monthly limits\n\nyou're insan…"
+   "source": "X @elonmusk",
+   "title": "RT @AlexFinn: Grok 4.7 just released and it's an EXCELLENT model  It was trained FOR Grok Bot  Meaning this is a fully agentic model traine…",
+   "url": "https://x.com/elonmusk/status/2102192595325559159",
+   "ts": 1790036746,
+   "desc": "RT @AlexFinn: Grok 4.7 just released and it's an EXCELLENT model\n\nIt was trained FOR Grok Bot\n\nMeaning this is a fully agentic model traine…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Cool",
+   "url": "https://x.com/elonmusk/status/2102188167860273661",
+   "ts": 1790035690,
+   "desc": "Cool"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Grok 4.7",
+   "url": "https://x.com/elonmusk/status/2102187423098642792",
+   "ts": 1790035513,
+   "desc": "Grok 4.7"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @XFreeze: Grok 4.7 xHigh is now at the top with just ONE point away from Claude Fable 5.1 Max on Artificial Analysis’ AA-Briefcase bench…",
+   "url": "https://x.com/elonmusk/status/2102167600692109421",
+   "ts": 1790030787,
+   "desc": "RT @XFreeze: Grok 4.7 xHigh is now at the top with just ONE point away from Claude Fable 5.1 Max on Artificial Analysis’ AA-Briefcase bench…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @ericzakariasson: and here’s the grok 4.7 model card. a few jumps vs 4.6 that stood out:  - Terminal-Bench: 20.3% → 38.0% - SWE-Marathon…",
+   "url": "https://x.com/elonmusk/status/2102107554578931980",
+   "ts": 1790016470,
+   "desc": "RT @ericzakariasson: and here’s the grok 4.7 model card. a few jumps vs 4.6 that stood out:\n\n- Terminal-Bench: 20.3% → 38.0%\n- SWE-Marathon…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @Tesla: “I’ve used FSD for like 90%+ of my miles since Saturday morning. Literally feels like magic. Has handled issues on the road bett…",
+   "url": "https://x.com/elonmusk/status/2102107404124999910",
+   "ts": 1790016435,
+   "desc": "RT @Tesla: “I’ve used FSD for like 90%+ of my miles since Saturday morning. Literally feels like magic. Has handled issues on the road bett…"
   },
   {
    "source": "X @elonmusk",
@@ -1750,41 +1799,6 @@
    "url": "https://x.com/elonmusk/status/2102082011233931762",
    "ts": 1790010380,
    "desc": "Grok 4.7 places @SpaceXAI as third, after Anthropic &amp; OpenAI, for agentic coding. \n\nWhen factoring in that Grok is significantly faster &amp; lower cost, it’s a great choice for your everyday workhorse."
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @XFreeze: SpaceXAI just released Grok 4.7  And it’s already showing a huge jump in multi-hour office work  Grok 4.7 outperforms GPT-6 As…",
-   "url": "https://x.com/elonmusk/status/2102072686293684710",
-   "ts": 1790008157,
-   "desc": "RT @XFreeze: SpaceXAI just released Grok 4.7\n\nAnd it’s already showing a huge jump in multi-hour office work\n\nGrok 4.7 outperforms GPT-6 As…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceXAI: Grok 4.7 is here.  It's a notable improvement over Grok 4.6 at the same price and speed. https://t.co/H3OTBbXyvO",
-   "url": "https://x.com/elonmusk/status/2102071839690252484",
-   "ts": 1790007955,
-   "desc": "RT @SpaceXAI: Grok 4.7 is here.\n\nIt's a notable improvement over Grok 4.6 at the same price and speed. https://t.co/H3OTBbXyvO"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @JackPosobiec: They're rioting in Austin against the US govt while flying foreign flags",
-   "url": "https://x.com/elonmusk/status/2102068833729052707",
-   "ts": 1790007239,
-   "desc": "RT @JackPosobiec: They're rioting in Austin against the US govt while flying foreign flags"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @jgebbia: America’s Golden Age will not simply be declared. It will be designed.",
-   "url": "https://x.com/elonmusk/status/2102068523115700306",
-   "ts": 1790007165,
-   "desc": "RT @jgebbia: America’s Golden Age will not simply be declared. It will be designed."
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satellites intended for operational use",
-   "url": "https://x.com/elonmusk/status/2102068280156414171",
-   "ts": 1790007107,
-   "desc": "In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satellites intended for operational use"
   },
   {
    "source": "X @sama",
@@ -1914,6 +1928,13 @@
   },
   {
    "source": "X @RayDalio",
+   "title": "Sometimes people mistake generosity for not being fair.   For example, when Bridgewater arranged for a bus to shuttle people who live in New York City to our Connecticut office, one employee asked, \"It seems it would be fair to also compensate those",
+   "url": "https://x.com/RayDalio/status/2102140821269033313",
+   "ts": 1790024402,
+   "desc": "Sometimes people mistake generosity for not being fair. \n\nFor example, when Bridgewater arranged for a bus to shuttle people who live in New York City to our Connecticut office, one employee asked, \"It seems it would be fair to also compensate those of us who spend hundreds of dollars on gas each month, particularly in light of the New York City bus.\" \n\nThis line of thinking mistakes an act of gen"
+  },
+  {
+   "source": "X @RayDalio",
    "title": "Credit is the most important part of the economy—and probably the least understood. It's the biggest and most volatile part.  When borrowers receive credit, they increase their spending. Because one person’s spending is another person’s income, incre",
    "url": "https://x.com/RayDalio/status/2102058427576889484",
    "ts": 1790004758,
@@ -2037,13 +2058,6 @@
    "url": "https://x.com/RayDalio/status/2097722434346496346",
    "ts": 1788970976,
    "desc": "Almost every technology boom creates a bubble, then a bust, whether it’s railroads, the Industrial Revolution, or the late 1920s.\n\nThink about the late '20s: electricity, refrigeration, telephones, radios, airplanes, and cars were all emerging at once. Naturally, people wanted to invest in these miracles.\n\nThe danger is that people fail to distinguish the miracle from the investment. A technology"
-  },
-  {
-   "source": "X @RayDalio",
-   "title": "To have a good relationship, you must be clear with each other about what the quid pro quo is--what is generous, what is fair, and what is just plain taking advantage--and how you will be with each other. #principleoftheday https://t.co/z7yFLKEeMm",
-   "url": "https://x.com/RayDalio/status/2097526574018949631",
-   "ts": 1788924280,
-   "desc": "To have a good relationship, you must be clear with each other about what the quid pro quo is--what is generous, what is fair, and what is just plain taking advantage--and how you will be with each other. #principleoftheday https://t.co/z7yFLKEeMm"
   },
   {
    "source": "X @karpathy",
@@ -2691,6 +2705,13 @@
   },
   {
    "source": "X @AndrewYNg",
+   "title": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaig",
+   "url": "https://x.com/AndrewYNg/status/2102140576498065758",
+   "ts": 1790024343,
+   "desc": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaign — has drummed up considerable fear. I worry that it represents a setback for our field.\n\nI have written frequently that fears of AI are overhyped. A"
+  },
+  {
+   "source": "X @AndrewYNg",
    "title": "With AI Engineering skills, you actively shape the build: You influence what gets built, and drive the build loop. Here're key skills to do this. https://t.co/sysOYdzuZY",
    "url": "https://x.com/AndrewYNg/status/2098459474608672916",
    "ts": 1789146700,
@@ -2814,13 +2835,6 @@
    "url": "https://x.com/AndrewYNg/status/2061477558693384395",
    "ts": 1780329525,
    "desc": "One of the new, buzzy jobs in Silicon Valley is the AI Forward Deployed Engineer (FDE), an engineer who is embedded within a client organization to help customize solutions, such as building and tuning agentic workflows that suit the client’s particular needs. I’ve heard from people who are wondering anew about the FDE career path since OpenAI and Anthropic started building new teams to place FDEs"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "Memorial Day. Today we honor those who gave everything to defend our democracy. Democracy isn't guaranteed; it's a precious inheritance that requires our constant care. 🇺🇸",
-   "url": "https://x.com/AndrewYNg/status/2059006941012295935",
-   "ts": 1779740483,
-   "desc": "Memorial Day. Today we honor those who gave everything to defend our democracy. Democracy isn't guaranteed; it's a precious inheritance that requires our constant care. 🇺🇸"
   },
   {
    "source": "X @drfeifei",
@@ -3013,6 +3027,27 @@
   },
   {
    "source": "X @natolambert",
+   "title": "Strong agree. There’s way less of this than I would expect — partially due to the fact that making a high quality environment usually involves fairly expensive verification (testing strong models). Still, there can be much more.",
+   "url": "https://x.com/natolambert/status/2102151245318254849",
+   "ts": 1790026887,
+   "desc": "Strong agree. There’s way less of this than I would expect — partially due to the fact that making a high quality environment usually involves fairly expensive verification (testing strong models). Still, there can be much more."
+  },
+  {
+   "source": "X @natolambert",
+   "title": "Real open model nerds knew Xiaomi is cooking with MiMo! An open RL dashboard for the top scoring open model is aura. https://t.co/p5HHRK3EmQ",
+   "url": "https://x.com/natolambert/status/2102126846737285630",
+   "ts": 1790021070,
+   "desc": "Real open model nerds knew Xiaomi is cooking with MiMo! An open RL dashboard for the top scoring open model is aura. https://t.co/p5HHRK3EmQ"
+  },
+  {
+   "source": "X @natolambert",
+   "title": "RT @binarybits: I really appreciated this reality check from @natolambert. A lot of AI people underestimate how much the physical world mat…",
+   "url": "https://x.com/natolambert/status/2102123542947025182",
+   "ts": 1790020282,
+   "desc": "RT @binarybits: I really appreciated this reality check from @natolambert. A lot of AI people underestimate how much the physical world mat…"
+  },
+  {
+   "source": "X @natolambert",
    "title": "I don’t agree exactly on the assumption that full RSI will work, but this is an excellent video summarizing where we are at. https://t.co/8uRLYYqYvV",
    "url": "https://x.com/natolambert/status/2101782726541971660",
    "ts": 1789939025,
@@ -3031,13 +3066,6 @@
    "url": "https://x.com/natolambert/status/2101289380853784814",
    "ts": 1789821403,
    "desc": "Seems like one of the most important research problems for CS academics is llm-supervised peer review. If we don’t solve it the academic institutions are toast. \n\nIt seems easier than building new institutions."
-  },
-  {
-   "source": "X @natolambert",
-   "title": "Happy to sign this. Truly independent evaluation and oversight of frontier AI is a crucial issue. I think one of the biggest bottlenecks is finding people with the technical capabilities and that high bar of independence.  AI Eval Forum is a good gro",
-   "url": "https://x.com/natolambert/status/2100951110387192272",
-   "ts": 1789740753,
-   "desc": "Happy to sign this. Truly independent evaluation and oversight of frontier AI is a crucial issue. I think one of the biggest bottlenecks is finding people with the technical capabilities and that high bar of independence.\n\nAI Eval Forum is a good group to build initial momentum!"
   },
   {
    "source": "X @thsottiaux",
@@ -3342,6 +3370,13 @@
   },
   {
    "source": "Bluesky Simon Willison",
+   "title": "Put together some notes on Jev and the new category of system one aka decision models simonwillison.net/2026/Sep/21/...",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mw2tsop42c2u",
+   "ts": 1790032600,
+   "desc": "Put together some notes on Jev and the new category of system one aka decision models simonwillison.net/2026/Sep/21/..."
+  },
+  {
+   "source": "Bluesky Simon Willison",
    "title": "Not the same as exciting, good, or lives-up-to-the-hype",
    "url": "https://bsky.app/profile/simonwillison.net/post/3mvuz5d3uik2l",
    "ts": 1789832167,
@@ -3395,13 +3430,6 @@
    "url": "https://bsky.app/profile/simonwillison.net/post/3mvsx7qvgv225",
    "ts": 1789761382,
    "desc": "I wonder if pieces in WSJ are more likely to get flagged as AI because the WSJ have a team professionally copyeditors to ensure everything exactly fits house grammatical style\n\nDo other WSJ opinion pieces come out as 100% AI too?"
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "There is absolutely no way those agents/velociraptors are going to escape containment and bite off your head",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mvswf6zcjc25",
-   "ts": 1789760491,
-   "desc": "There is absolutely no way those agents/velociraptors are going to escape containment and bite off your head"
   },
   {
    "source": "Bluesky Nathan Lambert",
@@ -3475,6 +3503,48 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "Sorry, I meant it was commentary on the games in the Fallout series.",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mw2yjhec5k26",
+   "ts": 1790037659,
+   "desc": "Sorry, I meant it was commentary on the games in the Fallout series."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "AI can be a really wonderful tool for exploring topics far from coding.  I had Claude Fable 5.1 put together an annotated guide to Eliot's poem \"The Wasteland,\" with multiple pathways through the poem",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mw2usvvn6c26",
+   "ts": 1790033681,
+   "desc": "AI can be a really wonderful tool for exploring topics far from coding.\n\nI had Claude Fable 5.1 put together an annotated guide to Eliot's poem \"The Wasteland,\" with multiple pathways through the poem, recordings, scholarship, etc. As an Eliot fan, I am quite impressed. the-waste-land.netlify.app"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "(I mean that the AI companies will not be allowed to simply substitute for doctors & lawyers and will need to negotiate how they operate in a world of overlapping social and professional ties and obli",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mw2nl5bdf226",
+   "ts": 1790025904,
+   "desc": "(I mean that the AI companies will not be allowed to simply substitute for doctors & lawyers and will need to negotiate how they operate in a world of overlapping social and professional ties and obligations that go beyond tasks, just as they found they need to do in math)"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "I mean that the AI companies will not be allowed to substitute for doctors & lawyers, even if they are better at some/all tasks than doctors and lawyers, as jobs are also socially determined and have",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mw2mf73k3s26",
+   "ts": 1790024631,
+   "desc": "I mean that the AI companies will not be allowed to substitute for doctors & lawyers, even if they are better at some/all tasks than doctors and lawyers, as jobs are also socially determined and have political & social ties that go beyond the job function. See Abbott's \"Theory of the Professions\""
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "I mean that the AI companies will not be able to substitute for doctors & lawyers, even if they are better at some key tasks than doctors and lawyers, because jobs are also socially determined and hav",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mw2mb4nkpk26",
+   "ts": 1790024494,
+   "desc": "I mean that the AI companies will not be able to substitute for doctors & lawyers, even if they are better at some key tasks than doctors and lawyers, because jobs are also socially determined and have political & social ties that go beyond the job function. See Abbott's \"Theory of the Professions\""
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "OpenAI \"has now resolved more than 100 long-standing open problems across most areas of mathematics,\" and is waiting to release them until after discussions with the math community  The same thing wil",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mw2l5jyq7226",
+   "ts": 1790023301,
+   "desc": "OpenAI \"has now resolved more than 100 long-standing open problems across most areas of mathematics,\" and is waiting to release them until after discussions with the math community\n\nThe same thing will likely happen, but more so, with the Bar, the AMA & other professions.  openai.com/index/adviso..."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "It may be that people also feel safer giving their personal data to Meta (since they already use it) than to other AI companies.  If you do decide to use Muse, a reminder that you can turn off train o",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvzuxeswb226",
    "ts": 1789999471,
@@ -3502,95 +3572,67 @@
    "desc": "Reason for the revision"
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Back in July, there was a report that got a lot of attention on BlueSky that Waymo was more dangerous than NYC for-hire vehicles. The analysis turned out to be wrong and the updated report finds they",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvy6rl3wxk22",
-   "ts": 1789941295,
-   "desc": "Back in July, there was a report that got a lot of attention on BlueSky that Waymo was more dangerous than NYC for-hire vehicles. The analysis turned out to be wrong and the updated report finds they are much safer. Good that they updated with new data, though www.openplans.org/how-for-hire..."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Yes, I have voice. md files. Yes, I have agents doing final passes as a reader. Yes, I have other agents specifically looking for LLM language. Yes, I have different models from the model family with",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvxrwlbxv222",
-   "ts": 1789927504,
-   "desc": "Yes, I have voice. md files. Yes, I have agents doing final passes as a reader. Yes, I have other agents specifically looking for LLM language. Yes, I have different models from the model family with different approaches going over user facing text. It still isn't enough."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "It is ironic that the thing that is now most annoying about long-running agentic tasks with Large Language Models isn't coding or errors or hallucinations, but the fact that their language gets worse",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvxrv6krzs22",
-   "ts": 1789927457,
-   "desc": "It is ironic that the thing that is now most annoying about long-running agentic tasks with Large Language Models isn't coding or errors or hallucinations, but the fact that their language gets worse due to drift & cross-agent talk as a task goes on\n\nIts in your the name! Just write better already!"
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Worth trying without spoilers. I asked Fable: \"I want you to create a graphically beautiful game that is about zooming out... make surprising reveals the game zooms out\"  I gave no other directions an",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvvnm3bevs2u",
-   "ts": 1789854137,
-   "desc": "Worth trying without spoilers. I asked Fable: \"I want you to create a graphically beautiful game that is about zooming out... make surprising reveals the game zooms out\"\n\nI gave no other directions and the results are engaging and strange (if uneven) and short. Play: play-umbra.netlify.app"
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "I did check but if you want to insist I am lying no matter what I did this is not going to be productive",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvvibjaob22b",
-   "ts": 1789848414,
-   "desc": "I did check but if you want to insist I am lying no matter what I did this is not going to be productive"
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "The failure is a bit odd. Just did the same in GPT Voice and with thinking turned on it got it right.",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mvvhspfjkk2f",
-   "ts": 1789847917,
-   "desc": "The failure is a bit odd. Just did the same in GPT Voice and with thinking turned on it got it right."
-  },
-  {
    "source": "HN",
    "title": "AI and the Destruction of the Creative Commons",
    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
    "ts": 1789898871,
-   "desc": "233 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-   "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-   "ts": 1789964924,
-   "desc": "144 points"
+   "desc": "235 points"
   },
   {
    "source": "HN",
    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
    "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
    "ts": 1789999849,
-   "desc": "142 points"
+   "desc": "208 points"
   },
   {
    "source": "HN",
-   "title": "Don't Use AI to Write",
-   "url": "https://paulbakker.io/writing/no-ai-for-writing/",
-   "ts": 1789980884,
-   "desc": "120 points"
+   "title": "US halts flights at busy East Coast airports, says fiber line cut",
+   "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+   "ts": 1790016119,
+   "desc": "188 points"
   },
   {
    "source": "HN",
-   "title": "If AI coding is lowering your code quality, you're not managing quality right",
-   "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-   "ts": 1789904230,
-   "desc": "112 points"
-  },
-  {
-   "source": "HN",
-   "title": "Can you tell which images are AI-generated?",
-   "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-   "ts": 1789858954,
-   "desc": "109 points"
+   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+   "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+   "ts": 1789964924,
+   "desc": "150 points"
   },
   {
    "source": "HN",
    "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
    "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
    "ts": 1790010023,
-   "desc": "84 points"
+   "desc": "140 points"
+  },
+  {
+   "source": "HN",
+   "title": "Don't Use AI to Write",
+   "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+   "ts": 1789980884,
+   "desc": "136 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+   "url": "https://linear.app/now/ci-bottleneck-reworked",
+   "ts": 1790018613,
+   "desc": "126 points"
+  },
+  {
+   "source": "HN",
+   "title": "If AI coding is lowering your code quality, you're not managing quality right",
+   "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+   "ts": 1789904230,
+   "desc": "118 points"
+  },
+  {
+   "source": "HN",
+   "title": "Frontier AI on Your Own Hardware",
+   "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+   "ts": 1790016781,
+   "desc": "92 points"
   },
   {
    "source": "HN",
@@ -3611,7 +3653,7 @@
    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
    "url": "https://github.com/aru-labs/lossless-memory",
    "ts": 1789993697,
-   "desc": "46 points"
+   "desc": "56 points"
   },
   {
    "source": "HN",
@@ -3636,16 +3678,16 @@
   },
   {
    "source": "HN",
-   "title": "OpenAI and Anthropic oversold AI security breaches",
-   "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
-   "ts": 1789847968,
-   "desc": "38 points"
-  },
-  {
-   "source": "HN",
    "title": "Can I Let My AI Agent Run on Shabbat?",
    "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
    "ts": 1789956345,
+   "desc": "36 points"
+  },
+  {
+   "source": "HN",
+   "title": "Big AI to humanity: drop dead",
+   "url": "https://matthewbutterick.com/chron/drop-dead.html",
+   "ts": 1790011399,
    "desc": "35 points"
   },
   {
@@ -3657,10 +3699,10 @@
   },
   {
    "source": "HN",
-   "title": "AI in schools – The choice we keep making",
-   "url": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
-   "ts": 1789858539,
-   "desc": "29 points"
+   "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
+   "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
+   "ts": 1789992436,
+   "desc": "31 points"
   },
   {
    "source": "HN",
@@ -3668,6 +3710,20 @@
    "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
    "ts": 1789942936,
    "desc": "25 points"
+  },
+  {
+   "source": "HN",
+   "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+   "ts": 1790015636,
+   "desc": "24 points"
+  },
+  {
+   "source": "HN",
+   "title": "Do not fear AI. Fear AI companies",
+   "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+   "ts": 1790030431,
+   "desc": "23 points"
   },
   {
    "source": "HN",
@@ -3692,38 +3748,24 @@
   },
   {
    "source": "HN",
-   "title": "Show HN: I created an open source locally usable full fledged AI platform",
-   "url": "https://github.com/theguysudo/ENZO",
-   "ts": 1789861655,
-   "desc": "16 points"
-  },
-  {
-   "source": "HN",
-   "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
-   "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
-   "ts": 1789992436,
-   "desc": "16 points"
-  },
-  {
-   "source": "HN",
-   "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-   "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
-   "ts": 1789856548,
-   "desc": "16 points"
+   "title": "Boomers love making AI images of their grandkids. Millennial parents hate it",
+   "url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
+   "ts": 1790015405,
+   "desc": "19 points"
   },
   {
    "source": "HN",
    "title": "Amazon blocks Meta's Muse AI shopping agent",
    "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
    "ts": 1790006930,
-   "desc": "14 points"
+   "desc": "16 points"
   },
   {
    "source": "HN",
    "title": "Flock Partnered with Nonprofit That Uses AI to Rally Public Support",
    "url": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
    "ts": 1789953833,
-   "desc": "14 points"
+   "desc": "15 points"
   },
   {
    "source": "HN",
@@ -3738,20 +3780,6 @@
    "url": "https://www.youtube.com/watch?v=M0cWcAIeOyU",
    "ts": 1789928299,
    "desc": "12 points"
-  },
-  {
-   "source": "HN",
-   "title": "The president wanted to unleash AI. Then came Anthropic",
-   "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
-   "ts": 1789963291,
-   "desc": "12 points"
-  },
-  {
-   "source": "HN",
-   "title": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-   "url": "https://faceanalysisai.com/",
-   "ts": 1789894115,
-   "desc": "11 points"
   }
  ]
 }
