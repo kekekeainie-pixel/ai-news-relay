@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-23T06:46:37.784252+00:00",
- "count": 539,
+ "generated_at": "2026-09-23T12:46:39.707797+00:00",
+ "count": 537,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 470,
+   "count": 468,
    "note": "49 账号"
   },
   {
@@ -29,13 +29,6 @@
   }
  ],
  "items": [
-  {
-   "source": "X @OpenAI",
-   "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.  Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.  https://t.co/RPvGV3ptNr",
-   "url": "https://x.com/OpenAI/status/2102460995180663204",
-   "ts": 1790100737,
-   "desc": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.\n\nBoth are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.\n\nhttps://t.co/RPvGV3ptNr"
-  },
   {
    "source": "X @OpenAI",
    "title": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments with deep levels of access across training, evaluation, and deployment.  That access should enable third party assessors to challenge our assumptions,",
@@ -724,6 +717,13 @@
   },
   {
    "source": "X @Alibaba_Qwen",
+   "title": "⚡ Meet Qwen-Audio-3.1! ASR, TTS & Realtime are fully upgraded, joined by two new models: TTS-Next for audio creation and ASR-Next for audio understanding.  Five models, one complete audio stack: understanding, generation, interaction & creation.   Pl",
+   "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+   "ts": 1790154683,
+   "desc": "⚡ Meet Qwen-Audio-3.1! ASR, TTS & Realtime are fully upgraded, joined by two new models: TTS-Next for audio creation and ASR-Next for audio understanding.\n\nFive models, one complete audio stack: understanding, generation, interaction & creation. \n\nPlus big price cuts across the lineup: TTS ~70% off, Realtime ~85% off, and ASR up to 95% off.\n\nHighlights: 🥳\n- ASR: stronger multilingual & dialect rec"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
    "title": "Thanks @arena for the recognition! 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Image Edit and Text-to-Image Arenas. Try it now and show us what you create! 🎨",
    "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
    "ts": 1790126684,
@@ -1270,6 +1270,20 @@
   },
   {
    "source": "X @TencentHunyuan",
+   "title": "RT @wildmindai: Tencent dropped Hy Image3.5 preview!   Great improvement and nice quality. Much better than HY Image 3.0 Instruct.  same ap…",
+   "url": "https://x.com/TencentHunyuan/status/2102720573432582504",
+   "ts": 1790162626,
+   "desc": "RT @wildmindai: Tencent dropped Hy Image3.5 preview! \n\nGreat improvement and nice quality. Much better than HY Image 3.0 Instruct.\n\nsame ap…"
+  },
+  {
+   "source": "X @TencentHunyuan",
+   "title": "Free for two weeks！Hy Image3.5 preview is live on OnSolo. Short drama character sheets. Full-motion video game assets. Keyframes. Characters hold across every episode. Edits refine instead of restarting.",
+   "url": "https://x.com/TencentHunyuan/status/2102653332888400325",
+   "ts": 1790146594,
+   "desc": "Free for two weeks！Hy Image3.5 preview is live on OnSolo. Short drama character sheets. Full-motion video game assets. Keyframes. Characters hold across every episode. Edits refine instead of restarting."
+  },
+  {
+   "source": "X @TencentHunyuan",
    "title": "ComfyUI ✖️ Hy Image3.5 preview",
    "url": "https://x.com/TencentHunyuan/status/2102588771829195229",
    "ts": 1790131202,
@@ -1379,20 +1393,6 @@
    "url": "https://x.com/TencentHunyuan/status/2096792379462434884",
    "ts": 1788749234,
    "desc": "RT @karminski3: 给大家带来 Hy4 preview 实测!\n\n这次送外卖Agent测试终于下岗啦! 取而代之的是更复杂的多智能体测试, AI不但要控制游戏角色来打怪, 还要控制召唤出拉的SubAgent来协作!\n而 Hy4 甚至在测试中学会了团战和堵门打法!…"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "RT @ivanfioravanti: Sherry quantization method by Tencent, combined with large Hy4 Preview is able to deliver incredible results! 1.5TB to…",
-   "url": "https://x.com/TencentHunyuan/status/2095437947105693759",
-   "ts": 1788426312,
-   "desc": "RT @ivanfioravanti: Sherry quantization method by Tencent, combined with large Hy4 Preview is able to deliver incredible results!\n1.5TB to…"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "One more thing about Hy4 preview that is particularly interesting. In AI research. Hy4 preview found inference bottlenecks on its own and lifted e2e throughput 31.8% via operator fusion and comms opts — stable across context lengths and concurrency.",
-   "url": "https://x.com/TencentHunyuan/status/2094730117541155001",
-   "ts": 1788257552,
-   "desc": "One more thing about Hy4 preview that is particularly interesting.\nIn AI research. Hy4 preview found inference bottlenecks on its own and lifted e2e throughput 31.8% via operator fusion and comms opts — stable across context lengths and concurrency.\nMORE ON: https://t.co/MXVjtIFxeh"
   },
   {
    "source": "X @cursor_ai",
@@ -1669,6 +1669,27 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @Starlink: 日本でのStarlinkの導入が、かつてないほど簡単になりました。  一部の地域では、ホーム向けの「レンタルMiniキット」の初期費用が0円になります。日本全国の大半の地域でスピーディに設置でき、いつでも最適なパフォーマンスを発揮します。… http…",
+   "url": "https://x.com/elonmusk/status/2102652267015061546",
+   "ts": 1790146340,
+   "desc": "RT @Starlink: 日本でのStarlinkの導入が、かつてないほど簡単になりました。  一部の地域では、ホーム向けの「レンタルMiniキット」の初期費用が0円になります。日本全国の大半の地域でスピーディに設置でき、いつでも最適なパフォーマンスを発揮します。… http…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @poteto: the Grok @Bot desktop app just got even faster! we shipped 53 perf fixes over the past few days:    • reconnecting after a flak…",
+   "url": "https://x.com/elonmusk/status/2102651819784827092",
+   "ts": 1790146233,
+   "desc": "RT @poteto: the Grok @Bot desktop app just got even faster! we shipped 53 perf fixes over the past few days:  \n\n• reconnecting after a flak…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @cb_doge: Fitch gives Tesla its first-ever BBB investment-grade credit rating.  Fitch highlighted Tesla’s EV leadership, strong profitab…",
+   "url": "https://x.com/elonmusk/status/2102651780211617814",
+   "ts": 1790146224,
+   "desc": "RT @cb_doge: Fitch gives Tesla its first-ever BBB investment-grade credit rating.\n\nFitch highlighted Tesla’s EV leadership, strong profitab…"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @cb_doge: BREAKING: Elon Musk on Optimus, and a future where money may not matter in his new interview with CCTV:  “If you think like St…",
    "url": "https://x.com/elonmusk/status/2102643606276477058",
    "ts": 1790144275,
@@ -1787,34 +1808,6 @@
    "desc": "lol"
   },
   {
-   "source": "X @elonmusk",
-   "title": "RT @GuntherEagleman: 🚨 WTF! New York dumped the literacy exam for TEACHERS, because only 61% could pass it.   Not the kids… The teachers!…",
-   "url": "https://x.com/elonmusk/status/2102423686506508329",
-   "ts": 1790091842,
-   "desc": "RT @GuntherEagleman: 🚨 WTF! New York dumped the literacy exam for TEACHERS, because only 61% could pass it. \n\nNot the kids… The teachers!…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Grok 4.7 doing real engineering work at Tesla",
-   "url": "https://x.com/elonmusk/status/2102423241897705926",
-   "ts": 1790091736,
-   "desc": "Grok 4.7 doing real engineering work at Tesla"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Grok 4.7",
-   "url": "https://x.com/elonmusk/status/2102422703798137219",
-   "ts": 1790091608,
-   "desc": "Grok 4.7"
-  },
-  {
-   "source": "X @sama",
-   "title": "argh i meant VOICE not video :(  sorry to dissapoint",
-   "url": "https://x.com/sama/status/2102512794235207758",
-   "ts": 1790113087,
-   "desc": "argh i meant VOICE not video :(\n\nsorry to dissapoint"
-  },
-  {
    "source": "X @sama",
    "title": "Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space.",
    "url": "https://x.com/sama/status/2102469008079679640",
@@ -1827,13 +1820,6 @@
    "url": "https://x.com/sama/status/2102468713866055872",
    "ts": 1790102578,
    "desc": "michelle embodies this as much as anyone\n\nopenai is so, so lucky to have benefited from everything she has done so far and i think people will be quite pleased to see what she + team have cooking next!"
-  },
-  {
-   "source": "X @sama",
-   "title": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).  And then we want you all to come up with great ideas and build them and to get to be happy users. The best id",
-   "url": "https://x.com/sama/status/2102466603111551187",
-   "ts": 1790102074,
-   "desc": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).\n\nAnd then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all."
   },
   {
    "source": "X @sama",
@@ -3391,6 +3377,20 @@
   },
   {
    "source": "Bluesky Simon Willison",
+   "title": "I'm not using Max in Claude Code",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mw6qkdfqzc2w",
+   "ts": 1790166537,
+   "desc": "I'm not using Max in Claude Code"
+  },
+  {
+   "source": "Bluesky Simon Willison",
+   "title": "These models are trained on images as well - they can accept images as input because they've seen millions of images in their training data  I find the argument that promotional photos of bikes always",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mw6oo3h2kc2m",
+   "ts": 1790164516,
+   "desc": "These models are trained on images as well - they can accept images as input because they've seen millions of images in their training data\n\nI find the argument that promotional photos of bikes always show the chain pretty convincing"
+  },
+  {
+   "source": "Bluesky Simon Willison",
    "title": "On the evening of October 14, @simonwillison.net and I are hosting a small, informal chat about agentic engineering and \"agentic show and tell\"  in San Francisco.  Details at: blog.fsck.com/2026/09/22",
    "url": "https://bsky.app/profile/simonwillison.net/post/3mw5qn5rijs2l",
    "ts": 1790132273,
@@ -3437,20 +3437,6 @@
    "url": "https://bsky.app/profile/simonwillison.net/post/3mvuufd33qs2r",
    "ts": 1789827067,
    "desc": "Skeptical geneticist: \"pfft, it's just frog DNA. And they deliberately let them eat people for the marketing.\""
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "Imagine being a geneticist who only has positive things to say about Jurassic Park",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mvupod447c2z",
-   "ts": 1789822000,
-   "desc": "Imagine being a geneticist who only has positive things to say about Jurassic Park"
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "Dennis Nedry works for Irregular",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mvttj7r2nk2j",
-   "ts": 1789791764,
-   "desc": "Dennis Nedry works for Irregular"
   },
   {
    "source": "Bluesky Nathan Lambert",
@@ -3597,14 +3583,14 @@
    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
    "ts": 1790103818,
-   "desc": "579 points"
+   "desc": "717 points"
   },
   {
    "source": "HN",
    "title": "AI Has No Wisdom and Neither Will You",
    "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
    "ts": 1790079069,
-   "desc": "374 points"
+   "desc": "381 points"
   },
   {
    "source": "HN",
@@ -3632,7 +3618,7 @@
    "title": "Frontier AI on Your Own Hardware",
    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
    "ts": 1790016781,
-   "desc": "179 points"
+   "desc": "181 points"
   },
   {
    "source": "HN",
@@ -3640,13 +3626,6 @@
    "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
    "ts": 1790010023,
    "desc": "151 points"
-  },
-  {
-   "source": "HN",
-   "title": "Don't Use AI to Write",
-   "url": "https://paulbakker.io/writing/no-ai-for-writing/",
-   "ts": 1789980884,
-   "desc": "146 points"
   },
   {
    "source": "HN",
@@ -3660,28 +3639,21 @@
    "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
    "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
    "ts": 1790085176,
-   "desc": "82 points"
+   "desc": "84 points"
   },
   {
    "source": "HN",
    "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
    "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
    "ts": 1790083649,
-   "desc": "74 points"
+   "desc": "75 points"
   },
   {
    "source": "HN",
    "title": "JetBrains Air: A System of Products for Agentic Software Development",
    "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
    "ts": 1790074858,
-   "desc": "70 points"
-  },
-  {
-   "source": "HN",
-   "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-   "url": "https://github.com/aru-labs/lossless-memory",
-   "ts": 1789993697,
-   "desc": "66 points"
+   "desc": "72 points"
   },
   {
    "source": "HN",
@@ -3692,24 +3664,17 @@
   },
   {
    "source": "HN",
-   "title": "The End Of Upward Mobility – AI is coming for the meritocracy",
-   "url": "https://www.noemamag.com/the-end-of-upward-mobility/",
-   "ts": 1789992436,
-   "desc": "63 points"
-  },
-  {
-   "source": "HN",
    "title": "Show HN: Training a model to identify AI web content from structure alone",
    "url": "https://arxiv.org/abs/2609.15369",
    "ts": 1790082049,
-   "desc": "57 points"
+   "desc": "61 points"
   },
   {
    "source": "HN",
    "title": "The new CC, an AI agent built for families",
    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
    "ts": 1790120767,
-   "desc": "44 points"
+   "desc": "50 points"
   },
   {
    "source": "HN",
@@ -3720,6 +3685,13 @@
   },
   {
    "source": "HN",
+   "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+   "url": "https://ai-rete-rag.com/",
+   "ts": 1790093706,
+   "desc": "37 points"
+  },
+  {
+   "source": "HN",
    "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
    "url": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday",
    "ts": 1790041406,
@@ -3727,17 +3699,10 @@
   },
   {
    "source": "HN",
-   "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-   "url": "https://ai-rete-rag.com/",
-   "ts": 1790093706,
-   "desc": "36 points"
-  },
-  {
-   "source": "HN",
-   "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
-   "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
-   "ts": 1789977558,
-   "desc": "32 points"
+   "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
+   "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+   "ts": 1790161310,
+   "desc": "35 points"
   },
   {
    "source": "HN",
@@ -3752,6 +3717,13 @@
    "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
    "ts": 1790030431,
    "desc": "31 points"
+  },
+  {
+   "source": "HN",
+   "title": "The ruble markup on AI tokens",
+   "url": "https://infertrail.com/blog/ruble-markup-ai-tokens/",
+   "ts": 1790119811,
+   "desc": "28 points"
   },
   {
    "source": "HN",
@@ -3783,6 +3755,13 @@
   },
   {
    "source": "HN",
+   "title": "Amazon blocks Meta's Muse AI shopping agent",
+   "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
+   "ts": 1790006930,
+   "desc": "19 points"
+  },
+  {
+   "source": "HN",
    "title": "Boomers love making AI images of their grandkids. Millennial parents hate it",
    "url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
    "ts": 1790015405,
@@ -3790,9 +3769,9 @@
   },
   {
    "source": "HN",
-   "title": "Amazon blocks Meta's Muse AI shopping agent",
-   "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
-   "ts": 1790006930,
+   "title": "Trump says US will henceforth call AI 'super intelligence'",
+   "url": "https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/",
+   "ts": 1790124368,
    "desc": "18 points"
   },
   {
@@ -3801,6 +3780,13 @@
    "url": "https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence/",
    "ts": 1790098859,
    "desc": "18 points"
+  },
+  {
+   "source": "HN",
+   "title": "If you start writing today, there's no way to know if you can write without AI",
+   "url": "https://www.ssp.sh/brain/ai-writing/",
+   "ts": 1790089785,
+   "desc": "16 points"
   }
  ]
 }
