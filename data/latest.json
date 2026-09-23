@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-22T18:44:18.008546+00:00",
- "count": 544,
+ "generated_at": "2026-09-23T00:45:37.053327+00:00",
+ "count": 539,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 475,
+   "count": 470,
    "note": "49 账号"
   },
   {
@@ -29,20 +29,6 @@
   }
  ],
  "items": [
-  {
-   "source": "X @OpenAI",
-   "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.  Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.  https://t.co/RPvGV3ptNr",
-   "url": "https://x.com/OpenAI/status/2102460995180663204",
-   "ts": 1790100737,
-   "desc": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.\n\nBoth are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.\n\nhttps://t.co/RPvGV3ptNr"
-  },
-  {
-   "source": "X @OpenAI",
-   "title": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.  GPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.  We’ve also made caching and",
-   "url": "https://x.com/OpenAI/status/2102460975790137662",
-   "ts": 1790100733,
-   "desc": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.\n\nWe’ve also made caching and inference more efficient, and we’re passing the savings directly to you: 50% lower API prices for Sol and Luna compared with GPT‑5.6 promotional prici"
-  },
   {
    "source": "X @OpenAI",
    "title": "As part of our efforts to pace the frontier, we’re committed to supporting independent assessments with deep levels of access across training, evaluation, and deployment.  That access should enable third party assessors to challenge our assumptions,",
@@ -1445,6 +1431,13 @@
   },
   {
    "source": "X @opencode",
+   "title": "MiMo V2.6 Flash is free for the next week  Both Flash and Pro are also available in Go",
+   "url": "https://x.com/opencode/status/2102145730999730611",
+   "ts": 1790025572,
+   "desc": "MiMo V2.6 Flash is free for the next week\n\nBoth Flash and Pro are also available in Go"
+  },
+  {
+   "source": "X @opencode",
    "title": "for the next week Grok 4.7 is 30% off",
    "url": "https://x.com/opencode/status/2102087467536916751",
    "ts": 1790011681,
@@ -1563,11 +1556,11 @@
    "desc": "day 0 support\nwe've bumped it up to 4x usage for the next 72 hours"
   },
   {
-   "source": "X @opencode",
-   "title": "DeepSeek Flash v4.1 is now available in OpenCode Go https://t.co/bg7RQzxu4s",
-   "url": "https://x.com/opencode/status/2097920653386981569",
-   "ts": 1789018235,
-   "desc": "DeepSeek Flash v4.1 is now available in OpenCode Go https://t.co/bg7RQzxu4s"
+   "source": "X @commandcodeai",
+   "title": "GPT 6 Sol and Luna are live in Command Code.  Luna is available on all plans and API E.g. in $10 GOAT plan: ~30K reqs, ~1.5B tokens  Sol is available on Pro, Max and API",
+   "url": "https://x.com/CommandCodeAI/status/2102518866828218381",
+   "ts": 1790114535,
+   "desc": "GPT 6 Sol and Luna are live in Command Code.\n\nLuna is available on all plans and API\nE.g. in $10 GOAT plan: ~30K reqs, ~1.5B tokens\n\nSol is available on Pro, Max and API"
   },
   {
    "source": "X @commandcodeai",
@@ -1689,11 +1682,11 @@
    "desc": "RT @MrAhmadAwais: Command Code outperformed every other harness on open models like DeepSeek in Composio's bench. 🐐\n\n🔹 Most accurate: Solve…"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "RT @fkadev: I’m trying out the @CommandCodeAI macOS app released yesterday. It didn't have a \"Computer Use\" feature initially, so I asked i…",
-   "url": "https://x.com/CommandCodeAI/status/2100624138696306846",
-   "ts": 1789662797,
-   "desc": "RT @fkadev: I’m trying out the @CommandCodeAI macOS app released yesterday. It didn't have a \"Computer Use\" feature initially, so I asked i…"
+   "source": "X @elonmusk",
+   "title": "Interesting. Grok 4.7 is performing fairly well for a smallish model.",
+   "url": "https://x.com/elonmusk/status/2102520283618017355",
+   "ts": 1790114873,
+   "desc": "Interesting. Grok 4.7 is performing fairly well for a smallish model."
   },
   {
    "source": "X @elonmusk",
@@ -1829,11 +1822,11 @@
    "desc": "RT @XFreeze: Grok 4.7 Fast is now live in Grok Build and Cursor\n\nIt’s the same Grok 4.7 model running on faster infrastructure, with roughl…"
   },
   {
-   "source": "X @elonmusk",
-   "title": "RT @XFreeze: Grok 4.7 just outperformed GPT-6 Astra on professional work  On the same Artificial Analysis run:  • GDPval-AA — Grok leads by…",
-   "url": "https://x.com/elonmusk/status/2102412843635384508",
-   "ts": 1790089257,
-   "desc": "RT @XFreeze: Grok 4.7 just outperformed GPT-6 Astra on professional work\n\nOn the same Artificial Analysis run:\n\n• GDPval-AA — Grok leads by…"
+   "source": "X @sama",
+   "title": "Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space.",
+   "url": "https://x.com/sama/status/2102469008079679640",
+   "ts": 1790102648,
+   "desc": "Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space."
   },
   {
    "source": "X @sama",
@@ -1841,13 +1834,6 @@
    "url": "https://x.com/sama/status/2102468713866055872",
    "ts": 1790102578,
    "desc": "michelle embodies this as much as anyone\n\nopenai is so, so lucky to have benefited from everything she has done so far and i think people will be quite pleased to see what she + team have cooking next!"
-  },
-  {
-   "source": "X @sama",
-   "title": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).  And then we want you all to come up with great ideas and build them and to get to be happy users. The best id",
-   "url": "https://x.com/sama/status/2102466603111551187",
-   "ts": 1790102074,
-   "desc": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).\n\nAnd then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all."
   },
   {
    "source": "X @sama",
@@ -1948,18 +1934,11 @@
    "desc": "This would suck, but we will prioritize great service for customers until we can get back on top of things."
   },
   {
-   "source": "X @sama",
-   "title": "i want one!",
-   "url": "https://x.com/sama/status/2097450292996604189",
-   "ts": 1788906093,
-   "desc": "i want one!"
-  },
-  {
-   "source": "X @sama",
-   "title": "RT @polynoamial: Yes, this result cost millions of dollars.  But remember that when @OpenAI announced o3 it cost ~$500,000 to score 87.5% o…",
-   "url": "https://x.com/sama/status/2097449884530131057",
-   "ts": 1788905995,
-   "desc": "RT @polynoamial: Yes, this result cost millions of dollars.\n\nBut remember that when @OpenAI announced o3 it cost ~$500,000 to score 87.5% o…"
+   "source": "X @RayDalio",
+   "title": "This evaluation and improvement process exactly mirrors the evolutionary process I described earlier. It means looking at how to improve or change the design or people to achieve your goals. Schematically, the process is a feedback loop, as shown in",
+   "url": "https://x.com/RayDalio/status/2102503206471544980",
+   "ts": 1790110801,
+   "desc": "This evaluation and improvement process exactly mirrors the evolutionary process I described earlier. It means looking at how to improve or change the design or people to achieve your goals. Schematically, the process is a feedback loop, as shown in the diagram here. #principleoftheday"
   },
   {
    "source": "X @RayDalio",
@@ -2093,13 +2072,6 @@
    "url": "https://x.com/RayDalio/status/2097886800500920324",
    "ts": 1789010164,
    "desc": "If you don't let up on yourself and instead become comfortable always operating with some level of pain, you will evolve at a faster pace. That's just the way it is. #principleoftheday https://t.co/2RVJbZiBmi"
-  },
-  {
-   "source": "X @RayDalio",
-   "title": "Almost every technology boom creates a bubble, then a bust, whether it’s railroads, the Industrial Revolution, or the late 1920s.  Think about the late '20s: electricity, refrigeration, telephones, radios, airplanes, and cars were all emerging at onc",
-   "url": "https://x.com/RayDalio/status/2097722434346496346",
-   "ts": 1788970976,
-   "desc": "Almost every technology boom creates a bubble, then a bust, whether it’s railroads, the Industrial Revolution, or the late 1920s.\n\nThink about the late '20s: electricity, refrigeration, telephones, radios, airplanes, and cars were all emerging at once. Naturally, people wanted to invest in these miracles.\n\nThe danger is that people fail to distinguish the miracle from the investment. A technology"
   },
   {
    "source": "X @karpathy",
@@ -3125,6 +3097,13 @@
   },
   {
    "source": "X @thsottiaux",
+   "title": "Maybe our cutest launch so far. But still packing the biggest punch.",
+   "url": "https://x.com/thsottiaux/status/2102509507415048245",
+   "ts": 1790112303,
+   "desc": "Maybe our cutest launch so far. But still packing the biggest punch."
+  },
+  {
+   "source": "X @thsottiaux",
    "title": "GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general \"you know when you try it\" quality.   We are also permanently reducing the API price by 50% making both of them viable for",
    "url": "https://x.com/thsottiaux/status/2102463847714247142",
    "ts": 1790101417,
@@ -3341,20 +3320,6 @@
    "desc": "I've seen some really cool demos using Function Hooks from the team!\n\nIf you've been wanting to extend Claude Code more deeply, please check out the github issue and leave any feedback 🙏"
   },
   {
-   "source": "X @lydiahallie",
-   "title": "RT @cjav_dev: An infrastructure issue is causing a partial outage across Claude Code, the API, and https://t.co/JQms60I8iw. We're working o…",
-   "url": "https://x.com/lydiahallie/status/2095529226699182273",
-   "ts": 1788448075,
-   "desc": "RT @cjav_dev: An infrastructure issue is causing a partial outage across Claude Code, the API, and https://t.co/JQms60I8iw. We're working o…"
-  },
-  {
-   "source": "X @lydiahallie",
-   "title": "Happy Fable 5.1 day 🧡",
-   "url": "https://x.com/lydiahallie/status/2094853260507254833",
-   "ts": 1788286912,
-   "desc": "Happy Fable 5.1 day 🧡"
-  },
-  {
    "source": "Bluesky Andrej Karpathy",
    "title": "How can you not be jealous when you copy paste a long passage of text to GPT-4, ask it to eg summarize and see tokens flowing moments later",
    "url": "https://bsky.app/profile/karpathy.bsky.social/post/3jwoneqcave2h",
@@ -3426,6 +3391,13 @@
   },
   {
    "source": "Bluesky Simon Willison",
+   "title": "Big model release today - I wrote about Claude Opus 5.5, GPT-6 Sol, and GPT-6 Luna - plus comparison grids of pelicans by the different model families at different reasoning levels simonwillison.net/2",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mw5g6izoms2n",
+   "ts": 1790121044,
+   "desc": "Big model release today - I wrote about Claude Opus 5.5, GPT-6 Sol, and GPT-6 Luna - plus comparison grids of pelicans by the different model families at different reasoning levels simonwillison.net/2026/Sep/22/..."
+  },
+  {
+   "source": "Bluesky Simon Willison",
    "title": "Put together some notes on Jev and the new category of system one aka decision models simonwillison.net/2026/Sep/21/...",
    "url": "https://bsky.app/profile/simonwillison.net/post/3mw2tsop42c2u",
    "ts": 1790032600,
@@ -3479,13 +3451,6 @@
    "url": "https://bsky.app/profile/simonwillison.net/post/3mvtcj42ydk25",
    "ts": 1789773507,
    "desc": "What made you think comparing them to Jurassic Park was an /endorsement/?"
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "I wonder if pieces in WSJ are more likely to get flagged as AI because the WSJ have a team professionally copyeditors to ensure everything exactly fits house grammatical style  Do other WSJ opinion pi",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mvsx7qvgv225",
-   "ts": 1789761382,
-   "desc": "I wonder if pieces in WSJ are more likely to get flagged as AI because the WSJ have a team professionally copyeditors to ensure everything exactly fits house grammatical style\n\nDo other WSJ opinion pieces come out as 100% AI too?"
   },
   {
    "source": "Bluesky Nathan Lambert",
@@ -3629,24 +3594,31 @@
   },
   {
    "source": "HN",
+   "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+   "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+   "ts": 1790103818,
+   "desc": "377 points"
+  },
+  {
+   "source": "HN",
    "title": "AI Has No Wisdom and Neither Will You",
    "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
    "ts": 1790079069,
-   "desc": "340 points"
+   "desc": "365 points"
   },
   {
    "source": "HN",
    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
    "url": "https://linear.app/now/ci-bottleneck-reworked",
    "ts": 1790018613,
-   "desc": "303 points"
+   "desc": "308 points"
   },
   {
    "source": "HN",
    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
    "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
    "ts": 1789999849,
-   "desc": "235 points"
+   "desc": "236 points"
   },
   {
    "source": "HN",
@@ -3660,69 +3632,69 @@
    "title": "Frontier AI on Your Own Hardware",
    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
    "ts": 1790016781,
-   "desc": "175 points"
+   "desc": "177 points"
   },
   {
    "source": "HN",
    "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
    "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
    "ts": 1789964924,
-   "desc": "155 points"
+   "desc": "156 points"
   },
   {
    "source": "HN",
    "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
    "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
    "ts": 1790010023,
-   "desc": "150 points"
+   "desc": "151 points"
   },
   {
    "source": "HN",
    "title": "Don't Use AI to Write",
    "url": "https://paulbakker.io/writing/no-ai-for-writing/",
    "ts": 1789980884,
-   "desc": "142 points"
+   "desc": "144 points"
   },
   {
    "source": "HN",
    "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
    "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
    "ts": 1790040289,
-   "desc": "93 points"
+   "desc": "96 points"
   },
   {
    "source": "HN",
    "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
    "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
    "ts": 1790085176,
-   "desc": "76 points"
+   "desc": "81 points"
   },
   {
    "source": "HN",
    "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
    "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
    "ts": 1790083649,
-   "desc": "66 points"
-  },
-  {
-   "source": "HN",
-   "title": "I stopped drinking the AI Kool-Aid",
-   "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
-   "ts": 1789939046,
-   "desc": "66 points"
+   "desc": "71 points"
   },
   {
    "source": "HN",
    "title": "JetBrains Air: A System of Products for Agentic Software Development",
    "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
    "ts": 1790074858,
-   "desc": "65 points"
+   "desc": "66 points"
   },
   {
    "source": "HN",
    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
    "url": "https://github.com/aru-labs/lossless-memory",
    "ts": 1789993697,
+   "desc": "65 points"
+  },
+  {
+   "source": "HN",
+   "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+   "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+   "ts": 1790068734,
    "desc": "64 points"
   },
   {
@@ -3734,17 +3706,17 @@
   },
   {
    "source": "HN",
-   "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
-   "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
-   "ts": 1790068734,
-   "desc": "62 points"
-  },
-  {
-   "source": "HN",
    "title": "Big AI to humanity: drop dead",
    "url": "https://matthewbutterick.com/chron/drop-dead.html",
    "ts": 1790011399,
    "desc": "44 points"
+  },
+  {
+   "source": "HN",
+   "title": "Show HN: Training a model to identify AI web content from structure alone",
+   "url": "https://arxiv.org/abs/2609.15369",
+   "ts": 1790082049,
+   "desc": "38 points"
   },
   {
    "source": "HN",
@@ -3758,7 +3730,14 @@
    "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
    "url": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday",
    "ts": 1790041406,
-   "desc": "35 points"
+   "desc": "36 points"
+  },
+  {
+   "source": "HN",
+   "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+   "url": "https://ai-rete-rag.com/",
+   "ts": 1790093706,
+   "desc": "34 points"
   },
   {
    "source": "HN",
@@ -3776,6 +3755,13 @@
   },
   {
    "source": "HN",
+   "title": "Do not fear AI. Fear AI companies",
+   "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+   "ts": 1790030431,
+   "desc": "31 points"
+  },
+  {
+   "source": "HN",
    "title": "AI Weekly Warns Firms on Google AI Studio Data Retention Fraud",
    "url": "https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google",
    "ts": 1789957879,
@@ -3783,38 +3769,17 @@
   },
   {
    "source": "HN",
-   "title": "Do not fear AI. Fear AI companies",
-   "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
-   "ts": 1790030431,
-   "desc": "30 points"
-  },
-  {
-   "source": "HN",
-   "title": "Not all AI workers think the tech could kill everyone",
-   "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-   "ts": 1789942936,
+   "title": "AI Mode for Emacs",
+   "url": "https://github.com/ai-mode/ai-mode",
+   "ts": 1790067122,
    "desc": "26 points"
-  },
-  {
-   "source": "HN",
-   "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-   "url": "https://ai-rete-rag.com/",
-   "ts": 1790093706,
-   "desc": "25 points"
-  },
-  {
-   "source": "HN",
-   "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-   "url": "https://github.com/BytedTsinghua-SIA/DAPO",
-   "ts": 1789946344,
-   "desc": "20 points"
   },
   {
    "source": "HN",
    "title": "AI Is Antithetical to Learning",
    "url": "https://jola.dev/posts/ai-antithetical-learning",
    "ts": 1790083480,
-   "desc": "19 points"
+   "desc": "20 points"
   },
   {
    "source": "HN",
