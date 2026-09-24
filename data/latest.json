@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-24T06:47:08.007364+00:00",
- "count": 536,
+ "generated_at": "2026-09-24T12:47:42.727583+00:00",
+ "count": 535,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 467,
+   "count": 466,
    "note": "49 账号"
   },
   {
@@ -409,6 +409,13 @@
   },
   {
    "source": "X @huggingface",
+   "title": "RT @victormustar: Alert: Apple just dropped a new model on Hugging Face.  It's a Qwen3.5-9B finetune that turns long documents into small p…",
+   "url": "https://x.com/huggingface/status/2103047805682299280",
+   "ts": 1790240644,
+   "desc": "RT @victormustar: Alert: Apple just dropped a new model on Hugging Face.\n\nIt's a Qwen3.5-9B finetune that turns long documents into small p…"
+  },
+  {
+   "source": "X @huggingface",
    "title": "RT @eustachelb: day 0 transformers 🤗 support, have fun building with it! https://t.co/YOTvx6PHzE",
    "url": "https://x.com/huggingface/status/2102843553722568934",
    "ts": 1790191946,
@@ -427,13 +434,6 @@
    "url": "https://x.com/huggingface/status/2102821924518670361",
    "ts": 1790186790,
    "desc": "RT @bfl_ai: Introducing FLUX 3 Action.\n\nAn open weights 7B World Action Model that achieves first place on the RoboLab benchmark.\n\nIt outpe…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @vanstriendaniel: Trained a Jev-style classifier on @huggingface Jobs for ~$1.50.  It's a 194M GLiNER2 model that suggests task tags for…",
-   "url": "https://x.com/huggingface/status/2102812110291976603",
-   "ts": 1790184450,
-   "desc": "RT @vanstriendaniel: Trained a Jev-style classifier on @huggingface Jobs for ~$1.50.\n\nIt's a 194M GLiNER2 model that suggests task tags for…"
   },
   {
    "source": "X @huggingface",
@@ -1151,6 +1151,13 @@
   },
   {
    "source": "X @Baidu_Inc",
+   "title": "RT @technodechina: Baidu’s Global AI Push Takes Shape in Kooko, Built Around Deliverables https://t.co/mezMJSskCY",
+   "url": "https://x.com/Baidu_Inc/status/2103040354295697691",
+   "ts": 1790238867,
+   "desc": "RT @technodechina: Baidu’s Global AI Push Takes Shape in Kooko, Built Around Deliverables https://t.co/mezMJSskCY"
+  },
+  {
+   "source": "X @Baidu_Inc",
    "title": "Two teams took home the 2026 Baidu Highest Award at our annual party yesterday for their work in AI infra and AI adoption. 🎉  Belief in the value of technology is our true edge, and the people behind it deserve a celebration.  Cue the AI demos, live",
    "url": "https://x.com/Baidu_Inc/status/2102341853026885927",
    "ts": 1790072332,
@@ -1241,11 +1248,18 @@
    "desc": "RT @technodechina: Baidu launches DuMateBench benchmark for real-world AI agent delivery https://t.co/fZkKjvvkFw"
   },
   {
-   "source": "X @Baidu_Inc",
-   "title": "DuMate just rolled out a whole new set of upgrades at yesterday's AI Day.  The goal: move from AI that helps with individual steps to AI that delivers finished results you can actually use.  What's new👇 • Upgrades across personal and enterprise offer",
-   "url": "https://x.com/Baidu_Inc/status/2093170549325525218",
-   "ts": 1787885722,
-   "desc": "DuMate just rolled out a whole new set of upgrades at yesterday's AI Day.\n\nThe goal: move from AI that helps with individual steps to AI that delivers finished results you can actually use.\n\nWhat's new👇\n• Upgrades across personal and enterprise offerings, professional suites, and workspaces\n• 15 suites and 96 specialized skills across finance & accounting, business & legal, product & R&D, and oper"
+   "source": "X @TencentHunyuan",
+   "title": "live on GMI Cloud 🔥",
+   "url": "https://x.com/TencentHunyuan/status/2103046418114150633",
+   "ts": 1790240313,
+   "desc": "live on GMI Cloud 🔥"
+  },
+  {
+   "source": "X @TencentHunyuan",
+   "title": "🚀 Tencent Hy Translation just landed.Powered by Hy-MT2.  33 languages. 5 Chinese minority languages & dialects. Voice. Photo. Full offline — on-device, no network required. Already live in 12 countries and regions. Travel, drive, work or read abroad.",
+   "url": "https://x.com/TencentHunyuan/status/2103020524192542766",
+   "ts": 1790234139,
+   "desc": "🚀 Tencent Hy Translation just landed.Powered by Hy-MT2.\n\n33 languages. 5 Chinese minority languages & dialects.\nVoice. Photo. Full offline — on-device, no network required.\nAlready live in 12 countries and regions.\nTravel, drive, work or read abroad. Accurate. Natural. Always available.\n⏬ ⏬⏬  https://t.co/16zTeVLb1s"
   },
   {
    "source": "X @TencentHunyuan",
@@ -1344,27 +1358,6 @@
    "url": "https://x.com/TencentHunyuan/status/2097996926876795197",
    "ts": 1789036420,
    "desc": "🚀 AuK is officially here. Nano banana🍌 for audio\n\nAn open-source foundation model for unified speech generation and editing.\nNatural-language instructions + reference audio. One interface.\nZero-shot TTS. Instruction-controlled generation. Content editing. Whisper-conversion. De-accent. Timbre/style/emotion edit. Speed/Pitch control. Enhancement, denoising, multi-speaker and music separation.\nAlso"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "RT @aicodeking: Been testing @TencentHunyuan Hy4 preview in @WorkBuddyAI, and I came away pretty impressed with the document work. The game…",
-   "url": "https://x.com/TencentHunyuan/status/2097614016734752966",
-   "ts": 1788945128,
-   "desc": "RT @aicodeking: Been testing @TencentHunyuan Hy4 preview in @WorkBuddyAI, and I came away pretty impressed with the document work. The game…"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "RT @tylerrwayne: Hy4 preview powers dynamic builds for a 770B open model.  770B total parameters, 49B active per token, native 1M context,…",
-   "url": "https://x.com/TencentHunyuan/status/2097613951903391912",
-   "ts": 1788945112,
-   "desc": "RT @tylerrwayne: Hy4 preview powers dynamic builds for a 770B open model.\n\n770B total parameters, 49B active per token, native 1M context,…"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "RT @aicodeking: @TencentHunyuan Hy4 preview is a really good and frontier level model and it's currently free on @WorkBuddy_AI. The model i…",
-   "url": "https://x.com/TencentHunyuan/status/2097567840048226573",
-   "ts": 1788934118,
-   "desc": "RT @aicodeking: @TencentHunyuan Hy4 preview is a really good and frontier level model and it's currently free on @WorkBuddy_AI. The model i…"
   },
   {
    "source": "X @cursor_ai",
@@ -1522,6 +1515,13 @@
   },
   {
    "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: We’ve shipped 12 new models in Command Code.  Here's a quick recap for y'all.  · Mimo V2.6 Flash · Mimo V2.6 Pro · DeepS…",
+   "url": "https://x.com/CommandCodeAI/status/2103020935611851114",
+   "ts": 1790234237,
+   "desc": "RT @CommandCodeAI: We’ve shipped 12 new models in Command Code.\n\nHere's a quick recap for y'all.\n\n· Mimo V2.6 Flash\n· Mimo V2.6 Pro\n· DeepS…"
+  },
+  {
+   "source": "X @commandcodeai",
    "title": "RT @CommandCodeAI: Space Bunny Alpha (stealth model) is now free in Command Code.  1M context. Multimodal. Available all plans",
    "url": "https://x.com/CommandCodeAI/status/2102984869391548692",
    "ts": 1790225639,
@@ -1533,13 +1533,6 @@
    "url": "https://x.com/CommandCodeAI/status/2102941840811135057",
    "ts": 1790215380,
    "desc": "Space Bunny Alpha (stealth model) is now free in Command Code.\n\n1M context. Multimodal. Available all plans"
-  },
-  {
-   "source": "X @commandcodeai",
-   "title": "RT @CommandCodeAI: We’ve shipped 12 new models in Command Code.  Here's a quick recap for y'all.  · Mimo V2.6 Flash · Mimo V2.6 Pro · DeepS…",
-   "url": "https://x.com/CommandCodeAI/status/2102922041179718084",
-   "ts": 1790210659,
-   "desc": "RT @CommandCodeAI: We’ve shipped 12 new models in Command Code.\n\nHere's a quick recap for y'all.\n\n· Mimo V2.6 Flash\n· Mimo V2.6 Pro\n· DeepS…"
   },
   {
    "source": "X @commandcodeai",
@@ -3503,6 +3496,13 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "I just got the first copies of my new book, Co-Existence (out October 20) & they look great!  Also, there is a fun pre-order bonus: if you pre-order, you get a code to an AI interview that will help y",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwbbytwuuc2k",
+   "ts": 1790253998,
+   "desc": "I just got the first copies of my new book, Co-Existence (out October 20) & they look great!\n\nAlso, there is a fun pre-order bonus: if you pre-order, you get a code to an AI interview that will help you figure out how to use your human advantages with AI in a way tailored to you. co-existence.ai"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "Nope, that was it.",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwaejreflc2g",
    "ts": 1790222353,
@@ -3565,39 +3565,39 @@
    "desc": "The original is playable here: classicreload.com/apple2-rescu..."
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "There is an abandonware game I loved as a kid called Rescue Raiders.  I asked Claude to create a modern & updated version of the game with new graphics, goals, tech trees, etc. It iterated back-and-fo",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mw7g7v3uuc2z",
-   "ts": 1790189809,
-   "desc": "There is an abandonware game I loved as a kid called Rescue Raiders.\n\nI asked Claude to create a modern & updated version of the game with new graphics, goals, tech trees, etc. It iterated back-and-forth with critic & art agents until I got this. Its fun! rescue-raiders.netlify.app"
-  },
-  {
    "source": "HN",
    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
    "ts": 1790103818,
-   "desc": "905 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI Has No Wisdom and Neither Will You",
-   "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-   "ts": 1790079069,
-   "desc": "383 points"
+   "desc": "920 points"
   },
   {
    "source": "HN",
    "title": "Feds Target AI Critics as \"Foreign Agents\"",
    "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
    "ts": 1790210491,
-   "desc": "238 points"
+   "desc": "312 points"
+  },
+  {
+   "source": "HN",
+   "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+   "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+   "ts": 1790238183,
+   "desc": "289 points"
   },
   {
    "source": "HN",
    "title": "Stripe's Knowledge AI Platform",
    "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
    "ts": 1790170680,
-   "desc": "176 points"
+   "desc": "182 points"
+  },
+  {
+   "source": "HN",
+   "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+   "url": "https://transluce.org/agent-activity",
+   "ts": 1790227270,
+   "desc": "162 points"
   },
   {
    "source": "HN",
@@ -3615,31 +3615,17 @@
   },
   {
    "source": "HN",
-   "title": "JetBrains Air: A System of Products for Agentic Software Development",
-   "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
-   "ts": 1790074858,
-   "desc": "73 points"
-  },
-  {
-   "source": "HN",
-   "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
-   "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
-   "ts": 1790068734,
-   "desc": "66 points"
-  },
-  {
-   "source": "HN",
    "title": "Show HN: Training a model to identify AI web content from structure alone",
    "url": "https://arxiv.org/abs/2609.15369",
    "ts": 1790082049,
-   "desc": "66 points"
+   "desc": "67 points"
   },
   {
    "source": "HN",
    "title": "Cloud Agents Are Inevitable AI Prisons",
    "url": "https://normanponte.io/19df691f",
    "ts": 1790187401,
-   "desc": "53 points"
+   "desc": "61 points"
   },
   {
    "source": "HN",
@@ -3660,13 +3646,27 @@
    "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
    "url": "https://ai-rete-rag.com/",
    "ts": 1790093706,
-   "desc": "43 points"
+   "desc": "44 points"
   },
   {
    "source": "HN",
    "title": "Surprise, Meta's latest AI gimmick is just underpaid humans",
    "url": "https://www.avclub.com/meta-muse-ai-human-labor",
    "ts": 1790199298,
+   "desc": "42 points"
+  },
+  {
+   "source": "HN",
+   "title": "The ruble markup on AI tokens",
+   "url": "https://infertrail.com/blog/ruble-markup-ai-tokens/",
+   "ts": 1790119811,
+   "desc": "41 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI has no intent and no motivation",
+   "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+   "ts": 1790241205,
    "desc": "37 points"
   },
   {
@@ -3678,24 +3678,10 @@
   },
   {
    "source": "HN",
-   "title": "The ruble markup on AI tokens",
-   "url": "https://infertrail.com/blog/ruble-markup-ai-tokens/",
-   "ts": 1790119811,
-   "desc": "35 points"
-  },
-  {
-   "source": "HN",
    "title": "Stanford violated AI policy after race-swapping students in ad",
    "url": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
    "ts": 1790205819,
-   "desc": "30 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI Mode for Emacs",
-   "url": "https://github.com/ai-mode/ai-mode",
-   "ts": 1790067122,
-   "desc": "27 points"
+   "desc": "32 points"
   },
   {
    "source": "HN",
@@ -3741,16 +3727,16 @@
   },
   {
    "source": "HN",
-   "title": "If you start writing today, there's no way to know if you can write without AI",
-   "url": "https://www.ssp.sh/brain/ai-writing/",
-   "ts": 1790089785,
-   "desc": "16 points"
-  },
-  {
-   "source": "HN",
    "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
    "url": "https://github.com/saulpw/visidata/pull/3229",
    "ts": 1790212483,
+   "desc": "17 points"
+  },
+  {
+   "source": "HN",
+   "title": "If you start writing today, there's no way to know if you can write without AI",
+   "url": "https://www.ssp.sh/brain/ai-writing/",
+   "ts": 1790089785,
    "desc": "16 points"
   },
   {
@@ -3762,9 +3748,9 @@
   },
   {
    "source": "HN",
-   "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-   "url": "https://transluce.org/agent-activity",
-   "ts": 1790227270,
+   "title": "AP: Avoid language that gives [AI] human characteristics",
+   "url": "https://twitter.com/APStylebook/status/2102807962364383502",
+   "ts": 1790212778,
    "desc": "15 points"
   },
   {
@@ -3780,6 +3766,13 @@
    "url": "https://pressgazette.co.uk/news/prominent-art-therapist-quoted-by-vice-forbes-and-others-is-ai-generated/",
    "ts": 1790099600,
    "desc": "15 points"
+  },
+  {
+   "source": "HN",
+   "title": "Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To",
+   "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
+   "ts": 1790113384,
+   "desc": "13 points"
   }
  ]
 }
