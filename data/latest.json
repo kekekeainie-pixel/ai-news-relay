@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-25T06:47:51.244479+00:00",
- "count": 534,
+ "generated_at": "2026-09-25T12:47:26.504584+00:00",
+ "count": 537,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 465,
+   "count": 468,
    "note": "49 账号"
   },
   {
@@ -35,6 +35,13 @@
    "url": "https://x.com/OpenAI/status/2102808325742322002",
    "ts": 1790183547,
    "desc": "We heard you loud and clear. ChatGPT Voice can now:\n\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by talking.\n\nRolling out globally today in the latest version of the app."
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.  Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.  https://t.co/RPvGV3ptNr",
+   "url": "https://x.com/OpenAI/status/2102460995180663204",
+   "ts": 1790100737,
+   "desc": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.\n\nBoth are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.\n\nhttps://t.co/RPvGV3ptNr"
   },
   {
    "source": "X @OpenAI",
@@ -423,6 +430,13 @@
   },
   {
    "source": "X @huggingface",
+   "title": "RT @adithya_s_k: Releasing SmolDataEnvs 🤗  5K+ Verifiable RL Environment tasks for hill-climbing small models in code and data science.  Co…",
+   "url": "https://x.com/huggingface/status/2103421995249479865",
+   "ts": 1790329858,
+   "desc": "RT @adithya_s_k: Releasing SmolDataEnvs 🤗\n\n5K+ Verifiable RL Environment tasks for hill-climbing small models in code and data science.\n\nCo…"
+  },
+  {
+   "source": "X @huggingface",
    "title": "RT @PrunaAI: Today, we open-source Pruna-Qwen-Image-2.1, a set of a few-step LoRA adapters that make Qwen-Image-2.1 by @Alibaba_Qwen up to…",
    "url": "https://x.com/huggingface/status/2103181107550384632",
    "ts": 1790272425,
@@ -553,13 +567,6 @@
    "url": "https://x.com/huggingface/status/2102073920530591973",
    "ts": 1790008451,
    "desc": "RT @ClementDelangue: What I like about Jev: for years, large generalist models sucked almost all the oxygen out of AI. \n\nBut there are huge…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @ghita__ha: For all Jev users:  FYI zerank-2 is a 4B open-source reranker that also returns a confidence score, and you can simply set a…",
-   "url": "https://x.com/huggingface/status/2102068451531510189",
-   "ts": 1790007148,
-   "desc": "RT @ghita__ha: For all Jev users:\n\nFYI zerank-2 is a 4B open-source reranker that also returns a confidence score, and you can simply set a…"
   },
   {
    "source": "X @NousResearch",
@@ -1641,6 +1648,69 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @XFreeze: Built on Earth....designed for a future beyond it  Every Starship flight brings humanity one step closer to becoming a multipl…",
+   "url": "https://x.com/elonmusk/status/2103393245036482612",
+   "ts": 1790323003,
+   "desc": "RT @XFreeze: Built on Earth....designed for a future beyond it\n\nEvery Starship flight brings humanity one step closer to becoming a multipl…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @Google: We’re sending TPUs to space (yes, really).  After years of research, we’re launching a satellite to evaluate if and how Google…",
+   "url": "https://x.com/elonmusk/status/2103390966111470016",
+   "ts": 1790322460,
+   "desc": "RT @Google: We’re sending TPUs to space (yes, really).\n\nAfter years of research, we’re launching a satellite to evaluate if and how Google…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @SpaceX: Dragon arrives at pad 40 ahead of the upcoming Crew-13 launch to the @Space_Station → https://t.co/l8scSzMfaO https://t.co/yJCF…",
+   "url": "https://x.com/elonmusk/status/2103388567842201871",
+   "ts": 1790321888,
+   "desc": "RT @SpaceX: Dragon arrives at pad 40 ahead of the upcoming Crew-13 launch to the @Space_Station → https://t.co/l8scSzMfaO https://t.co/yJCF…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Tesla Semi Factory",
+   "url": "https://x.com/elonmusk/status/2103388450120737068",
+   "ts": 1790321860,
+   "desc": "Tesla Semi Factory"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @DanScavino: Behind the scenes at the @WhiteHouse #StateDinner with President @realDonaldTrump, First Lady @MelaniaTrump, President Xi,…",
+   "url": "https://x.com/elonmusk/status/2103387807796298100",
+   "ts": 1790321707,
+   "desc": "RT @DanScavino: Behind the scenes at the @WhiteHouse #StateDinner with President @realDonaldTrump, First Lady @MelaniaTrump, President Xi,…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @AISafetyMemes: UPDATE: AIs have achieved the highest *possible* score on the Mensa Norway IQ test - 151  3 years ago: cognitively impai…",
+   "url": "https://x.com/elonmusk/status/2103385734249918809",
+   "ts": 1790321212,
+   "desc": "RT @AISafetyMemes: UPDATE: AIs have achieved the highest *possible* score on the Mensa Norway IQ test - 151\n\n3 years ago: cognitively impai…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Stainless Steel Starship https://t.co/1U6B2ELhA9",
+   "url": "https://x.com/elonmusk/status/2103383018882896249",
+   "ts": 1790320565,
+   "desc": "Stainless Steel Starship https://t.co/1U6B2ELhA9"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @SpaceX: Launch rehearsal complete ahead of Starship Flight 14 https://t.co/h5LBYyBqi4",
+   "url": "https://x.com/elonmusk/status/2103382788863148465",
+   "ts": 1790320510,
+   "desc": "RT @SpaceX: Launch rehearsal complete ahead of Starship Flight 14 https://t.co/h5LBYyBqi4"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "It was moving",
+   "url": "https://x.com/elonmusk/status/2103382290994962788",
+   "ts": 1790320391,
+   "desc": "It was moving"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "🚀🚀",
    "url": "https://x.com/elonmusk/status/2103351799130579033",
    "ts": 1790313121,
@@ -1717,67 +1787,11 @@
    "desc": "Easy way to see how the 𝕏 algorithm works"
   },
   {
-   "source": "X @elonmusk",
-   "title": "RT @XFreeze: Grok is now being tested inside XChat group chats...and soon it’ll respond just like another person  You can just tag @Grok an…",
-   "url": "https://x.com/elonmusk/status/2103209862243275244",
-   "ts": 1790279281,
-   "desc": "RT @XFreeze: Grok is now being tested inside XChat group chats...and soon it’ll respond just like another person\n\nYou can just tag @Grok an…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "The amount of compute in space will obviously round up to 100% of all compute",
-   "url": "https://x.com/elonmusk/status/2103188449960313173",
-   "ts": 1790274176,
-   "desc": "The amount of compute in space will obviously round up to 100% of all compute"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @elonmusk: @vasalex93 1. We will keep accelerating. Our AI efforts are only 3 years old, vs 6 and 10 years old for Anthropic and OpenAI.…",
-   "url": "https://x.com/elonmusk/status/2103160489207587285",
-   "ts": 1790267510,
-   "desc": "RT @elonmusk: @vasalex93 1. We will keep accelerating. Our AI efforts are only 3 years old, vs 6 and 10 years old for Anthropic and OpenAI.…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @edleonklinger: Hardly anyone on Earth understands the magnitude of this. It's actually happening right now.  Crazy that we get to witne…",
-   "url": "https://x.com/elonmusk/status/2103147550819615114",
-   "ts": 1790264425,
-   "desc": "RT @edleonklinger: Hardly anyone on Earth understands the magnitude of this. It's actually happening right now.  Crazy that we get to witne…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @mikepat711: We’ve reached a point in AI development where I find myself choosing an inferior model inside of a far better product over…",
-   "url": "https://x.com/elonmusk/status/2103146170033799391",
-   "ts": 1790264096,
-   "desc": "RT @mikepat711: We’ve reached a point in AI development where I find myself choosing an inferior model inside of a far better product over…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @visegrad24: BREAKING:  781 illegal migrants have arrived in the UK on 10 dinghies from France over the past 24 hours.  It’s the highest…",
-   "url": "https://x.com/elonmusk/status/2103127614781309132",
-   "ts": 1790259672,
-   "desc": "RT @visegrad24: BREAKING:\n\n781 illegal migrants have arrived in the UK on 10 dinghies from France over the past 24 hours.\n\nIt’s the highest…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "An Earth economy is less than a trillionth the size of a K2 economy",
-   "url": "https://x.com/elonmusk/status/2103005475075670176",
-   "ts": 1790230551,
-   "desc": "An Earth economy is less than a trillionth the size of a K2 economy"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Good idea to post an image of the front page",
-   "url": "https://x.com/elonmusk/status/2103005014277111831",
-   "ts": 1790230442,
-   "desc": "Good idea to post an image of the front page"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @cb_doge: Grok 4.7 works really well with Blender. I’ve been using them to create these rough Raptor engine 3D models, and the improveme…",
-   "url": "https://x.com/elonmusk/status/2103002338399244371",
-   "ts": 1790229804,
-   "desc": "RT @cb_doge: Grok 4.7 works really well with Blender. I’ve been using them to create these rough Raptor engine 3D models, and the improveme…"
+   "source": "X @sama",
+   "title": "argh i meant VOICE not video :(  sorry to dissapoint",
+   "url": "https://x.com/sama/status/2102512794235207758",
+   "ts": 1790113087,
+   "desc": "argh i meant VOICE not video :(\n\nsorry to dissapoint"
   },
   {
    "source": "X @sama",
@@ -1792,6 +1806,13 @@
    "url": "https://x.com/sama/status/2102468713866055872",
    "ts": 1790102578,
    "desc": "michelle embodies this as much as anyone\n\nopenai is so, so lucky to have benefited from everything she has done so far and i think people will be quite pleased to see what she + team have cooking next!"
+  },
+  {
+   "source": "X @sama",
+   "title": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).  And then we want you all to come up with great ideas and build them and to get to be happy users. The best id",
+   "url": "https://x.com/sama/status/2102466603111551187",
+   "ts": 1790102074,
+   "desc": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).\n\nAnd then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all."
   },
   {
    "source": "X @sama",
@@ -3006,6 +3027,13 @@
   },
   {
    "source": "X @natolambert",
+   "title": "clearly I need to post more",
+   "url": "https://x.com/natolambert/status/2103459415823167791",
+   "ts": 1790338779,
+   "desc": "clearly I need to post more"
+  },
+  {
+   "source": "X @natolambert",
    "title": "Frontier: pacing Pulling up the ladder: accelerating",
    "url": "https://x.com/natolambert/status/2102450938728358085",
    "ts": 1790098340,
@@ -3045,13 +3073,6 @@
    "url": "https://x.com/natolambert/status/2102123542947025182",
    "ts": 1790020282,
    "desc": "RT @binarybits: I really appreciated this reality check from @natolambert. A lot of AI people underestimate how much the physical world mat…"
-  },
-  {
-   "source": "X @natolambert",
-   "title": "I don’t agree exactly on the assumption that full RSI will work, but this is an excellent video summarizing where we are at. https://t.co/8uRLYYqYvV",
-   "url": "https://x.com/natolambert/status/2101782726541971660",
-   "ts": 1789939025,
-   "desc": "I don’t agree exactly on the assumption that full RSI will work, but this is an excellent video summarizing where we are at. https://t.co/8uRLYYqYvV"
   },
   {
    "source": "X @thsottiaux",
@@ -3562,56 +3583,63 @@
    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
    "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
    "ts": 1790238183,
-   "desc": "607 points"
+   "desc": "614 points"
   },
   {
    "source": "HN",
    "title": "Feds Target AI Critics as \"Foreign Agents\"",
    "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
    "ts": 1790210491,
-   "desc": "377 points"
+   "desc": "381 points"
   },
   {
    "source": "HN",
    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
    "url": "https://transluce.org/agent-activity",
    "ts": 1790227270,
-   "desc": "256 points"
+   "desc": "261 points"
   },
   {
    "source": "HN",
    "title": "Stripe's Knowledge AI Platform",
    "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
    "ts": 1790170680,
-   "desc": "184 points"
+   "desc": "185 points"
   },
   {
    "source": "HN",
    "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
    "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
    "ts": 1790252621,
-   "desc": "140 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI safety is mostly a sex cult in Berkeley",
-   "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-   "ts": 1790260711,
-   "desc": "113 points"
+   "desc": "170 points"
   },
   {
    "source": "HN",
    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
    "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
    "ts": 1790262578,
-   "desc": "104 points"
+   "desc": "122 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI safety is mostly a sex cult in Berkeley",
+   "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
+   "ts": 1790260711,
+   "desc": "118 points"
   },
   {
    "source": "HN",
    "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
    "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
    "ts": 1790266534,
-   "desc": "101 points"
+   "desc": "110 points"
+  },
+  {
+   "source": "HN",
+   "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+   "url": "https://cms-sfx-demo.apeleg.com/",
+   "ts": 1790234537,
+   "desc": "74 points"
   },
   {
    "source": "HN",
@@ -3622,24 +3650,10 @@
   },
   {
    "source": "HN",
-   "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-   "url": "https://cms-sfx-demo.apeleg.com/",
-   "ts": 1790234537,
-   "desc": "60 points"
-  },
-  {
-   "source": "HN",
-   "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
-   "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-   "ts": 1790161310,
-   "desc": "49 points"
-  },
-  {
-   "source": "HN",
    "title": "AI has no intent and no motivation",
    "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
    "ts": 1790241205,
-   "desc": "44 points"
+   "desc": "47 points"
   },
   {
    "source": "HN",
@@ -3671,6 +3685,13 @@
   },
   {
    "source": "HN",
+   "title": "Uproar in France over award-winning author accused of using AI",
+   "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
+   "ts": 1790333312,
+   "desc": "30 points"
+  },
+  {
+   "source": "HN",
    "title": "Oracle invokes force majeure on New Mexico AI data center",
    "url": "https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426",
    "ts": 1790265520,
@@ -3681,7 +3702,7 @@
    "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
    "url": "https://news.ycombinator.com/item?id=49826029",
    "ts": 1790221721,
-   "desc": "25 points"
+   "desc": "27 points"
   },
   {
    "source": "HN",
@@ -3695,14 +3716,7 @@
    "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
    "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
    "ts": 1790268115,
-   "desc": "22 points"
-  },
-  {
-   "source": "HN",
-   "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
-   "url": "https://filmstudio.rxlab.app",
-   "ts": 1790166520,
-   "desc": "19 points"
+   "desc": "23 points"
   },
   {
    "source": "HN",
@@ -3727,17 +3741,17 @@
   },
   {
    "source": "HN",
-   "title": "Trump's 1,156 July Stock Trades Involved AI, Big Oil, Weapons-Makers, and More",
-   "url": "https://www.commondreams.org/news/donald-trump-stock-trades",
-   "ts": 1790174011,
+   "title": "AI is deciding whether or not people receive medical care",
+   "url": "https://www.vox.com/good-medicine-newsletter/503932/ai-health-insurance-united-medicare-cigna-humana",
+   "ts": 1790293125,
    "desc": "15 points"
   },
   {
    "source": "HN",
-   "title": "AI is deciding whether or not people receive medical care",
-   "url": "https://www.vox.com/good-medicine-newsletter/503932/ai-health-insurance-united-medicare-cigna-humana",
-   "ts": 1790293125,
-   "desc": "14 points"
+   "title": "Trump's 1,156 July Stock Trades Involved AI, Big Oil, Weapons-Makers, and More",
+   "url": "https://www.commondreams.org/news/donald-trump-stock-trades",
+   "ts": 1790174011,
+   "desc": "15 points"
   },
   {
    "source": "HN",
@@ -3765,6 +3779,13 @@
    "title": "AI Passport Photo",
    "url": "https://www.aipassportphoto.org/",
    "ts": 1790231647,
+   "desc": "12 points"
+  },
+  {
+   "source": "HN",
+   "title": "Meta puts its AI assistant on a keychain",
+   "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+   "ts": 1790267086,
    "desc": "12 points"
   }
  ]
