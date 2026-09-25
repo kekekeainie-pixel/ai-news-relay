@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-25T00:46:07.966199+00:00",
- "count": 534,
+ "generated_at": "2026-09-25T02:19:42.284870+00:00",
+ "count": 537,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 465,
+   "count": 468,
    "note": "49 账号"
   },
   {
@@ -35,6 +35,13 @@
    "url": "https://x.com/OpenAI/status/2102808325742322002",
    "ts": 1790183547,
    "desc": "We heard you loud and clear. ChatGPT Voice can now:\n\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by talking.\n\nRolling out globally today in the latest version of the app."
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.  Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.  https://t.co/RPvGV3ptNr",
+   "url": "https://x.com/OpenAI/status/2102460995180663204",
+   "ts": 1790100737,
+   "desc": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.\n\nBoth are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.\n\nhttps://t.co/RPvGV3ptNr"
   },
   {
    "source": "X @OpenAI",
@@ -563,6 +570,13 @@
   },
   {
    "source": "X @NousResearch",
+   "title": "RT @yeahfortommy: another stealth model launch  Space Bunny Alpha is now FREE on Nous Portal  try with your Hermes Agent now",
+   "url": "https://x.com/NousResearch/status/2103307561273380981",
+   "ts": 1790302574,
+   "desc": "RT @yeahfortommy: another stealth model launch\n\nSpace Bunny Alpha is now FREE on Nous Portal\n\ntry with your Hermes Agent now"
+  },
+  {
+   "source": "X @NousResearch",
    "title": "Web search in Hermes Agent is now fast and free.  @perplexity_ai built Fast Search for agents, and it is free for all Nous Portal tiers. https://t.co/H8ZzN3kWkW",
    "url": "https://x.com/NousResearch/status/2103244070407802905",
    "ts": 1790287437,
@@ -665,13 +679,6 @@
    "url": "https://x.com/NousResearch/status/2100214933572976792",
    "ts": 1789565234,
    "desc": "RT @imbabybrooklyn: One composer to rule them all; multiple tabs w/ multiple sessions. Just hover over the session and type.\n@NousResearch…"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "New blog post:  We had a million lines of Python to clean up. On September 2nd @Teknium asked Hermes Agent to do it.   1,393 subagents and nineteen hours later, the codebase was 34.4% smaller, saving us nearly $2m in engineering hours.  https://t.co/",
-   "url": "https://x.com/NousResearch/status/2099984561451028913",
-   "ts": 1789510309,
-   "desc": "New blog post:\n\nWe had a million lines of Python to clean up. On September 2nd @Teknium asked Hermes Agent to do it. \n\n1,393 subagents and nineteen hours later, the codebase was 34.4% smaller, saving us nearly $2m in engineering hours.\n\nhttps://t.co/eH6Gy8RAC5 https://t.co/m5uTiC1s0E"
   },
   {
    "source": "X @deepseek_ai",
@@ -1781,6 +1788,13 @@
   },
   {
    "source": "X @sama",
+   "title": "argh i meant VOICE not video :(  sorry to dissapoint",
+   "url": "https://x.com/sama/status/2102512794235207758",
+   "ts": 1790113087,
+   "desc": "argh i meant VOICE not video :(\n\nsorry to dissapoint"
+  },
+  {
+   "source": "X @sama",
    "title": "Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space.",
    "url": "https://x.com/sama/status/2102469008079679640",
    "ts": 1790102648,
@@ -1792,6 +1806,13 @@
    "url": "https://x.com/sama/status/2102468713866055872",
    "ts": 1790102578,
    "desc": "michelle embodies this as much as anyone\n\nopenai is so, so lucky to have benefited from everything she has done so far and i think people will be quite pleased to see what she + team have cooking next!"
+  },
+  {
+   "source": "X @sama",
+   "title": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).  And then we want you all to come up with great ideas and build them and to get to be happy users. The best id",
+   "url": "https://x.com/sama/status/2102466603111551187",
+   "ts": 1790102074,
+   "desc": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).\n\nAnd then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all."
   },
   {
    "source": "X @sama",
@@ -3489,6 +3510,20 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "In all seriousness, this is a startling achievement for GPT-6 Astra. kenforthewin.github.io/blog/posts/l...  (This is GPT-6 Astra beating Nethack on its 3rd try. Nethack is the original roguelike and",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwcpe6pdic26",
+   "ts": 1790302696,
+   "desc": "In all seriousness, this is a startling achievement for GPT-6 Astra. kenforthewin.github.io/blog/posts/l...\n\n(This is GPT-6 Astra beating Nethack on its 3rd try. Nethack is the original roguelike and one of the most famously hard games of all time. I have played a lot, and I've never ascended)"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "Um, wow?  Opus 5.5: \"make the same message much more interesting to a social media audience that loves anime and quick clips and compressed learning\"  One shot.  Also, please do stay for the closing s",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwckjd66qc2o",
+   "ts": 1790297500,
+   "desc": "Um, wow?\n\nOpus 5.5: \"make the same message much more interesting to a social media audience that loves anime and quick clips and compressed learning\"\n\nOne shot.\n\nAlso, please do stay for the closing song."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "All of this effort from the AI labs pouring into proofs, but there are so many other interesting problems in other fields  For example, this historian used AI to make progress on the cyphers of John D",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwcedxq5x22o",
    "ts": 1790290878,
@@ -3544,39 +3579,25 @@
    "desc": "\"Opus, please make a sequence of fully animated/movie Skyrim loading screens, but with your favorite things.\"\n\n(That was it) You can see them here: elder-favorites.netlify.app"
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Here's the full report: forecastingresearch.org/research/ai-...",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwa2pzxmu225",
-   "ts": 1790211826,
-   "desc": "Here's the full report: forecastingresearch.org/research/ai-..."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Stuff is happening quite fast.  When asked in September 2025 (yes, 2025), the best superforecasters put the chance of AI resolving a Millennium Problem by September 2026 at 1.7% and (much more optimis",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwa2mjely225",
-   "ts": 1790211708,
-   "desc": "Stuff is happening quite fast.\n\nWhen asked in September 2025 (yes, 2025), the best superforecasters put the chance of AI resolving a Millennium Problem by September 2026 at 1.7% and (much more optimistic) industry experts put the chance at 4.6%\n\nThey also greatly underestimated AI Lab revenue."
-  },
-  {
    "source": "HN",
    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
    "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
    "ts": 1790238183,
-   "desc": "596 points"
+   "desc": "599 points"
   },
   {
    "source": "HN",
    "title": "Feds Target AI Critics as \"Foreign Agents\"",
    "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
    "ts": 1790210491,
-   "desc": "372 points"
+   "desc": "374 points"
   },
   {
    "source": "HN",
    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
    "url": "https://transluce.org/agent-activity",
    "ts": 1790227270,
-   "desc": "242 points"
+   "desc": "246 points"
   },
   {
    "source": "HN",
@@ -3590,28 +3611,28 @@
    "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
    "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
    "ts": 1790252621,
-   "desc": "112 points"
-  },
-  {
-   "source": "HN",
-   "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
-   "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
-   "ts": 1790266534,
-   "desc": "90 points"
+   "desc": "124 points"
   },
   {
    "source": "HN",
    "title": "AI safety is mostly a sex cult in Berkeley",
    "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
    "ts": 1790260711,
-   "desc": "82 points"
+   "desc": "101 points"
+  },
+  {
+   "source": "HN",
+   "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
+   "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
+   "ts": 1790266534,
+   "desc": "91 points"
   },
   {
    "source": "HN",
    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
    "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
    "ts": 1790262578,
-   "desc": "73 points"
+   "desc": "84 points"
   },
   {
    "source": "HN",
@@ -3657,17 +3678,17 @@
   },
   {
    "source": "HN",
+   "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+   "url": "https://cms-sfx-demo.apeleg.com/",
+   "ts": 1790234537,
+   "desc": "34 points"
+  },
+  {
+   "source": "HN",
    "title": "Stanford violated AI policy after race-swapping students in ad",
    "url": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
    "ts": 1790205819,
    "desc": "33 points"
-  },
-  {
-   "source": "HN",
-   "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-   "url": "https://cms-sfx-demo.apeleg.com/",
-   "ts": 1790234537,
-   "desc": "32 points"
   },
   {
    "source": "HN",
@@ -3692,17 +3713,10 @@
   },
   {
    "source": "HN",
-   "title": "Trump says US will henceforth call AI 'super intelligence'",
-   "url": "https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/",
-   "ts": 1790124368,
-   "desc": "22 points"
-  },
-  {
-   "source": "HN",
    "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
    "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
    "ts": 1790268115,
-   "desc": "20 points"
+   "desc": "21 points"
   },
   {
    "source": "HN",
@@ -3734,6 +3748,13 @@
   },
   {
    "source": "HN",
+   "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+   "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+   "ts": 1790281774,
+   "desc": "14 points"
+  },
+  {
+   "source": "HN",
    "title": "AI Is a Boring Technology",
    "url": "https://www.chrbutler.com/ai-is-a-boring-technology",
    "ts": 1790181193,
@@ -3748,6 +3769,13 @@
   },
   {
    "source": "HN",
+   "title": "Restaurants Are Using AI to Advertise Their Food and It's Making People Sick",
+   "url": "https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9",
+   "ts": 1790280191,
+   "desc": "13 points"
+  },
+  {
+   "source": "HN",
    "title": "AI Passport Photo",
    "url": "https://www.aipassportphoto.org/",
    "ts": 1790231647,
@@ -3755,17 +3783,10 @@
   },
   {
    "source": "HN",
-   "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-   "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
-   "ts": 1790281774,
-   "desc": "12 points"
-  },
-  {
-   "source": "HN",
    "title": "From Thin Air to Bootable Images: The Tine Build System",
    "url": "https://amutable.com/blog/tine-build-system",
    "ts": 1790256311,
-   "desc": "11 points"
+   "desc": "12 points"
   }
  ]
 }
