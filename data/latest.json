@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-26T06:46:04.075134+00:00",
- "count": 535,
+ "generated_at": "2026-09-26T12:45:18.487306+00:00",
+ "count": 538,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 466,
+   "count": 469,
    "note": "49 账号"
   },
   {
@@ -49,6 +49,13 @@
    "url": "https://x.com/OpenAI/status/2102808325742322002",
    "ts": 1790183547,
    "desc": "We heard you loud and clear. ChatGPT Voice can now:\n\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by talking.\n\nRolling out globally today in the latest version of the app."
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.  Both are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.  https://t.co/RPvGV3ptNr",
+   "url": "https://x.com/OpenAI/status/2102460995180663204",
+   "ts": 1790100737,
+   "desc": "GPT-6 Sol and Luna roll out today in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users.\n\nBoth are also available in the API. Free and Go users can try GPT-6 Luna in the desktop app.\n\nhttps://t.co/RPvGV3ptNr"
   },
   {
    "source": "X @OpenAI",
@@ -1662,6 +1669,55 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @dhh: Bring back insane asylums, workhouses, and vagrancy laws. There's nothing kind or compassionate about letting mentally-ill drug ad…",
+   "url": "https://x.com/elonmusk/status/2103759131907932302",
+   "ts": 1790410237,
+   "desc": "RT @dhh: Bring back insane asylums, workhouses, and vagrancy laws. There's nothing kind or compassionate about letting mentally-ill drug ad…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @stevenmarkryan: • \"At All Costs\" - Elon Knows • @shaunmmaguire's S-Tier SpaceXAI Article • Live Grok Voice Demo https://t.co/BFfcW5CDKa",
+   "url": "https://x.com/elonmusk/status/2103758177460531517",
+   "ts": 1790410010,
+   "desc": "RT @stevenmarkryan: • \"At All Costs\" - Elon Knows\n• @shaunmmaguire's S-Tier SpaceXAI Article\n• Live Grok Voice Demo https://t.co/BFfcW5CDKa"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @SawyerMerritt: I've created a new Grok Bot Tutorial template for anyone new to Grok @Bot.  This hands-on course includes 20 lessons. It…",
+   "url": "https://x.com/elonmusk/status/2103746575805587530",
+   "ts": 1790407244,
+   "desc": "RT @SawyerMerritt: I've created a new Grok Bot Tutorial template for anyone new to Grok @Bot.\n\nThis hands-on course includes 20 lessons. It…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Troubling",
+   "url": "https://x.com/elonmusk/status/2103746441667862603",
+   "ts": 1790407212,
+   "desc": "Troubling"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @NASASpaceOps: Four crew members from three space agencies will launch to the @Space_Station no earlier than spring 2027 for a long-dura…",
+   "url": "https://x.com/elonmusk/status/2103744122632933727",
+   "ts": 1790406659,
+   "desc": "RT @NASASpaceOps: Four crew members from three space agencies will launch to the @Space_Station no earlier than spring 2027 for a long-dura…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @WSJ: Take an early look at the front page of The Wall Street Journal's weekend edition. https://t.co/wZu4QYAtTk https://t.co/EmxdXPeaTz",
+   "url": "https://x.com/elonmusk/status/2103743759565660223",
+   "ts": 1790406572,
+   "desc": "RT @WSJ: Take an early look at the front page of The Wall Street Journal's weekend edition. https://t.co/wZu4QYAtTk https://t.co/EmxdXPeaTz"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @tesla_na: Tesla Diner fall drink menu 🍂 https://t.co/bzAiM0f6JG",
+   "url": "https://x.com/elonmusk/status/2103743032054972887",
+   "ts": 1790406399,
+   "desc": "RT @tesla_na: Tesla Diner fall drink menu 🍂 https://t.co/bzAiM0f6JG"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @SpaceXAIMemphis: SpaceX's supercomputing facilities in the Mid-South rank among the world’s most advanced AI training clusters, spannin…",
    "url": "https://x.com/elonmusk/status/2103710462319956342",
    "ts": 1790398633,
@@ -1738,60 +1794,18 @@
    "desc": "RT @SawyerMerritt: Motortrend after driving the new Tesla Semi:\n\n\"Driving the Semi was surprisingly familiar, shockingly easy, and dare I s…"
   },
   {
-   "source": "X @elonmusk",
-   "title": "RT @SawyerMerritt: SpaceX has introduced a new website for its AI training clusters in Tennessee/Mississippi.  New info: • Tesla Megapacks…",
-   "url": "https://x.com/elonmusk/status/2103523122989166661",
-   "ts": 1790353968,
-   "desc": "RT @SawyerMerritt: SpaceX has introduced a new website for its AI training clusters in Tennessee/Mississippi.\n\nNew info:\n• Tesla Megapacks…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SawyerMerritt: The European Union has delayed a vote on Tesla’s FSD (Supervised) to December at the earliest (from October 6th), accord…",
-   "url": "https://x.com/elonmusk/status/2103506652263780535",
-   "ts": 1790350041,
-   "desc": "RT @SawyerMerritt: The European Union has delayed a vote on Tesla’s FSD (Supervised) to December at the earliest (from October 6th), accord…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @XFreeze: Built on Earth....designed for a future beyond it  Every Starship flight brings humanity one step closer to becoming a multipl…",
-   "url": "https://x.com/elonmusk/status/2103393245036482612",
-   "ts": 1790323003,
-   "desc": "RT @XFreeze: Built on Earth....designed for a future beyond it\n\nEvery Starship flight brings humanity one step closer to becoming a multipl…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Google: We’re sending TPUs to space (yes, really).  After years of research, we’re launching a satellite to evaluate if and how Google…",
-   "url": "https://x.com/elonmusk/status/2103390966111470016",
-   "ts": 1790322460,
-   "desc": "RT @Google: We’re sending TPUs to space (yes, really).\n\nAfter years of research, we’re launching a satellite to evaluate if and how Google…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceX: Dragon arrives at pad 40 ahead of the upcoming Crew-13 launch to the @Space_Station → https://t.co/l8scSzMfaO https://t.co/yJCF…",
-   "url": "https://x.com/elonmusk/status/2103388567842201871",
-   "ts": 1790321888,
-   "desc": "RT @SpaceX: Dragon arrives at pad 40 ahead of the upcoming Crew-13 launch to the @Space_Station → https://t.co/l8scSzMfaO https://t.co/yJCF…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Tesla Semi Factory",
-   "url": "https://x.com/elonmusk/status/2103388450120737068",
-   "ts": 1790321860,
-   "desc": "Tesla Semi Factory"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @DanScavino: Behind the scenes at the @WhiteHouse #StateDinner with President @realDonaldTrump, First Lady @MelaniaTrump, President Xi,…",
-   "url": "https://x.com/elonmusk/status/2103387807796298100",
-   "ts": 1790321707,
-   "desc": "RT @DanScavino: Behind the scenes at the @WhiteHouse #StateDinner with President @realDonaldTrump, First Lady @MelaniaTrump, President Xi,…"
-  },
-  {
    "source": "X @sama",
    "title": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.  We have not been as fast as we would have liked but we are",
    "url": "https://x.com/sama/status/2103567198690349362",
    "ts": 1790364477,
    "desc": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.\n\nWe have not been as fast as we would have liked but we are trying to balance our desire for transparency with gaining a clear understanding from petabytes of agent activity logs, and working with impacted org"
+  },
+  {
+   "source": "X @sama",
+   "title": "argh i meant VOICE not video :(  sorry to dissapoint",
+   "url": "https://x.com/sama/status/2102512794235207758",
+   "ts": 1790113087,
+   "desc": "argh i meant VOICE not video :(\n\nsorry to dissapoint"
   },
   {
    "source": "X @sama",
@@ -1806,6 +1820,13 @@
    "url": "https://x.com/sama/status/2102468713866055872",
    "ts": 1790102578,
    "desc": "michelle embodies this as much as anyone\n\nopenai is so, so lucky to have benefited from everything she has done so far and i think people will be quite pleased to see what she + team have cooking next!"
+  },
+  {
+   "source": "X @sama",
+   "title": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).  And then we want you all to come up with great ideas and build them and to get to be happy users. The best id",
+   "url": "https://x.com/sama/status/2102466603111551187",
+   "ts": 1790102074,
+   "desc": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).\n\nAnd then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all."
   },
   {
    "source": "X @sama",
@@ -3566,20 +3587,6 @@
   },
   {
    "source": "HN",
-   "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-   "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-   "ts": 1790238183,
-   "desc": "625 points"
-  },
-  {
-   "source": "HN",
-   "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-   "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-   "ts": 1790252621,
-   "desc": "201 points"
-  },
-  {
-   "source": "HN",
    "title": "Classified estimates show the NSA is paying billions to test AI models",
    "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
    "ts": 1790350055,
@@ -3590,7 +3597,14 @@
    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
    "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
    "ts": 1790262578,
-   "desc": "136 points"
+   "desc": "137 points"
+  },
+  {
+   "source": "HN",
+   "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+   "ts": 1790345228,
+   "desc": "125 points"
   },
   {
    "source": "HN",
@@ -3608,31 +3622,31 @@
   },
   {
    "source": "HN",
-   "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-   "ts": 1790345228,
-   "desc": "113 points"
-  },
-  {
-   "source": "HN",
    "title": "Too AI; Didn't Read",
    "url": "https://www.tai-dr.com/",
    "ts": 1790368676,
-   "desc": "107 points"
+   "desc": "109 points"
   },
   {
    "source": "HN",
-   "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-   "url": "https://cms-sfx-demo.apeleg.com/",
-   "ts": 1790234537,
-   "desc": "83 points"
+   "title": "How I changed teaching after AI managed to do all my homework assignments",
+   "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+   "ts": 1790283110,
+   "desc": "86 points"
+  },
+  {
+   "source": "HN",
+   "title": "One Month Without AI",
+   "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+   "ts": 1790417301,
+   "desc": "82 points"
   },
   {
    "source": "HN",
    "title": "An airport cooled by natural ventilation",
    "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
    "ts": 1790331410,
-   "desc": "62 points"
+   "desc": "68 points"
   },
   {
    "source": "HN",
@@ -3643,10 +3657,10 @@
   },
   {
    "source": "HN",
-   "title": "AI has no intent and no motivation",
-   "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
-   "ts": 1790241205,
-   "desc": "48 points"
+   "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+   "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+   "ts": 1790376581,
+   "desc": "54 points"
   },
   {
    "source": "HN",
@@ -3657,13 +3671,6 @@
   },
   {
    "source": "HN",
-   "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-   "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-   "ts": 1790376581,
-   "desc": "42 points"
-  },
-  {
-   "source": "HN",
    "title": "Uproar in France over award-winning author accused of using AI",
    "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
    "ts": 1790333312,
@@ -3671,17 +3678,10 @@
   },
   {
    "source": "HN",
-   "title": "How I changed teaching after AI managed to do all my homework assignments",
-   "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-   "ts": 1790283110,
-   "desc": "31 points"
-  },
-  {
-   "source": "HN",
    "title": "Pope: AI must serve humans not become tool of domination",
    "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
    "ts": 1790363885,
-   "desc": "28 points"
+   "desc": "30 points"
   },
   {
    "source": "HN",
@@ -3706,6 +3706,13 @@
   },
   {
    "source": "HN",
+   "title": "From Thin Air to Bootable Images: The Tine Build System",
+   "url": "https://amutable.com/blog/tine-build-system",
+   "ts": 1790256311,
+   "desc": "21 points"
+  },
+  {
+   "source": "HN",
    "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
    "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
    "ts": 1790281774,
@@ -3717,6 +3724,13 @@
    "url": "https://www.youtube.com/watch?v=wytH7dPlCVw",
    "ts": 1790301884,
    "desc": "16 points"
+  },
+  {
+   "source": "HN",
+   "title": "Can AI Shopping Agents Be Trusted?",
+   "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+   "ts": 1790401006,
+   "desc": "15 points"
   },
   {
    "source": "HN",
@@ -3741,13 +3755,6 @@
   },
   {
    "source": "HN",
-   "title": "Can AI Shopping Agents Be Trusted?",
-   "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-   "ts": 1790401006,
-   "desc": "13 points"
-  },
-  {
-   "source": "HN",
    "title": "Meta puts its AI assistant on a keychain",
    "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
    "ts": 1790267086,
@@ -3769,10 +3776,24 @@
   },
   {
    "source": "HN",
-   "title": "From Thin Air to Bootable Images: The Tine Build System",
-   "url": "https://amutable.com/blog/tine-build-system",
-   "ts": 1790256311,
-   "desc": "12 points"
+   "title": "US DOE will give $5.25B to upgrade the grid for AI datacenters",
+   "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276",
+   "ts": 1790403337,
+   "desc": "13 points"
+  },
+  {
+   "source": "HN",
+   "title": "So yeah it was written using AI",
+   "url": "https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/",
+   "ts": 1790268036,
+   "desc": "11 points"
+  },
+  {
+   "source": "HN",
+   "title": "Show HN: A $25 DIY alternative to $159 AI voice recorders – BYOK or local",
+   "url": "https://zephclick.com",
+   "ts": 1790283085,
+   "desc": "11 points"
   }
  ]
 }
