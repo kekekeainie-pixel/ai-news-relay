@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T00:46:32.346852+00:00",
+ "generated_at": "2026-09-26T06:46:04.075134+00:00",
  "count": 535,
  "stats": [
   {
@@ -1536,6 +1536,20 @@
   },
   {
    "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: Pixel Canary is live, new free stealth model.  $ 𝚗𝚙𝚖 𝚒 -𝚐 𝚌𝚘𝚖𝚖𝚊𝚗𝚍-𝚌𝚘𝚍𝚎@𝚕𝚊𝚝𝚎𝚜𝚝 /model pixel-canary (free)  Response speed…",
+   "url": "https://x.com/CommandCodeAI/status/2103717248317972599",
+   "ts": 1790400251,
+   "desc": "RT @CommandCodeAI: Pixel Canary is live, new free stealth model.\n\n$ 𝚗𝚙𝚖 𝚒 -𝚐 𝚌𝚘𝚖𝚖𝚊𝚗𝚍-𝚌𝚘𝚍𝚎@𝚕𝚊𝚝𝚎𝚜𝚝\n/model pixel-canary (free)\n\nResponse speed…"
+  },
+  {
+   "source": "X @commandcodeai",
+   "title": "Pixel Canary is live, new free stealth model.  $ 𝚗𝚙𝚖 𝚒 -𝚐 𝚌𝚘𝚖𝚖𝚊𝚗𝚍-𝚌𝚘𝚍𝚎@𝚕𝚊𝚝𝚎𝚜𝚝 /model pixel-canary (free)  Response speed at ~20-25 tps.",
+   "url": "https://x.com/CommandCodeAI/status/2103656933630812650",
+   "ts": 1790385871,
+   "desc": "Pixel Canary is live, new free stealth model.\n\n$ 𝚗𝚙𝚖 𝚒 -𝚐 𝚌𝚘𝚖𝚖𝚊𝚗𝚍-𝚌𝚘𝚍𝚎@𝚕𝚊𝚝𝚎𝚜𝚝\n/model pixel-canary (free)\n\nResponse speed at ~20-25 tps."
+  },
+  {
+   "source": "X @commandcodeai",
    "title": "New in Command Code: /loop command  Run a task, then repeat it on a fixed or self-paced schedule until the job is done.  Try now: $ npm i -g command-code https://t.co/Xb3p8xZgL4",
    "url": "https://x.com/CommandCodeAI/status/2103567725356531852",
    "ts": 1790364602,
@@ -1647,18 +1661,39 @@
    "desc": "RT @MrAhmadAwais: Launching Jev on Command Code for free today.\n\nJev x Command Code is super interesting. \n\nYou can only use Jev in headles…"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "Command Code supports Git worktrees.   Use /worktree to create or switch and run parallel sessions, each on its own branch. https://t.co/ueUsJXQWcr",
-   "url": "https://x.com/CommandCodeAI/status/2102434616770756638",
-   "ts": 1790094448,
-   "desc": "Command Code supports Git worktrees. \n\nUse /worktree to create or switch and run parallel sessions, each on its own branch. https://t.co/ueUsJXQWcr"
+   "source": "X @elonmusk",
+   "title": "RT @SpaceXAIMemphis: SpaceX's supercomputing facilities in the Mid-South rank among the world’s most advanced AI training clusters, spannin…",
+   "url": "https://x.com/elonmusk/status/2103710462319956342",
+   "ts": 1790398633,
+   "desc": "RT @SpaceXAIMemphis: SpaceX's supercomputing facilities in the Mid-South rank among the world’s most advanced AI training clusters, spannin…"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "RT @CommandCodeAI: Grok 4.7 is now live in Command Code.  40% for the next 7 days $35 credits (3.5x usage) in GOAT  Available on GOAT, Pro,…",
-   "url": "https://x.com/CommandCodeAI/status/2102279488348553543",
-   "ts": 1790057463,
-   "desc": "RT @CommandCodeAI: Grok 4.7 is now live in Command Code.\n\n40% for the next 7 days\n$35 credits (3.5x usage) in GOAT\n\nAvailable on GOAT, Pro,…"
+   "source": "X @elonmusk",
+   "title": "RT @realDonaldTrump: https://t.co/5nyt88MN3R",
+   "url": "https://x.com/elonmusk/status/2103693067354284070",
+   "ts": 1790394486,
+   "desc": "RT @realDonaldTrump: https://t.co/5nyt88MN3R"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @michaelnicollsx: Cookin’ in Memphis/Southhaven!  And hiring at a rapid clip for hard-working and talented individuals… join us",
+   "url": "https://x.com/elonmusk/status/2103690818238222551",
+   "ts": 1790393950,
+   "desc": "RT @michaelnicollsx: Cookin’ in Memphis/Southhaven!  And hiring at a rapid clip for hard-working and talented individuals… join us"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @stevenmarkryan: • Grok Bot's EXPLOSIVE User Growth • Team Is Cooking Like Crazy https://t.co/XRt4WC9EaK",
+   "url": "https://x.com/elonmusk/status/2103689291822145945",
+   "ts": 1790393586,
+   "desc": "RT @stevenmarkryan: • Grok Bot's EXPLOSIVE User Growth\n• Team Is Cooking Like Crazy https://t.co/XRt4WC9EaK"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @dhh: I was surprised how bad it was just walking from the hotel to the Rails World venue. One strung-out guy wanted to fight me for som…",
+   "url": "https://x.com/elonmusk/status/2103684659989340627",
+   "ts": 1790392482,
+   "desc": "RT @dhh: I was surprised how bad it was just walking from the hotel to the Rails World venue. One strung-out guy wanted to fight me for som…"
   },
   {
    "source": "X @elonmusk",
@@ -1750,41 +1785,6 @@
    "url": "https://x.com/elonmusk/status/2103387807796298100",
    "ts": 1790321707,
    "desc": "RT @DanScavino: Behind the scenes at the @WhiteHouse #StateDinner with President @realDonaldTrump, First Lady @MelaniaTrump, President Xi,…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @AISafetyMemes: UPDATE: AIs have achieved the highest *possible* score on the Mensa Norway IQ test - 151  3 years ago: cognitively impai…",
-   "url": "https://x.com/elonmusk/status/2103385734249918809",
-   "ts": 1790321212,
-   "desc": "RT @AISafetyMemes: UPDATE: AIs have achieved the highest *possible* score on the Mensa Norway IQ test - 151\n\n3 years ago: cognitively impai…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Stainless Steel Starship https://t.co/1U6B2ELhA9",
-   "url": "https://x.com/elonmusk/status/2103383018882896249",
-   "ts": 1790320565,
-   "desc": "Stainless Steel Starship https://t.co/1U6B2ELhA9"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceX: Launch rehearsal complete ahead of Starship Flight 14 https://t.co/h5LBYyBqi4",
-   "url": "https://x.com/elonmusk/status/2103382788863148465",
-   "ts": 1790320510,
-   "desc": "RT @SpaceX: Launch rehearsal complete ahead of Starship Flight 14 https://t.co/h5LBYyBqi4"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "It was moving",
-   "url": "https://x.com/elonmusk/status/2103382290994962788",
-   "ts": 1790320391,
-   "desc": "It was moving"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "🚀🚀",
-   "url": "https://x.com/elonmusk/status/2103351799130579033",
-   "ts": 1790313121,
-   "desc": "🚀🚀"
   },
   {
    "source": "X @sama",
@@ -3496,6 +3496,34 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "This was not intended to be pedagogically sound, but lets see how it does when given that task.",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwffm7wqvc23",
+   "ts": 1790395308,
+   "desc": "This was not intended to be pedagogically sound, but lets see how it does when given that task."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "Lets try an educational version",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwffjcqzu223",
+   "ts": 1790395210,
+   "desc": "Lets try an educational version"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "Every scene is drawn in React and SVG and the music & sound effects are synthesized in Python. The only files that aren't code are a few hundred small textures like film grain and bokeh, which were co",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwfeg23das23",
+   "ts": 1790394027,
+   "desc": "Every scene is drawn in React and SVG and the music & sound effects are synthesized in Python. The only files that aren't code are a few hundred small textures like film grain and bokeh, which were code generated in advance so the render would run faster, plus open-source fonts"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "How do you explain recursion? This one is pretty fun.  I had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make th",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwfdufd7n223",
+   "ts": 1790393435,
+   "desc": "How do you explain recursion? This one is pretty fun.\n\nI had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.\" All code, no images.\n\nNine genre shifts, one prompt..."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "Claude liked* this project. I have wondered whether that results in better outputs.  * In defiance of AP Stylebook guidelines.",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwdzwztnak23",
    "ts": 1790348426,
@@ -3537,67 +3565,32 @@
    "desc": "I have also trained on the 1000s of guides for this, but could not beat the game."
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "If you want to argue with me that Moria or Hack or even Rogue were the original Rogue-like, you already know why beating Nethack is impressive.",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwcq4qprg226",
-   "ts": 1790303521,
-   "desc": "If you want to argue with me that Moria or Hack or even Rogue were the original Rogue-like, you already know why beating Nethack is impressive."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "In all seriousness, this is a startling achievement for GPT-6 Astra. kenforthewin.github.io/blog/posts/l...  (This is GPT-6 Astra beating Nethack on its 3rd try. Nethack is the original roguelike and",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwcpe6pdic26",
-   "ts": 1790302696,
-   "desc": "In all seriousness, this is a startling achievement for GPT-6 Astra. kenforthewin.github.io/blog/posts/l...\n\n(This is GPT-6 Astra beating Nethack on its 3rd try. Nethack is the original roguelike and one of the most famously hard games of all time. I have played a lot, and I've never ascended)"
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Um, wow?  Opus 5.5: \"make the same message much more interesting to a social media audience that loves anime and quick clips and compressed learning\"  One shot.  Also, please do stay for the closing s",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwckjd66qc2o",
-   "ts": 1790297500,
-   "desc": "Um, wow?\n\nOpus 5.5: \"make the same message much more interesting to a social media audience that loves anime and quick clips and compressed learning\"\n\nOne shot.\n\nAlso, please do stay for the closing song."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "All of this effort from the AI labs pouring into proofs, but there are so many other interesting problems in other fields  For example, this historian used AI to make progress on the cyphers of John D",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwcedxq5x22o",
-   "ts": 1790290878,
-   "desc": "All of this effort from the AI labs pouring into proofs, but there are so many other interesting problems in other fields\n\nFor example, this historian used AI to make progress on the cyphers of John Dee & the intellectual antecedents that Darwin drew from. resobscura.substack.com/p/ai-labs-ne..."
-  },
-  {
    "source": "HN",
    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
    "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
    "ts": 1790238183,
-   "desc": "622 points"
-  },
-  {
-   "source": "HN",
-   "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-   "url": "https://transluce.org/agent-activity",
-   "ts": 1790227270,
-   "desc": "264 points"
+   "desc": "625 points"
   },
   {
    "source": "HN",
    "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
    "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
    "ts": 1790252621,
-   "desc": "196 points"
+   "desc": "201 points"
   },
   {
    "source": "HN",
    "title": "Classified estimates show the NSA is paying billions to test AI models",
    "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
    "ts": 1790350055,
-   "desc": "169 points"
+   "desc": "171 points"
   },
   {
    "source": "HN",
    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
    "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
    "ts": 1790262578,
-   "desc": "133 points"
+   "desc": "136 points"
   },
   {
    "source": "HN",
@@ -3615,10 +3608,17 @@
   },
   {
    "source": "HN",
+   "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+   "ts": 1790345228,
+   "desc": "113 points"
+  },
+  {
+   "source": "HN",
    "title": "Too AI; Didn't Read",
    "url": "https://www.tai-dr.com/",
    "ts": 1790368676,
-   "desc": "104 points"
+   "desc": "107 points"
   },
   {
    "source": "HN",
@@ -3629,17 +3629,17 @@
   },
   {
    "source": "HN",
-   "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-   "ts": 1790345228,
-   "desc": "75 points"
+   "title": "An airport cooled by natural ventilation",
+   "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+   "ts": 1790331410,
+   "desc": "62 points"
   },
   {
    "source": "HN",
    "title": "Show HN: Doom or Bloom, map your AI worldview",
    "url": "https://www.doom-or-bloom.com",
    "ts": 1790355088,
-   "desc": "54 points"
+   "desc": "56 points"
   },
   {
    "source": "HN",
@@ -3657,9 +3657,9 @@
   },
   {
    "source": "HN",
-   "title": "An airport cooled by natural ventilation",
-   "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
-   "ts": 1790331410,
+   "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+   "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+   "ts": 1790376581,
    "desc": "42 points"
   },
   {
@@ -3671,10 +3671,17 @@
   },
   {
    "source": "HN",
-   "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
-   "url": "https://news.ycombinator.com/item?id=49826029",
-   "ts": 1790221721,
-   "desc": "30 points"
+   "title": "How I changed teaching after AI managed to do all my homework assignments",
+   "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+   "ts": 1790283110,
+   "desc": "31 points"
+  },
+  {
+   "source": "HN",
+   "title": "Pope: AI must serve humans not become tool of domination",
+   "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
+   "ts": 1790363885,
+   "desc": "28 points"
   },
   {
    "source": "HN",
@@ -3692,24 +3699,10 @@
   },
   {
    "source": "HN",
-   "title": "Pope: AI must serve humans not become tool of domination",
-   "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
-   "ts": 1790363885,
-   "desc": "22 points"
-  },
-  {
-   "source": "HN",
    "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
    "url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
    "ts": 1790370955,
    "desc": "21 points"
-  },
-  {
-   "source": "HN",
-   "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
-   "url": "https://github.com/saulpw/visidata/pull/3229",
-   "ts": 1790212483,
-   "desc": "18 points"
   },
   {
    "source": "HN",
@@ -3720,17 +3713,10 @@
   },
   {
    "source": "HN",
-   "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-   "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-   "ts": 1790376581,
+   "title": "Snowden on AI Surveillance and Freedom of Speech [video]",
+   "url": "https://www.youtube.com/watch?v=wytH7dPlCVw",
+   "ts": 1790301884,
    "desc": "16 points"
-  },
-  {
-   "source": "HN",
-   "title": "AP: Avoid language that gives [AI] human characteristics",
-   "url": "https://twitter.com/APStylebook/status/2102807962364383502",
-   "ts": 1790212778,
-   "desc": "15 points"
   },
   {
    "source": "HN",
@@ -3748,10 +3734,17 @@
   },
   {
    "source": "HN",
-   "title": "Snowden on AI Surveillance and Freedom of Speech [video]",
-   "url": "https://www.youtube.com/watch?v=wytH7dPlCVw",
-   "ts": 1790301884,
-   "desc": "15 points"
+   "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+   "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+   "ts": 1790351157,
+   "desc": "14 points"
+  },
+  {
+   "source": "HN",
+   "title": "Can AI Shopping Agents Be Trusted?",
+   "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+   "ts": 1790401006,
+   "desc": "13 points"
   },
   {
    "source": "HN",
@@ -3773,6 +3766,13 @@
    "url": "https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9",
    "ts": 1790280191,
    "desc": "13 points"
+  },
+  {
+   "source": "HN",
+   "title": "From Thin Air to Bootable Images: The Tine Build System",
+   "url": "https://amutable.com/blog/tine-build-system",
+   "ts": 1790256311,
+   "desc": "12 points"
   }
  ]
 }
