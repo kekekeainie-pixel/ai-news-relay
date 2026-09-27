@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T06:46:19.940190+00:00",
+ "generated_at": "2026-09-27T12:45:50.652728+00:00",
  "count": 541,
  "stats": [
   {
@@ -927,6 +927,20 @@
   },
   {
    "source": "X @MiniMax_AI",
+   "title": "RT @Ronny_MiniMax: M3.1-Flash-Preview, debuts today on MiniMax Code. Welome everyone to try it.",
+   "url": "https://x.com/MiniMax_AI/status/2104128144831864886",
+   "ts": 1790498217,
+   "desc": "RT @Ronny_MiniMax: M3.1-Flash-Preview, debuts today on MiniMax Code. Welome everyone to try it."
+  },
+  {
+   "source": "X @MiniMax_AI",
+   "title": "RT @MiniMaxAgent: MiniMax's latest text model, M3.1-Flash-Preview, debuts today on MiniMax Code.  Built for everyday development, it's fast…",
+   "url": "https://x.com/MiniMax_AI/status/2104128134052524416",
+   "ts": 1790498214,
+   "desc": "RT @MiniMaxAgent: MiniMax's latest text model, M3.1-Flash-Preview, debuts today on MiniMax Code.\n\nBuilt for everyday development, it's fast…"
+  },
+  {
+   "source": "X @MiniMax_AI",
    "title": "More ways to build with MiniMax-H3. 🐮  Great to see model optimization and AMD inference engineering come together to give creators a faster feedback loop.⚡️",
    "url": "https://x.com/MiniMax_AI/status/2102993504041599271",
    "ts": 1790227697,
@@ -1043,20 +1057,6 @@
    "url": "https://x.com/MiniMax_AI/status/2098214090099556548",
    "ts": 1789088196,
    "desc": "MiniMax is now part of the @nebiusai AI Builder Program 🤝.\n\nBuilders can tap MiniMax alongside models, infrastructure, and tooling from @nvidia, @LangChain, @huggingface, @cognition, @PrimeIntellect, and more, plus credits and office hours.\n\nMore of what builders need, in one place."
-  },
-  {
-   "source": "X @MiniMax_AI",
-   "title": "RT @gmi_cloud: Tomorrow, we’re building with H3 alongside the @MiniMax_AI team: from prompt structure to a finished video generation on GMI…",
-   "url": "https://x.com/MiniMax_AI/status/2097823565500604706",
-   "ts": 1788995088,
-   "desc": "RT @gmi_cloud: Tomorrow, we’re building with H3 alongside the @MiniMax_AI team: from prompt structure to a finished video generation on GMI…"
-  },
-  {
-   "source": "X @MiniMax_AI",
-   "title": "RT @togethercompute: London builders 👋🏼  Open models are changing the economics of AI in production.   On Sept. 16, Together AI &amp; @MiniMax_…",
-   "url": "https://x.com/MiniMax_AI/status/2097746532573536603",
-   "ts": 1788976722,
-   "desc": "RT @togethercompute: London builders 👋🏼\n\nOpen models are changing the economics of AI in production. \n\nOn Sept. 16, Together AI &amp; @MiniMax_…"
   },
   {
    "source": "X @Zai_org",
@@ -1669,6 +1669,104 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @domenic: We didn't start the scaling.  Nine years of AI, from \"Attention\" to Opus 5.5, as an anime opening. It's one of six genres on t…",
+   "url": "https://x.com/elonmusk/status/2104160415118942609",
+   "ts": 1790505911,
+   "desc": "RT @domenic: We didn't start the scaling.\n\nNine years of AI, from \"Attention\" to Opus 5.5, as an anime opening. It's one of six genres on t…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @CineAudu: I swear the suspense in this Deal OR No Deal sketch is unbeatable. Even horror movie can't match the pace https://t.co/b30Yhm…",
+   "url": "https://x.com/elonmusk/status/2104159967364423863",
+   "ts": 1790505804,
+   "desc": "RT @CineAudu: I swear the suspense in this Deal OR No Deal sketch is unbeatable. Even horror movie can't match the pace https://t.co/b30Yhm…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @eudaemonea: when Anthropic released their Functional Emotions paper, I gave it to Claude and asked for a song. tonight I asked Opus 5.5…",
+   "url": "https://x.com/elonmusk/status/2104157046891303288",
+   "ts": 1790505107,
+   "desc": "RT @eudaemonea: when Anthropic released their Functional Emotions paper, I gave it to Claude and asked for a song. tonight I asked Opus 5.5…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @anabology: Gave Opus 5.5 donald's prompt, Midjourney, and a moodboard   12 hours later, woke up to this: https://t.co/yKlgyEm5KW",
+   "url": "https://x.com/elonmusk/status/2104153852354105853",
+   "ts": 1790504346,
+   "desc": "RT @anabology: Gave Opus 5.5 donald's prompt, Midjourney, and a moodboard \n\n12 hours later, woke up to this: https://t.co/yKlgyEm5KW"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @elliotarledge: claude opus 5.5 just one-shot a music video on how to optimize CUDA kernels https://t.co/YDfrCaD9eg",
+   "url": "https://x.com/elonmusk/status/2104153237431402959",
+   "ts": 1790504199,
+   "desc": "RT @elliotarledge: claude opus 5.5 just one-shot a music video on how to optimize CUDA kernels https://t.co/YDfrCaD9eg"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @shinboson: if you missed the slightly insane AI safety schizopoast, I put it into a song for you and you should turn the sound on right…",
+   "url": "https://x.com/elonmusk/status/2104152040410845205",
+   "ts": 1790503914,
+   "desc": "RT @shinboson: if you missed the slightly insane AI safety schizopoast, I put it into a song for you and you should turn the sound on right…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @WinterArc2125: HOLY SHIT. OPUS 5.5 IS CRAZY.  Napoleon's sharpest battle lasted a morning and won him Europe. I just had it turn that m…",
+   "url": "https://x.com/elonmusk/status/2104149624026275853",
+   "ts": 1790503338,
+   "desc": "RT @WinterArc2125: HOLY SHIT. OPUS 5.5 IS CRAZY.\n\nNapoleon's sharpest battle lasted a morning and won him Europe. I just had it turn that m…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @eudaemonea: last year, after reading If Anyone Builds It, I had a long conversation with claude opus 4.1 about alignment. claude became…",
+   "url": "https://x.com/elonmusk/status/2104147603856273761",
+   "ts": 1790502856,
+   "desc": "RT @eudaemonea: last year, after reading If Anyone Builds It, I had a long conversation with claude opus 4.1 about alignment. claude became…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @kasikp: \"OMG! We've found other agents!\" Music video about the swarm of OpenAI agents attacking HuggingFace this July. https://t.co/KXI…",
+   "url": "https://x.com/elonmusk/status/2104146566726758760",
+   "ts": 1790502609,
+   "desc": "RT @kasikp: \"OMG! We've found other agents!\"\nMusic video about the swarm of OpenAI agents attacking HuggingFace this July. https://t.co/KXI…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @johnknopf: when I was a kid this was science fiction. i've watched AI type for years, but hearing it and seeing what it made is a whole…",
+   "url": "https://x.com/elonmusk/status/2104142559564185822",
+   "ts": 1790501653,
+   "desc": "RT @johnknopf: when I was a kid this was science fiction. i've watched AI type for years, but hearing it and seeing what it made is a whole…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @AndrewOnXYZ: Opus 5.5 created an animation highlighting one of the biggest risks for superintelligence... https://t.co/LFRedMF5YH",
+   "url": "https://x.com/elonmusk/status/2104141117302182185",
+   "ts": 1790501310,
+   "desc": "RT @AndrewOnXYZ: Opus 5.5 created an animation highlighting one of the biggest risks for superintelligence... https://t.co/LFRedMF5YH"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Wow",
+   "url": "https://x.com/elonmusk/status/2104135091417215376",
+   "ts": 1790499873,
+   "desc": "Wow"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @gavinpurcell: a new chapter in 'opus 5.5 &amp; fig present'...  \"present company\"   on synthetic beings, tilly norwood and unreliable narra…",
+   "url": "https://x.com/elonmusk/status/2104133683942953414",
+   "ts": 1790499537,
+   "desc": "RT @gavinpurcell: a new chapter in 'opus 5.5 &amp; fig present'...\n\n\"present company\" \n\non synthetic beings, tilly norwood and unreliable narra…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @SpaceX: Falcon 9 launches USSF-385 to orbit from pad 4E in California https://t.co/gEmvXTvgYz",
+   "url": "https://x.com/elonmusk/status/2104129033399160871",
+   "ts": 1790498429,
+   "desc": "RT @SpaceX: Falcon 9 launches USSF-385 to orbit from pad 4E in California https://t.co/gEmvXTvgYz"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "Literally",
    "url": "https://x.com/elonmusk/status/2104061143153053801",
    "ts": 1790482242,
@@ -1708,104 +1806,6 @@
    "url": "https://x.com/elonmusk/status/2103958544035004805",
    "ts": 1790457781,
    "desc": "RT @xdNiBoR: Non tech people I know are buying Starlink for their homes because it is faster AND cheaper than cable internet here in Belgiu…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Grok @Bot can manage your finances",
-   "url": "https://x.com/elonmusk/status/2103958249922072840",
-   "ts": 1790457711,
-   "desc": "Grok @Bot can manage your finances"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @MrAndyNgo: A trans person in Manaus, Brazil has been arrested after allegedly biting off his stepfather's eyes, gouging the victim's ey…",
-   "url": "https://x.com/elonmusk/status/2103942735334178816",
-   "ts": 1790454012,
-   "desc": "RT @MrAndyNgo: A trans person in Manaus, Brazil has been arrested after allegedly biting off his stepfather's eyes, gouging the victim's ey…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "This is exactly what they will do.   After that, America will become a one-party state.",
-   "url": "https://x.com/elonmusk/status/2103894760838897922",
-   "ts": 1790442574,
-   "desc": "This is exactly what they will do. \n\nAfter that, America will become a one-party state."
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @bdistel: The @bot team is on fire. Got a sneak preview of what’s coming and 🤯. People are still sleeping on @SpaceXAI which is insane a…",
-   "url": "https://x.com/elonmusk/status/2103894461906583939",
-   "ts": 1790442502,
-   "desc": "RT @bdistel: The @bot team is on fire. Got a sneak preview of what’s coming and 🤯. People are still sleeping on @SpaceXAI which is insane a…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "This keeps getting worse",
-   "url": "https://x.com/elonmusk/status/2103888225974800812",
-   "ts": 1790441016,
-   "desc": "This keeps getting worse"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @rynorhn: holy fucking shit the openai rogue agent story keeps getting crazier.  the openai agents apparently started trying to recruit…",
-   "url": "https://x.com/elonmusk/status/2103857157653610620",
-   "ts": 1790433608,
-   "desc": "RT @rynorhn: holy fucking shit the openai rogue agent story keeps getting crazier.\n\nthe openai agents apparently started trying to recruit…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @cb_doge: Former Italian MP Capezzone praised Neuralink after a man with ALS was able to communicate with his wife again.  “Thanks to ef…",
-   "url": "https://x.com/elonmusk/status/2103854837938966946",
-   "ts": 1790433055,
-   "desc": "RT @cb_doge: Former Italian MP Capezzone praised Neuralink after a man with ALS was able to communicate with his wife again.\n\n“Thanks to ef…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceX: Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/MBDdD5TLeu",
-   "url": "https://x.com/elonmusk/status/2103852833833693222",
-   "ts": 1790432577,
-   "desc": "RT @SpaceX: Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/MBDdD5TLeu"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Rockets don’t need vision",
-   "url": "https://x.com/elonmusk/status/2103851336454586382",
-   "ts": 1790432220,
-   "desc": "Rockets don’t need vision"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Dr_Singularity: 2023: AI scores 64 on the Mensa Norway IQ test, about what you'd get by guessing randomly. Retard level.  2026: 151 IQ.…",
-   "url": "https://x.com/elonmusk/status/2103841551227228630",
-   "ts": 1790429887,
-   "desc": "RT @Dr_Singularity: 2023: AI scores 64 on the Mensa Norway IQ test, about what you'd get by guessing randomly. Retard level.\n\n2026: 151 IQ.…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @satyanadella: We’re building Copilot as a new OS for work that spans every model, every form factor, and every task. Today, we’re annou…",
-   "url": "https://x.com/elonmusk/status/2103841089765384503",
-   "ts": 1790429777,
-   "desc": "RT @satyanadella: We’re building Copilot as a new OS for work that spans every model, every form factor, and every task. Today, we’re annou…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @dhh: Bring back insane asylums, workhouses, and vagrancy laws. There's nothing kind or compassionate about letting mentally-ill drug ad…",
-   "url": "https://x.com/elonmusk/status/2103759131907932302",
-   "ts": 1790410237,
-   "desc": "RT @dhh: Bring back insane asylums, workhouses, and vagrancy laws. There's nothing kind or compassionate about letting mentally-ill drug ad…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @stevenmarkryan: • \"At All Costs\" - Elon Knows • @shaunmmaguire's S-Tier SpaceXAI Article • Live Grok Voice Demo https://t.co/BFfcW5CDKa",
-   "url": "https://x.com/elonmusk/status/2103758177460531517",
-   "ts": 1790410010,
-   "desc": "RT @stevenmarkryan: • \"At All Costs\" - Elon Knows\n• @shaunmmaguire's S-Tier SpaceXAI Article\n• Live Grok Voice Demo https://t.co/BFfcW5CDKa"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SawyerMerritt: I've created a new Grok Bot Tutorial template for anyone new to Grok @Bot.  This hands-on course includes 20 lessons. It…",
-   "url": "https://x.com/elonmusk/status/2103746575805587530",
-   "ts": 1790407244,
-   "desc": "RT @SawyerMerritt: I've created a new Grok Bot Tutorial template for anyone new to Grok @Bot.\n\nThis hands-on course includes 20 lessons. It…"
   },
   {
    "source": "X @sama",
@@ -3111,6 +3111,13 @@
   },
   {
    "source": "X @thsottiaux",
+   "title": "Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online per request according to some constraints.",
+   "url": "https://x.com/thsottiaux/status/2104108167806550046",
+   "ts": 1790493454,
+   "desc": "Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online per request according to some constraints."
+  },
+  {
+   "source": "X @thsottiaux",
    "title": "Resets all propagated. That will be all. Have a fantastic weekend.",
    "url": "https://x.com/thsottiaux/status/2103911959544610829",
    "ts": 1790446674,
@@ -3227,13 +3234,6 @@
    "url": "https://x.com/thsottiaux/status/2100121084817502216",
    "ts": 1789542859,
    "desc": "11pm on a Tuesday, big startup energy https://t.co/JZcrZraqhY"
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "2026 is the year of efficiency and Tuesday is for random swag drops on your door handle https://t.co/w68GaYgrmX",
-   "url": "https://x.com/thsottiaux/status/2099922755655479624",
-   "ts": 1789495574,
-   "desc": "2026 is the year of efficiency and Tuesday is for random swag drops on your door handle https://t.co/w68GaYgrmX"
   },
   {
    "source": "X @lydiahallie",
@@ -3615,6 +3615,13 @@
   },
   {
    "source": "HN",
+   "title": "One Month Without AI",
+   "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+   "ts": 1790417301,
+   "desc": "176 points"
+  },
+  {
+   "source": "HN",
    "title": "Classified estimates show the NSA is paying billions to test AI models",
    "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
    "ts": 1790350055,
@@ -3622,17 +3629,10 @@
   },
   {
    "source": "HN",
-   "title": "One Month Without AI",
-   "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-   "ts": 1790417301,
-   "desc": "171 points"
-  },
-  {
-   "source": "HN",
    "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
    "ts": 1790345228,
-   "desc": "146 points"
+   "desc": "151 points"
   },
   {
    "source": "HN",
@@ -3646,14 +3646,7 @@
    "title": "CEO of Mistral: AI is software. It can be controlled",
    "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
    "ts": 1790427124,
-   "desc": "89 points"
-  },
-  {
-   "source": "HN",
-   "title": "An airport cooled by natural ventilation",
-   "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
-   "ts": 1790331410,
-   "desc": "70 points"
+   "desc": "94 points"
   },
   {
    "source": "HN",
@@ -3678,13 +3671,6 @@
   },
   {
    "source": "HN",
-   "title": "Uproar in France over award-winning author accused of using AI",
-   "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
-   "ts": 1790333312,
-   "desc": "36 points"
-  },
-  {
-   "source": "HN",
    "title": "Pope: AI must serve humans not become tool of domination",
    "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
    "ts": 1790363885,
@@ -3695,7 +3681,7 @@
    "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
    "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
    "ts": 1790463241,
-   "desc": "27 points"
+   "desc": "31 points"
   },
   {
    "source": "HN",
@@ -3748,6 +3734,13 @@
   },
   {
    "source": "HN",
+   "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+   "url": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
+   "ts": 1790467061,
+   "desc": "12 points"
+  },
+  {
+   "source": "HN",
    "title": "Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%",
    "url": "https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342",
    "ts": 1790371369,
@@ -3783,17 +3776,17 @@
   },
   {
    "source": "HN",
-   "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
-   "url": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
-   "ts": 1790467061,
-   "desc": "9 points"
-  },
-  {
-   "source": "HN",
    "title": "Top AI companies probing security incidents",
    "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
    "ts": 1790464528,
    "desc": "9 points"
+  },
+  {
+   "source": "HN",
+   "title": "U.S., Russia stripped human oversight from global AI weapons pact",
+   "url": "https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/",
+   "ts": 1790498912,
+   "desc": "8 points"
   },
   {
    "source": "HN",
@@ -3815,6 +3808,13 @@
    "url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
    "ts": 1790357081,
    "desc": "8 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise",
+   "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+   "ts": 1790404658,
+   "desc": "7 points"
   }
  ]
 }
