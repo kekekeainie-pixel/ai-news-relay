@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-27T12:45:50.652728+00:00",
- "count": 541,
+ "generated_at": "2026-09-27T18:44:24.011047+00:00",
+ "count": 542,
  "stats": [
   {
    "source": "X (自建客户端)",
@@ -927,6 +927,13 @@
   },
   {
    "source": "X @MiniMax_AI",
+   "title": "MiniMax-M3.1 Flash Preview is now live on the Token Plan!  Faster, lighter, and built for teams running high-volume, latency-sensitive workloads, now available under your existing Token Plan subscription, no extra setup required.   Try it today: http",
+   "url": "https://x.com/MiniMax_AI/status/2104256406786547800",
+   "ts": 1790528797,
+   "desc": "MiniMax-M3.1 Flash Preview is now live on the Token Plan!\n\nFaster, lighter, and built for teams running high-volume, latency-sensitive workloads, now available under your existing Token Plan subscription, no extra setup required. \n\nTry it today: https://t.co/ng3AyOvQE7"
+  },
+  {
+   "source": "X @MiniMax_AI",
    "title": "RT @Ronny_MiniMax: M3.1-Flash-Preview, debuts today on MiniMax Code. Welome everyone to try it.",
    "url": "https://x.com/MiniMax_AI/status/2104128144831864886",
    "ts": 1790498217,
@@ -1050,13 +1057,6 @@
    "url": "https://x.com/MiniMax_AI/status/2098245463095017872",
    "ts": 1789095676,
    "desc": "RT @openart_ai: $50,000 in prizes for the best AI ads. 🏆\n\nThe OpenArt Ad Awards are here.\n\n15 awards.\n\n$15K for Ad of the Year.\n\nOpen world…"
-  },
-  {
-   "source": "X @MiniMax_AI",
-   "title": "MiniMax is now part of the @nebiusai AI Builder Program 🤝.  Builders can tap MiniMax alongside models, infrastructure, and tooling from @nvidia, @LangChain, @huggingface, @cognition, @PrimeIntellect, and more, plus credits and office hours.  More of",
-   "url": "https://x.com/MiniMax_AI/status/2098214090099556548",
-   "ts": 1789088196,
-   "desc": "MiniMax is now part of the @nebiusai AI Builder Program 🤝.\n\nBuilders can tap MiniMax alongside models, infrastructure, and tooling from @nvidia, @LangChain, @huggingface, @cognition, @PrimeIntellect, and more, plus credits and office hours.\n\nMore of what builders need, in one place."
   },
   {
    "source": "X @Zai_org",
@@ -1543,6 +1543,20 @@
   },
   {
    "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: We're making $60 usage on DeepSeek V4.1 Flash now permanent in Command Code GOAT.  Happy Sunday!  🐐",
+   "url": "https://x.com/CommandCodeAI/status/2104244788379967543",
+   "ts": 1790526027,
+   "desc": "RT @CommandCodeAI: We're making $60 usage on DeepSeek V4.1 Flash now permanent in Command Code GOAT.\n\nHappy Sunday!\n\n🐐"
+  },
+  {
+   "source": "X @commandcodeai",
+   "title": "We're making $60 usage on DeepSeek V4.1 Flash now permanent in Command Code GOAT.  Happy Sunday!  🐐",
+   "url": "https://x.com/CommandCodeAI/status/2104229776210919460",
+   "ts": 1790522448,
+   "desc": "We're making $60 usage on DeepSeek V4.1 Flash now permanent in Command Code GOAT.\n\nHappy Sunday!\n\n🐐"
+  },
+  {
+   "source": "X @commandcodeai",
    "title": "Free models live in Command Code right now.  · Pixel Canary (stealth) 🆕 · Space Bunny Alpha (stealth) · Ling 3.0 Flash Sante · Laguna S 2.1  Available to all subscribers, on every plan.",
    "url": "https://x.com/CommandCodeAI/status/2104044055156203648",
    "ts": 1790478168,
@@ -1654,18 +1668,39 @@
    "desc": "GPT 6 Sol and Luna are live in Command Code.\n\nLuna is available on all plans and API\nE.g. in $10 GOAT plan: ~30K reqs, ~1.5B tokens\n\nSol is available on Pro, Max and API"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "Claude Opus 5.5 is live in Command Code Max and API.",
-   "url": "https://x.com/CommandCodeAI/status/2102464606371561903",
-   "ts": 1790101598,
-   "desc": "Claude Opus 5.5 is live in Command Code Max and API."
+   "source": "X @elonmusk",
+   "title": "RT @Kalshi: JUST IN: 98% of new cars sold in Norway this year are EVs, with Tesla's Model Y leading the next model by over 300%",
+   "url": "https://x.com/elonmusk/status/2104270094746501157",
+   "ts": 1790532060,
+   "desc": "RT @Kalshi: JUST IN: 98% of new cars sold in Norway this year are EVs, with Tesla's Model Y leading the next model by over 300%"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "Jev is free in Command Code! 🐐",
-   "url": "https://x.com/CommandCodeAI/status/2102461873245630935",
-   "ts": 1790100947,
-   "desc": "Jev is free in Command Code! 🐐"
+   "source": "X @elonmusk",
+   "title": "RT @prasenx: asked claude in cursor to make a video on history of video games https://t.co/65QZo9zmod",
+   "url": "https://x.com/elonmusk/status/2104254031061557730",
+   "ts": 1790528230,
+   "desc": "RT @prasenx: asked claude in cursor to make a video on history of video games https://t.co/65QZo9zmod"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @brivael: I gave Opus 5.5 one of my french theory analysis that got 80 million views and simply asked it to turn it into a video.  This…",
+   "url": "https://x.com/elonmusk/status/2104253907790713339",
+   "ts": 1790528201,
+   "desc": "RT @brivael: I gave Opus 5.5 one of my french theory analysis that got 80 million views and simply asked it to turn it into a video.\n\nThis…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @Erdayastronaut: 10 years ago today, @elonmusk announced his Mars plans in the form of the Interplanetary Transportation System, now kno…",
+   "url": "https://x.com/elonmusk/status/2104241882280706176",
+   "ts": 1790525334,
+   "desc": "RT @Erdayastronaut: 10 years ago today, @elonmusk announced his Mars plans in the form of the Interplanetary Transportation System, now kno…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @herbertong: SpaceX's CFO says Starlink demand is unprecedented. The interesting part is who's driving it!  Larry Goldberg @TeslaLarry b…",
+   "url": "https://x.com/elonmusk/status/2104237035791814976",
+   "ts": 1790524178,
+   "desc": "RT @herbertong: SpaceX's CFO says Starlink demand is unprecedented. The interesting part is who's driving it!\n\nLarry Goldberg @TeslaLarry b…"
   },
   {
    "source": "X @elonmusk",
@@ -1771,41 +1806,6 @@
    "url": "https://x.com/elonmusk/status/2104061143153053801",
    "ts": 1790482242,
    "desc": "Literally"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @AISafetyMemes: Update https://t.co/xyM29cdUp1",
-   "url": "https://x.com/elonmusk/status/2104012608340648402",
-   "ts": 1790470671,
-   "desc": "RT @AISafetyMemes: Update https://t.co/xyM29cdUp1"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Yes 😂",
-   "url": "https://x.com/elonmusk/status/2104012335954440279",
-   "ts": 1790470606,
-   "desc": "Yes 😂"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @aaronburnett: SpaceX’s Starship flight 14 is launching 26 V3 Starlinks and represents ~26 Tbps for the launch (based on company specs)……",
-   "url": "https://x.com/elonmusk/status/2104009175923560454",
-   "ts": 1790469852,
-   "desc": "RT @aaronburnett: SpaceX’s Starship flight 14 is launching 26 V3 Starlinks and represents ~26 Tbps for the launch (based on company specs)……"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Production on the Moon &amp; Mars will accelerate by far more than double every year, until natural limits are encountered",
-   "url": "https://x.com/elonmusk/status/2103960796942516451",
-   "ts": 1790458318,
-   "desc": "Production on the Moon &amp; Mars will accelerate by far more than double every year, until natural limits are encountered"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @xdNiBoR: Non tech people I know are buying Starlink for their homes because it is faster AND cheaper than cable internet here in Belgiu…",
-   "url": "https://x.com/elonmusk/status/2103958544035004805",
-   "ts": 1790457781,
-   "desc": "RT @xdNiBoR: Non tech people I know are buying Starlink for their homes because it is faster AND cheaper than cable internet here in Belgiu…"
   },
   {
    "source": "X @sama",
@@ -2586,6 +2586,13 @@
   },
   {
    "source": "X @ylecun",
+   "title": "RT @nbcsnl: Dario Amodei is at the desk to assure that the future of humanity is safe from AI https://t.co/HIem3WP5DX",
+   "url": "https://x.com/ylecun/status/2104219581204381851",
+   "ts": 1790520017,
+   "desc": "RT @nbcsnl: Dario Amodei is at the desk to assure that the future of humanity is safe from AI https://t.co/HIem3WP5DX"
+  },
+  {
+   "source": "X @ylecun",
    "title": "RT @realBigBrainAI: Yann LeCun, Executive Chairman of AMI Labs, explains why LLMs are mostly retrieving human knowledge rather than thinkin…",
    "url": "https://x.com/ylecun/status/2104065635714314692",
    "ts": 1790483313,
@@ -2716,13 +2723,6 @@
    "url": "https://x.com/ylecun/status/2103203999939690984",
    "ts": 1790277883,
    "desc": "RT @lennypruss: Listened to an EA-adjacent AI safety expert from Redwood Research on podcast, and you come away with 2 obvious realizations…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @pascalefung: I am looking to hire PhD students, post-docs, and ML researchers in our Paris office interested in collaborating on fundam…",
-   "url": "https://x.com/ylecun/status/2103194284874719422",
-   "ts": 1790275567,
-   "desc": "RT @pascalefung: I am looking to hire PhD students, post-docs, and ML researchers in our Paris office interested in collaborating on fundam…"
   },
   {
    "source": "X @AndrewYNg",
@@ -3048,6 +3048,13 @@
   },
   {
    "source": "X @natolambert",
+   "title": "Remember when Dean Ball was roasted for saying open models were deflationary/decel, and no one bats an eye at this.",
+   "url": "https://x.com/natolambert/status/2104265912903975014",
+   "ts": 1790531063,
+   "desc": "Remember when Dean Ball was roasted for saying open models were deflationary/decel, and no one bats an eye at this."
+  },
+  {
+   "source": "X @natolambert",
    "title": "We're in a phase where companies whose work-culture is suited to how frontier models interact with employees out of the box will receive a massive acceleration relative to their competitors. Same goes for how flexible employees are in using them.",
    "url": "https://x.com/natolambert/status/2103911107404710015",
    "ts": 1790446471,
@@ -3101,13 +3108,6 @@
    "url": "https://x.com/natolambert/status/2102151245318254849",
    "ts": 1790026887,
    "desc": "Strong agree. There’s way less of this than I would expect — partially due to the fact that making a high quality environment usually involves fairly expensive verification (testing strong models). Still, there can be much more."
-  },
-  {
-   "source": "X @natolambert",
-   "title": "Real open model nerds knew Xiaomi is cooking with MiMo! An open RL dashboard for the top scoring open model is aura. https://t.co/p5HHRK3EmQ",
-   "url": "https://x.com/natolambert/status/2102126846737285630",
-   "ts": 1790021070,
-   "desc": "Real open model nerds knew Xiaomi is cooking with MiMo! An open RL dashboard for the top scoring open model is aura. https://t.co/p5HHRK3EmQ"
   },
   {
    "source": "X @thsottiaux",
@@ -3405,73 +3405,80 @@
   },
   {
    "source": "Bluesky Simon Willison",
+   "title": "She made nesting bowls too! bsky.app/profile/simo...",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mwjddmdfdk2k",
+   "ts": 1790530310,
+   "desc": "She made nesting bowls too! bsky.app/profile/simo..."
+  },
+  {
+   "source": "Bluesky Simon Willison",
+   "title": "JPEG XL looks not to have good browser support yet, but it looks like AVIF became usable around 2023 caniuse.com?search=AVIF",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mwjdapah622k",
+   "ts": 1790530213,
+   "desc": "JPEG XL looks not to have good browser support yet, but it looks like AVIF became usable around 2023 caniuse.com?search=AVIF"
+  },
+  {
+   "source": "Bluesky Simon Willison",
+   "title": "I just exported 69 slides from Keynote - as (reduced quality) JPG: 10.4MB, as PNG: 100MB, as WebP: 4.1MB  Quality looks great, this 1920×1080 image here is 58KB",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mwjd3n3p4s2k",
+   "ts": 1790530043,
+   "desc": "I just exported 69 slides from Keynote - as (reduced quality) JPG: 10.4MB, as PNG: 100MB, as WebP: 4.1MB\n\nQuality looks great, this 1920×1080 image here is 58KB"
+  },
+  {
+   "source": "Bluesky Simon Willison",
+   "title": "How late to the party am I on WebP?  I only recently started using it as my preferred format for non-photo images and it's SO MUCH smaller than PNG, and looks much better than JPG used to shrink down",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mwjcwvab6c2k",
+   "ts": 1790529884,
+   "desc": "How late to the party am I on WebP?\n\nI only recently started using it as my preferred format for non-photo images and it's SO MUCH smaller than PNG, and looks much better than JPG used to shrink down screenshots too\n\nHas everyone else been having a WebP party without me for years?"
+  },
+  {
+   "source": "Bluesky Simon Willison",
+   "title": "But really the main thing is to poke around with them, try to get them to build impossible things, and see what they still can't do yet",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mwjaoq4trs2y",
+   "ts": 1790527462,
+   "desc": "But really the main thing is to poke around with them, try to get them to build impossible things, and see what they still can't do yet"
+  },
+  {
+   "source": "Bluesky Simon Willison",
+   "title": "Feels a bit self-serving to say it, but my blog has a LOT of material on coding agents simonwillison.net/tags/coding-... - plus an in-progress guide that I need to invest more work in simonwillison.ne",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mwjanzpgqs2y",
+   "ts": 1790527439,
+   "desc": "Feels a bit self-serving to say it, but my blog has a LOT of material on coding agents simonwillison.net/tags/coding-... - plus an in-progress guide that I need to invest more work in simonwillison.net/guides/agent..."
+  },
+  {
+   "source": "Bluesky Simon Willison",
+   "title": "Plus saying \"have you been following this year's Kākāpō breeding season?\" is a fantastic conversation-starter",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mwjal6aatc2y",
+   "ts": 1790527343,
+   "desc": "Plus saying \"have you been following this year's Kākāpō breeding season?\" is a fantastic conversation-starter"
+  },
+  {
+   "source": "Bluesky Simon Willison",
+   "title": "I am now the owner of some VERY fine Kākāpō ceramics, and the lego set, and I have a plushy somewhere too bsky.app/profile/simo...",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mwjajzmuhc2y",
+   "ts": 1790527304,
+   "desc": "I am now the owner of some VERY fine Kākāpō ceramics, and the lego set, and I have a plushy somewhere too bsky.app/profile/simo..."
+  },
+  {
+   "source": "Bluesky Simon Willison",
+   "title": "Sirocco on Last Chance To See, followed by stumbling across the Kākāpō Recovery Programme first on Twitter and now on Bluesky, in particular @digs.bsky.social",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mwjahx5q3s2y",
+   "ts": 1790527235,
+   "desc": "Sirocco on Last Chance To See, followed by stumbling across the Kākāpō Recovery Programme first on Twitter and now on Bluesky, in particular @digs.bsky.social"
+  },
+  {
+   "source": "Bluesky Simon Willison",
    "title": "Prompt and transcripts here simonwillison.net/2026/Sep/26/... - or you can load the HTML page Claude built to see the interactive version before it became a video tools.simonwillison.net/kakapo-party",
    "url": "https://bsky.app/profile/simonwillison.net/post/3mwhjndsalk2f",
    "ts": 1790468360,
    "desc": "Prompt and transcripts here simonwillison.net/2026/Sep/26/... - or you can load the HTML page Claude built to see the interactive version before it became a video tools.simonwillison.net/kakapo-party"
   },
   {
-   "source": "Bluesky Simon Willison",
-   "title": "I included a few references to this year's record-breaking Kākāpō breeding season in a talk I gave yesterday, and since Claude Opus 5.5 is surprisingly capable at pixel art animation I had it create t",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mwhjlrkyx22f",
-   "ts": 1790468307,
-   "desc": "I included a few references to this year's record-breaking Kākāpō breeding season in a talk I gave yesterday, and since Claude Opus 5.5 is surprisingly capable at pixel art animation I had it create this celebratory video for my closing slide"
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "I've seen less since the Pacifica Pier got popular, I think we have lost a few to the new location",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mw7uaf4lks2q",
-   "ts": 1790204858,
-   "desc": "I've seen less since the Pacifica Pier got popular, I think we have lost a few to the new location"
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "Seems to cost less than 1 cent per minute of generated audio for Flash, and Flash-Lite is even cheaper than that",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mw7mcuhzuc2u",
-   "ts": 1790196352,
-   "desc": "Seems to cost less than 1 cent per minute of generated audio for Flash, and Flash-Lite is even cheaper than that"
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "The new Gemini 3.8 TTS models are super-cheap and can generate conversations between multiple voices (from 2,000+, or you can clone your own) - I built a little playground UI for it, then had Claude k",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mw7magyrwc2i",
-   "ts": 1790196270,
-   "desc": "The new Gemini 3.8 TTS models are super-cheap and can generate conversations between multiple voices (from 2,000+, or you can clone your own) - I built a little playground UI for it, then had Claude knock up a script where two pelicans debate moving to Pacifica Pier simonwillison.net/2026/Sep/23/..."
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "I'm not using Max in Claude Code",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mw6qkdfqzc2w",
-   "ts": 1790166537,
-   "desc": "I'm not using Max in Claude Code"
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "These models are trained on images as well - they can accept images as input because they've seen millions of images in their training data  I find the argument that promotional photos of bikes always",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mw6oo3h2kc2m",
-   "ts": 1790164516,
-   "desc": "These models are trained on images as well - they can accept images as input because they've seen millions of images in their training data\n\nI find the argument that promotional photos of bikes always show the chain pretty convincing"
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "On the evening of October 14, @simonwillison.net and I are hosting a small, informal chat about agentic engineering and \"agentic show and tell\"  in San Francisco.  Details at: blog.fsck.com/2026/09/22",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mw5qn5rijs2l",
-   "ts": 1790132273,
-   "desc": "On the evening of October 14, @simonwillison.net and I are hosting a small, informal chat about agentic engineering and \"agentic show and tell\"  in San Francisco.\n\nDetails at: blog.fsck.com/2026/09/22/a..."
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "Big model release today - I wrote about Claude Opus 5.5, GPT-6 Sol, and GPT-6 Luna - plus comparison grids of pelicans by the different model families at different reasoning levels simonwillison.net/2",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mw5g6izoms2n",
-   "ts": 1790121044,
-   "desc": "Big model release today - I wrote about Claude Opus 5.5, GPT-6 Sol, and GPT-6 Luna - plus comparison grids of pelicans by the different model families at different reasoning levels simonwillison.net/2026/Sep/22/..."
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "Put together some notes on Jev and the new category of system one aka decision models simonwillison.net/2026/Sep/21/...",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mw2tsop42c2u",
-   "ts": 1790032600,
-   "desc": "Put together some notes on Jev and the new category of system one aka decision models simonwillison.net/2026/Sep/21/..."
+   "source": "Bluesky Nathan Lambert",
+   "title": "Fairly easy actions I use to reduce phone addiction: 1. Never bring phone in the bedroom 2. If going out to a meal walking distance from home, leave phone behind 3. Black and white mode toggle on Home",
+   "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mwiwf6qzk52m",
+   "ts": 1790516405,
+   "desc": "Fairly easy actions I use to reduce phone addiction:\n1. Never bring phone in the bedroom\n2. If going out to a meal walking distance from home, leave phone behind\n3. Black and white mode toggle on Home Screen\n4. Silly one: move phone out of pockets I like to put my hands in"
   },
   {
    "source": "Bluesky Nathan Lambert",
@@ -3535,13 +3542,6 @@
    "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mvuzqbqzz223",
    "ts": 1789832803,
    "desc": "Where I stand on RSI: A moderate's view on the recent events and trajectory of AI. I was underestimating how much we are likely to scale inference-time compute in the near future, but have not seen much to convince me that an intelligence explosion is near. \nwww.interconnects.ai/p/where-i-st..."
-  },
-  {
-   "source": "Bluesky Nathan Lambert",
-   "title": "Seems like one of the most important research problems for CS academics is llm-supervised peer review. If we don’t solve it the academic institutions are toast.   It seems easier than building new ins",
-   "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mvup57pavf2j",
-   "ts": 1789821426,
-   "desc": "Seems like one of the most important research problems for CS academics is llm-supervised peer review. If we don’t solve it the academic institutions are toast. \n\nIt seems easier than building new institutions."
   },
   {
    "source": "Bluesky Ethan Mollick",
@@ -3615,24 +3615,17 @@
   },
   {
    "source": "HN",
+   "title": "There are no \"rogue\" AI agents",
+   "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+   "ts": 1790525986,
+   "desc": "186 points"
+  },
+  {
+   "source": "HN",
    "title": "One Month Without AI",
    "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
    "ts": 1790417301,
-   "desc": "176 points"
-  },
-  {
-   "source": "HN",
-   "title": "Classified estimates show the NSA is paying billions to test AI models",
-   "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-   "ts": 1790350055,
-   "desc": "176 points"
-  },
-  {
-   "source": "HN",
-   "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-   "ts": 1790345228,
-   "desc": "151 points"
+   "desc": "178 points"
   },
   {
    "source": "HN",
@@ -3646,7 +3639,7 @@
    "title": "CEO of Mistral: AI is software. It can be controlled",
    "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
    "ts": 1790427124,
-   "desc": "94 points"
+   "desc": "96 points"
   },
   {
    "source": "HN",
@@ -3664,24 +3657,31 @@
   },
   {
    "source": "HN",
-   "title": "Show HN: Doom or Bloom, map your AI worldview",
-   "url": "https://www.doom-or-bloom.com",
-   "ts": 1790355088,
-   "desc": "56 points"
+   "title": "Show HN: TinyAIArena watch AI agents battle it out",
+   "url": "https://tinyaiarena.com/",
+   "ts": 1790524288,
+   "desc": "49 points"
   },
   {
    "source": "HN",
-   "title": "Pope: AI must serve humans not become tool of domination",
-   "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
-   "ts": 1790363885,
-   "desc": "32 points"
+   "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+   "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+   "ts": 1790526578,
+   "desc": "45 points"
   },
   {
    "source": "HN",
    "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
    "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
    "ts": 1790463241,
-   "desc": "31 points"
+   "desc": "34 points"
+  },
+  {
+   "source": "HN",
+   "title": "Pope: AI must serve humans not become tool of domination",
+   "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
+   "ts": 1790363885,
+   "desc": "33 points"
   },
   {
    "source": "HN",
@@ -3692,10 +3692,24 @@
   },
   {
    "source": "HN",
+   "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+   "url": "https://earnanhonestdollar.com/bench",
+   "ts": 1790529857,
+   "desc": "20 points"
+  },
+  {
+   "source": "HN",
    "title": "US DOE will give $5.25B to upgrade the grid for AI datacenters",
    "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276",
    "ts": 1790403337,
    "desc": "17 points"
+  },
+  {
+   "source": "HN",
+   "title": "The AI Bubble Explained",
+   "url": "https://hughhowey.com/the-ai-bubble-explained/",
+   "ts": 1790438136,
+   "desc": "16 points"
   },
   {
    "source": "HN",
@@ -3706,31 +3720,10 @@
   },
   {
    "source": "HN",
-   "title": "Israel weaponises AI for West Bank demolitions",
-   "url": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions",
-   "ts": 1790346192,
-   "desc": "15 points"
-  },
-  {
-   "source": "HN",
-   "title": "The AI Bubble Explained",
-   "url": "https://hughhowey.com/the-ai-bubble-explained/",
-   "ts": 1790438136,
-   "desc": "14 points"
-  },
-  {
-   "source": "HN",
    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
    "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-   "ts": 1790351157,
-   "desc": "14 points"
-  },
-  {
-   "source": "HN",
-   "title": "The cheap new AI model taking aim at OpenAI and Anthropic",
-   "url": "https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430",
-   "ts": 1790356008,
-   "desc": "13 points"
+   "ts": 1790412777,
+   "desc": "12 points"
   },
   {
    "source": "HN",
@@ -3752,13 +3745,6 @@
    "url": "https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land",
    "ts": 1790442428,
    "desc": "10 points"
-  },
-  {
-   "source": "HN",
-   "title": "Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party",
-   "url": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
-   "ts": 1790358550,
-   "desc": "9 points"
   },
   {
    "source": "HN",
@@ -3804,10 +3790,10 @@
   },
   {
    "source": "HN",
-   "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
-   "url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
-   "ts": 1790357081,
-   "desc": "8 points"
+   "title": "The Case for Learning in the Era of AI",
+   "url": "https://jonbehnken.substack.com/p/the-case-for-learning",
+   "ts": 1790452628,
+   "desc": "7 points"
   },
   {
    "source": "HN",
@@ -3815,6 +3801,27 @@
    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
    "ts": 1790404658,
    "desc": "7 points"
+  },
+  {
+   "source": "HN",
+   "title": "Nobody wanted an \"AI PC,\" so Microsoft stopped calling it that",
+   "url": "https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html",
+   "ts": 1790411002,
+   "desc": "6 points"
+  },
+  {
+   "source": "HN",
+   "title": "Chinese AI models surge in global popularity",
+   "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+   "ts": 1790498908,
+   "desc": "6 points"
+  },
+  {
+   "source": "HN",
+   "title": "I expect AI replication incidents by 2027",
+   "url": "https://www.lesswrong.com/posts/BhcymsLgyYazh6sme/why-i-expect-ai-replication-incidents-by-2027",
+   "ts": 1790492558,
+   "desc": "6 points"
   }
  ]
 }
