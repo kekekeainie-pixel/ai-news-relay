@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-30T06:49:50.448193+00:00",
- "count": 534,
+ "generated_at": "2026-09-30T12:52:31.302830+00:00",
+ "count": 530,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 464,
+   "count": 460,
    "note": "49 账号"
   },
   {
@@ -437,6 +437,13 @@
   },
   {
    "source": "X @huggingface",
+   "title": "RT @adithya_s_k: Excited to release TaskSmith 🔨 &gt; a specialised harness for generating RL environments from code  Not a general coding agen…",
+   "url": "https://x.com/huggingface/status/2105274490456547609",
+   "ts": 1790771527,
+   "desc": "RT @adithya_s_k: Excited to release TaskSmith 🔨\n&gt; a specialised harness for generating RL environments from code\n\nNot a general coding agen…"
+  },
+  {
+   "source": "X @huggingface",
    "title": "RT @liquidai: Announcing d1, our first decision model.   It's the first model to outperform Jev on @huggingface's Decision Index.  &gt; wins o…",
    "url": "https://x.com/huggingface/status/2105036570717831396",
    "ts": 1790714802,
@@ -567,13 +574,6 @@
    "url": "https://x.com/huggingface/status/2104601062501994558",
    "ts": 1790610969,
    "desc": "RT @ClementDelangue: From what we know (take with a grain of salt, we need much more transparency!), if @OpenAI had been running this on th…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @chenwanch1: Who wants more speech training data?  YODAS v3 is now available @huggingface  It’s 1.1M hours - the biggest audio dataset e…",
-   "url": "https://x.com/huggingface/status/2104501742083662184",
-   "ts": 1790587289,
-   "desc": "RT @chenwanch1: Who wants more speech training data?\n\nYODAS v3 is now available @huggingface\n\nIt’s 1.1M hours - the biggest audio dataset e…"
   },
   {
    "source": "X @NousResearch",
@@ -717,6 +717,13 @@
   },
   {
    "source": "X @Alibaba_Qwen",
+   "title": "Qwen3.8-27B is now accessible via @nebiustf. Whether you are building agents or doing deep research, this 27B dense model is ready for your multi-step workflows! 🥳",
+   "url": "https://x.com/Alibaba_Qwen/status/2105256053403508849",
+   "ts": 1790767131,
+   "desc": "Qwen3.8-27B is now accessible via @nebiustf. Whether you are building agents or doing deep research, this 27B dense model is ready for your multi-step workflows! 🥳"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
    "title": "⚡ Meet Qwen-Audio-3.1! ASR, TTS & Realtime are fully upgraded, joined by two new models: TTS-Next for audio creation and ASR-Next for audio understanding.  Five models, one complete audio stack: understanding, generation, interaction & creation.   Pl",
    "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
    "ts": 1790154683,
@@ -763,13 +770,6 @@
    "url": "https://x.com/Alibaba_Qwen/status/2101670804794884242",
    "ts": 1789912341,
    "desc": "Thanks @vllm_project for the day-0 support! 🙌 Generate, edit, transparent output — one model, ready to serve. Details 👇"
-  },
-  {
-   "source": "X @Alibaba_Qwen",
-   "title": "A great example of practical AI solving real-world problems! Faster than ever. Thanks for building with Qwen. @cerebras Try it out for yourself! 🏠",
-   "url": "https://x.com/Alibaba_Qwen/status/2101233765179904007",
-   "ts": 1789808143,
-   "desc": "A great example of practical AI solving real-world problems! Faster than ever. Thanks for building with Qwen. @cerebras Try it out for yourself! 🏠"
   },
   {
    "source": "X @kimi_moonshot",
@@ -1270,6 +1270,13 @@
   },
   {
    "source": "X @TencentHunyuan",
+   "title": "3 tracks. 3 winners. Go and Create. 🥇",
+   "url": "https://x.com/TencentHunyuan/status/2105215199192207710",
+   "ts": 1790757391,
+   "desc": "3 tracks. 3 winners. Go and Create. 🥇"
+  },
+  {
+   "source": "X @TencentHunyuan",
    "title": "live on GMI Cloud 🔥",
    "url": "https://x.com/TencentHunyuan/status/2103046418114150633",
    "ts": 1790240313,
@@ -1372,13 +1379,6 @@
    "url": "https://x.com/TencentHunyuan/status/2098244685982798008",
    "ts": 1789095491,
    "desc": "Much more  AI coming ❤️"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "🚀 AuK is officially here. Nano banana🍌 for audio  An open-source foundation model for unified speech generation and editing. Natural-language instructions + reference audio. One interface. Zero-shot TTS. Instruction-controlled generation. Content edi",
-   "url": "https://x.com/TencentHunyuan/status/2097996926876795197",
-   "ts": 1789036420,
-   "desc": "🚀 AuK is officially here. Nano banana🍌 for audio\n\nAn open-source foundation model for unified speech generation and editing.\nNatural-language instructions + reference audio. One interface.\nZero-shot TTS. Instruction-controlled generation. Content editing. Whisper-conversion. De-accent. Timbre/style/emotion edit. Speed/Pitch control. Enhancement, denoising, multi-speaker and music separation.\nAlso"
   },
   {
    "source": "X @cursor_ai",
@@ -1540,20 +1540,6 @@
    "url": "https://x.com/CommandCodeAI/status/2105037973322653941",
    "ts": 1790715137,
    "desc": "GPT 6.1 Sol is now live in Command Code.\n\nAstra-level intelligence at one-fifth price and 95% cache read.\n\nAvailable on Max and API."
-  },
-  {
-   "source": "X @commandcodeai",
-   "title": "Read BYOK docs to learn more: https://t.co/3G4smuR7Si",
-   "url": "https://x.com/CommandCodeAI/status/2105017119809446165",
-   "ts": 1790710165,
-   "desc": "Read BYOK docs to learn more:\nhttps://t.co/3G4smuR7Si"
-  },
-  {
-   "source": "X @commandcodeai",
-   "title": "You can now use your ChatGPT subscription in Command Code.  · Run /connect to link your account · Requests run locally from the CLI · GPT models get their own section in /model  Try now: $ npm i -g command-code",
-   "url": "https://x.com/CommandCodeAI/status/2105017118316237080",
-   "ts": 1790710164,
-   "desc": "You can now use your ChatGPT subscription in Command Code.\n\n· Run /connect to link your account\n· Requests run locally from the CLI\n· GPT models get their own section in /model\n\nTry now: $ npm i -g command-code"
   },
   {
    "source": "X @commandcodeai",
@@ -2999,20 +2985,6 @@
   },
   {
    "source": "X @natolambert",
-   "title": "I think it's a fairly classic problem of scientists, made a lot worse in the era of social media. It's one of my greatest fears.",
-   "url": "https://x.com/natolambert/status/2104969030599946408",
-   "ts": 1790698699,
-   "desc": "I think it's a fairly classic problem of scientists, made a lot worse in the era of social media. It's one of my greatest fears."
-  },
-  {
-   "source": "X @natolambert",
-   "title": "The problem for folks like this isn't that they're dumb or anything, Timnit has all the skills of top scientists, rather the information ecosystem and peer groups they live in that don't encourage interrogating thought. Echo chambers are a slow death",
-   "url": "https://x.com/natolambert/status/2104968368256422143",
-   "ts": 1790698542,
-   "desc": "The problem for folks like this isn't that they're dumb or anything, Timnit has all the skills of top scientists, rather the information ecosystem and peer groups they live in that don't encourage interrogating thought. Echo chambers are a slow death of clear thinking."
-  },
-  {
-   "source": "X @natolambert",
    "title": "Also iIf you don’t expect to be wrong sometimes in AI, you’re going to have a hard time making takes and predictions that matter.",
    "url": "https://x.com/natolambert/status/2104965985870782775",
    "ts": 1790697974,
@@ -3349,6 +3321,13 @@
   },
   {
    "source": "Bluesky Simon Willison",
+   "title": "Here are detailed (Astra-generated) notes on what I ran gist.github.com/simonw/88baf...",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mwpzz5zbdk2h",
+   "ts": 1790760814,
+   "desc": "Here are detailed (Astra-generated) notes on what I ran gist.github.com/simonw/88baf..."
+  },
+  {
+   "source": "Bluesky Simon Willison",
    "title": "I was inspired to try re-running your experiment with a local, open weight model - Qwen 3.8 27B Q4A_K_M - here's the result",
    "url": "https://bsky.app/profile/simonwillison.net/post/3mwpiziwrw22h",
    "ts": 1790742572,
@@ -3409,13 +3388,6 @@
    "url": "https://bsky.app/profile/simonwillison.net/post/3mwn5yorlok2z",
    "ts": 1790662014,
    "desc": "I'd love to know that\n\nWe can at least estimate based on how much it costs to run similarly capable open weight models - Kiki K3 etc"
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "I'm pretty skeptical of those trillion dollar infrastructure numbers - they sound very bubbly to me  Billions of dollars I can believe - Anthropic are already renting environmentally nasty data center",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mwn5w4fl5c2z",
-   "ts": 1790661928,
-   "desc": "I'm pretty skeptical of those trillion dollar infrastructure numbers - they sound very bubbly to me\n\nBillions of dollars I can believe - Anthropic are already renting environmentally nasty data centers from SpaceX for over a billion dollars a month, and that's because they needed the extra capacity"
   },
   {
    "source": "Bluesky Nathan Lambert",
@@ -3562,35 +3534,28 @@
    "title": "It's Time to Investigate the AI Labs",
    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "ts": 1790625215,
-   "desc": "603 points"
+   "desc": "610 points"
   },
   {
    "source": "HN",
    "title": "DraftKings is using AI to behaviorally target chronic gamblers",
    "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
    "ts": 1790699448,
-   "desc": "537 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI companies in race to demonstrate their model most threatening to humanity",
-   "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-   "ts": 1790584540,
-   "desc": "438 points"
+   "desc": "545 points"
   },
   {
    "source": "HN",
    "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
    "ts": 1790672621,
-   "desc": "415 points"
+   "desc": "419 points"
   },
   {
    "source": "HN",
    "title": "The problem is not AI code, but not knowing about system architecture or intent",
    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
    "ts": 1790611902,
-   "desc": "382 points"
+   "desc": "383 points"
   },
   {
    "source": "HN",
@@ -3604,28 +3569,21 @@
    "title": "AI needs $6T in annual revenue to justify data centre boom",
    "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
    "ts": 1790709685,
-   "desc": "200 points"
-  },
-  {
-   "source": "HN",
-   "title": "What would a serious AI product look like?",
-   "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-   "ts": 1790593332,
-   "desc": "171 points"
+   "desc": "208 points"
   },
   {
    "source": "HN",
    "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
    "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
    "ts": 1790691324,
-   "desc": "154 points"
+   "desc": "158 points"
   },
   {
    "source": "HN",
    "title": "Sustainable energy without the hot air (2008)",
    "url": "https://www.withouthotair.com/",
    "ts": 1790685498,
-   "desc": "142 points"
+   "desc": "145 points"
   },
   {
    "source": "HN",
@@ -3646,7 +3604,7 @@
    "title": "Pacing the Frontier is not the actual goal for AI labs",
    "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
    "ts": 1790628446,
-   "desc": "82 points"
+   "desc": "83 points"
   },
   {
    "source": "HN",
@@ -3660,20 +3618,27 @@
    "title": "McDonald's push to have AI price your Big Mac",
    "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
    "ts": 1790711930,
-   "desc": "52 points"
+   "desc": "55 points"
   },
   {
    "source": "HN",
-   "title": "We Can't Let Enormous Weirdos Regulate AI",
-   "url": "https://little-flying-robots.ghost.io/why-we-cant-let-enormous-weirdos-regulate-ai/",
-   "ts": 1790614550,
-   "desc": "47 points"
+   "title": "Responsible Release of AI-Generated Mathematics",
+   "url": "https://agmai.org/general-sep29/",
+   "ts": 1790735772,
+   "desc": "54 points"
   },
   {
    "source": "HN",
    "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
    "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
    "ts": 1790683267,
+   "desc": "48 points"
+  },
+  {
+   "source": "HN",
+   "title": "We Can't Let Enormous Weirdos Regulate AI",
+   "url": "https://little-flying-robots.ghost.io/why-we-cant-let-enormous-weirdos-regulate-ai/",
+   "ts": 1790614550,
    "desc": "47 points"
   },
   {
@@ -3692,16 +3657,16 @@
   },
   {
    "source": "HN",
-   "title": "Responsible Release of AI-Generated Mathematics",
-   "url": "https://agmai.org/general-sep29/",
-   "ts": 1790735772,
-   "desc": "32 points"
-  },
-  {
-   "source": "HN",
    "title": "AI risk is not sentience by computers, it is negligence by humans",
    "url": "https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/",
    "ts": 1790653864,
+   "desc": "33 points"
+  },
+  {
+   "source": "HN",
+   "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+   "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
+   "ts": 1790722350,
    "desc": "32 points"
   },
   {
@@ -3720,31 +3685,24 @@
   },
   {
    "source": "HN",
-   "title": "Big AI's content problem: Take the work, keep the money",
-   "url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
-   "ts": 1790586257,
-   "desc": "27 points"
-  },
-  {
-   "source": "HN",
-   "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
-   "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
-   "ts": 1790722350,
-   "desc": "26 points"
+   "title": "Meta's new AI agent built lists of people in vulnerable groups on request",
+   "url": "https://hntrbrk.com/breaking-news/muse-doxxing",
+   "ts": 1790669200,
+   "desc": "28 points"
   },
   {
    "source": "HN",
    "title": "Stupid Over-Reliance on Palantir AI Helped Lead to US Bombing of Iranian School",
    "url": "https://www.techdirt.com/2026/09/29/reporting-confirms-stupid-over-reliance-on-palantir-ai-helped-lead-to-us-bombing-of-iranian-schoolgirls/",
    "ts": 1790689830,
-   "desc": "25 points"
+   "desc": "26 points"
   },
   {
    "source": "HN",
    "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
    "url": "https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874/",
    "ts": 1790725119,
-   "desc": "23 points"
+   "desc": "25 points"
   },
   {
    "source": "HN",
@@ -3758,7 +3716,14 @@
    "title": "AI models keep posting screenshots showing sensitive data from inside companies",
    "url": "https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640",
    "ts": 1790699112,
-   "desc": "20 points"
+   "desc": "21 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
+   "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
+   "ts": 1790740978,
+   "desc": "19 points"
   },
   {
    "source": "HN",
@@ -3766,6 +3731,13 @@
    "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
    "ts": 1790620304,
    "desc": "18 points"
+  },
+  {
+   "source": "HN",
+   "title": "Is open-weight AI banned yet?",
+   "url": "https://isopenweightaibannedyet.com",
+   "ts": 1790712985,
+   "desc": "17 points"
   }
  ]
 }
