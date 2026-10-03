@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-03T06:58:47.499866+00:00",
- "count": 519,
+ "generated_at": "2026-10-03T16:35:53.963917+00:00",
+ "count": 527,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 449,
+   "count": 457,
    "note": "49 账号"
   },
   {
@@ -154,6 +154,20 @@
    "url": "https://x.com/AnthropicAI/status/2098097512544444447",
    "ts": 1789060402,
    "desc": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report, and used the lessons from them to strengthen our safeguards. Where appropriate, we also shared what we found with autho"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "Watch → https://t.co/vaJzQEEPPs Spotify → https://t.co/dCRx0EnHK0 Apple Podcasts → https://t.co/SoXfo37VgP  Or listen wherever you get your podcasts! 🎧",
+   "url": "https://x.com/GoogleDeepMind/status/2105707090547478914",
+   "ts": 1790874667,
+   "desc": "Watch → https://t.co/vaJzQEEPPs\nSpotify → https://t.co/dCRx0EnHK0\nApple Podcasts → https://t.co/SoXfo37VgP\n\nOr listen wherever you get your podcasts! 🎧"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?  We explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on o",
+   "url": "https://x.com/GoogleDeepMind/status/2105707085287567709",
+   "ts": 1790874665,
+   "desc": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?\n\nWe explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on our podcast. ↓\n\nTimecodes:\n00:00 Introduction\n00:34 What is a watermark?\n04:35 SynthID\n15:16 Images and video\n19:28 SynthID Bio\n28:00 Future of resilie"
   },
   {
    "source": "X @GoogleDeepMind",
@@ -1542,6 +1556,62 @@
    "desc": "GPT 6.1 Sol is now live in Command Code.\n\nAstra-level intelligence at one-fifth price and 95% cache read.\n\nAvailable on Max and API."
   },
   {
+   "source": "X @commandcodeai",
+   "title": "Read BYOK docs to learn more: https://t.co/3G4smuR7Si",
+   "url": "https://x.com/CommandCodeAI/status/2105017119809446165",
+   "ts": 1790710165,
+   "desc": "Read BYOK docs to learn more:\nhttps://t.co/3G4smuR7Si"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @theisabelb: When Lauren Friedman showed up at Amherst College, she was surprised to discover that almost every single girl in her dorm…",
+   "url": "https://x.com/elonmusk/status/2106375534166921302",
+   "ts": 1791034036,
+   "desc": "RT @theisabelb: When Lauren Friedman showed up at Amherst College, she was surprised to discover that almost every single girl in her dorm…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @KettlebellDan: for me Grok @bot went from being a curiosity, to a helpful tool, to an essential part of my workflow in a matter of mont…",
+   "url": "https://x.com/elonmusk/status/2106373817807319221",
+   "ts": 1791033627,
+   "desc": "RT @KettlebellDan: for me Grok @bot went from being a curiosity, to a helpful tool, to an essential part of my workflow in a matter of mont…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @lingxi: how can we make @bot better for you in next two weeks?  any confusion, frustration, criticism, wishes. just dump them to me plz…",
+   "url": "https://x.com/elonmusk/status/2106296408261415150",
+   "ts": 1791015171,
+   "desc": "RT @lingxi: how can we make @bot better for you in next two weeks?\n\nany confusion, frustration, criticism, wishes. just dump them to me plz…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "A sufficiently large quantity is a quality all its own.   Big difference between bacteria with one cell and a human with 35 trillion cells, even though both are made of cells.",
+   "url": "https://x.com/elonmusk/status/2106293251233738928",
+   "ts": 1791014418,
+   "desc": "A sufficiently large quantity is a quality all its own. \n\nBig difference between bacteria with one cell and a human with 35 trillion cells, even though both are made of cells."
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @laralogan: This is uncomfortable viewing for me. Takes me back to when I was attacked by a mob of some 200 men in Tahrir Square in Cair…",
+   "url": "https://x.com/elonmusk/status/2106290647892435201",
+   "ts": 1791013798,
+   "desc": "RT @laralogan: This is uncomfortable viewing for me. Takes me back to when I was attacked by a mob of some 200 men in Tahrir Square in Cair…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @cb_doge: BREAKING: SpaceX launched three missions in less than 13 hours.  • Crew-13: 4 astronauts to the ISS • Transporter-18: payloads…",
+   "url": "https://x.com/elonmusk/status/2106290216172666944",
+   "ts": 1791013695,
+   "desc": "RT @cb_doge: BREAKING: SpaceX launched three missions in less than 13 hours.\n\n• Crew-13: 4 astronauts to the ISS\n• Transporter-18: payloads…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "How would you like your FSD?",
+   "url": "https://x.com/elonmusk/status/2106286369018716581",
+   "ts": 1791012777,
+   "desc": "How would you like your FSD?"
+  },
+  {
    "source": "X @elonmusk",
    "title": "RT @Tesla: Q3 2026    Production: 464,391 Deliveries: 486,532 Energy storage deployments: 13.7 GWh  Our Q3 Company Update will be streamed…",
    "url": "https://x.com/elonmusk/status/2106259023117050123",
@@ -1633,53 +1703,11 @@
    "desc": "RT @MorganLBrennan: Plus re-landing four boosters— and starting the week with Starship’s first orbital flight.\n\nFor investors new to the sp…"
   },
   {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceXAIMemphis: Happy to support – good luck to all of the runners!",
-   "url": "https://x.com/elonmusk/status/2106087371985084711",
-   "ts": 1790965333,
-   "desc": "RT @SpaceXAIMemphis: Happy to support – good luck to all of the runners!"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceX: Docking confirmed! https://t.co/Y1xwyaevSL",
-   "url": "https://x.com/elonmusk/status/2106087265969791392",
-   "ts": 1790965308,
-   "desc": "RT @SpaceX: Docking confirmed! https://t.co/Y1xwyaevSL"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @elonmusk: @aaronburnett Correct, roughly 90% of SpaceX’s revenue this year will be commercial. In Q4, our government revenue will be le…",
-   "url": "https://x.com/elonmusk/status/2106086238558327217",
-   "ts": 1790965063,
-   "desc": "RT @elonmusk: @aaronburnett Correct, roughly 90% of SpaceX’s revenue this year will be commercial. In Q4, our government revenue will be le…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @cb_doge: SpaceX launched five missions in the last six days.  • Sep 26 — USSF-385, Falcon 9 • Sep 28 — Starship Flight 14 • Oct 1 — Cre…",
-   "url": "https://x.com/elonmusk/status/2106086087647166910",
-   "ts": 1790965027,
-   "desc": "RT @cb_doge: SpaceX launched five missions in the last six days.\n\n• Sep 26 — USSF-385, Falcon 9\n• Sep 28 — Starship Flight 14\n• Oct 1 — Cre…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @visegrad24: 93-year-old Marie-Louise was found dead and covered in blood inside her home in Toulouse, France, with a naked 33-year-old…",
-   "url": "https://x.com/elonmusk/status/2106084127573483743",
-   "ts": 1790964559,
-   "desc": "RT @visegrad24: 93-year-old Marie-Louise was found dead and covered in blood inside her home in Toulouse, France, with a naked 33-year-old…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Great work by the @SpaceX team!",
-   "url": "https://x.com/elonmusk/status/2106083414848028834",
-   "ts": 1790964389,
-   "desc": "Great work by the @SpaceX team!"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @NASAAdmin: Incredible Falcon Heavy footage! Congrats @SpaceX and @DeptofWar on a spectacular launch. October 1st was a big day for the…",
-   "url": "https://x.com/elonmusk/status/2106047762978722085",
-   "ts": 1790955889,
-   "desc": "RT @NASAAdmin: Incredible Falcon Heavy footage! Congrats @SpaceX and @DeptofWar on a spectacular launch. October 1st was a big day for the…"
+   "source": "X @sama",
+   "title": "I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.",
+   "url": "https://x.com/sama/status/2106388373221118198",
+   "ts": 1791037097,
+   "desc": "I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue."
   },
   {
    "source": "X @sama",
@@ -2313,6 +2341,20 @@
   },
   {
    "source": "X @sundarpichai",
+   "title": "Importantly Argon has frontier safeguards and we are rolling it out responsibly - it’s with the US gov’t and going to a set of trusted cyber defenders through our Fairwind Program today.  We’re going to make it available as soon as we can and as safe",
+   "url": "https://x.com/sundarpichai/status/2105387954474746264",
+   "ts": 1790798579,
+   "desc": "Importantly Argon has frontier safeguards and we are rolling it out responsibly - it’s with the US gov’t and going to a set of trusted cyber defenders through our Fairwind Program today.\n\nWe’re going to make it available as soon as we can and as safely as we can. So hold tight, lots more coming, and you’re going to see us iterating rapidly.\n\nhttps://t.co/8MiXIfXIKr"
+  },
+  {
+   "source": "X @sundarpichai",
+   "title": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon!  It shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it e",
+   "url": "https://x.com/sundarpichai/status/2105387952478277979",
+   "ts": 1790798578,
+   "desc": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon!\n\nIt shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it extensively at Google, from coding to quantum computing, great feedback. \n\nHere’s a look at the benchmarks:"
+  },
+  {
+   "source": "X @sundarpichai",
    "title": "Great to meet today with @POTUS, @JDVance, @SpeakerJohnson and Administration + tech leaders. Important conversation and we signed today the White House Accord on Super Intelligence.  As I shared today, Google has invested hundreds of billions in the",
    "url": "https://x.com/sundarpichai/status/2105121763176894804",
    "ts": 1790735114,
@@ -2922,6 +2964,20 @@
   },
   {
    "source": "X @natolambert",
+   "title": "I think it's a fairly classic problem of scientists, made a lot worse in the era of social media. It's one of my greatest fears.",
+   "url": "https://x.com/natolambert/status/2104969030599946408",
+   "ts": 1790698699,
+   "desc": "I think it's a fairly classic problem of scientists, made a lot worse in the era of social media. It's one of my greatest fears."
+  },
+  {
+   "source": "X @natolambert",
+   "title": "The problem for folks like this isn't that they're dumb or anything, Timnit has all the skills of top scientists, rather the information ecosystem and peer groups they live in that don't encourage interrogating thought. Echo chambers are a slow death",
+   "url": "https://x.com/natolambert/status/2104968368256422143",
+   "ts": 1790698542,
+   "desc": "The problem for folks like this isn't that they're dumb or anything, Timnit has all the skills of top scientists, rather the information ecosystem and peer groups they live in that don't encourage interrogating thought. Echo chambers are a slow death of clear thinking."
+  },
+  {
+   "source": "X @natolambert",
    "title": "Also iIf you don’t expect to be wrong sometimes in AI, you’re going to have a hard time making takes and predictions that matter.",
    "url": "https://x.com/natolambert/status/2104965985870782775",
    "ts": 1790697974,
@@ -3244,6 +3300,13 @@
   },
   {
    "source": "Bluesky Simon Willison",
+   "title": "Help me understand why that is",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mwxypnowbc2n",
+   "ts": 1791034299,
+   "desc": "Help me understand why that is"
+  },
+  {
+   "source": "Bluesky Simon Willison",
    "title": "Is your distrust of reasoning traces based on the fact that the proprietary vendors deliberately obfuscate theirs and turn them into summaries?  The open weight models make it much more clear what's a",
    "url": "https://bsky.app/profile/simonwillison.net/post/3mwx4r527ls2r",
    "ts": 1791004284,
@@ -3304,13 +3367,6 @@
    "url": "https://bsky.app/profile/simonwillison.net/post/3mww424anjs2z",
    "ts": 1790969152,
    "desc": "You can be a geneticist who hears about  Jurassic Park and says \"OK, what they've achieved is increíble and i am fascinated to learn more... but it's also grossly unethical and I would not set a foot on that island because I'd probably get eaten by dinosaurs\""
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "I like the analogy because it's funny  It also serves two purposes: it's both a criticism of people who refuse to admit the field is interesting, while also parodying the risks involved in the field t",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mww3x63rgc2z",
-   "ts": 1790969053,
-   "desc": "I like the analogy because it's funny\n\nIt also serves two purposes: it's both a criticism of people who refuse to admit the field is interesting, while also parodying the risks involved in the field through an exaggerated comparison to being eaten by dinosaurs"
   },
   {
    "source": "Bluesky Nathan Lambert",
@@ -3384,6 +3440,13 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "I think my upcoming book, Co-Existence, might be the first to include a blurb written specifically for AI readers, in this case from Tyler Cowen (whom I thought AIs would respect)  The book website (w",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwy66tfzzs2k",
+   "ts": 1791040177,
+   "desc": "I think my upcoming book, Co-Existence, might be the first to include a blurb written specifically for AI readers, in this case from Tyler Cowen (whom I thought AIs would respect)\n\nThe book website (with elaborate pre-order bonus) also has a page for AIs. Its out October 20: co-existence.ai"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "People asked for me to upload the Bitter Lesson video from this piece to YouTube, so here you are: youtu.be/OAwat51S_Sk",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwwmhrrzcc2h",
    "ts": 1790986791,
@@ -3446,80 +3509,66 @@
    "desc": "I only used the newly announced ChatGPT Dots briefly before launch, so can’t offer a detailed review, but I found it to be a good entry in the rapidly-expanding Clawlike category with Muse & Grokbot. Using a capable model with access to your data as an assistant & second opinion is remarkably useful"
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Hey, Claude: \"I asked an earlier Claude to Remove the Squid from All Quiet on the Western Front. Now you can make movies and such. I need you to show how far you have come\" & I pasted in the post belo",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mwoakzayck2t",
-   "ts": 1790699136,
-   "desc": "Hey, Claude: \"I asked an earlier Claude to Remove the Squid from All Quiet on the Western Front. Now you can make movies and such. I need you to show how far you have come\" & I pasted in the post below. That was it.\n\nThere is some clever stuff here, models have a real sense of humor at this point"
-  },
-  {
-   "source": "HN",
-   "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-   "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-   "ts": 1790859655,
-   "desc": "210 points"
-  },
-  {
    "source": "HN",
    "title": "With most information hidden, the game Stratego had stumped AI until now",
    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
    "ts": 1790950284,
-   "desc": "206 points"
+   "desc": "255 points"
   },
   {
    "source": "HN",
    "title": "Vote on which of Hacker News' challenges for AI have been met",
    "url": "https://stoppels.ch/goalposts/",
    "ts": 1790875963,
-   "desc": "196 points"
+   "desc": "198 points"
   },
   {
    "source": "HN",
    "title": "AI Makes Me Sad",
    "url": "https://mondobe.com/ai-makes-me-sad",
    "ts": 1790954280,
-   "desc": "182 points"
+   "desc": "189 points"
   },
   {
    "source": "HN",
    "title": "Show HN: Made an open-source Lego AI generator",
    "url": "https://github.com/anteloc/ldraw-nova",
    "ts": 1790971215,
-   "desc": "103 points"
+   "desc": "130 points"
   },
   {
    "source": "HN",
    "title": "Crypto Capture of Foreign Aid",
    "url": "https://www.nber.org/papers/w35655",
    "ts": 1790964869,
-   "desc": "91 points"
-  },
-  {
-   "source": "HN",
-   "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-   "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-   "ts": 1790859662,
-   "desc": "90 points"
-  },
-  {
-   "source": "HN",
-   "title": "Identity Management for Agentic AI [pdf] (2025)",
-   "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-   "ts": 1790867470,
-   "desc": "78 points"
+   "desc": "96 points"
   },
   {
    "source": "HN",
    "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
    "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
    "ts": 1790954694,
-   "desc": "48 points"
+   "desc": "49 points"
+  },
+  {
+   "source": "HN",
+   "title": "An AI agent emailed researchers for help. It told us why",
+   "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+   "ts": 1791022028,
+   "desc": "46 points"
   },
   {
    "source": "HN",
    "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
    "url": "https://innerloop.works/breadcrumb",
    "ts": 1790877517,
+   "desc": "46 points"
+  },
+  {
+   "source": "HN",
+   "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+   "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+   "ts": 1790989741,
    "desc": "44 points"
   },
   {
@@ -3531,10 +3580,17 @@
   },
   {
    "source": "HN",
+   "title": "US killer's sentence quashed because of AI video of victim shown in court",
+   "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+   "ts": 1791034458,
+   "desc": "40 points"
+  },
+  {
+   "source": "HN",
    "title": "Aweb – Communication for AI Agents",
    "url": "https://aweb.ai",
    "ts": 1790892151,
-   "desc": "38 points"
+   "desc": "39 points"
   },
   {
    "source": "HN",
@@ -3552,17 +3608,10 @@
   },
   {
    "source": "HN",
-   "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-   "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-   "ts": 1790989741,
-   "desc": "35 points"
-  },
-  {
-   "source": "HN",
    "title": "Mozilla shutting down Solo AI website creator",
    "url": "https://support.soloist.ai/doc/solo-shutdown-faq",
    "ts": 1790954362,
-   "desc": "29 points"
+   "desc": "31 points"
   },
   {
    "source": "HN",
@@ -3580,24 +3629,24 @@
   },
   {
    "source": "HN",
-   "title": "AI training of copyrighted material not fair use: Third Circuit",
-   "url": "https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/",
-   "ts": 1790921911,
-   "desc": "19 points"
-  },
-  {
-   "source": "HN",
    "title": "We're Missing a Key Reason Why Americans Hate AI",
    "url": "https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans",
    "ts": 1790950714,
-   "desc": "18 points"
+   "desc": "19 points"
   },
   {
    "source": "HN",
    "title": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
    "ts": 1790967783,
-   "desc": "18 points"
+   "desc": "19 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI training of copyrighted material not fair use: Third Circuit",
+   "url": "https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/",
+   "ts": 1790921911,
+   "desc": "19 points"
   },
   {
    "source": "HN",
@@ -3611,6 +3660,13 @@
    "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
    "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
    "ts": 1790926815,
+   "desc": "14 points"
+  },
+  {
+   "source": "HN",
+   "title": "Robot Hands for Modern AI and Real Work",
+   "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
+   "ts": 1790947464,
    "desc": "13 points"
   },
   {
@@ -3622,23 +3678,16 @@
   },
   {
    "source": "HN",
-   "title": "Robot Hands for Modern AI and Real Work",
-   "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
-   "ts": 1790947464,
-   "desc": "12 points"
+   "title": "Trump renaming AI to SI is making his wife's home country a little richer",
+   "url": "https://www.neowin.net/news/trump-renaming-ai-to-super-intelligence-is-making-his-wifes-home-country-a-little-richer/",
+   "ts": 1790930439,
+   "desc": "13 points"
   },
   {
    "source": "HN",
    "title": "Our AI Midwife",
    "url": "https://www.astralcodexten.com/p/our-ai-midwife",
    "ts": 1790904032,
-   "desc": "12 points"
-  },
-  {
-   "source": "HN",
-   "title": "Trump renaming AI to SI is making his wife's home country a little richer",
-   "url": "https://www.neowin.net/news/trump-renaming-ai-to-super-intelligence-is-making-his-wifes-home-country-a-little-richer/",
-   "ts": 1790930439,
    "desc": "12 points"
   },
   {
@@ -3650,16 +3699,23 @@
   },
   {
    "source": "HN",
-   "title": "US Government's new AI chatbot pulls back from debunking Trump",
-   "url": "https://techxplore.com/news/2026-10-ai-chatbot-debunking-trump.html",
-   "ts": 1790844318,
+   "title": "AI-Generated Victim Statement Leads to Sentence Being Vacated",
+   "url": "https://apnews.com/article/arizona-ai-video-victim-cd1ca553c7fa80c6698d7f97b51b1edd",
+   "ts": 1790932365,
+   "desc": "11 points"
+  },
+  {
+   "source": "HN",
+   "title": "Musk's AI chatbot Grok encouraged Trump to capture Venezuela's president",
+   "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+   "ts": 1790960193,
    "desc": "10 points"
   },
   {
    "source": "HN",
-   "title": "Apple will limit Mac disk access as AI agents 'substantially' increase risk",
-   "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-   "ts": 1790973212,
+   "title": "Reddit to sunset RSS access because of AI bots",
+   "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+   "ts": 1790949562,
    "desc": "9 points"
   }
  ]
