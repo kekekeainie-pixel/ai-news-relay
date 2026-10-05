@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-05T06:55:50.682519+00:00",
- "count": 526,
+ "generated_at": "2026-10-05T12:52:55.450285+00:00",
+ "count": 520,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 456,
+   "count": 450,
    "note": "49 账号"
   },
   {
@@ -154,20 +154,6 @@
    "url": "https://x.com/AnthropicAI/status/2098097512544444447",
    "ts": 1789060402,
    "desc": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report, and used the lessons from them to strengthen our safeguards. Where appropriate, we also shared what we found with autho"
-  },
-  {
-   "source": "X @GoogleDeepMind",
-   "title": "Watch → https://t.co/vaJzQEEPPs Spotify → https://t.co/dCRx0EnHK0 Apple Podcasts → https://t.co/SoXfo37VgP  Or listen wherever you get your podcasts! 🎧",
-   "url": "https://x.com/GoogleDeepMind/status/2105707090547478914",
-   "ts": 1790874667,
-   "desc": "Watch → https://t.co/vaJzQEEPPs\nSpotify → https://t.co/dCRx0EnHK0\nApple Podcasts → https://t.co/SoXfo37VgP\n\nOr listen wherever you get your podcasts! 🎧"
-  },
-  {
-   "source": "X @GoogleDeepMind",
-   "title": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?  We explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on o",
-   "url": "https://x.com/GoogleDeepMind/status/2105707085287567709",
-   "ts": 1790874665,
-   "desc": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?\n\nWe explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on our podcast. ↓\n\nTimecodes:\n00:00 Introduction\n00:34 What is a watermark?\n04:35 SynthID\n15:16 Images and video\n19:28 SynthID Bio\n28:00 Future of resilie"
   },
   {
    "source": "X @GoogleDeepMind",
@@ -1466,6 +1452,13 @@
   },
   {
    "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: Models that come with $60 usage credits in Command Code GOAT.  · DeepSeek V4.1 Flash · DeepSeek V4.1 Flash Fast · GLM 5.…",
+   "url": "https://x.com/CommandCodeAI/status/2107060345382789587",
+   "ts": 1791197308,
+   "desc": "RT @CommandCodeAI: Models that come with $60 usage credits in Command Code GOAT.\n\n· DeepSeek V4.1 Flash\n· DeepSeek V4.1 Flash Fast\n· GLM 5.…"
+  },
+  {
+   "source": "X @commandcodeai",
    "title": "Models that come with $60 usage credits in Command Code GOAT.  · DeepSeek V4.1 Flash · DeepSeek V4.1 Flash Fast · GLM 5.3 Flash · Kimi K3  Enjoy billions of tokens with the $10/mo GOAT plan",
    "url": "https://x.com/CommandCodeAI/status/2106951072082506211",
    "ts": 1791171255,
@@ -1556,11 +1549,67 @@
    "desc": "RT @CommandCodeAI: Ling 3.1 Flash is now free in Command Code.\n\n· 560B total params. 25B active params\n· available all plans. all subs\n\n🐐"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "RT @CommandCodeAI: Read BYOK docs to learn more: https://t.co/3G4smuR7Si",
-   "url": "https://x.com/CommandCodeAI/status/2105153058032558227",
-   "ts": 1790742575,
-   "desc": "RT @CommandCodeAI: Read BYOK docs to learn more:\nhttps://t.co/3G4smuR7Si"
+   "source": "X @elonmusk",
+   "title": "RT @XFreeze: Tesla just took the top two spots in the entire Netherlands new-car market 🇳🇱  Not just EVs...every car  September registratio…",
+   "url": "https://x.com/elonmusk/status/2107077372637749687",
+   "ts": 1791201367,
+   "desc": "RT @XFreeze: Tesla just took the top two spots in the entire Netherlands new-car market 🇳🇱\n\nNot just EVs...every car\n\nSeptember registratio…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @cb_doge: Elon Musk 8 years ago:  “Nothing will affect the future of humanity more than digital super-intelligence.” https://t.co/6B1gnX…",
+   "url": "https://x.com/elonmusk/status/2107064467473199222",
+   "ts": 1791198291,
+   "desc": "RT @cb_doge: Elon Musk 8 years ago:\n\n“Nothing will affect the future of humanity more than digital super-intelligence.” https://t.co/6B1gnX…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @cb_doge: BREAKING: SpaceX now holds all 5 fastest U.S. launch-to-docking times at the International Space Station. 🇺🇸  • Crew-13: 7h 55…",
+   "url": "https://x.com/elonmusk/status/2107061909904035998",
+   "ts": 1791197681,
+   "desc": "RT @cb_doge: BREAKING: SpaceX now holds all 5 fastest U.S. launch-to-docking times at the International Space Station. 🇺🇸\n\n• Crew-13: 7h 55…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @XBusiness: Launch ads in minutes. Find customers for a lifetime.",
+   "url": "https://x.com/elonmusk/status/2107055578577285414",
+   "ts": 1791196171,
+   "desc": "RT @XBusiness: Launch ads in minutes. Find customers for a lifetime."
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @BasicLogicIQ: Why Are Judges Releasing Violent Criminals?  https://t.co/emGwULq59F https://t.co/m8a3XxdUK0",
+   "url": "https://x.com/elonmusk/status/2107054599085654295",
+   "ts": 1791195938,
+   "desc": "RT @BasicLogicIQ: Why Are Judges Releasing Violent Criminals?  https://t.co/emGwULq59F https://t.co/m8a3XxdUK0"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @Bqlsj2023: 英伟达上周又历史新高了  我看B站除了好多恶搞视频  不得不说，现在Ai做视频，基本看不出来痕迹  太夸张了 https://t.co/fmOrXg8EYm",
+   "url": "https://x.com/elonmusk/status/2107031340919280087",
+   "ts": 1791190393,
+   "desc": "RT @Bqlsj2023: 英伟达上周又历史新高了\n\n我看B站除了好多恶搞视频\n\n不得不说，现在Ai做视频，基本看不出来痕迹\n\n太夸张了 https://t.co/fmOrXg8EYm"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @kobaHUB: Jack Ma told Elon Musk humans will always be smarter than machines.   Musk’s reaction says everything.  “Computers may be very…",
+   "url": "https://x.com/elonmusk/status/2107030567438987391",
+   "ts": 1791190208,
+   "desc": "RT @kobaHUB: Jack Ma told Elon Musk humans will always be smarter than machines. \n\nMusk’s reaction says everything.\n\n“Computers may be very…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @tetsuoai: Grok 4.7 is now available on Amazon Bedrock and on Google's Gemini Enterprise Agent Platform.  Both platforms already offered…",
+   "url": "https://x.com/elonmusk/status/2107030436103045282",
+   "ts": 1791190177,
+   "desc": "RT @tetsuoai: Grok 4.7 is now available on Amazon Bedrock and on Google's Gemini Enterprise Agent Platform.\n\nBoth platforms already offered…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "USAID engaged in election interference and regime change around the world, causing massive strife",
+   "url": "https://x.com/elonmusk/status/2107029927589470636",
+   "ts": 1791190056,
+   "desc": "USAID engaged in election interference and regime change around the world, causing massive strife"
   },
   {
    "source": "X @elonmusk",
@@ -1638,69 +1687,6 @@
    "url": "https://x.com/elonmusk/status/2106905035065991214",
    "ts": 1791160279,
    "desc": "Grok @Bot"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @XFreeze: Grok Bot passed Google’s “I’m not a robot” test when it launched 😂  The other agents… wherever the hell they are, I still have…",
-   "url": "https://x.com/elonmusk/status/2106827614493327606",
-   "ts": 1791141820,
-   "desc": "RT @XFreeze: Grok Bot passed Google’s “I’m not a robot” test when it launched 😂\n\nThe other agents… wherever the hell they are, I still have…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @KatieMiller: June 2025: https://t.co/WNeKtm2NgB",
-   "url": "https://x.com/elonmusk/status/2106827518900625719",
-   "ts": 1791141798,
-   "desc": "RT @KatieMiller: June 2025: https://t.co/WNeKtm2NgB"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "True",
-   "url": "https://x.com/elonmusk/status/2106827340084887945",
-   "ts": 1791141755,
-   "desc": "True"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "5 live football games streamed simultaneously on a commercial flight with @Starlink",
-   "url": "https://x.com/elonmusk/status/2106827233650147822",
-   "ts": 1791141730,
-   "desc": "5 live football games streamed simultaneously on a commercial flight with @Starlink"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @XFreeze: Again, Elon was already thinking seriously about Super Intelligence more than a decade before today’s SI boom  Nick Bostrom’s…",
-   "url": "https://x.com/elonmusk/status/2106826794183925830",
-   "ts": 1791141625,
-   "desc": "RT @XFreeze: Again, Elon was already thinking seriously about Super Intelligence more than a decade before today’s SI boom\n\nNick Bostrom’s…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Helpful guide to hiring your first @Grok @Bot employee.   It really is like hiring an amazing helper that learns your needs and gets smarter almost every day!",
-   "url": "https://x.com/elonmusk/status/2106787765622800496",
-   "ts": 1791132320,
-   "desc": "Helpful guide to hiring your first @Grok @Bot employee. \n\nIt really is like hiring an amazing helper that learns your needs and gets smarter almost every day!"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Grok 4.7 is #1 on the AA Cyber Index",
-   "url": "https://x.com/elonmusk/status/2106787000682426513",
-   "ts": 1791132137,
-   "desc": "Grok 4.7 is #1 on the AA Cyber Index"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @distortgeekin: SpaceXAI engineer, Lauren Tan:  \"I was a meat proxy between my agent and my browser. So I fired myself  Now 10+ Chiefs o…",
-   "url": "https://x.com/elonmusk/status/2106770571920871655",
-   "ts": 1791128220,
-   "desc": "RT @distortgeekin: SpaceXAI engineer, Lauren Tan:\n\n\"I was a meat proxy between my agent and my browser. So I fired myself\n\nNow 10+ Chiefs o…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @brivael: Grok is now making all boring stuff for me.  For Argil.  For personal stuff.  It’s like having a 10-person S-tier team working…",
-   "url": "https://x.com/elonmusk/status/2106770444468797749",
-   "ts": 1791128190,
-   "desc": "RT @brivael: Grok is now making all boring stuff for me.\n\nFor Argil.\n\nFor personal stuff.\n\nIt’s like having a 10-person S-tier team working…"
   },
   {
    "source": "X @sama",
@@ -2341,20 +2327,6 @@
   },
   {
    "source": "X @sundarpichai",
-   "title": "Importantly Argon has frontier safeguards and we are rolling it out responsibly - it’s with the US gov’t and going to a set of trusted cyber defenders through our Fairwind Program today.  We’re going to make it available as soon as we can and as safe",
-   "url": "https://x.com/sundarpichai/status/2105387954474746264",
-   "ts": 1790798579,
-   "desc": "Importantly Argon has frontier safeguards and we are rolling it out responsibly - it’s with the US gov’t and going to a set of trusted cyber defenders through our Fairwind Program today.\n\nWe’re going to make it available as soon as we can and as safely as we can. So hold tight, lots more coming, and you’re going to see us iterating rapidly.\n\nhttps://t.co/8MiXIfXIKr"
-  },
-  {
-   "source": "X @sundarpichai",
-   "title": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon!  It shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it e",
-   "url": "https://x.com/sundarpichai/status/2105387952478277979",
-   "ts": 1790798578,
-   "desc": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon!\n\nIt shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it extensively at Google, from coding to quantum computing, great feedback. \n\nHere’s a look at the benchmarks:"
-  },
-  {
-   "source": "X @sundarpichai",
    "title": "Great to meet today with @POTUS, @JDVance, @SpeakerJohnson and Administration + tech leaders. Important conversation and we signed today the White House Accord on Super Intelligence.  As I shared today, Google has invested hundreds of billions in the",
    "url": "https://x.com/sundarpichai/status/2105121763176894804",
    "ts": 1790735114,
@@ -2970,20 +2942,6 @@
    "desc": "Woah, huge bullish signal for open models that OpenAI feels a pressure to serve users with these models. It's not a world where OpenAI alone can build all the models it's customers need!"
   },
   {
-   "source": "X @natolambert",
-   "title": "I think it's a fairly classic problem of scientists, made a lot worse in the era of social media. It's one of my greatest fears.",
-   "url": "https://x.com/natolambert/status/2104969030599946408",
-   "ts": 1790698699,
-   "desc": "I think it's a fairly classic problem of scientists, made a lot worse in the era of social media. It's one of my greatest fears."
-  },
-  {
-   "source": "X @natolambert",
-   "title": "The problem for folks like this isn't that they're dumb or anything, Timnit has all the skills of top scientists, rather the information ecosystem and peer groups they live in that don't encourage interrogating thought. Echo chambers are a slow death",
-   "url": "https://x.com/natolambert/status/2104968368256422143",
-   "ts": 1790698542,
-   "desc": "The problem for folks like this isn't that they're dumb or anything, Timnit has all the skills of top scientists, rather the information ecosystem and peer groups they live in that don't encourage interrogating thought. Echo chambers are a slow death of clear thinking."
-  },
-  {
    "source": "X @thsottiaux",
    "title": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin.",
    "url": "https://x.com/thsottiaux/status/2106845241357824205",
@@ -3506,7 +3464,7 @@
    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
    "ts": 1791049469,
-   "desc": "398 points"
+   "desc": "405 points"
   },
   {
    "source": "HN",
@@ -3520,35 +3478,35 @@
    "title": "Show HN: AI search for every photo and every frame of video on macOS",
    "url": "https://github.com/allenv0/SCM",
    "ts": 1791105892,
-   "desc": "150 points"
+   "desc": "154 points"
   },
   {
    "source": "HN",
    "title": "Pop!_OS bans AI-generated code from much of its codebase",
    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
    "ts": 1791050223,
-   "desc": "116 points"
-  },
-  {
-   "source": "HN",
-   "title": "US killer's sentence quashed because of AI video of victim shown in court",
-   "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-   "ts": 1791034458,
-   "desc": "75 points"
+   "desc": "117 points"
   },
   {
    "source": "HN",
    "title": "How to scale intent, quality, and artistry with AI [video]",
    "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
    "ts": 1791103318,
-   "desc": "75 points"
+   "desc": "92 points"
   },
   {
    "source": "HN",
    "title": "Homa: The end of TCP for AI clusters [video]",
    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
    "ts": 1791142945,
-   "desc": "70 points"
+   "desc": "78 points"
+  },
+  {
+   "source": "HN",
+   "title": "US killer's sentence quashed because of AI video of victim shown in court",
+   "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+   "ts": 1791034458,
+   "desc": "76 points"
   },
   {
    "source": "HN",
@@ -3559,6 +3517,13 @@
   },
   {
    "source": "HN",
+   "title": "What's the future for pure math research in the age of AI?",
+   "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+   "ts": 1791100425,
+   "desc": "62 points"
+  },
+  {
+   "source": "HN",
    "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
    "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
    "ts": 1791054438,
@@ -3566,31 +3531,17 @@
   },
   {
    "source": "HN",
-   "title": "What's the future for pure math research in the age of AI?",
-   "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-   "ts": 1791100425,
-   "desc": "59 points"
-  },
-  {
-   "source": "HN",
    "title": "Anthropic tried to persuade Pope that AI could be conscious being",
    "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
    "ts": 1791055990,
-   "desc": "57 points"
-  },
-  {
-   "source": "HN",
-   "title": "An AI agent emailed researchers for help. It told us why",
-   "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
-   "ts": 1791022028,
-   "desc": "49 points"
+   "desc": "58 points"
   },
   {
    "source": "HN",
    "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
    "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
    "ts": 1791100953,
-   "desc": "45 points"
+   "desc": "46 points"
   },
   {
    "source": "HN",
@@ -3611,14 +3562,14 @@
    "title": "AI can clone your indie game, but not its soul",
    "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
    "ts": 1791083935,
-   "desc": "20 points"
+   "desc": "21 points"
   },
   {
    "source": "HN",
    "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
    "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
    "ts": 1791151421,
-   "desc": "17 points"
+   "desc": "18 points"
   },
   {
    "source": "HN",
@@ -3629,17 +3580,17 @@
   },
   {
    "source": "HN",
-   "title": "Is Russia using AI for disinformation in CAR?",
-   "url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947",
-   "ts": 1791137064,
+   "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+   "ts": 1791146290,
    "desc": "11 points"
   },
   {
    "source": "HN",
-   "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
-   "ts": 1791146290,
-   "desc": "10 points"
+   "title": "Is Russia using AI for disinformation in CAR?",
+   "url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947",
+   "ts": 1791137064,
+   "desc": "11 points"
   },
   {
    "source": "HN",
@@ -3653,14 +3604,7 @@
    "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
    "ts": 1791148029,
-   "desc": "7 points"
-  },
-  {
-   "source": "HN",
-   "title": "Chamath says open AI models are \"commoditize your complement.\" Agree?",
-   "url": "https://news.ycombinator.com/item?id=49942208",
-   "ts": 1791013638,
-   "desc": "6 points"
+   "desc": "8 points"
   },
   {
    "source": "HN",
@@ -3671,9 +3615,23 @@
   },
   {
    "source": "HN",
+   "title": "Anthropic asks Claude users to share voice data for AI model training",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+   "ts": 1791121466,
+   "desc": "6 points"
+  },
+  {
+   "source": "HN",
    "title": "Georgia holds emergency meeting on AI exposing voters' secret ballots",
    "url": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
    "ts": 1791050836,
+   "desc": "6 points"
+  },
+  {
+   "source": "HN",
+   "title": "My New Course at UT Austin: AI Alignment Theory",
+   "url": "https://scottaaronson.blog/?p=10125",
+   "ts": 1791165851,
    "desc": "6 points"
   },
   {
@@ -3692,23 +3650,23 @@
   },
   {
    "source": "HN",
-   "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
-   "ts": 1791027955,
-   "desc": "6 points"
-  },
-  {
-   "source": "HN",
-   "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-   "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-   "ts": 1791011925,
-   "desc": "6 points"
-  },
-  {
-   "source": "HN",
    "title": "The AI industry is booming. Women are getting left behind",
    "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
    "ts": 1791175010,
+   "desc": "5 points"
+  },
+  {
+   "source": "HN",
+   "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
+   "url": "https://news.ycombinator.com/item?id=49957917",
+   "ts": 1791148256,
+   "desc": "5 points"
+  },
+  {
+   "source": "HN",
+   "title": "Why Linux is picking up at a rapid pace for AI usage?",
+   "url": "https://news.ycombinator.com/item?id=49954166",
+   "ts": 1791123661,
    "desc": "5 points"
   }
  ]
