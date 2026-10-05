@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-04T21:20:12.629787+00:00",
- "count": 520,
+ "generated_at": "2026-10-05T00:53:07.869669+00:00",
+ "count": 507,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 450,
+   "count": 437,
    "note": "49 账号"
   },
   {
@@ -154,6 +154,20 @@
    "url": "https://x.com/AnthropicAI/status/2098097512544444447",
    "ts": 1789060402,
    "desc": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report, and used the lessons from them to strengthen our safeguards. Where appropriate, we also shared what we found with autho"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "Watch → https://t.co/vaJzQEEPPs Spotify → https://t.co/dCRx0EnHK0 Apple Podcasts → https://t.co/SoXfo37VgP  Or listen wherever you get your podcasts! 🎧",
+   "url": "https://x.com/GoogleDeepMind/status/2105707090547478914",
+   "ts": 1790874667,
+   "desc": "Watch → https://t.co/vaJzQEEPPs\nSpotify → https://t.co/dCRx0EnHK0\nApple Podcasts → https://t.co/SoXfo37VgP\n\nOr listen wherever you get your podcasts! 🎧"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?  We explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on o",
+   "url": "https://x.com/GoogleDeepMind/status/2105707085287567709",
+   "ts": 1790874665,
+   "desc": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?\n\nWe explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on our podcast. ↓\n\nTimecodes:\n00:00 Introduction\n00:34 What is a watermark?\n04:35 SynthID\n15:16 Images and video\n19:28 SynthID Bio\n28:00 Future of resilie"
   },
   {
    "source": "X @GoogleDeepMind",
@@ -535,6 +549,13 @@
   },
   {
    "source": "X @NousResearch",
+   "title": "RT @Teknium: The plugins catalog had been growing fast! Nearly 500 mods to Hermes that add new capabilities, model providers, memory enhanc…",
+   "url": "https://x.com/NousResearch/status/2106862815567094040",
+   "ts": 1791150213,
+   "desc": "RT @Teknium: The plugins catalog had been growing fast! Nearly 500 mods to Hermes that add new capabilities, model providers, memory enhanc…"
+  },
+  {
+   "source": "X @NousResearch",
    "title": "RT @adolandev: Hold a button. Ask Hermes. Hear the answer.  Hermes Gadget is an open SDK for a small device that talks to your own @NousRes…",
    "url": "https://x.com/NousResearch/status/2106830737525953001",
    "ts": 1791142565,
@@ -602,13 +623,6 @@
    "url": "https://x.com/NousResearch/status/2104700883510661516",
    "ts": 1790634768,
    "desc": "RT @yeahfortommy: Claude Sonnet 5.5 is live in Hermes Agent\n\nEnjoy https://t.co/XleT0eWlVn"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "RT @JensenHuang: Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell a…",
-   "url": "https://x.com/NousResearch/status/2104581887259734203",
-   "ts": 1790606397,
-   "desc": "RT @JensenHuang: Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell a…"
   },
   {
    "source": "X @deepseek_ai",
@@ -1550,6 +1564,34 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @cb_doge: BREAKING: United Airlines just announced that 880+ aircraft will have @Starlink by the end of 2026, with its entire fleet expe…",
+   "url": "https://x.com/elonmusk/status/2106907525136466346",
+   "ts": 1791160873,
+   "desc": "RT @cb_doge: BREAKING: United Airlines just announced that 880+ aircraft will have @Starlink by the end of 2026, with its entire fleet expe…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @EndWokeness: Before vs after college (these are real) https://t.co/1tiC8ZJD6t",
+   "url": "https://x.com/elonmusk/status/2106907297624821870",
+   "ts": 1791160818,
+   "desc": "RT @EndWokeness: Before vs after college (these are real) https://t.co/1tiC8ZJD6t"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Propagating super intelligence to the stars is a great success condition for a biological bootloader",
+   "url": "https://x.com/elonmusk/status/2106906678293606496",
+   "ts": 1791160671,
+   "desc": "Propagating super intelligence to the stars is a great success condition for a biological bootloader"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Grok @Bot",
+   "url": "https://x.com/elonmusk/status/2106905035065991214",
+   "ts": 1791160279,
+   "desc": "Grok @Bot"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @XFreeze: Grok Bot passed Google’s “I’m not a robot” test when it launched 😂  The other agents… wherever the hell they are, I still have…",
    "url": "https://x.com/elonmusk/status/2106827614493327606",
    "ts": 1791141820,
@@ -1659,34 +1701,6 @@
    "url": "https://x.com/elonmusk/status/2106761668256759878",
    "ts": 1791126098,
    "desc": "Grok"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Always has been",
-   "url": "https://x.com/elonmusk/status/2106758102674534734",
-   "ts": 1791125248,
-   "desc": "Always has been"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @markfinkelstein: \"Just because Ken Paxton made some bad personal decisions doesn't mean I have to put my face in a wood chipper and vot…",
-   "url": "https://x.com/elonmusk/status/2106757672209170437",
-   "ts": 1791125145,
-   "desc": "RT @markfinkelstein: \"Just because Ken Paxton made some bad personal decisions doesn't mean I have to put my face in a wood chipper and vot…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "The upside of extremism",
-   "url": "https://x.com/elonmusk/status/2106757368419958954",
-   "ts": 1791125072,
-   "desc": "The upside of extremism"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @XFreeze: Elon was thinking about superintelligence long before anyone in the mainstream even understood where superintelligence was hea…",
-   "url": "https://x.com/elonmusk/status/2106700322521665920",
-   "ts": 1791111472,
-   "desc": "RT @XFreeze: Elon was thinking about superintelligence long before anyone in the mainstream even understood where superintelligence was hea…"
   },
   {
    "source": "X @sama",
@@ -2327,6 +2341,20 @@
   },
   {
    "source": "X @sundarpichai",
+   "title": "Importantly Argon has frontier safeguards and we are rolling it out responsibly - it’s with the US gov’t and going to a set of trusted cyber defenders through our Fairwind Program today.  We’re going to make it available as soon as we can and as safe",
+   "url": "https://x.com/sundarpichai/status/2105387954474746264",
+   "ts": 1790798579,
+   "desc": "Importantly Argon has frontier safeguards and we are rolling it out responsibly - it’s with the US gov’t and going to a set of trusted cyber defenders through our Fairwind Program today.\n\nWe’re going to make it available as soon as we can and as safely as we can. So hold tight, lots more coming, and you’re going to see us iterating rapidly.\n\nhttps://t.co/8MiXIfXIKr"
+  },
+  {
+   "source": "X @sundarpichai",
+   "title": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon!  It shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it e",
+   "url": "https://x.com/sundarpichai/status/2105387952478277979",
+   "ts": 1790798578,
+   "desc": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon!\n\nIt shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it extensively at Google, from coding to quantum computing, great feedback. \n\nHere’s a look at the benchmarks:"
+  },
+  {
+   "source": "X @sundarpichai",
    "title": "Great to meet today with @POTUS, @JDVance, @SpeakerJohnson and Administration + tech leaders. Important conversation and we signed today the White House Accord on Super Intelligence.  As I shared today, Google has invested hundreds of billions in the",
    "url": "https://x.com/sundarpichai/status/2105121763176894804",
    "ts": 1790735114,
@@ -2555,139 +2583,6 @@
    "url": "https://x.com/ylecun/status/2106127403449995287",
    "ts": 1790974877,
    "desc": "RT @SteveRattner: So far, A.I.'s losers are routine office jobs like data entry keyers and customer service reps.\n\nIts winners are data sci…"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "Workera is being acquired by Pearson! It's been a privilege to support CEO @kiankatan and the whole Workera team through this journey. Back in 2019, Kian had the insight that rigorous skills measurements would be important. With recent advances in AI",
-   "url": "https://x.com/AndrewYNg/status/2104967263757713432",
-   "ts": 1790698278,
-   "desc": "Workera is being acquired by Pearson! It's been a privilege to support CEO @kiankatan and the whole Workera team through this journey. Back in 2019, Kian had the insight that rigorous skills measurements would be important. With recent advances in AI, this is now more true than ever. Workera's technologies for rigorously measuring people's skills in different tasks and job roles are helping many b"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "The OpenAI-Hugging Face hack was enabled by weak sandboxing. It is great that Nvidia is releasing open source tools for sandboxing AI agents. OpenWorker, our open-source agent harness supporting cybersecurity workflows, is proud to support this.  A s",
-   "url": "https://x.com/AndrewYNg/status/2104660347730969087",
-   "ts": 1790625104,
-   "desc": "The OpenAI-Hugging Face hack was enabled by weak sandboxing. It is great that Nvidia is releasing open source tools for sandboxing AI agents. OpenWorker, our open-source agent harness supporting cybersecurity workflows, is proud to support this.\n\nA sandbox gives an agent limited permissions. OpenWorker is building on Nvidia OpenShell and will support running each agent's commands inside a sandbox."
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "RT @elonmusk: Interesting perspective",
-   "url": "https://x.com/AndrewYNg/status/2102452386698817972",
-   "ts": 1790098685,
-   "desc": "RT @elonmusk: Interesting perspective"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaig",
-   "url": "https://x.com/AndrewYNg/status/2102140576498065758",
-   "ts": 1790024343,
-   "desc": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaign — has drummed up considerable fear. I worry that it represents a setback for our field.\n\nI have written frequently that fears of AI are overhyped. A"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "With AI Engineering skills, you actively shape the build: You influence what gets built, and drive the build loop. Here're key skills to do this. https://t.co/sysOYdzuZY",
-   "url": "https://x.com/AndrewYNg/status/2098459474608672916",
-   "ts": 1789146700,
-   "desc": "With AI Engineering skills, you actively shape the build: You influence what gets built, and drive the build loop. Here're key skills to do this. https://t.co/sysOYdzuZY"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "The most important skills for using AI coding agents effectively. Presenting the AI Engineering Skills Map for using coding agents. https://t.co/GrEw7wG5Wz",
-   "url": "https://x.com/AndrewYNg/status/2095890279865721217",
-   "ts": 1788534157,
-   "desc": "The most important skills for using AI coding agents effectively. Presenting the AI Engineering Skills Map for using coding agents. https://t.co/GrEw7wG5Wz"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "How have software engineering fundamentals changed with agentic coding? Here is our AI Engineering Skills map for software engineering fundamentals. https://t.co/cnRLj43DLs",
-   "url": "https://x.com/AndrewYNg/status/2093388974194872781",
-   "ts": 1787937799,
-   "desc": "How have software engineering fundamentals changed with agentic coding? Here is our AI Engineering Skills map for software engineering fundamentals. https://t.co/cnRLj43DLs"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just released a new version with many features for security workflows.   After our initial release, many users found it especially useful for cybersecurit",
-   "url": "https://x.com/AndrewYNg/status/2092315079576555806",
-   "ts": 1787681762,
-   "desc": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just released a new version with many features for security workflows. \n\nAfter our initial release, many users found it especially useful for cybersecurity. Attackers are already using AI; OpenWorker is committed to giving defenders the same leverage. Running an agent requires both (i) A model and (ii)"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "In the fight to defend openness in AI, the Marin project is a precious demonstration of openness in model training, with open code, data, recipes, even experimental results. Releasing AI research openly used to be the norm; I'm grateful for @percylia",
-   "url": "https://x.com/AndrewYNg/status/2091688153048645650",
-   "ts": 1787532292,
-   "desc": "In the fight to defend openness in AI, the Marin project is a precious demonstration of openness in model training, with open code, data, recipes, even experimental results. Releasing AI research openly used to be the norm; I'm grateful for @percyliang's open lab approach."
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "The most important skills in Building and Deploying AI Applications. https://t.co/IyWIKLIzeM",
-   "url": "https://x.com/AndrewYNg/status/2090840747738374568",
-   "ts": 1787330254,
-   "desc": "The most important skills in Building and Deploying AI Applications. https://t.co/IyWIKLIzeM"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "Thank you Mark, Alex and the whole Meta team for your contributions to open weight AI.",
-   "url": "https://x.com/AndrewYNg/status/2086845515665166398",
-   "ts": 1786377717,
-   "desc": "Thank you Mark, Alex and the whole Meta team for your contributions to open weight AI."
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "Congratulations @JeffDean, @Sanjay_Ghemawat, @OriolVinyalsML and @quocleix! Knowing you guys, this will be amazing. Cheering you on and wishing you well on your important work!",
-   "url": "https://x.com/AndrewYNg/status/2085056542341271840",
-   "ts": 1785951192,
-   "desc": "Congratulations @JeffDean, @Sanjay_Ghemawat,\n@OriolVinyalsML and @quocleix! Knowing you guys, this will be amazing. Cheering you on and wishing you well on your important work!"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "Fifteen years ago, @Coursera and online courses changed education. It worked better than almost anyone expected, expanding access by opening up where you can learn. But how you learn remains largely the same as it has for centuries: it is still one-s",
-   "url": "https://x.com/AndrewYNg/status/2082199333920027009",
-   "ts": 1785269981,
-   "desc": "Fifteen years ago, @Coursera and online courses changed education. It worked better than almost anyone expected, expanding access by opening up where you can learn. But how you learn remains largely the same as it has for centuries: it is still one-size-fits-all, taught the same way to each person who shows up.\n\nWe now have an opportunity to change how learning happens. With advances in AI, we can"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "Good move by @JensenHuang. The Nvidia letter is well written and worth reading. As we saw with the OpenAI-Hugging Face hack, we need open models and harnesses for defense.   Lets stop believing the PR that closed models are safer. - that's just regul",
-   "url": "https://x.com/AndrewYNg/status/2081787106062746002",
-   "ts": 1785171698,
-   "desc": "Good move by @JensenHuang. The Nvidia letter is well written and worth reading. As we saw with the OpenAI-Hugging Face hack, we need open models and harnesses for defense. \n\nLets stop believing the PR that closed models are safer. - that's just regulatory capture."
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "Announcing OpenWorker! An open-source agent that doesn't just chat with you, but delivers finished work -- like hand you a polished document, send a slack message, or update a calendar entry.  Ask it to prepare a customer brief, untangle your calenda",
-   "url": "https://x.com/AndrewYNg/status/2080333504446108104",
-   "ts": 1784825132,
-   "desc": "Announcing OpenWorker! An open-source agent that doesn't just chat with you, but delivers finished work -- like hand you a polished document, send a slack message, or update a calendar entry.\n\nAsk it to prepare a customer brief, untangle your calendar, draft a report, or triage a Slack alert. It works across your files and everyday tools, produces the deliverable, and checks in before doing anythi"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "New course: Build LLM applications that respond to user requests quickly by running on hardware designed for fast inference. This short course was built with  @Cerebras and taught by @zhennydez, @duerr_seb, and  @MilksandMatcha.  When a model generat",
-   "url": "https://x.com/AndrewYNg/status/2078144569594761591",
-   "ts": 1784303250,
-   "desc": "New course: Build LLM applications that respond to user requests quickly by running on hardware designed for fast inference. This short course was built with  @Cerebras and taught by @zhennydez, @duerr_seb, and  @MilksandMatcha.\n\nWhen a model generates text, much of the time is spent moving its weights out of memory and into the compute units. Inference-optimized hardware minimizes that movement,"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "Adam Thierer had written the landmark book on \"Permissionless Innovation.\" We get the best ideas when we don't have to ask the government in advance for permission to invent. Protecting open source AI is now a critical part of ensuring this.",
-   "url": "https://x.com/AndrewYNg/status/2075271586400403567",
-   "ts": 1783618277,
-   "desc": "Adam Thierer had written the landmark book on \"Permissionless Innovation.\" We get the best ideas when we don't have to ask the government in advance for permission to invent. Protecting open source AI is now a critical part of ensuring this."
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build",
-   "url": "https://x.com/AndrewYNg/status/2071988145667928442",
-   "ts": 1782835444,
-   "desc": "“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I’d like to share my 3 key loops, shown in the image below, for building 0-to-1 products. These loops guide not just how I b"
-  },
-  {
-   "source": "X @AndrewYNg",
-   "title": "Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen,",
-   "url": "https://x.com/AndrewYNg/status/2068039709126017356",
-   "ts": 1781894063,
-   "desc": "Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and it is significantly accelerating many businesses’ and nation states’ efforts to ensure reliable access to AI that no one e"
   },
   {
    "source": "X @drfeifei",
@@ -2940,6 +2835,20 @@
    "url": "https://x.com/natolambert/status/2104999525937205587",
    "ts": 1790705970,
    "desc": "Woah, huge bullish signal for open models that OpenAI feels a pressure to serve users with these models. It's not a world where OpenAI alone can build all the models it's customers need!"
+  },
+  {
+   "source": "X @natolambert",
+   "title": "I think it's a fairly classic problem of scientists, made a lot worse in the era of social media. It's one of my greatest fears.",
+   "url": "https://x.com/natolambert/status/2104969030599946408",
+   "ts": 1790698699,
+   "desc": "I think it's a fairly classic problem of scientists, made a lot worse in the era of social media. It's one of my greatest fears."
+  },
+  {
+   "source": "X @natolambert",
+   "title": "The problem for folks like this isn't that they're dumb or anything, Timnit has all the skills of top scientists, rather the information ecosystem and peer groups they live in that don't encourage interrogating thought. Echo chambers are a slow death",
+   "url": "https://x.com/natolambert/status/2104968368256422143",
+   "ts": 1790698542,
+   "desc": "The problem for folks like this isn't that they're dumb or anything, Timnit has all the skills of top scientists, rather the information ecosystem and peer groups they live in that don't encourage interrogating thought. Echo chambers are a slow death of clear thinking."
   },
   {
    "source": "X @thsottiaux",
@@ -3464,7 +3373,7 @@
    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
    "ts": 1791049469,
-   "desc": "360 points"
+   "desc": "383 points"
   },
   {
    "source": "HN",
@@ -3478,14 +3387,14 @@
    "title": "Show HN: AI search for every photo and every frame of video on macOS",
    "url": "https://github.com/allenv0/SCM",
    "ts": 1791105892,
-   "desc": "123 points"
+   "desc": "135 points"
   },
   {
    "source": "HN",
    "title": "Pop!_OS bans AI-generated code from much of its codebase",
    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
    "ts": 1791050223,
-   "desc": "115 points"
+   "desc": "116 points"
   },
   {
    "source": "HN",
@@ -3506,7 +3415,7 @@
    "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
    "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
    "ts": 1791054438,
-   "desc": "61 points"
+   "desc": "62 points"
   },
   {
    "source": "HN",
@@ -3520,7 +3429,7 @@
    "title": "What's the future for pure math research in the age of AI?",
    "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
    "ts": 1791100425,
-   "desc": "53 points"
+   "desc": "55 points"
   },
   {
    "source": "HN",
@@ -3531,6 +3440,13 @@
   },
   {
    "source": "HN",
+   "title": "Homa: The end of TCP for AI clusters [video]",
+   "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+   "ts": 1791142945,
+   "desc": "48 points"
+  },
+  {
+   "source": "HN",
    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
    "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
    "ts": 1790989741,
@@ -3538,17 +3454,24 @@
   },
   {
    "source": "HN",
+   "title": "How to scale intent, quality, and artistry with AI [video]",
+   "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+   "ts": 1791103318,
+   "desc": "47 points"
+  },
+  {
+   "source": "HN",
    "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
    "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
    "ts": 1791100953,
-   "desc": "41 points"
+   "desc": "42 points"
   },
   {
    "source": "HN",
    "title": "RuneScape's Position on Gen AI",
    "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
    "ts": 1791127754,
-   "desc": "23 points"
+   "desc": "26 points"
   },
   {
    "source": "HN",
@@ -3559,24 +3482,17 @@
   },
   {
    "source": "HN",
-   "title": "How to scale intent, quality, and artistry with AI [video]",
-   "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-   "ts": 1791103318,
-   "desc": "21 points"
-  },
-  {
-   "source": "HN",
    "title": "AI can clone your indie game, but not its soul",
    "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
    "ts": 1791083935,
-   "desc": "19 points"
+   "desc": "20 points"
   },
   {
    "source": "HN",
-   "title": "Homa: The end of TCP for AI clusters [video]",
-   "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-   "ts": 1791142945,
-   "desc": "17 points"
+   "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+   "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
+   "ts": 1791151421,
+   "desc": "13 points"
   },
   {
    "source": "HN",
@@ -3587,23 +3503,37 @@
   },
   {
    "source": "HN",
+   "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+   "ts": 1791146290,
+   "desc": "10 points"
+  },
+  {
+   "source": "HN",
    "title": "How the bad science of AI doomerism is good for big business",
    "url": "https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/",
    "ts": 1791081835,
-   "desc": "8 points"
+   "desc": "9 points"
   },
   {
    "source": "HN",
    "title": "Is Russia using AI for disinformation in CAR?",
    "url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947",
    "ts": 1791137064,
-   "desc": "8 points"
+   "desc": "9 points"
   },
   {
    "source": "HN",
    "title": "What if AI worked at 1.000.000 tokens per seconds?",
    "url": "https://www.echohive.ai/one-million-tokens-per-second",
    "ts": 1791001341,
+   "desc": "7 points"
+  },
+  {
+   "source": "HN",
+   "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+   "ts": 1791148029,
    "desc": "7 points"
   },
   {
@@ -3643,30 +3573,9 @@
   },
   {
    "source": "HN",
-   "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
-   "ts": 1791146290,
-   "desc": "6 points"
-  },
-  {
-   "source": "HN",
    "title": "Don't Write with AI, Say People Who Write with AI",
    "url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
    "ts": 1791063880,
-   "desc": "6 points"
-  },
-  {
-   "source": "HN",
-   "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
-   "ts": 1791027955,
-   "desc": "6 points"
-  },
-  {
-   "source": "HN",
-   "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-   "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-   "ts": 1791011925,
    "desc": "6 points"
   }
  ]
