@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-06T00:52:37.817106+00:00",
- "count": 517,
+ "generated_at": "2026-10-06T06:51:43.172165+00:00",
+ "count": 527,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 448,
+   "count": 459,
    "note": "49 账号"
   },
   {
@@ -133,6 +133,20 @@
    "url": "https://x.com/AnthropicAI/status/2098097512544444447",
    "ts": 1789060402,
    "desc": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report, and used the lessons from them to strengthen our safeguards. Where appropriate, we also shared what we found with autho"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "Watch → https://t.co/vaJzQEEPPs Spotify → https://t.co/dCRx0EnHK0 Apple Podcasts → https://t.co/SoXfo37VgP  Or listen wherever you get your podcasts! 🎧",
+   "url": "https://x.com/GoogleDeepMind/status/2105707090547478914",
+   "ts": 1790874667,
+   "desc": "Watch → https://t.co/vaJzQEEPPs\nSpotify → https://t.co/dCRx0EnHK0\nApple Podcasts → https://t.co/SoXfo37VgP\n\nOr listen wherever you get your podcasts! 🎧"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?  We explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on o",
+   "url": "https://x.com/GoogleDeepMind/status/2105707085287567709",
+   "ts": 1790874665,
+   "desc": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?\n\nWe explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on our podcast. ↓\n\nTimecodes:\n00:00 Introduction\n00:34 What is a watermark?\n04:35 SynthID\n15:16 Images and video\n19:28 SynthID Bio\n28:00 Future of resilie"
   },
   {
    "source": "X @GoogleDeepMind",
@@ -511,6 +525,13 @@
    "url": "https://x.com/huggingface/status/2105726571298386235",
    "ts": 1790879311,
    "desc": "RT @AutoTrustAI: Introducing JEV-27B-VL.\n\nWe believe it is the world’s first open-weight, near-SOTA multimodal decision model — built with…"
+  },
+  {
+   "source": "X @NousResearch",
+   "title": "RT @Teknium: Just made this cool catalog with a ton of open platform hardware, devices and more that your Hermes Agent (or any agent really…",
+   "url": "https://x.com/NousResearch/status/2107303526355567066",
+   "ts": 1791255287,
+   "desc": "RT @Teknium: Just made this cool catalog with a ton of open platform hardware, devices and more that your Hermes Agent (or any agent really…"
   },
   {
    "source": "X @NousResearch",
@@ -1298,6 +1319,41 @@
   },
   {
    "source": "X @cursor_ai",
+   "title": "Steering and system prompts work with local TypeScript agents. Background subagent results come back locally in TypeScript and Python.  See everything new in the SDK: https://t.co/rHyp0i3vUu",
+   "url": "https://x.com/cursor_ai/status/2107141066403275081",
+   "ts": 1791216553,
+   "desc": "Steering and system prompts work with local TypeScript agents. Background subagent results come back locally in TypeScript and Python.\n\nSee everything new in the SDK: https://t.co/rHyp0i3vUu"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "You can also replace Cursor's system prompt with your own. Rules, skills, and tool schemas still load.  We're enabling it account by account. https://t.co/OuGffP1Mre",
+   "url": "https://x.com/cursor_ai/status/2107141054071968154",
+   "ts": 1791216550,
+   "desc": "You can also replace Cursor's system prompt with your own. Rules, skills, and tool schemas still load.\n\nWe're enabling it account by account. https://t.co/OuGffP1Mre"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Custom tools can now carry MCP annotations like readOnlyHint and destructiveHint, so the model can tell a lookup from a delete before it calls one. https://t.co/EYrm33ggGZ",
+   "url": "https://x.com/cursor_ai/status/2107141038427308473",
+   "ts": 1791216547,
+   "desc": "Custom tools can now carry MCP annotations like readOnlyHint and destructiveHint, so the model can tell a lookup from a delete before it calls one. https://t.co/EYrm33ggGZ"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Background subagents now report back.  Their results return to the parent as a follow-up turn on the same run, so stream() and wait() carry through until every subagent finishes. https://t.co/917fsWsG4k",
+   "url": "https://x.com/cursor_ai/status/2107141021947904430",
+   "ts": 1791216543,
+   "desc": "Background subagents now report back.\n\nTheir results return to the parent as a follow-up turn on the same run, so stream() and wait() carry through until every subagent finishes. https://t.co/917fsWsG4k"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "You can now steer Cursor SDK agents while they run.  run.steer() adds your message to the next turn. If a subagent is mid-task, it moves to the background and keeps working. https://t.co/1GHeV6kfKC",
+   "url": "https://x.com/cursor_ai/status/2107141004482793827",
+   "ts": 1791216538,
+   "desc": "You can now steer Cursor SDK agents while they run.\n\nrun.steer() adds your message to the next turn. If a subagent is mid-task, it moves to the background and keeps working. https://t.co/1GHeV6kfKC"
+  },
+  {
+   "source": "X @cursor_ai",
    "title": "When Rollouts catches a regression, it finds the offending PR and opens an issue. One click starts a cloud agent to fix it.  Rollouts usage credits are included through Oct 3.",
    "url": "https://x.com/cursor_ai/status/2106066782155157603",
    "ts": 1790960424,
@@ -1446,8 +1502,8 @@
   {
    "source": "X @commandcodeai",
    "title": "RT @CommandCodeAI: Introducing Agr, an open decision model by Command Code.  · Agr (31B) and Agr-flash (360M) · 58.15 on Decision Index 0.2…",
-   "url": "https://x.com/CommandCodeAI/status/2107224942987370682",
-   "ts": 1791236551,
+   "url": "https://x.com/CommandCodeAI/status/2107277613022757074",
+   "ts": 1791249108,
    "desc": "RT @CommandCodeAI: Introducing Agr, an open decision model by Command Code.\n\n· Agr (31B) and Agr-flash (360M)\n· 58.15 on Decision Index 0.2…"
   },
   {
@@ -1781,6 +1837,13 @@
   },
   {
    "source": "X @RayDalio",
+   "title": "Worrying about \"blame\" and \"credit\" or \"positive\" and \"negative\" feedback impedes the iterative process that is essential to learning.   Remember that what has already happened lies in the past and no longer matters except as a lesson for the future.",
+   "url": "https://x.com/RayDalio/status/2107318311167930747",
+   "ts": 1791258812,
+   "desc": "Worrying about \"blame\" and \"credit\" or \"positive\" and \"negative\" feedback impedes the iterative process that is essential to learning. \n\nRemember that what has already happened lies in the past and no longer matters except as a lesson for the future. #principleoftheday https://t.co/TAtGM56Oa1"
+  },
+  {
+   "source": "X @RayDalio",
    "title": "The holy grail of investing is knowing how to balance.  When you can take equally good things where your expectation of return is equal, but because they are uncorrelated and move differently, they balance each other. That is how you can reduce your",
    "url": "https://x.com/RayDalio/status/2107135552835170658",
    "ts": 1791215239,
@@ -1890,13 +1953,6 @@
    "url": "https://x.com/RayDalio/status/2102874089446654157",
    "ts": 1790199227,
    "desc": "If you don't mind being wrong on the way to being right you'll learn a lot--and increase your effectiveness.\n\nBut if you can't tolerate being wrong, you won't grow, you'll make yourself and everyone around you miserable, and your work environment will be marked by petty backbiting and malevolent barbs rather than by a healthy, honest search for truth. #principleoftheday"
-  },
-  {
-   "source": "X @RayDalio",
-   "title": "This evaluation and improvement process exactly mirrors the evolutionary process I described earlier. It means looking at how to improve or change the design or people to achieve your goals. Schematically, the process is a feedback loop, as shown in",
-   "url": "https://x.com/RayDalio/status/2102503206471544980",
-   "ts": 1790110801,
-   "desc": "This evaluation and improvement process exactly mirrors the evolutionary process I described earlier. It means looking at how to improve or change the design or people to achieve your goals. Schematically, the process is a feedback loop, as shown in the diagram here. #principleoftheday"
   },
   {
    "source": "X @karpathy",
@@ -2292,6 +2348,13 @@
   },
   {
    "source": "X @sundarpichai",
+   "title": "RT @ChanduThota: We are making Markdown files work natively across Google Drive and Docs.  You can now preview .md files in Drive, open the…",
+   "url": "https://x.com/sundarpichai/status/2107279536702501110",
+   "ts": 1791249567,
+   "desc": "RT @ChanduThota: We are making Markdown files work natively across Google Drive and Docs.\n\nYou can now preview .md files in Drive, open the…"
+  },
+  {
+   "source": "X @sundarpichai",
    "title": "RT @ssamat: Googlebook is officially on shelves today! 💻  If you’re an Android user, these were built specifically for you.  It completely…",
    "url": "https://x.com/sundarpichai/status/2107187676327915905",
    "ts": 1791227666,
@@ -2317,6 +2380,20 @@
    "url": "https://x.com/sundarpichai/status/2105817662651777367",
    "ts": 1790901029,
    "desc": "I remember the first meeting where the team pitched the idea of putting compute in space - exciting idea!\n\nToday's successful launch with our partner @planet prototype satellite shows how far we've come...and how far there is to go. Thanks for the lift, @SpaceX, another spectacular booster landing too🚀"
+  },
+  {
+   "source": "X @sundarpichai",
+   "title": "Importantly Argon has frontier safeguards and we are rolling it out responsibly - it’s with the US gov’t and going to a set of trusted cyber defenders through our Fairwind Program today.  We’re going to make it available as soon as we can and as safe",
+   "url": "https://x.com/sundarpichai/status/2105387954474746264",
+   "ts": 1790798579,
+   "desc": "Importantly Argon has frontier safeguards and we are rolling it out responsibly - it’s with the US gov’t and going to a set of trusted cyber defenders through our Fairwind Program today.\n\nWe’re going to make it available as soon as we can and as safely as we can. So hold tight, lots more coming, and you’re going to see us iterating rapidly.\n\nhttps://t.co/8MiXIfXIKr"
+  },
+  {
+   "source": "X @sundarpichai",
+   "title": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon!  It shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it e",
+   "url": "https://x.com/sundarpichai/status/2105387952478277979",
+   "ts": 1790798578,
+   "desc": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon!\n\nIt shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it extensively at Google, from coding to quantum computing, great feedback. \n\nHere’s a look at the benchmarks:"
   },
   {
    "source": "X @sundarpichai",
@@ -2396,11 +2473,25 @@
    "desc": "New Gemini voice capabilities are rolling out so you can search your Gmail inbox, organize thoughts and tasks in Keep, and create new Docs, all conversationally. Rolling out now for Google AI subscribers!\n\nDocs Live going to be super helpful in particular - see it in action below, and read more here: https://t.co/sO7agTSs4s"
   },
   {
-   "source": "X @sundarpichai",
-   "title": "Today we’re introducing a new 3.8 Flash model, our 3rd Flash release in just 6 wks.  It delivers significant leaps from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning. On DeepSWE v1.1, it outperforms most larger fronti",
-   "url": "https://x.com/sundarpichai/status/2095181765082292334",
-   "ts": 1788365234,
-   "desc": "Today we’re introducing a new 3.8 Flash model, our 3rd Flash release in just 6 wks.\n\nIt delivers significant leaps from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning. On DeepSWE v1.1, it outperforms most larger frontier models in autonomously solving complex engineering problems end to end, at a fraction of the cost.\n\nMore details here: https://t.co/4YkKkdKQvu"
+   "source": "X @ylecun",
+   "title": "RT @PessimistsArc: Issac Asimov: 𝐈 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐞𝐝, 𝐭𝐨 𝐦𝐲 𝐚𝐦𝐚𝐳𝐞𝐦𝐞𝐧𝐭, 𝐭𝐡𝐚𝐭 𝐚𝐥𝐥 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐡𝐢𝐬𝐭𝐨𝐫𝐲 𝐭𝐡𝐞𝐫𝐞 𝐡𝐚𝐝 𝐛𝐞𝐞𝐧 𝐫𝐞𝐬𝐢𝐬𝐭𝐚𝐧𝐜𝐞...𝐚𝐧𝐝 𝐛𝐢𝐭𝐭𝐞𝐫, 𝐞𝐱𝐚𝐠𝐠𝐞𝐫𝐚𝐭𝐞…",
+   "url": "https://x.com/ylecun/status/2107310297002189146",
+   "ts": 1791256901,
+   "desc": "RT @PessimistsArc: Issac Asimov: 𝐈 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐞𝐝, 𝐭𝐨 𝐦𝐲 𝐚𝐦𝐚𝐳𝐞𝐦𝐞𝐧𝐭, 𝐭𝐡𝐚𝐭 𝐚𝐥𝐥 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐡𝐢𝐬𝐭𝐨𝐫𝐲 𝐭𝐡𝐞𝐫𝐞 𝐡𝐚𝐝 𝐛𝐞𝐞𝐧 𝐫𝐞𝐬𝐢𝐬𝐭𝐚𝐧𝐜𝐞...𝐚𝐧𝐝 𝐛𝐢𝐭𝐭𝐞𝐫, 𝐞𝐱𝐚𝐠𝐠𝐞𝐫𝐚𝐭𝐞…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @SteveRattner: Wages are at all-time lows, and profits at historic highs, as a percent of GDP.  The backlash against A.I. is a backlash…",
+   "url": "https://x.com/ylecun/status/2107290069031682449",
+   "ts": 1791252078,
+   "desc": "RT @SteveRattner: Wages are at all-time lows, and profits at historic highs, as a percent of GDP.\n\nThe backlash against A.I. is a backlash…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @rohanpaul_ai: Yann LeCun's latest talk at ETH Zürich  \"You should not work on LLM. At least if you're in academia, you should absolutel…",
+   "url": "https://x.com/ylecun/status/2107286396222296209",
+   "ts": 1791251203,
+   "desc": "RT @rohanpaul_ai: Yann LeCun's latest talk at ETH Zürich\n\n\"You should not work on LLM. At least if you're in academia, you should absolutel…"
   },
   {
    "source": "X @ylecun",
@@ -2520,27 +2611,6 @@
    "url": "https://x.com/ylecun/status/2106470689746165895",
    "ts": 1791056723,
    "desc": "RT @DAcemogluMIT: Fourth question on AI.\n\nOne of the great promises of AI is the discovery of new drugs and cures, so that we can live long…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @DrTechlash: The Economist's article on Effective Altruism said that some EAs \"even think the welfare of AIs themselves will one day be…",
-   "url": "https://x.com/ylecun/status/2106470195732840521",
-   "ts": 1791056605,
-   "desc": "RT @DrTechlash: The Economist's article on Effective Altruism said that some EAs \"even think the welfare of AIs themselves will one day be…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @SteveRattner: Since 1830, technology has cut the American workweek from 69 hours to 38 while raising real income per person roughly 20-…",
-   "url": "https://x.com/ylecun/status/2106469951951315192",
-   "ts": 1791056547,
-   "desc": "RT @SteveRattner: Since 1830, technology has cut the American workweek from 69 hours to 38 while raising real income per person roughly 20-…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @rohanpaul_ai: Yann LeCun's (@ylecun ) latest talk at ETH Zürich  Scaling LLMs to reach AGI is \"impossible\"  A large language model is t…",
-   "url": "https://x.com/ylecun/status/2106462051975708928",
-   "ts": 1791054664,
-   "desc": "RT @rohanpaul_ai: Yann LeCun's (@ylecun ) latest talk at ETH Zürich\n\nScaling LLMs to reach AGI is \"impossible\"\n\nA large language model is t…"
   },
   {
    "source": "X @AndrewYNg",
@@ -2942,6 +3012,27 @@
    "desc": "Woah, huge bullish signal for open models that OpenAI feels a pressure to serve users with these models. It's not a world where OpenAI alone can build all the models it's customers need!"
   },
   {
+   "source": "X @natolambert",
+   "title": "I think it's a fairly classic problem of scientists, made a lot worse in the era of social media. It's one of my greatest fears.",
+   "url": "https://x.com/natolambert/status/2104969030599946408",
+   "ts": 1790698699,
+   "desc": "I think it's a fairly classic problem of scientists, made a lot worse in the era of social media. It's one of my greatest fears."
+  },
+  {
+   "source": "X @thsottiaux",
+   "title": "This might have been my best day so far at oai. Ridiculous amounts of fun and intensity. Future is bright",
+   "url": "https://x.com/thsottiaux/status/2107311729768353844",
+   "ts": 1791257242,
+   "desc": "This might have been my best day so far at oai. Ridiculous amounts of fun and intensity. Future is bright"
+  },
+  {
+   "source": "X @thsottiaux",
+   "title": "The real story is this one",
+   "url": "https://x.com/thsottiaux/status/2107295839655952486",
+   "ts": 1791253454,
+   "desc": "The real story is this one"
+  },
+  {
    "source": "X @thsottiaux",
    "title": "Sergio is cooking up magic with collaborative space right in ChatGPT. Improving leaps and bounds every day.",
    "url": "https://x.com/thsottiaux/status/2107200530477101461",
@@ -3038,20 +3129,6 @@
    "url": "https://x.com/thsottiaux/status/2105718728658993153",
    "ts": 1790877441,
    "desc": "Damn WiFi"
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset. I need to come up with something new fast.",
-   "url": "https://x.com/thsottiaux/status/2105672058269212820",
-   "ts": 1790866314,
-   "desc": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset. I need to come up with something new fast."
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "RT @OpenAIDevs: You can finally close your laptop now and your agents will keep working.  Codex cloud environments are here.  Reusable envi…",
-   "url": "https://x.com/thsottiaux/status/2105666481564618937",
-   "ts": 1790864985,
-   "desc": "RT @OpenAIDevs: You can finally close your laptop now and your agents will keep working.\n\nCodex cloud environments are here.\n\nReusable envi…"
   },
   {
    "source": "X @lydiahallie",
@@ -3450,21 +3527,21 @@
    "title": "Show HN: AI search for every photo and every frame of video on macOS",
    "url": "https://github.com/allenv0/SCM",
    "ts": 1791105892,
-   "desc": "163 points"
+   "desc": "165 points"
   },
   {
    "source": "HN",
    "title": "How to scale intent, quality, and artistry with AI [video]",
    "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
    "ts": 1791103318,
-   "desc": "98 points"
+   "desc": "99 points"
   },
   {
    "source": "HN",
    "title": "Homa: The end of TCP for AI clusters [video]",
    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
    "ts": 1791142945,
-   "desc": "79 points"
+   "desc": "80 points"
   },
   {
    "source": "HN",
@@ -3475,17 +3552,24 @@
   },
   {
    "source": "HN",
-   "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-   "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-   "ts": 1791204978,
-   "desc": "59 points"
-  },
-  {
-   "source": "HN",
    "title": "AI Companies Are Parasites",
    "url": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites",
    "ts": 1791228610,
-   "desc": "59 points"
+   "desc": "64 points"
+  },
+  {
+   "source": "HN",
+   "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+   "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+   "ts": 1791204978,
+   "desc": "61 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI tutoring with Khanmigo in a two-year school experiment",
+   "url": "https://edworkingpapers.com/ai26-1551",
+   "ts": 1791244845,
+   "desc": "61 points"
   },
   {
    "source": "HN",
@@ -3499,7 +3583,7 @@
    "title": "Florida woman arrested for allegedly making threats in an AI chat",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
    "ts": 1791213096,
-   "desc": "49 points"
+   "desc": "50 points"
   },
   {
    "source": "HN",
@@ -3513,14 +3597,14 @@
    "title": "Questions for believers in AI consciousness",
    "url": "https://endsdontjustifythemeans.com/p/6-questions-for-believers-in-ai-consciousness",
    "ts": 1791226768,
-   "desc": "40 points"
+   "desc": "43 points"
   },
   {
    "source": "HN",
    "title": "Altman: The world should accept some bad things happening for the benefits of AI",
    "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
    "ts": 1791212612,
-   "desc": "38 points"
+   "desc": "40 points"
   },
   {
    "source": "HN",
@@ -3541,14 +3625,7 @@
    "title": "Anthropic wants your thoughts on AI",
    "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
    "ts": 1791202862,
-   "desc": "27 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI can clone your indie game, but not its soul",
-   "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
-   "ts": 1791083935,
-   "desc": "22 points"
+   "desc": "28 points"
   },
   {
    "source": "HN",
@@ -3566,10 +3643,10 @@
   },
   {
    "source": "HN",
-   "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-   "url": "https://edworkingpapers.com/ai26-1551",
-   "ts": 1791244845,
-   "desc": "15 points"
+   "title": "The AI boom is making the cheapest smartphones disappear",
+   "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+   "ts": 1791261437,
+   "desc": "13 points"
   },
   {
    "source": "HN",
@@ -3580,6 +3657,13 @@
   },
   {
    "source": "HN",
+   "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+   "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
+   "ts": 1791230830,
+   "desc": "12 points"
+  },
+  {
+   "source": "HN",
    "title": "Is Russia using AI for disinformation in CAR?",
    "url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947",
    "ts": 1791137064,
@@ -3587,37 +3671,16 @@
   },
   {
    "source": "HN",
-   "title": "How the bad science of AI doomerism is good for big business",
-   "url": "https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/",
-   "ts": 1791081835,
-   "desc": "9 points"
+   "title": "Spacebar – A realtime workspace for Humans and AI",
+   "url": "https://www.spacebar.ai/waitlist",
+   "ts": 1791219384,
+   "desc": "10 points"
   },
   {
    "source": "HN",
    "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
    "ts": 1791148029,
-   "desc": "9 points"
-  },
-  {
-   "source": "HN",
-   "title": "The AI boom is making the cheapest smartphones disappear",
-   "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
-   "ts": 1791222825,
-   "desc": "9 points"
-  },
-  {
-   "source": "HN",
-   "title": "Spacebar – A realtime workspace for Humans and AI",
-   "url": "https://www.spacebar.ai/waitlist",
-   "ts": 1791219384,
-   "desc": "9 points"
-  },
-  {
-   "source": "HN",
-   "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-   "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
-   "ts": 1791230830,
    "desc": "9 points"
   },
   {
@@ -3646,6 +3709,13 @@
    "title": "Anthropic asks Claude users to share voice data for AI model training",
    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
    "ts": 1791121466,
+   "desc": "6 points"
+  },
+  {
+   "source": "HN",
+   "title": "98% of US households aren't paying for AI yet",
+   "url": "https://www.a16z.news/p/state-of-markets-ii",
+   "ts": 1791116173,
    "desc": "6 points"
   }
  ]
