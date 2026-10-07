@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-07T06:51:20.941928+00:00",
- "count": 500,
+ "generated_at": "2026-10-07T12:53:51.183530+00:00",
+ "count": 516,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 431,
+   "count": 447,
    "note": "49 账号"
   },
   {
@@ -133,6 +133,20 @@
    "url": "https://x.com/GoogleDeepMind/status/2107416258639786392",
    "ts": 1791282164,
    "desc": "RT @FlemingCentre: Supported by @GoogleDeepMind , our new 3-year programme will develop the methods and standards needed to evaluate artifi…"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "Watch → https://t.co/vaJzQEEPPs Spotify → https://t.co/dCRx0EnHK0 Apple Podcasts → https://t.co/SoXfo37VgP  Or listen wherever you get your podcasts! 🎧",
+   "url": "https://x.com/GoogleDeepMind/status/2105707090547478914",
+   "ts": 1790874667,
+   "desc": "Watch → https://t.co/vaJzQEEPPs\nSpotify → https://t.co/dCRx0EnHK0\nApple Podcasts → https://t.co/SoXfo37VgP\n\nOr listen wherever you get your podcasts! 🎧"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?  We explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on o",
+   "url": "https://x.com/GoogleDeepMind/status/2105707085287567709",
+   "ts": 1790874665,
+   "desc": "When AI-generated content has become so realistic, how do we verify what's made by human, machine, or nature?\n\nWe explore the vital role of provenance – and how imperceptible watermarking can safeguard both digital media and biological designs – on our podcast. ↓\n\nTimecodes:\n00:00 Introduction\n00:34 What is a watermark?\n04:35 SynthID\n15:16 Images and video\n19:28 SynthID Bio\n28:00 Future of resilie"
   },
   {
    "source": "X @GoogleDeepMind",
@@ -388,6 +402,13 @@
   },
   {
    "source": "X @huggingface",
+   "title": "RT @matth_lapeyre: Microduck got its new brain!  Our first fully custom SBC in a Pollen robot! It replaces the Radxa + board sandwich from…",
+   "url": "https://x.com/huggingface/status/2107813002925724112",
+   "ts": 1791376755,
+   "desc": "RT @matth_lapeyre: Microduck got its new brain!\n\nOur first fully custom SBC in a Pollen robot! It replaces the Radxa + board sandwich from…"
+  },
+  {
+   "source": "X @huggingface",
    "title": "RT @multimodalart: come meet the microduck on oct 16th if you are in sf  i may have convinced it to make its first ever appearance to the o…",
    "url": "https://x.com/huggingface/status/2107618557987271120",
    "ts": 1791330396,
@@ -518,13 +539,6 @@
    "url": "https://x.com/huggingface/status/2107122688254697769",
    "ts": 1791212171,
    "desc": "RT @Thom_Wolf: new roommate just moved in. walks like he's had three drinks, says no to everything. still quite cute so I might bring him e…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @ben_burtenshaw: RL environments now have a home on the @huggingface  Hub.  Every RL framework has its own way to find environments. Cus…",
-   "url": "https://x.com/huggingface/status/2107117662815846473",
-   "ts": 1791210973,
-   "desc": "RT @ben_burtenshaw: RL environments now have a home on the @huggingface  Hub.\n\nEvery RL framework has its own way to find environments. Cus…"
   },
   {
    "source": "X @NousResearch",
@@ -1284,6 +1298,62 @@
   },
   {
    "source": "X @cursor_ai",
+   "title": "Download the Cursor iOS app and pair it with your computer: https://t.co/iHOGAsDRpV  On Enterprise? Ask your admin to turn it on.  Learn more: https://t.co/5jOKwvZjTK",
+   "url": "https://x.com/cursor_ai/status/2107618677470494728",
+   "ts": 1791330425,
+   "desc": "Download the Cursor iOS app and pair it with your computer: https://t.co/iHOGAsDRpV\n\nOn Enterprise? Ask your admin to turn it on.\n\nLearn more: https://t.co/5jOKwvZjTK"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "The agent runs on your computer, so it keeps working even if your phone loses signal.",
+   "url": "https://x.com/cursor_ai/status/2107618665751576970",
+   "ts": 1791330422,
+   "desc": "The agent runs on your computer, so it keeps working even if your phone loses signal."
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "You can now control agents on your computer from your phone.  Check in, reply, or start new tasks from the Cursor iOS app. https://t.co/11dcZhRyrx",
+   "url": "https://x.com/cursor_ai/status/2107618653701296162",
+   "ts": 1791330419,
+   "desc": "You can now control agents on your computer from your phone.\n\nCheck in, reply, or start new tasks from the Cursor iOS app. https://t.co/11dcZhRyrx"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Steering and system prompts work with local TypeScript agents. Background subagent results come back locally in TypeScript and Python.  See everything new in the SDK: https://t.co/rHyp0i3vUu",
+   "url": "https://x.com/cursor_ai/status/2107141066403275081",
+   "ts": 1791216553,
+   "desc": "Steering and system prompts work with local TypeScript agents. Background subagent results come back locally in TypeScript and Python.\n\nSee everything new in the SDK: https://t.co/rHyp0i3vUu"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "You can also replace Cursor's system prompt with your own. Rules, skills, and tool schemas still load.  We're enabling it account by account. https://t.co/OuGffP1Mre",
+   "url": "https://x.com/cursor_ai/status/2107141054071968154",
+   "ts": 1791216550,
+   "desc": "You can also replace Cursor's system prompt with your own. Rules, skills, and tool schemas still load.\n\nWe're enabling it account by account. https://t.co/OuGffP1Mre"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Custom tools can now carry MCP annotations like readOnlyHint and destructiveHint, so the model can tell a lookup from a delete before it calls one. https://t.co/EYrm33ggGZ",
+   "url": "https://x.com/cursor_ai/status/2107141038427308473",
+   "ts": 1791216547,
+   "desc": "Custom tools can now carry MCP annotations like readOnlyHint and destructiveHint, so the model can tell a lookup from a delete before it calls one. https://t.co/EYrm33ggGZ"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Background subagents now report back.  Their results return to the parent as a follow-up turn on the same run, so stream() and wait() carry through until every subagent finishes. https://t.co/917fsWsG4k",
+   "url": "https://x.com/cursor_ai/status/2107141021947904430",
+   "ts": 1791216543,
+   "desc": "Background subagents now report back.\n\nTheir results return to the parent as a follow-up turn on the same run, so stream() and wait() carry through until every subagent finishes. https://t.co/917fsWsG4k"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "You can now steer Cursor SDK agents while they run.  run.steer() adds your message to the next turn. If a subagent is mid-task, it moves to the background and keeps working. https://t.co/1GHeV6kfKC",
+   "url": "https://x.com/cursor_ai/status/2107141004482793827",
+   "ts": 1791216538,
+   "desc": "You can now steer Cursor SDK agents while they run.\n\nrun.steer() adds your message to the next turn. If a subagent is mid-task, it moves to the background and keeps working. https://t.co/1GHeV6kfKC"
+  },
+  {
+   "source": "X @cursor_ai",
    "title": "When Rollouts catches a regression, it finds the offending PR and opens an issue. One click starts a cloud agent to fix it.  Rollouts usage credits are included through Oct 3.",
    "url": "https://x.com/cursor_ai/status/2106066782155157603",
    "ts": 1790960424,
@@ -1638,6 +1708,27 @@
    "url": "https://x.com/elonmusk/status/2107696505432035633",
    "ts": 1791348980,
    "desc": "RT @cb_doge: Here’s the full IAC 2026 presentation by SpaceXAI President @michaelnicollsx :\n\n0:00 Walk-on and opening\n1:40 Growth of the St…"
+  },
+  {
+   "source": "X @sama",
+   "title": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible.",
+   "url": "https://x.com/sama/status/2107691577015755196",
+   "ts": 1791347805,
+   "desc": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible."
+  },
+  {
+   "source": "X @sama",
+   "title": "thank you to the machines, and the structure of reality, for letting us understand a little more.",
+   "url": "https://x.com/sama/status/2107691262795239805",
+   "ts": 1791347730,
+   "desc": "thank you to the machines, and the structure of reality, for letting us understand a little more."
+  },
+  {
+   "source": "X @sama",
+   "title": "looking up at the stars with extra awe tonight.  \"thy sea is so great and my boat is so small.\"",
+   "url": "https://x.com/sama/status/2107691261776052633",
+   "ts": 1791347730,
+   "desc": "looking up at the stars with extra awe tonight.\n\n\"thy sea is so great and my boat is so small.\""
   },
   {
    "source": "X @sama",
@@ -2292,6 +2383,20 @@
   },
   {
    "source": "X @sundarpichai",
+   "title": "Importantly Argon has frontier safeguards and we are rolling it out responsibly - it’s with the US gov’t and going to a set of trusted cyber defenders through our Fairwind Program today.  We’re going to make it available as soon as we can and as safe",
+   "url": "https://x.com/sundarpichai/status/2105387954474746264",
+   "ts": 1790798579,
+   "desc": "Importantly Argon has frontier safeguards and we are rolling it out responsibly - it’s with the US gov’t and going to a set of trusted cyber defenders through our Fairwind Program today.\n\nWe’re going to make it available as soon as we can and as safely as we can. So hold tight, lots more coming, and you’re going to see us iterating rapidly.\n\nhttps://t.co/8MiXIfXIKr"
+  },
+  {
+   "source": "X @sundarpichai",
+   "title": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon!  It shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it e",
+   "url": "https://x.com/sundarpichai/status/2105387952478277979",
+   "ts": 1790798578,
+   "desc": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon!\n\nIt shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it extensively at Google, from coding to quantum computing, great feedback. \n\nHere’s a look at the benchmarks:"
+  },
+  {
+   "source": "X @sundarpichai",
    "title": "Great to meet today with @POTUS, @JDVance, @SpeakerJohnson and Administration + tech leaders. Important conversation and we signed today the White House Accord on Super Intelligence.  As I shared today, Google has invested hundreds of billions in the",
    "url": "https://x.com/sundarpichai/status/2105121763176894804",
    "ts": 1790735114,
@@ -2366,6 +2471,27 @@
    "url": "https://x.com/sundarpichai/status/2095552297099198689",
    "ts": 1788453575,
    "desc": "New Gemini voice capabilities are rolling out so you can search your Gmail inbox, organize thoughts and tasks in Keep, and create new Docs, all conversationally. Rolling out now for Google AI subscribers!\n\nDocs Live going to be super helpful in particular - see it in action below, and read more here: https://t.co/sO7agTSs4s"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @random_walker: \"Even “normal” general-purpose technologies are initially volatile and dangerous, even those we come to think of as unal…",
+   "url": "https://x.com/ylecun/status/2107804973597688159",
+   "ts": 1791374841,
+   "desc": "RT @random_walker: \"Even “normal” general-purpose technologies are initially volatile and dangerous, even those we come to think of as unal…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @SteveRattner: Take A.I. and chip stocks out of the index and the market is down 5.7% since late August.  The S&amp;P 500 is up 2.4% over th…",
+   "url": "https://x.com/ylecun/status/2107798738093690967",
+   "ts": 1791373354,
+   "desc": "RT @SteveRattner: Take A.I. and chip stocks out of the index and the market is down 5.7% since late August.\n\nThe S&amp;P 500 is up 2.4% over th…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @fabricepelosi: Il est sorti et il est déjà en rupture de stock sur Amazon 🤯 Les pionniers de l’IA, prix du livre d’économie, vient de s…",
+   "url": "https://x.com/ylecun/status/2107792001865232699",
+   "ts": 1791371748,
+   "desc": "RT @fabricepelosi: Il est sorti et il est déjà en rupture de stock sur Amazon 🤯 Les pionniers de l’IA, prix du livre d’économie, vient de s…"
   },
   {
    "source": "X @ylecun",
@@ -2485,27 +2611,6 @@
    "url": "https://x.com/ylecun/status/2106779188162146779",
    "ts": 1791130275,
    "desc": "RT @KenRoth: Republicans' problem is not just Trump. It is that they did nothing to stop him as he undermined America's economy and democra…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @Hannibal9972485: The real reason why Anthropic is so DESPERATE for the Pope to recognize Ai as conscious is because if Ai just a “TOOL”…",
-   "url": "https://x.com/ylecun/status/2106739287395803260",
-   "ts": 1791120762,
-   "desc": "RT @Hannibal9972485: The real reason why Anthropic is so DESPERATE for the Pope to recognize Ai as conscious is because if Ai just a “TOOL”…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @MuzafferKal_: Hamiltonian JEPA: Action-Conditioned World Models with an Inherited Control State  https://t.co/izoGpqysAw",
-   "url": "https://x.com/ylecun/status/2106727016623931894",
-   "ts": 1791117836,
-   "desc": "RT @MuzafferKal_: Hamiltonian JEPA: Action-Conditioned World Models with an Inherited Control State\n\nhttps://t.co/izoGpqysAw"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @KenRoth: Trump is so unpopular because of his corruption, self-preoccupation, and disastrous war of choice with Iran, all fueling the a…",
-   "url": "https://x.com/ylecun/status/2106708814091235824",
-   "ts": 1791113496,
-   "desc": "RT @KenRoth: Trump is so unpopular because of his corruption, self-preoccupation, and disastrous war of choice with Iran, all fueling the a…"
   },
   {
    "source": "X @AndrewYNg",
@@ -2929,6 +3034,13 @@
   },
   {
    "source": "X @thsottiaux",
+   "title": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
+   "url": "https://x.com/thsottiaux/status/2107504197012988007",
+   "ts": 1791303130,
+   "desc": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”."
+  },
+  {
+   "source": "X @thsottiaux",
    "title": "This might have been my best day so far at oai. Ridiculous amounts of fun and intensity. Future is bright",
    "url": "https://x.com/thsottiaux/status/2107311729768353844",
    "ts": 1791257242,
@@ -3331,42 +3443,49 @@
    "title": "Sharing AI progress in mathematics",
    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
    "ts": 1791325041,
-   "desc": "757 points"
+   "desc": "1021 points"
   },
   {
    "source": "HN",
    "title": "OpenTPU – An open-source AI accelerator, developed by AI",
    "url": "https://github.com/FeSens/openTPU",
    "ts": 1791303805,
-   "desc": "274 points"
+   "desc": "307 points"
   },
   {
    "source": "HN",
    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
    "url": "https://penguin-mail.com/",
    "ts": 1791323983,
-   "desc": "147 points"
+   "desc": "212 points"
   },
   {
    "source": "HN",
    "title": "Utah to let AI examine patients and prescribe medication without human oversight",
    "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
    "ts": 1791306112,
-   "desc": "121 points"
+   "desc": "128 points"
   },
   {
    "source": "HN",
    "title": "Erdosproblems.com Succumbs to the AI Onslaught",
    "url": "https://www.erdosproblems.com/forum/thread/blog:9",
    "ts": 1791291238,
-   "desc": "99 points"
+   "desc": "106 points"
+  },
+  {
+   "source": "HN",
+   "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+   "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+   "ts": 1791330633,
+   "desc": "85 points"
   },
   {
    "source": "HN",
    "title": "AI tutoring with Khanmigo in a two-year school experiment",
    "url": "https://edworkingpapers.com/ai26-1551",
    "ts": 1791244845,
-   "desc": "72 points"
+   "desc": "73 points"
   },
   {
    "source": "HN",
@@ -3374,13 +3493,6 @@
    "url": "https://www.coryd.dev/posts/2026/ai-companies-are-parasites",
    "ts": 1791228610,
    "desc": "71 points"
-  },
-  {
-   "source": "HN",
-   "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-   "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-   "ts": 1791330633,
-   "desc": "66 points"
   },
   {
    "source": "HN",
@@ -3419,17 +3531,24 @@
   },
   {
    "source": "HN",
-   "title": "Altman: The world should accept some bad things happening for the benefits of AI",
-   "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-   "ts": 1791212612,
-   "desc": "41 points"
+   "title": "Reasons to Dislike AI Coding",
+   "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+   "ts": 1791364500,
+   "desc": "42 points"
   },
   {
    "source": "HN",
    "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
    "url": "https://github.com/longsurf-ai/openchart",
    "ts": 1791299805,
-   "desc": "40 points"
+   "desc": "42 points"
+  },
+  {
+   "source": "HN",
+   "title": "Altman: The world should accept some bad things happening for the benefits of AI",
+   "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+   "ts": 1791212612,
+   "desc": "41 points"
   },
   {
    "source": "HN",
@@ -3447,6 +3566,13 @@
   },
   {
    "source": "HN",
+   "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
+   "url": "https://news.ycombinator.com/item?id=49972125",
+   "ts": 1791242684,
+   "desc": "32 points"
+  },
+  {
+   "source": "HN",
    "title": "Oracle Triggered the Implosion of the AI Bubble",
    "url": "https://medium.com/predict/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e",
    "ts": 1791294176,
@@ -3454,17 +3580,10 @@
   },
   {
    "source": "HN",
-   "title": "Anthropic wants your thoughts on AI",
-   "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
-   "ts": 1791202862,
-   "desc": "29 points"
-  },
-  {
-   "source": "HN",
-   "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
-   "url": "https://news.ycombinator.com/item?id=49972125",
-   "ts": 1791242684,
-   "desc": "28 points"
+   "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+   "url": "https://github.com/nano-muse/nanoMuse",
+   "ts": 1791343844,
+   "desc": "30 points"
   },
   {
    "source": "HN",
@@ -3478,7 +3597,7 @@
    "title": "An Open Letter to Steven Pinker on AI",
    "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
    "ts": 1791325178,
-   "desc": "23 points"
+   "desc": "26 points"
   },
   {
    "source": "HN",
@@ -3503,31 +3622,24 @@
   },
   {
    "source": "HN",
-   "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-   "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
-   "ts": 1791230830,
-   "desc": "12 points"
-  },
-  {
-   "source": "HN",
-   "title": "Spacebar – A realtime workspace for Humans and AI",
-   "url": "https://www.spacebar.ai/waitlist",
-   "ts": 1791219384,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
-   "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-   "url": "https://github.com/nano-muse/nanoMuse",
-   "ts": 1791343844,
-   "desc": "10 points"
+   "title": "Forever Junior: The Skills AI Can't Develop for You",
+   "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+   "ts": 1791360006,
+   "desc": "18 points"
   },
   {
    "source": "HN",
    "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
    "url": "https://agentability.org/",
    "ts": 1791324058,
-   "desc": "10 points"
+   "desc": "13 points"
+  },
+  {
+   "source": "HN",
+   "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+   "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
+   "ts": 1791230830,
+   "desc": "12 points"
   }
  ]
 }
