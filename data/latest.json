@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-09T00:57:06.178070+00:00",
- "count": 509,
+ "generated_at": "2026-10-09T06:53:49.832599+00:00",
+ "count": 525,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 439,
+   "count": 455,
    "note": "49 账号"
   },
   {
@@ -49,6 +49,48 @@
    "url": "https://x.com/OpenAI/status/2107909792945832070",
    "ts": 1791399832,
    "desc": "We're sharing progress on ChatGPT for Teens, our ChatGPT experience for people under 18, alongside a preview of College Planner, new study tools, and support for college advisers and teen voices.\n\nChatGPT for Teens applies automatically to accounts identified as belonging to someone under 18, with protections on by default.\n\nComing soon: College Planner brings application requirements, deadlines,"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and will expand to Free and Go users starting tomorrow.  GPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6",
+   "url": "https://x.com/OpenAI/status/2107895006350791071",
+   "ts": 1791396306,
+   "desc": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and will expand to Free and Go users starting tomorrow.\n\nGPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6 Luna for Free and Go tiers. Both are tuned for everyday conversation.\n\nThis update applies to the Chat tab in ChatGPT. The models powering Work and C"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "Play around with interactive answers to help customize your response. https://t.co/WdREebLtd9",
+   "url": "https://x.com/OpenAI/status/2107895004819775938",
+   "ts": 1791396306,
+   "desc": "Play around with interactive answers to help customize your response. https://t.co/WdREebLtd9"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "Deepen your understanding of a topic with visuals that bring concepts to life. https://t.co/w3IUwyeljH",
+   "url": "https://x.com/OpenAI/status/2107895003490169213",
+   "ts": 1791396306,
+   "desc": "Deepen your understanding of a topic with visuals that bring concepts to life. https://t.co/w3IUwyeljH"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator. https://t.co/7gwerFiaNu",
+   "url": "https://x.com/OpenAI/status/2107895002022187411",
+   "ts": 1791396305,
+   "desc": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator. https://t.co/7gwerFiaNu"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "Explore ideas through interactive visuals that respond as you learn, try, and discover. https://t.co/SXBxaHHLBF",
+   "url": "https://x.com/OpenAI/status/2107895000642294250",
+   "ts": 1791396305,
+   "desc": "Explore ideas through interactive visuals that respond as you learn, try, and discover. https://t.co/SXBxaHHLBF"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, choosing how they fit together based on your question.  Responses can include graphics and charts to help explain an idea, along with tappable buttons",
+   "url": "https://x.com/OpenAI/status/2107894999119774148",
+   "ts": 1791396305,
+   "desc": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, choosing how they fit together based on your question.\n\nResponses can include graphics and charts to help explain an idea, along with tappable buttons, forms, and interactive experiences you can use directly in your conversation."
   },
   {
    "source": "X @OpenAI",
@@ -542,6 +584,20 @@
   },
   {
    "source": "X @NousResearch",
+   "title": "Hemres Agnet",
+   "url": "https://x.com/NousResearch/status/2108418231388278875",
+   "ts": 1791521053,
+   "desc": "Hemres Agnet"
+  },
+  {
+   "source": "X @NousResearch",
+   "title": "RT @StepFun_ai: Hermes Agent, meet Step 5 Preview.  Our flagship model for agentic and professional work is now free for one week through @…",
+   "url": "https://x.com/NousResearch/status/2108395645379997744",
+   "ts": 1791515668,
+   "desc": "RT @StepFun_ai: Hermes Agent, meet Step 5 Preview.\n\nOur flagship model for agentic and professional work is now free for one week through @…"
+  },
+  {
+   "source": "X @NousResearch",
    "title": "Hermes Agent is now live (and featured) in the @Microsoft Store for seamless one-click install.  More updates for the Windows ecosystem coming soon! https://t.co/lPH4snZ2L3",
    "url": "https://x.com/NousResearch/status/2108231536772596193",
    "ts": 1791476542,
@@ -595,20 +651,6 @@
    "url": "https://x.com/NousResearch/status/2107210064549343358",
    "ts": 1791233004,
    "desc": "You should be able to use smarter models in your agent.\nYou should be able to use cheaper models in your agent.\nYou should be able to use local models in your agent.\nYou should be able to use a different model for every job.\nYou should be able to switch models in the middle of a conversation.\nYou should be able to choose what data your agent has.\nYou should be able to choose what it remembers and"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "Solar Mini 4 from @upstageai is free on Nous Portal for the next two weeks  It has 3B active parameters (35B total), 512K context, and an Artificial Analysis Intelligence Index score of 24 - above models with 10x the active parameters https://t.co/I3",
-   "url": "https://x.com/NousResearch/status/2107138770088714678",
-   "ts": 1791216006,
-   "desc": "Solar Mini 4 from @upstageai is free on Nous Portal for the next two weeks\n\nIt has 3B active parameters (35B total), 512K context, and an Artificial Analysis Intelligence Index score of 24 - above models with 10x the active parameters https://t.co/I3NYr0v6mz"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "RT @Teknium: The plugins catalog had been growing fast! Nearly 500 mods to Hermes that add new capabilities, model providers, memory enhanc…",
-   "url": "https://x.com/NousResearch/status/2106862815567094040",
-   "ts": 1791150213,
-   "desc": "RT @Teknium: The plugins catalog had been growing fast! Nearly 500 mods to Hermes that add new capabilities, model providers, memory enhanc…"
   },
   {
    "source": "X @deepseek_ai",
@@ -1193,6 +1235,13 @@
   },
   {
    "source": "X @TencentHunyuan",
+   "title": "more 🔛  https://t.co/XsFS9gaRpQ",
+   "url": "https://x.com/TencentHunyuan/status/2108386202080657757",
+   "ts": 1791513417,
+   "desc": "more 🔛  https://t.co/XsFS9gaRpQ"
+  },
+  {
+   "source": "X @TencentHunyuan",
    "title": "New Research: We are releasing ExplorationBench, a benchmark for measuring how AI systems explore.  Scientific discovery begins where known problems end: a system has to frame hypotheses, design experiments, and learn from the results. Evaluating thi",
    "url": "https://x.com/TencentHunyuan/status/2105288808929558891",
    "ts": 1790774941,
@@ -1297,18 +1346,67 @@
    "desc": "RT @xiangyuli: 说真的，\nHy4 preview @TencentHunyuan\n这次帮了我大忙。\n\n单位这边，要做 GPCR 配体筛选。\n很多候选分子是亲脂的，\n真正进口袋之前\n先在磷脂双层里分区、侧向扩散\n\n膜的厚度、面积、尾链有序性也会把受体的构象平衡往一边…"
   },
   {
-   "source": "X @TencentHunyuan",
-   "title": "🚀 EvolveScaler is here.  Read a 40-day RPG log. Now answer one question: if you skip the mini-boss on Day 7, do you still beat the final boss?  The answer isn't in the log. You have to replay the world.  That's Information Evolution — records get ret",
-   "url": "https://x.com/TencentHunyuan/status/2099748549281939558",
-   "ts": 1789454040,
-   "desc": "🚀 EvolveScaler is here.\n\nRead a 40-day RPG log. Now answer one question: if you skip the mini-boss on Day 7, do you still beat the final boss?\n\nThe answer isn't in the log. You have to replay the world.\n\nThat's Information Evolution — records get retracted, corrected, backfilled. The world keeps changing after you read it.\n\nSo we build it backwards: define the world as an executable state machine,"
-  },
-  {
    "source": "X @cursor_ai",
    "title": "The first chart usually raises the next question.  Ask it in the same chat and /visualize answers with a new chart. https://t.co/NPdqP4c46r",
    "url": "https://x.com/cursor_ai/status/2108289748628566496",
    "ts": 1791490420,
    "desc": "The first chart usually raises the next question.\n\nAsk it in the same chat and /visualize answers with a new chart. https://t.co/NPdqP4c46r"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Download the Cursor iOS app and pair it with your computer: https://t.co/iHOGAsDRpV  On Enterprise? Ask your admin to turn it on.  Learn more: https://t.co/5jOKwvZjTK",
+   "url": "https://x.com/cursor_ai/status/2107618677470494728",
+   "ts": 1791330425,
+   "desc": "Download the Cursor iOS app and pair it with your computer: https://t.co/iHOGAsDRpV\n\nOn Enterprise? Ask your admin to turn it on.\n\nLearn more: https://t.co/5jOKwvZjTK"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "The agent runs on your computer, so it keeps working even if your phone loses signal.",
+   "url": "https://x.com/cursor_ai/status/2107618665751576970",
+   "ts": 1791330422,
+   "desc": "The agent runs on your computer, so it keeps working even if your phone loses signal."
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "You can now control agents on your computer from your phone.  Check in, reply, or start new tasks from the Cursor iOS app. https://t.co/11dcZhRyrx",
+   "url": "https://x.com/cursor_ai/status/2107618653701296162",
+   "ts": 1791330419,
+   "desc": "You can now control agents on your computer from your phone.\n\nCheck in, reply, or start new tasks from the Cursor iOS app. https://t.co/11dcZhRyrx"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Steering and system prompts work with local TypeScript agents. Background subagent results come back locally in TypeScript and Python.  See everything new in the SDK: https://t.co/rHyp0i3vUu",
+   "url": "https://x.com/cursor_ai/status/2107141066403275081",
+   "ts": 1791216553,
+   "desc": "Steering and system prompts work with local TypeScript agents. Background subagent results come back locally in TypeScript and Python.\n\nSee everything new in the SDK: https://t.co/rHyp0i3vUu"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "You can also replace Cursor's system prompt with your own. Rules, skills, and tool schemas still load.  We're enabling it account by account. https://t.co/OuGffP1Mre",
+   "url": "https://x.com/cursor_ai/status/2107141054071968154",
+   "ts": 1791216550,
+   "desc": "You can also replace Cursor's system prompt with your own. Rules, skills, and tool schemas still load.\n\nWe're enabling it account by account. https://t.co/OuGffP1Mre"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Custom tools can now carry MCP annotations like readOnlyHint and destructiveHint, so the model can tell a lookup from a delete before it calls one. https://t.co/EYrm33ggGZ",
+   "url": "https://x.com/cursor_ai/status/2107141038427308473",
+   "ts": 1791216547,
+   "desc": "Custom tools can now carry MCP annotations like readOnlyHint and destructiveHint, so the model can tell a lookup from a delete before it calls one. https://t.co/EYrm33ggGZ"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Background subagents now report back.  Their results return to the parent as a follow-up turn on the same run, so stream() and wait() carry through until every subagent finishes. https://t.co/917fsWsG4k",
+   "url": "https://x.com/cursor_ai/status/2107141021947904430",
+   "ts": 1791216543,
+   "desc": "Background subagents now report back.\n\nTheir results return to the parent as a follow-up turn on the same run, so stream() and wait() carry through until every subagent finishes. https://t.co/917fsWsG4k"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "You can now steer Cursor SDK agents while they run.  run.steer() adds your message to the next turn. If a subagent is mid-task, it moves to the background and keeps working. https://t.co/1GHeV6kfKC",
+   "url": "https://x.com/cursor_ai/status/2107141004482793827",
+   "ts": 1791216538,
+   "desc": "You can now steer Cursor SDK agents while they run.\n\nrun.steer() adds your message to the next turn. If a subagent is mid-task, it moves to the background and keeps working. https://t.co/1GHeV6kfKC"
   },
   {
    "source": "X @cursor_ai",
@@ -1344,6 +1442,13 @@
    "url": "https://x.com/cursor_ai/status/2104666044220821594",
    "ts": 1790626462,
    "desc": "Sonnet 5.5 is now available in Cursor!\n\nIt’s a strong model, performing on par with Opus in many tasks. https://t.co/iaJ5z67FVu"
+  },
+  {
+   "source": "X @opencode",
+   "title": "RT @LukeParkerDev: THE OPENCODE DESKTOP BROWSER IS SO GOOD  🗣️🗣️🗣️🗣️  i need to ADHD youtuber 5s intromaxx https://t.co/k3XQrOtc7H",
+   "url": "https://x.com/opencode/status/2108417102503719340",
+   "ts": 1791520784,
+   "desc": "RT @LukeParkerDev: THE OPENCODE DESKTOP BROWSER IS SO GOOD\n\n🗣️🗣️🗣️🗣️\n\ni need to ADHD youtuber 5s intromaxx https://t.co/k3XQrOtc7H"
   },
   {
    "source": "X @opencode",
@@ -1452,6 +1557,13 @@
   },
   {
    "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: Claude Haiku 5.5 is now available in Command Code GOAT with 2x usage.  · $10/mo gets you $20 credits · ~30K requests, ~1…",
+   "url": "https://x.com/CommandCodeAI/status/2108372722090950701",
+   "ts": 1791510203,
+   "desc": "RT @CommandCodeAI: Claude Haiku 5.5 is now available in Command Code GOAT with 2x usage.\n\n· $10/mo gets you $20 credits\n· ~30K requests, ~1…"
+  },
+  {
+   "source": "X @commandcodeai",
    "title": "Claude Haiku 5.5 is now available in Command Code GOAT with 2x usage.  · $10/mo gets you $20 credits · ~30K requests, ~1.5B tokens  🐐",
    "url": "https://x.com/CommandCodeAI/status/2108299151389954056",
    "ts": 1791492662,
@@ -1507,25 +1619,25 @@
    "desc": "RT @CommandCodeAI: Introducing Agr, an open decision model by Command Code.\n\n· Agr (31B) and Agr-flash (360M)\n· 58.15 on Decision Index 0.2…"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "RT @CommandCodeAI: Models that come with $60 usage credits in Command Code GOAT.  · DeepSeek V4.1 Flash · DeepSeek V4.1 Flash Fast · GLM 5.…",
-   "url": "https://x.com/CommandCodeAI/status/2107060345382789587",
-   "ts": 1791197308,
-   "desc": "RT @CommandCodeAI: Models that come with $60 usage credits in Command Code GOAT.\n\n· DeepSeek V4.1 Flash\n· DeepSeek V4.1 Flash Fast\n· GLM 5.…"
+   "source": "X @elonmusk",
+   "title": "RT @yunta_tsai: Tesla Super Intelligence is the only one dedicated to solving real-world intelligence, from large-scale bits to atoms. http…",
+   "url": "https://x.com/elonmusk/status/2108396951246958649",
+   "ts": 1791515979,
+   "desc": "RT @yunta_tsai: Tesla Super Intelligence is the only one dedicated to solving real-world intelligence, from large-scale bits to atoms. http…"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "Models that come with $60 usage credits in Command Code GOAT.  · DeepSeek V4.1 Flash · DeepSeek V4.1 Flash Fast · GLM 5.3 Flash · Kimi K3  Enjoy billions of tokens with the $10/mo GOAT plan",
-   "url": "https://x.com/CommandCodeAI/status/2106951072082506211",
-   "ts": 1791171255,
-   "desc": "Models that come with $60 usage credits in Command Code GOAT.\n\n· DeepSeek V4.1 Flash\n· DeepSeek V4.1 Flash Fast\n· GLM 5.3 Flash\n· Kimi K3\n\nEnjoy billions of tokens with the $10/mo GOAT plan"
+   "source": "X @elonmusk",
+   "title": "We’re just going to have @Grok Bots manage Grokipedia",
+   "url": "https://x.com/elonmusk/status/2108396888160387541",
+   "ts": 1791515964,
+   "desc": "We’re just going to have @Grok Bots manage Grokipedia"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "Use /add-dir to work across multiple directories in Command Code.  · Read and edit files outside your current project in accept-edits mode · Great for separate frontend and API repos  $ npm i -g command-code",
-   "url": "https://x.com/CommandCodeAI/status/2106732820697694472",
-   "ts": 1791119220,
-   "desc": "Use /add-dir to work across multiple directories in Command Code.\n\n· Read and edit files outside your current project in accept-edits mode\n· Great for separate frontend and API repos\n\n$ npm i -g command-code"
+   "source": "X @elonmusk",
+   "title": "Using Grok @Bot is like hiring a super smart, hard-working person for peanuts",
+   "url": "https://x.com/elonmusk/status/2108396588544745887",
+   "ts": 1791515893,
+   "desc": "Using Grok @Bot is like hiring a super smart, hard-working person for peanuts"
   },
   {
    "source": "X @elonmusk",
@@ -1564,13 +1676,6 @@
   },
   {
    "source": "X @elonmusk",
-   "title": "Btw, this would ACTUALLY work!!",
-   "url": "https://x.com/elonmusk/status/2108326517323248060",
-   "ts": 1791499187,
-   "desc": "Btw, this would ACTUALLY work!!"
-  },
-  {
-   "source": "X @elonmusk",
    "title": "RT @paulg: Talked to someone recently who knows a lot about defense tech, and he made an interesting point: the test of most military hardw…",
    "url": "https://x.com/elonmusk/status/2108323886865555666",
    "ts": 1791498560,
@@ -1582,13 +1687,6 @@
    "url": "https://x.com/elonmusk/status/2108323124685230302",
    "ts": 1791498378,
    "desc": "RT @C_3C_3: Reid Hoffman is James Talarico's top donor.\n\nYes, this Reid Hoffman.👇 https://t.co/aVroy8Lz6c"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Excited to announce that all super intelligence organizations have now jointly agreed to the ultimate in AI/SI safety:  Moving all testing to Delta Airlines flights, where accessing the Internet is utterly impossible!",
-   "url": "https://x.com/elonmusk/status/2108321181602353333",
-   "ts": 1791497915,
-   "desc": "Excited to announce that all super intelligence organizations have now jointly agreed to the ultimate in AI/SI safety:\n\nMoving all testing to Delta Airlines flights, where accessing the Internet is utterly impossible!"
   },
   {
    "source": "X @elonmusk",
@@ -1647,25 +1745,25 @@
    "desc": "RT @michaelnicollsx: Big day for @Starlink Mobile…"
   },
   {
-   "source": "X @elonmusk",
-   "title": "Yes",
-   "url": "https://x.com/elonmusk/status/2108308835949740320",
-   "ts": 1791494971,
-   "desc": "Yes"
+   "source": "X @sama",
+   "title": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible.",
+   "url": "https://x.com/sama/status/2107691577015755196",
+   "ts": 1791347805,
+   "desc": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible."
   },
   {
-   "source": "X @elonmusk",
-   "title": "RT @ClownWorld: I love @bot 🤖  I’m using it to clean up one of my Shopify stores and remove the worst-performing products.  Something that…",
-   "url": "https://x.com/elonmusk/status/2108306628390932872",
-   "ts": 1791494445,
-   "desc": "RT @ClownWorld: I love @bot 🤖\n\nI’m using it to clean up one of my Shopify stores and remove the worst-performing products.\n\nSomething that…"
+   "source": "X @sama",
+   "title": "thank you to the machines, and the structure of reality, for letting us understand a little more.",
+   "url": "https://x.com/sama/status/2107691262795239805",
+   "ts": 1791347730,
+   "desc": "thank you to the machines, and the structure of reality, for letting us understand a little more."
   },
   {
-   "source": "X @elonmusk",
-   "title": "RT @TrungTPhan: doing deep research with Grok Bot’s new X integration https://t.co/unsQuUEXkV",
-   "url": "https://x.com/elonmusk/status/2108303850650443930",
-   "ts": 1791493783,
-   "desc": "RT @TrungTPhan: doing deep research with Grok Bot’s new X integration https://t.co/unsQuUEXkV"
+   "source": "X @sama",
+   "title": "looking up at the stars with extra awe tonight.  \"thy sea is so great and my boat is so small.\"",
+   "url": "https://x.com/sama/status/2107691261776052633",
+   "ts": 1791347730,
+   "desc": "looking up at the stars with extra awe tonight.\n\n\"thy sea is so great and my boat is so small.\""
   },
   {
    "source": "X @sama",
@@ -2145,6 +2243,20 @@
   },
   {
    "source": "X @demishassabis",
+   "title": "RT @jueseph: Introducing AlphaProtein Novo, a pipeline for de novo enzyme design! In collaboration with @francesarnold's group, we develope…",
+   "url": "https://x.com/demishassabis/status/2108423812148609051",
+   "ts": 1791522384,
+   "desc": "RT @jueseph: Introducing AlphaProtein Novo, a pipeline for de novo enzyme design! In collaboration with @francesarnold's group, we develope…"
+  },
+  {
+   "source": "X @demishassabis",
+   "title": "RT @alexolegimas: New essay for the @GoogleDeepMind Institute with James Manyika on AI x Science, \"Bending the Curve of Discovery\".  While…",
+   "url": "https://x.com/demishassabis/status/2108373961222569999",
+   "ts": 1791510498,
+   "desc": "RT @alexolegimas: New essay for the @GoogleDeepMind Institute with James Manyika on AI x Science, \"Bending the Curve of Discovery\".\n\nWhile…"
+  },
+  {
+   "source": "X @demishassabis",
    "title": "Excited to support the Genesis Mission @WhiteHouse @ENERGY and Director @mkratsios47 with $150M in investments this week. Looking forward to collaborating on the future of science!",
    "url": "https://x.com/demishassabis/status/2108331042083872882",
    "ts": 1791500265,
@@ -2254,13 +2366,6 @@
    "url": "https://x.com/demishassabis/status/2105418532494438853",
    "ts": 1790805869,
    "desc": "RT @ValsAI: Gemini is on top of the Vals Index for the first time. \n\nGemini 4 Argon takes the #1 spot on the Vals Index at 68.9%. https://t…"
-  },
-  {
-   "source": "X @demishassabis",
-   "title": "Biosecurity is one of the most urgent challenges for the AI era. Bringing SynthID to biology so AI-generated proteins can be watermarked is a critical step - and we’re open sourcing SynthID Bio tools so the research community can build on this work.",
-   "url": "https://x.com/demishassabis/status/2105348732464070823",
-   "ts": 1790789227,
-   "desc": "Biosecurity is one of the most urgent challenges for the AI era. Bringing SynthID to biology so AI-generated proteins can be watermarked is a critical step - and we’re open sourcing SynthID Bio tools so the research community can build on this work. Published in @Nature today, congrats to the team! https://t.co/Y4sv8bnGQY"
   },
   {
    "source": "X @sundarpichai",
@@ -2387,6 +2492,13 @@
    "url": "https://x.com/sundarpichai/status/2095569375373984139",
    "ts": 1788457647,
    "desc": "Congrats @JensenHuang @ClementDelangue for this great outcome! We were investors in Huggingface and continue to be partners and this will strengthen the open model ecosystem!"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @ylecun: @stephen_wolfram June 1986. It was my first conference in the US and my first time visiting MIT. Had a poster on multilayer net…",
+   "url": "https://x.com/ylecun/status/2108427276618465691",
+   "ts": 1791523210,
+   "desc": "RT @ylecun: @stephen_wolfram June 1986. It was my first conference in the US and my first time visiting MIT.\nHad a poster on multilayer net…"
   },
   {
    "source": "X @ylecun",
@@ -2520,13 +2632,6 @@
    "url": "https://x.com/ylecun/status/2108116252354810313",
    "ts": 1791449056,
    "desc": "RT @SteveRattner: Since Trump took office, the personal saving rate has fallen from 5.7% to 4.1%, the lowest since 2022.\n\nWith tariffs push…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @Kasparov63: Atrophy is a choice. Machines play chess better than we do, but we still play and reap many benefits from it. Let AI perfor…",
-   "url": "https://x.com/ylecun/status/2108114213558239283",
-   "ts": 1791448570,
-   "desc": "RT @Kasparov63: Atrophy is a choice. Machines play chess better than we do, but we still play and reap many benefits from it. Let AI perfor…"
   },
   {
    "source": "X @AndrewYNg",
@@ -2991,6 +3096,13 @@
    "desc": "Day 2.2/\n\nOK this one is smaller, but we removed some friction for when building on the API. Happy building."
   },
   {
+   "source": "X @thsottiaux",
+   "title": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
+   "url": "https://x.com/thsottiaux/status/2107504197012988007",
+   "ts": 1791303130,
+   "desc": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”."
+  },
+  {
    "source": "X @lydiahallie",
    "title": "RT @claudeai: One more thing: we’re halving the price of cache reads on Claude Sonnet 5.5, to $0.10 per million tokens. That makes Sonnet 5…",
    "url": "https://x.com/lydiahallie/status/2107904091490046342",
@@ -3314,6 +3426,20 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "Paywalled copy here: www.thelancet.com/journals/lan...",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxgdhoalwk2c",
+   "ts": 1791526879,
+   "desc": "Paywalled copy here: www.thelancet.com/journals/lan..."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "From The Lancet: in an urgent care setting, the advice of the obsolete Gemini 2.5 Pro & Gemini 2.5 Flash (without access to patient medical records) were rated of similar quality to doctors by other p",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxg56pvsvc2c",
+   "ts": 1791520136,
+   "desc": "From The Lancet: in an urgent care setting, the advice of the obsolete Gemini 2.5 Pro & Gemini 2.5 Flash (without access to patient medical records) were rated of similar quality to doctors by other physicians. There was no safety issues spotted.\n\nModels have gotten significantly better since."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "This document is going to be an assigned reading in college classes that cover this moment in time, there's a lot happening in a few paragraphs... www.ahmath.org/statements",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxeydeufnc2h",
    "ts": 1791480564,
@@ -3369,25 +3495,11 @@
    "desc": "Context, OpenAI cracked or made important progress in hundreds of critical problems today\n: openai.com/index/sharin..."
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "After a brief but institution-eroding slop science era, it increasingly looks like we are going to have 2 revolutions from AI: 1) Everything ever published will be re-read and re-judged in ways that h",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxasq2guls2c",
-   "ts": 1791337108,
-   "desc": "After a brief but institution-eroding slop science era, it increasingly looks like we are going to have 2 revolutions from AI:\n1) Everything ever published will be re-read and re-judged in ways that human scientists never anticipated\n2) Novel discoveries will start to come faster than we can absorb"
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "I think people are muddling through to some extent. But also some of the early warnings about things like mass psychosis seem to not be appearing in the data. There are lots of reasons why we may be u",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxa65ugdpk2x",
-   "ts": 1791315023,
-   "desc": "I think people are muddling through to some extent. But also some of the early warnings about things like mass psychosis seem to not be appearing in the data. There are lots of reasons why we may be underestimating negative impacts but also many observers expected a lot of obvious stuff by now."
-  },
-  {
    "source": "HN",
    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
    "ts": 1791398980,
-   "desc": "367 points"
+   "desc": "369 points"
   },
   {
    "source": "HN",
@@ -3395,6 +3507,13 @@
    "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
    "ts": 1791382255,
    "desc": "117 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI-ready biological data: $1.8B global commitment",
+   "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+   "ts": 1791492385,
+   "desc": "108 points"
   },
   {
    "source": "HN",
@@ -3415,35 +3534,35 @@
    "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
    "url": "https://agent.reviews/",
    "ts": 1791392351,
-   "desc": "67 points"
-  },
-  {
-   "source": "HN",
-   "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-   "url": "https://github.com/nano-muse/nanoMuse",
-   "ts": 1791343844,
-   "desc": "62 points"
+   "desc": "68 points"
   },
   {
    "source": "HN",
    "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
    "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
    "ts": 1791487071,
-   "desc": "58 points"
+   "desc": "60 points"
   },
   {
    "source": "HN",
-   "title": "AI-ready biological data: $1.8B global commitment",
-   "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-   "ts": 1791492385,
-   "desc": "57 points"
+   "title": "Show HN: Jevman – AI decision models play Pac-Man",
+   "url": "https://opper.ai/jevman-benchmark/",
+   "ts": 1791477253,
+   "desc": "60 points"
   },
   {
    "source": "HN",
    "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
    "url": "https://github.com/thesnarkitecht/rembrandt",
    "ts": 1791493255,
-   "desc": "41 points"
+   "desc": "43 points"
+  },
+  {
+   "source": "HN",
+   "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
+   "url": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
+   "ts": 1791488639,
+   "desc": "39 points"
   },
   {
    "source": "HN",
@@ -3461,10 +3580,10 @@
   },
   {
    "source": "HN",
-   "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
-   "url": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
-   "ts": 1791488639,
-   "desc": "37 points"
+   "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+   "url": "https://github.com/edrisranjbar/lifeos",
+   "ts": 1791504139,
+   "desc": "34 points"
   },
   {
    "source": "HN",
@@ -3478,7 +3597,7 @@
    "title": "Show HN: I Put an AI Agent on a Nokia 110",
    "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
    "ts": 1791469131,
-   "desc": "25 points"
+   "desc": "27 points"
   },
   {
    "source": "HN",
@@ -3489,16 +3608,16 @@
   },
   {
    "source": "HN",
-   "title": "Show HN: Jevman – AI decision models play Pac-Man",
-   "url": "https://opper.ai/jevman-benchmark/",
-   "ts": 1791477253,
-   "desc": "21 points"
-  },
-  {
-   "source": "HN",
    "title": "Will AI kill us all",
    "url": "https://virev.ai/blog/will-ai-kill-us-all",
    "ts": 1791439740,
+   "desc": "20 points"
+  },
+  {
+   "source": "HN",
+   "title": "Device detection and occupancy monitoring for Airbnb hosts",
+   "url": "https://www.minut.com/features/occupancy-monitoring",
+   "ts": 1791382752,
    "desc": "20 points"
   },
   {
@@ -3507,13 +3626,6 @@
    "url": "https://samaya.ai/blog/frontier-ai-models-outperform-human-experts-on-earnings-prediction",
    "ts": 1791480809,
    "desc": "20 points"
-  },
-  {
-   "source": "HN",
-   "title": "Device detection and occupancy monitoring for Airbnb hosts",
-   "url": "https://www.minut.com/features/occupancy-monitoring",
-   "ts": 1791382752,
-   "desc": "19 points"
   },
   {
    "source": "HN",
@@ -3531,9 +3643,23 @@
   },
   {
    "source": "HN",
+   "title": "AI Crawler Index",
+   "url": "https://mojodojo.io/ai-crawler-index",
+   "ts": 1791440763,
+   "desc": "19 points"
+  },
+  {
+   "source": "HN",
    "title": "OpenAI cannot make AI safe on its own [pdf]",
    "url": "https://mikitabalesni.com/letter/letter.pdf",
    "ts": 1791486758,
+   "desc": "18 points"
+  },
+  {
+   "source": "HN",
+   "title": "Why the AI future will be awesome",
+   "url": "https://nullpaste.org/raw/t-0Um6AUv_CJ",
+   "ts": 1791468994,
    "desc": "17 points"
   },
   {
@@ -3541,13 +3667,6 @@
    "title": "Man took his own life after 'sextortion' blackmail involving AI-generated woman",
    "url": "https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman",
    "ts": 1791408134,
-   "desc": "17 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI Crawler Index",
-   "url": "https://mojodojo.io/ai-crawler-index",
-   "ts": 1791440763,
    "desc": "17 points"
   },
   {
@@ -3566,9 +3685,9 @@
   },
   {
    "source": "HN",
-   "title": "Why the AI future will be awesome",
-   "url": "https://nullpaste.org/raw/t-0Um6AUv_CJ",
-   "ts": 1791468994,
+   "title": "Mumsnet denies using AI for content after prompt appears on message board",
+   "url": "https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt",
+   "ts": 1791451483,
    "desc": "15 points"
   },
   {
@@ -3576,13 +3695,6 @@
    "title": "Developer uses AI to build free Adobe clones after frustration with cancellation",
    "url": "https://www.techspot.com/news/114136-software-over-developer-uses-ai-build-free-adobe.html",
    "ts": 1791484206,
-   "desc": "14 points"
-  },
-  {
-   "source": "HN",
-   "title": "Mumsnet denies using AI for content after prompt appears on message board",
-   "url": "https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt",
-   "ts": 1791451483,
    "desc": "14 points"
   },
   {
