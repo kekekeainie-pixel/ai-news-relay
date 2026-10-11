@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-11T00:54:06.880710+00:00",
- "count": 535,
+ "generated_at": "2026-10-11T06:51:44.927506+00:00",
+ "count": 540,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 465,
+   "count": 470,
    "note": "49 账号"
   },
   {
@@ -1578,17 +1578,31 @@
   },
   {
    "source": "X @commandcodeai",
-   "title": "Next week, hello VS Code.",
-   "url": "https://x.com/CommandCodeAI/status/2108597847629463916",
-   "ts": 1791563877,
-   "desc": "Next week, hello VS Code."
+   "title": "Command Code now has two Claude models in the GOAT plan lineup.  · Haiku 5.5 · Sonnet 5.5",
+   "url": "https://x.com/CommandCodeAI/status/2109166575819608412",
+   "ts": 1791699472,
+   "desc": "Command Code now has two Claude models in the GOAT plan lineup.\n\n· Haiku 5.5\n· Sonnet 5.5"
   },
   {
    "source": "X @commandcodeai",
    "title": "RT @CommandCodeAI: Claude Haiku 5.5 is now available in Command Code GOAT with 2x usage.  · $10/mo gets you $20 credits · ~30K requests, ~1…",
-   "url": "https://x.com/CommandCodeAI/status/2108372722090950701",
-   "ts": 1791510203,
+   "url": "https://x.com/CommandCodeAI/status/2109165244190949426",
+   "ts": 1791699155,
    "desc": "RT @CommandCodeAI: Claude Haiku 5.5 is now available in Command Code GOAT with 2x usage.\n\n· $10/mo gets you $20 credits\n· ~30K requests, ~1…"
+  },
+  {
+   "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: Next week, hello VS Code.",
+   "url": "https://x.com/CommandCodeAI/status/2109165208866636195",
+   "ts": 1791699146,
+   "desc": "RT @CommandCodeAI: Next week, hello VS Code."
+  },
+  {
+   "source": "X @commandcodeai",
+   "title": "Next week, hello VS Code.",
+   "url": "https://x.com/CommandCodeAI/status/2108597847629463916",
+   "ts": 1791563877,
+   "desc": "Next week, hello VS Code."
   },
   {
    "source": "X @commandcodeai",
@@ -1645,6 +1659,62 @@
    "url": "https://x.com/CommandCodeAI/status/2107277613022757074",
    "ts": 1791249108,
    "desc": "RT @CommandCodeAI: Introducing Agr, an open decision model by Command Code.\n\n· Agr (31B) and Agr-flash (360M)\n· 58.15 on Decision Index 0.2…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @anothercohen: I don't think I know a single person who owns a Tesla and drives anymore. They use full self driving 90%+ of the time.…",
+   "url": "https://x.com/elonmusk/status/2109156083302539363",
+   "ts": 1791696971,
+   "desc": "RT @anothercohen: I don't think I know a single person who owns a Tesla and drives anymore. They use full self driving 90%+ of the time.…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "I just asked Grok @Bot to research the most fun Lego Star Wars kits for young kids and order them. As easy as that. https://t.co/5IKVoqvuhb",
+   "url": "https://x.com/elonmusk/status/2109155867983786382",
+   "ts": 1791696919,
+   "desc": "I just asked Grok @Bot to research the most fun Lego Star Wars kits for young kids and order them. As easy as that. https://t.co/5IKVoqvuhb"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @cb_doge: Nearly one in three Indian schools lacked internet access in the 2025–26 academic year.  The Education Ministry’s UDISE+ repor…",
+   "url": "https://x.com/elonmusk/status/2109154098079535390",
+   "ts": 1791696497,
+   "desc": "RT @cb_doge: Nearly one in three Indian schools lacked internet access in the 2025–26 academic year.\n\nThe Education Ministry’s UDISE+ repor…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @cb_doge: Elon Musk in dad mode. ♥️ https://t.co/0sy286NJ6y",
+   "url": "https://x.com/elonmusk/status/2109147965537333266",
+   "ts": 1791695035,
+   "desc": "RT @cb_doge: Elon Musk in dad mode. ♥️ https://t.co/0sy286NJ6y"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @RapidResponse47: .@POTUS: \"He should have an election... President Zelensky could've solved this war and he could've made a deal many t…",
+   "url": "https://x.com/elonmusk/status/2109147762977820991",
+   "ts": 1791694987,
+   "desc": "RT @RapidResponse47: .@POTUS: \"He should have an election... President Zelensky could've solved this war and he could've made a deal many t…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @TheFP: Alex Gibney’s new four-hour documentary is so determined to expose the billionaire’s failings that it inadvertently showcases th…",
+   "url": "https://x.com/elonmusk/status/2109146382087127079",
+   "ts": 1791694658,
+   "desc": "RT @TheFP: Alex Gibney’s new four-hour documentary is so determined to expose the billionaire’s failings that it inadvertently showcases th…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @benjitaylor: SpaceX Super Intelligence just sounds awesome.",
+   "url": "https://x.com/elonmusk/status/2109141286926287111",
+   "ts": 1791693443,
+   "desc": "RT @benjitaylor: SpaceX Super Intelligence just sounds awesome."
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Try Grok @Bot",
+   "url": "https://x.com/elonmusk/status/2109132465784930785",
+   "ts": 1791691340,
+   "desc": "Try Grok @Bot"
   },
   {
    "source": "X @elonmusk",
@@ -1729,62 +1799,6 @@
    "url": "https://x.com/elonmusk/status/2108935855222276474",
    "ts": 1791644464,
    "desc": "RT @teslayoda: Fate loves irony.\n\nSi is silicon on the periodic table. https://t.co/bAEMqWJdEf"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @mattyp: Software is just fancy data labeling now  To build the characters for https://t.co/24dGRRSFgE, I sourced inspiration from X  I…",
-   "url": "https://x.com/elonmusk/status/2108935780865552649",
-   "ts": 1791644446,
-   "desc": "RT @mattyp: Software is just fancy data labeling now\n\nTo build the characters for https://t.co/24dGRRSFgE, I sourced inspiration from X\n\nI…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @brivael: Voici mon socle philosophique.  On me demande souvent si je suis croyant. La réponse honnête, c'est que je suis agnostique. Ma…",
-   "url": "https://x.com/elonmusk/status/2108934234786422804",
-   "ts": 1791644078,
-   "desc": "RT @brivael: Voici mon socle philosophique.\n\nOn me demande souvent si je suis croyant. La réponse honnête, c'est que je suis agnostique. Ma…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceX: Falcon 9’s first stage lands on LZ-4 https://t.co/GfEeoDu420",
-   "url": "https://x.com/elonmusk/status/2108933913804742693",
-   "ts": 1791644001,
-   "desc": "RT @SpaceX: Falcon 9’s first stage lands on LZ-4 https://t.co/GfEeoDu420"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Rothmus: Ambani runs India’s internet policy.  When Starlink won the telecom license and space approval last year, the government still…",
-   "url": "https://x.com/elonmusk/status/2108933309967278292",
-   "ts": 1791643857,
-   "desc": "RT @Rothmus: Ambani runs India’s internet policy.\n\nWhen Starlink won the telecom license and space approval last year, the government still…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @TheFP: Alex Gibney’s new four-hour documentary is so determined to expose the billionaire’s failings that it inadvertently showcases th…",
-   "url": "https://x.com/elonmusk/status/2108933144724590962",
-   "ts": 1791643818,
-   "desc": "RT @TheFP: Alex Gibney’s new four-hour documentary is so determined to expose the billionaire’s failings that it inadvertently showcases th…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Grok @Bot",
-   "url": "https://x.com/elonmusk/status/2108928554314711097",
-   "ts": 1791642724,
-   "desc": "Grok @Bot"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @brivael: Mine de rien, je pense qu'Elon Musk est en train de poser les bases d'une philosophie extrêmement solide. Et très peu de gens…",
-   "url": "https://x.com/elonmusk/status/2108928137060913257",
-   "ts": 1791642624,
-   "desc": "RT @brivael: Mine de rien, je pense qu'Elon Musk est en train de poser les bases d'une philosophie extrêmement solide. Et très peu de gens…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceX: Liftoff! https://t.co/U1JgK60VXM",
-   "url": "https://x.com/elonmusk/status/2108927302704791932",
-   "ts": 1791642425,
-   "desc": "RT @SpaceX: Liftoff! https://t.co/U1JgK60VXM"
   },
   {
    "source": "X @sama",
@@ -3090,6 +3104,27 @@
   },
   {
    "source": "X @thsottiaux",
+   "title": "Pro users, would you rather have",
+   "url": "https://x.com/thsottiaux/status/2109152716954222849",
+   "ts": 1791696168,
+   "desc": "Pro users, would you rather have"
+  },
+  {
+   "source": "X @thsottiaux",
+   "title": "Put the reset in the bag. All propagated.",
+   "url": "https://x.com/thsottiaux/status/2109132167112782291",
+   "ts": 1791691269,
+   "desc": "Put the reset in the bag. All propagated."
+  },
+  {
+   "source": "X @thsottiaux",
+   "title": "The day we reach perfection it will be resets from there onwards",
+   "url": "https://x.com/thsottiaux/status/2109090080497508356",
+   "ts": 1791681234,
+   "desc": "The day we reach perfection it will be resets from there onwards"
+  },
+  {
+   "source": "X @thsottiaux",
    "title": "Global reset by EOD. May the tokens do good things for you.",
    "url": "https://x.com/thsottiaux/status/2109045392684032299",
    "ts": 1791670580,
@@ -3569,21 +3604,21 @@
    "title": "Typesafe AI raises $870M at $7.5B",
    "url": "https://typesafe.ai/blog/series-ai",
    "ts": 1791565351,
-   "desc": "430 points"
+   "desc": "435 points"
   },
   {
    "source": "HN",
    "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
    "ts": 1791543828,
-   "desc": "412 points"
+   "desc": "413 points"
   },
   {
    "source": "HN",
    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
    "url": "https://github.com/rociiu/talorys",
    "ts": 1791629529,
-   "desc": "241 points"
+   "desc": "277 points"
   },
   {
    "source": "HN",
@@ -3597,21 +3632,35 @@
    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
    "ts": 1791567732,
-   "desc": "193 points"
+   "desc": "198 points"
   },
   {
    "source": "HN",
    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
    "ts": 1791545780,
-   "desc": "179 points"
+   "desc": "181 points"
   },
   {
    "source": "HN",
    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
    "ts": 1791658115,
-   "desc": "113 points"
+   "desc": "153 points"
+  },
+  {
+   "source": "HN",
+   "title": "Recent AI models struggled to match a human algorithmic innovation",
+   "url": "https://epoch.ai/publications/innovationeval",
+   "ts": 1791584080,
+   "desc": "86 points"
+  },
+  {
+   "source": "HN",
+   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+   "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+   "ts": 1791684158,
+   "desc": "75 points"
   },
   {
    "source": "HN",
@@ -3622,31 +3671,31 @@
   },
   {
    "source": "HN",
-   "title": "Recent AI models struggled to match a human algorithmic innovation",
-   "url": "https://epoch.ai/publications/innovationeval",
-   "ts": 1791584080,
-   "desc": "71 points"
-  },
-  {
-   "source": "HN",
    "title": "My personal AI agent posted my bank details on company Slack",
    "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
    "ts": 1791643576,
-   "desc": "60 points"
+   "desc": "61 points"
   },
   {
    "source": "HN",
    "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
    "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
    "ts": 1791624603,
-   "desc": "53 points"
+   "desc": "56 points"
   },
   {
    "source": "HN",
    "title": "AI Is Throwing a Roadside Picnic",
    "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
    "ts": 1791649163,
-   "desc": "45 points"
+   "desc": "46 points"
+  },
+  {
+   "source": "HN",
+   "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+   "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+   "ts": 1791655854,
+   "desc": "41 points"
   },
   {
    "source": "HN",
@@ -3657,17 +3706,17 @@
   },
   {
    "source": "HN",
-   "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-   "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-   "ts": 1791655854,
-   "desc": "40 points"
-  },
-  {
-   "source": "HN",
    "title": "Anthropic bans users from being 'cruel' to its AI systems",
    "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
    "ts": 1791550821,
    "desc": "38 points"
+  },
+  {
+   "source": "HN",
+   "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "ts": 1791690113,
+   "desc": "35 points"
   },
   {
    "source": "HN",
@@ -3685,10 +3734,17 @@
   },
   {
    "source": "HN",
+   "title": "Generative AI scandal has come to one of Nikon's competitions",
+   "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+   "ts": 1791679657,
+   "desc": "33 points"
+  },
+  {
+   "source": "HN",
    "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
    "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
    "ts": 1791661150,
-   "desc": "28 points"
+   "desc": "29 points"
   },
   {
    "source": "HN",
@@ -3703,6 +3759,13 @@
    "url": "https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53?taid=6ac898017a4b4a000148d491&utm_campaign=TrueAnthem&utm_medium=AP",
    "ts": 1791558508,
    "desc": "24 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI agents in a stand-up call",
+   "url": "https://atoll92.github.io/agent-standup/",
+   "ts": 1791690167,
+   "desc": "20 points"
   },
   {
    "source": "HN",
@@ -3727,6 +3790,13 @@
   },
   {
    "source": "HN",
+   "title": "A Stark Warning from a Former AI Doomer",
+   "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
+   "ts": 1791670774,
+   "desc": "14 points"
+  },
+  {
+   "source": "HN",
    "title": "Ask HN: What if no AIpocalypse, no AI bubble, what if it just keeps advancing?",
    "url": "https://news.ycombinator.com/item?id=50020096",
    "ts": 1791551885,
@@ -3738,41 +3808,6 @@
    "url": "https://www.bbc.com/news/articles/cr86z33pdy9vo",
    "ts": 1791560991,
    "desc": "13 points"
-  },
-  {
-   "source": "HN",
-   "title": "Trump says anyone who does not refer to AI as super intelligence is 'THE ENEMY'",
-   "url": "https://www.politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404",
-   "ts": 1791549771,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
-   "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY\"; The White House uses it",
-   "url": "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house",
-   "ts": 1791511196,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
-   "title": "A Stark Warning from a Former AI Doomer",
-   "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
-   "ts": 1791670774,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI found solutions to problems in 22 scientific fields hiding in plain sight",
-   "url": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them?referrer=https%3A%2F%2Fnews.google.com%2F",
-   "ts": 1791639267,
-   "desc": "10 points"
-  },
-  {
-   "source": "HN",
-   "title": "Ben Affleck is an AI nerd",
-   "url": "https://twitter.com/rohanpaul_ai/status/2105786881111896126",
-   "ts": 1791567948,
-   "desc": "10 points"
   }
  ]
 }
