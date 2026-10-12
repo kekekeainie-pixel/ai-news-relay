@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-11T18:49:21.492937+00:00",
- "count": 538,
+ "generated_at": "2026-10-12T00:57:46.641398+00:00",
+ "count": 541,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 468,
+   "count": 471,
    "note": "49 账号"
   },
   {
@@ -1578,6 +1578,20 @@
   },
   {
    "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: Command Code now has two Claude models in the GOAT plan lineup.  · Haiku 5.5 · Sonnet 5.5",
+   "url": "https://x.com/CommandCodeAI/status/2109357714275209359",
+   "ts": 1791745043,
+   "desc": "RT @CommandCodeAI: Command Code now has two Claude models in the GOAT plan lineup.\n\n· Haiku 5.5\n· Sonnet 5.5"
+  },
+  {
+   "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: Last week in Command Code, a quick recap.  · Agr, our first open decision model · Cloud sessions with sandboxes · ACP su…",
+   "url": "https://x.com/CommandCodeAI/status/2109357684478894394",
+   "ts": 1791745036,
+   "desc": "RT @CommandCodeAI: Last week in Command Code, a quick recap.\n\n· Agr, our first open decision model\n· Cloud sessions with sandboxes\n· ACP su…"
+  },
+  {
+   "source": "X @commandcodeai",
    "title": "Last week in Command Code, a quick recap.  · Agr, our first open decision model · Cloud sessions with sandboxes · ACP support in editors like Zed · Claude Haiku 5.5 (2x usage in GOAT) · Mistral Large 4 (4x usage in GOAT) · Glyph Cluster (new free ste",
    "url": "https://x.com/CommandCodeAI/status/2109268025928991074",
    "ts": 1791723660,
@@ -1659,6 +1673,34 @@
    "url": "https://x.com/CommandCodeAI/status/2107538354262941777",
    "ts": 1791311274,
    "desc": "Mistral Large 4 is now live in Command Code.\n\n1T total params. 49B active params. 524K context\n\nAvailable across all plans and API"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Troubling",
+   "url": "https://x.com/elonmusk/status/2109419903623053514",
+   "ts": 1791759870,
+   "desc": "Troubling"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @karpathy: Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"tw…",
+   "url": "https://x.com/elonmusk/status/2109419440039211499",
+   "ts": 1791759760,
+   "desc": "RT @karpathy: Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"tw…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Seriously, this actually works!  Think of Grok @Bot like hiring a super smart employee who works 24/7 and is extremely resourceful.   You can use it through your phone effortlessly within minutes:  https://t.co/Efbxq5vqTm",
+   "url": "https://x.com/elonmusk/status/2109387553010851887",
+   "ts": 1791752157,
+   "desc": "Seriously, this actually works!\n\nThink of Grok @Bot like hiring a super smart employee who works 24/7 and is extremely resourceful. \n\nYou can use it through your phone effortlessly within minutes:\n\nhttps://t.co/Efbxq5vqTm"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @NASAAdmin: This is the most exciting time at NASA since the Kennedy era.  @POTUS has given us the mission: return to the Moon, build th…",
+   "url": "https://x.com/elonmusk/status/2109369084865650898",
+   "ts": 1791747754,
+   "desc": "RT @NASAAdmin: This is the most exciting time at NASA since the Kennedy era.\n\n@POTUS has given us the mission: return to the Moon, build th…"
   },
   {
    "source": "X @elonmusk",
@@ -1764,27 +1806,6 @@
    "url": "https://x.com/elonmusk/status/2109245455586492900",
    "ts": 1791718279,
    "desc": "RT @DavidSHolz: Here are my favorite short science fiction stories and omg they're literally so short why haven't you read them already?! s…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @anothercohen: I don't think I know a single person who owns a Tesla and drives anymore. They use full self driving 90%+ of the time.…",
-   "url": "https://x.com/elonmusk/status/2109156083302539363",
-   "ts": 1791696971,
-   "desc": "RT @anothercohen: I don't think I know a single person who owns a Tesla and drives anymore. They use full self driving 90%+ of the time.…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @cb_doge: Nearly one in three Indian schools lacked internet access in the 2025–26 academic year.  The Education Ministry’s UDISE+ repor…",
-   "url": "https://x.com/elonmusk/status/2109154098079535390",
-   "ts": 1791696497,
-   "desc": "RT @cb_doge: Nearly one in three Indian schools lacked internet access in the 2025–26 academic year.\n\nThe Education Ministry’s UDISE+ repor…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @cb_doge: Elon Musk in dad mode. ♥️ https://t.co/0sy286NJ6y",
-   "url": "https://x.com/elonmusk/status/2109147965537333266",
-   "ts": 1791695035,
-   "desc": "RT @cb_doge: Elon Musk in dad mode. ♥️ https://t.co/0sy286NJ6y"
   },
   {
    "source": "X @sama",
@@ -1897,6 +1918,13 @@
    "url": "https://x.com/sama/status/2104661956879913457",
    "ts": 1790625487,
    "desc": "Pretty excited for DevDay tomorrow.\n\nWe have found a new thing."
+  },
+  {
+   "source": "X @RayDalio",
+   "title": "You need to be precise, because different problems have different solutions.   If a problem is due to inadequate skill, additional training may be called for; if it arises from an innate weakness, you may need to seek assistance from someone else or",
+   "url": "https://x.com/RayDalio/status/2109362140985663730",
+   "ts": 1791746099,
+   "desc": "You need to be precise, because different problems have different solutions. \n\nIf a problem is due to inadequate skill, additional training may be called for; if it arises from an innate weakness, you may need to seek assistance from someone else or change the role you play. #principleoftheday"
   },
   {
    "source": "X @RayDalio",
@@ -2026,6 +2054,13 @@
   },
   {
    "source": "X @karpathy",
+   "title": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.  - Napkin math somewhere around 6B people (~75% of the",
+   "url": "https://x.com/karpathy/status/2109361546505966046",
+   "ts": 1791745957,
+   "desc": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. Thi"
+  },
+  {
+   "source": "X @karpathy",
    "title": "Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet.",
    "url": "https://x.com/karpathy/status/2105909609487872075",
    "ts": 1790922951,
@@ -2135,20 +2170,6 @@
    "url": "https://x.com/karpathy/status/2053872850101285137",
    "ts": 1778516421,
    "desc": "This works really well btw, at the end of your query ask your LLM to \"structure your response as HTML\", then view the generated file in your browser. I've also had some success asking the LLM to present its output as slideshows, etc.\n\nMore generally, imo audio is the human-preferred input to AIs but vision (images/animations/video) is the preferred output from them. Around a ~third of our brains a"
-  },
-  {
-   "source": "X @karpathy",
-   "title": "This is the the quote I've been citing a lot recently.",
-   "url": "https://x.com/karpathy/status/2049907410303865030",
-   "ts": 1777570986,
-   "desc": "This is the the quote I've been citing a lot recently."
-  },
-  {
-   "source": "X @karpathy",
-   "title": "Fireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights:  The first theme I tried to push on is that LLMs are about a lot more than just speeding up what existed before (e.g. coding). Three examples of new horizons:  1. menugen: an app",
-   "url": "https://x.com/karpathy/status/2049903821095354523",
-   "ts": 1777570130,
-   "desc": "Fireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights:\n\nThe first theme I tried to push on is that LLMs are about a lot more than just speeding up what existed before (e.g. coding). Three examples of new horizons:\n\n1. menugen: an app that can be fully engulfed by LLMs, with no classical code needed: input an image, output an image and an LLM can natively do the thing.\n2. install ."
   },
   {
    "source": "X @ID_AA_Carmack",
@@ -3090,6 +3111,13 @@
   },
   {
    "source": "X @thsottiaux",
+   "title": "The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X direction across Pro 100/200/500 at the cost of bringing back 5h limits in order to smoothen the demand curve.",
+   "url": "https://x.com/thsottiaux/status/2109439315570999598",
+   "ts": 1791764498,
+   "desc": "The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X direction across Pro 100/200/500 at the cost of bringing back 5h limits in order to smoothen the demand curve."
+  },
+  {
+   "source": "X @thsottiaux",
    "title": "Pro users, would you rather have",
    "url": "https://x.com/thsottiaux/status/2109152716954222849",
    "ts": 1791696168,
@@ -3178,13 +3206,6 @@
    "url": "https://x.com/thsottiaux/status/2108040921044639779",
    "ts": 1791431095,
    "desc": "Confirmed landed across all accounts. How are we doing so far?"
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming together here to scale it to 1.2B users!",
-   "url": "https://x.com/thsottiaux/status/2107912709715132482",
-   "ts": 1791400527,
-   "desc": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming together here to scale it to 1.2B users!"
   },
   {
    "source": "X @lydiahallie",
@@ -3517,6 +3538,13 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "Data here: epoch.ai/data/arxiv",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxmr75nfm22m",
+   "ts": 1791747784,
+   "desc": "Data here: epoch.ai/data/arxiv"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "Rather suddenly, cyborgs are starting to dominate math research.",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxmlmg6vus2c",
    "ts": 1791741787,
@@ -3579,74 +3607,53 @@
    "desc": "From The Lancet: in an urgent care setting, the advice of the obsolete Gemini 2.5 Pro & Gemini 2.5 Flash (without access to patient medical records) were rated of similar quality to doctors by other physicians. There was no safety issues spotted.\n\nModels have gotten significantly better since."
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "This document is going to be an assigned reading in college classes that cover this moment in time, there's a lot happening in a few paragraphs... www.ahmath.org/statements",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mxeydeufnc2h",
-   "ts": 1791480564,
-   "desc": "This document is going to be an assigned reading in college classes that cover this moment in time, there's a lot happening in a few paragraphs... www.ahmath.org/statements"
-  },
-  {
    "source": "HN",
    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
    "url": "https://github.com/rociiu/talorys",
    "ts": 1791629529,
-   "desc": "318 points"
-  },
-  {
-   "source": "HN",
-   "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-   "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-   "ts": 1791583235,
-   "desc": "211 points"
+   "desc": "321 points"
   },
   {
    "source": "HN",
    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
    "ts": 1791658115,
-   "desc": "175 points"
+   "desc": "176 points"
   },
   {
    "source": "HN",
-   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+   "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
    "ts": 1791684158,
-   "desc": "123 points"
-  },
-  {
-   "source": "HN",
-   "title": "Recent AI models struggled to match a human algorithmic innovation",
-   "url": "https://epoch.ai/publications/innovationeval",
-   "ts": 1791584080,
-   "desc": "89 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI is creating a 'human premium' for art created by people",
-   "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-   "ts": 1791718468,
-   "desc": "68 points"
-  },
-  {
-   "source": "HN",
-   "title": "My personal AI agent posted my bank details on company Slack",
-   "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
-   "ts": 1791643576,
-   "desc": "62 points"
-  },
-  {
-   "source": "HN",
-   "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
-   "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-   "ts": 1791715641,
-   "desc": "59 points"
+   "desc": "148 points"
   },
   {
    "source": "HN",
    "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
    "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
    "ts": 1791716601,
-   "desc": "59 points"
+   "desc": "81 points"
+  },
+  {
+   "source": "HN",
+   "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+   "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+   "ts": 1791715641,
+   "desc": "71 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI is creating a 'human premium' for art created by people",
+   "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+   "ts": 1791718468,
+   "desc": "70 points"
+  },
+  {
+   "source": "HN",
+   "title": "My personal AI agent posted my bank details on company Slack",
+   "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+   "ts": 1791643576,
+   "desc": "63 points"
   },
   {
    "source": "HN",
@@ -3674,7 +3681,7 @@
    "title": "Satya Nadella says we should assume all AI models are 'compromised'",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
    "ts": 1791690113,
-   "desc": "41 points"
+   "desc": "42 points"
   },
   {
    "source": "HN",
@@ -3695,14 +3702,7 @@
    "title": "Generative AI scandal has come to one of Nikon's competitions",
    "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
    "ts": 1791679657,
-   "desc": "37 points"
-  },
-  {
-   "source": "HN",
-   "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
-   "url": "https://codeberg.org/ethical-foss/open-slopware",
-   "ts": 1791575416,
-   "desc": "35 points"
+   "desc": "38 points"
   },
   {
    "source": "HN",
@@ -3716,7 +3716,7 @@
    "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
    "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
    "ts": 1791661150,
-   "desc": "30 points"
+   "desc": "33 points"
   },
   {
    "source": "HN",
@@ -3730,20 +3730,20 @@
    "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
    "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
    "ts": 1791708812,
-   "desc": "23 points"
+   "desc": "24 points"
   },
   {
    "source": "HN",
-   "title": "An Anthropic AI model sent a false homicide tip to the police",
-   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-   "ts": 1791575099,
-   "desc": "20 points"
+   "title": "Show HN: Mira, AI Walking Tours",
+   "url": "https://www.mira.tours/wander",
+   "ts": 1791738261,
+   "desc": "16 points"
   },
   {
    "source": "HN",
-   "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-   "ts": 1791590828,
+   "title": "A Stark Warning from a Former AI Doomer",
+   "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
+   "ts": 1791670774,
    "desc": "16 points"
   },
   {
@@ -3755,17 +3755,31 @@
   },
   {
    "source": "HN",
-   "title": "A Stark Warning from a Former AI Doomer",
-   "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
-   "ts": 1791670774,
-   "desc": "15 points"
+   "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+   "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+   "ts": 1791750903,
+   "desc": "13 points"
   },
   {
    "source": "HN",
-   "title": "Show HN: Mira, AI Walking Tours",
-   "url": "https://www.mira.tours/wander",
-   "ts": 1791738261,
-   "desc": "14 points"
+   "title": "Nvidia-backed data centre firm Firmus scraps IPO as AI valuation concerns deepen",
+   "url": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
+   "ts": 1791746765,
+   "desc": "11 points"
+  },
+  {
+   "source": "HN",
+   "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
+   "url": "https://thelastwave.substack.com/p/theres-no-going-back",
+   "ts": 1791753227,
+   "desc": "11 points"
+  },
+  {
+   "source": "HN",
+   "title": "Is AI Killing the Value of Human Writing?",
+   "url": "https://transitions.substack.com/p/is-ai-killing-the-value-of-human",
+   "ts": 1791660526,
+   "desc": "10 points"
   },
   {
    "source": "HN",
@@ -3776,24 +3790,31 @@
   },
   {
    "source": "HN",
-   "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
-   "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-   "ts": 1791589054,
-   "desc": "10 points"
-  },
-  {
-   "source": "HN",
-   "title": "Is AI Killing the Value of Human Writing?",
-   "url": "https://transitions.substack.com/p/is-ai-killing-the-value-of-human",
-   "ts": 1791660526,
+   "title": "Study on AI coding agents finds gains \"absorbed\" by human review \"bottleneck.\"",
+   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "ts": 1791618910,
    "desc": "9 points"
   },
   {
    "source": "HN",
-   "title": "AI companies plot \"the day after\"",
-   "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
-   "ts": 1791579484,
+   "title": "Why your AI agents can't reach the tools you're signed in to, and how to fix it",
+   "url": "https://read.aindeev.com/p/why-your-ai-agents-cant-reach-the",
+   "ts": 1791680621,
    "desc": "9 points"
+  },
+  {
+   "source": "HN",
+   "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+   "url": "https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/",
+   "ts": 1791626212,
+   "desc": "8 points"
+  },
+  {
+   "source": "HN",
+   "title": "Microsoft CEO Nadella Calls for 'Emergency Brake' on Advanced AI",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+   "ts": 1791677228,
+   "desc": "8 points"
   }
  ]
 }
