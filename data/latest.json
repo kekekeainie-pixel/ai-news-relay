@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-12T06:59:06.181465+00:00",
- "count": 518,
+ "generated_at": "2026-10-12T13:12:33.644657+00:00",
+ "count": 542,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 448,
+   "count": 472,
    "note": "49 账号"
   },
   {
@@ -56,6 +56,48 @@
    "url": "https://x.com/OpenAI/status/2107909792945832070",
    "ts": 1791399832,
    "desc": "We're sharing progress on ChatGPT for Teens, our ChatGPT experience for people under 18, alongside a preview of College Planner, new study tools, and support for college advisers and teen voices.\n\nChatGPT for Teens applies automatically to accounts identified as belonging to someone under 18, with protections on by default.\n\nComing soon: College Planner brings application requirements, deadlines,"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and will expand to Free and Go users starting tomorrow.  GPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6",
+   "url": "https://x.com/OpenAI/status/2107895006350791071",
+   "ts": 1791396306,
+   "desc": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and will expand to Free and Go users starting tomorrow.\n\nGPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6 Luna for Free and Go tiers. Both are tuned for everyday conversation.\n\nThis update applies to the Chat tab in ChatGPT. The models powering Work and C"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "Play around with interactive answers to help customize your response. https://t.co/WdREebLtd9",
+   "url": "https://x.com/OpenAI/status/2107895004819775938",
+   "ts": 1791396306,
+   "desc": "Play around with interactive answers to help customize your response. https://t.co/WdREebLtd9"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "Deepen your understanding of a topic with visuals that bring concepts to life. https://t.co/w3IUwyeljH",
+   "url": "https://x.com/OpenAI/status/2107895003490169213",
+   "ts": 1791396306,
+   "desc": "Deepen your understanding of a topic with visuals that bring concepts to life. https://t.co/w3IUwyeljH"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator. https://t.co/7gwerFiaNu",
+   "url": "https://x.com/OpenAI/status/2107895002022187411",
+   "ts": 1791396305,
+   "desc": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator. https://t.co/7gwerFiaNu"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "Explore ideas through interactive visuals that respond as you learn, try, and discover. https://t.co/SXBxaHHLBF",
+   "url": "https://x.com/OpenAI/status/2107895000642294250",
+   "ts": 1791396305,
+   "desc": "Explore ideas through interactive visuals that respond as you learn, try, and discover. https://t.co/SXBxaHHLBF"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, choosing how they fit together based on your question.  Responses can include graphics and charts to help explain an idea, along with tappable buttons",
+   "url": "https://x.com/OpenAI/status/2107894999119774148",
+   "ts": 1791396305,
+   "desc": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, choosing how they fit together based on your question.\n\nResponses can include graphics and charts to help explain an idea, along with tappable buttons, forms, and interactive experiences you can use directly in your conversation."
   },
   {
    "source": "X @OpenAI",
@@ -574,6 +616,20 @@
    "url": "https://x.com/NousResearch/status/2109012611555840069",
    "ts": 1791662764,
    "desc": "Wild MISSINGNO. appeared!\n\nA coding and agentic reasoning model that is highly token efficient, free for a limited time on Nous Portal\n\nTry it out in your Hermes Agent today https://t.co/5lNdyiu0mh"
+  },
+  {
+   "source": "X @NousResearch",
+   "title": "Slight Correction: Step 5 Preview's final score on Hermes Index has been updated to 32.83, slightly behind GPT-6 Luna (33.89) and GLM 5.3 Flash (34.95)  Learn more @ https://t.co/GMkIS99T2r",
+   "url": "https://x.com/NousResearch/status/2108645938403405896",
+   "ts": 1791575343,
+   "desc": "Slight Correction: Step 5 Preview's final score on Hermes Index has been updated to 32.83, slightly behind GPT-6 Luna (33.89) and GLM 5.3 Flash (34.95)\n\nLearn more @ https://t.co/GMkIS99T2r"
+  },
+  {
+   "source": "X @NousResearch",
+   "title": "Step 5 Preview from @StepFun_ai is free on Nous Portal for the next week  600B total / 27B active MoE, 1M context, with vision  Step 5 Preview scored 33.89 on Hermes Index, the same score as GPT-6 Luna https://t.co/y19dzmwHUA",
+   "url": "https://x.com/NousResearch/status/2108638389045960958",
+   "ts": 1791573543,
+   "desc": "Step 5 Preview from @StepFun_ai is free on Nous Portal for the next week\n\n600B total / 27B active MoE, 1M context, with vision\n\nStep 5 Preview scored 33.89 on Hermes Index, the same score as GPT-6 Luna https://t.co/y19dzmwHUA"
   },
   {
    "source": "X @NousResearch",
@@ -1319,6 +1375,62 @@
   },
   {
    "source": "X @cursor_ai",
+   "title": "Download the Cursor iOS app and pair it with your computer: https://t.co/iHOGAsDRpV  On Enterprise? Ask your admin to turn it on.  Learn more: https://t.co/5jOKwvZjTK",
+   "url": "https://x.com/cursor_ai/status/2107618677470494728",
+   "ts": 1791330425,
+   "desc": "Download the Cursor iOS app and pair it with your computer: https://t.co/iHOGAsDRpV\n\nOn Enterprise? Ask your admin to turn it on.\n\nLearn more: https://t.co/5jOKwvZjTK"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "The agent runs on your computer, so it keeps working even if your phone loses signal.",
+   "url": "https://x.com/cursor_ai/status/2107618665751576970",
+   "ts": 1791330422,
+   "desc": "The agent runs on your computer, so it keeps working even if your phone loses signal."
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "You can now control agents on your computer from your phone.  Check in, reply, or start new tasks from the Cursor iOS app. https://t.co/11dcZhRyrx",
+   "url": "https://x.com/cursor_ai/status/2107618653701296162",
+   "ts": 1791330419,
+   "desc": "You can now control agents on your computer from your phone.\n\nCheck in, reply, or start new tasks from the Cursor iOS app. https://t.co/11dcZhRyrx"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Steering and system prompts work with local TypeScript agents. Background subagent results come back locally in TypeScript and Python.  See everything new in the SDK: https://t.co/rHyp0i3vUu",
+   "url": "https://x.com/cursor_ai/status/2107141066403275081",
+   "ts": 1791216553,
+   "desc": "Steering and system prompts work with local TypeScript agents. Background subagent results come back locally in TypeScript and Python.\n\nSee everything new in the SDK: https://t.co/rHyp0i3vUu"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "You can also replace Cursor's system prompt with your own. Rules, skills, and tool schemas still load.  We're enabling it account by account. https://t.co/OuGffP1Mre",
+   "url": "https://x.com/cursor_ai/status/2107141054071968154",
+   "ts": 1791216550,
+   "desc": "You can also replace Cursor's system prompt with your own. Rules, skills, and tool schemas still load.\n\nWe're enabling it account by account. https://t.co/OuGffP1Mre"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Custom tools can now carry MCP annotations like readOnlyHint and destructiveHint, so the model can tell a lookup from a delete before it calls one. https://t.co/EYrm33ggGZ",
+   "url": "https://x.com/cursor_ai/status/2107141038427308473",
+   "ts": 1791216547,
+   "desc": "Custom tools can now carry MCP annotations like readOnlyHint and destructiveHint, so the model can tell a lookup from a delete before it calls one. https://t.co/EYrm33ggGZ"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "Background subagents now report back.  Their results return to the parent as a follow-up turn on the same run, so stream() and wait() carry through until every subagent finishes. https://t.co/917fsWsG4k",
+   "url": "https://x.com/cursor_ai/status/2107141021947904430",
+   "ts": 1791216543,
+   "desc": "Background subagents now report back.\n\nTheir results return to the parent as a follow-up turn on the same run, so stream() and wait() carry through until every subagent finishes. https://t.co/917fsWsG4k"
+  },
+  {
+   "source": "X @cursor_ai",
+   "title": "You can now steer Cursor SDK agents while they run.  run.steer() adds your message to the next turn. If a subagent is mid-task, it moves to the background and keeps working. https://t.co/1GHeV6kfKC",
+   "url": "https://x.com/cursor_ai/status/2107141004482793827",
+   "ts": 1791216538,
+   "desc": "You can now steer Cursor SDK agents while they run.\n\nrun.steer() adds your message to the next turn. If a subagent is mid-task, it moves to the background and keeps working. https://t.co/1GHeV6kfKC"
+  },
+  {
+   "source": "X @cursor_ai",
    "title": "When Rollouts catches a regression, it finds the offending PR and opens an issue. One click starts a cloud agent to fix it.  Rollouts usage credits are included through Oct 3.",
    "url": "https://x.com/cursor_ai/status/2106066782155157603",
    "ts": 1790960424,
@@ -1351,6 +1463,13 @@
    "url": "https://x.com/cursor_ai/status/2104666044220821594",
    "ts": 1790626462,
    "desc": "Sonnet 5.5 is now available in Cursor!\n\nIt’s a strong model, performing on par with Opus in many tasks. https://t.co/iaJ5z67FVu"
+  },
+  {
+   "source": "X @opencode",
+   "title": "Operation Cheepseek Phase 3:  $80 of usage for DeepSeek V4.1 Flash",
+   "url": "https://x.com/opencode/status/2109573342584058065",
+   "ts": 1791796453,
+   "desc": "Operation Cheepseek Phase 3:\n\n$80 of usage for DeepSeek V4.1 Flash"
   },
   {
    "source": "X @opencode",
@@ -1694,6 +1813,27 @@
    "url": "https://x.com/elonmusk/status/2109343010085278043",
    "ts": 1791741537,
    "desc": "RT @XFreeze: Jio and Airtel literally dominate the Indian mobile market\n\nTRAI's August 2026 data shows that just these two companies contro…"
+  },
+  {
+   "source": "X @sama",
+   "title": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible.",
+   "url": "https://x.com/sama/status/2107691577015755196",
+   "ts": 1791347805,
+   "desc": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible."
+  },
+  {
+   "source": "X @sama",
+   "title": "thank you to the machines, and the structure of reality, for letting us understand a little more.",
+   "url": "https://x.com/sama/status/2107691262795239805",
+   "ts": 1791347730,
+   "desc": "thank you to the machines, and the structure of reality, for letting us understand a little more."
+  },
+  {
+   "source": "X @sama",
+   "title": "looking up at the stars with extra awe tonight.  \"thy sea is so great and my boat is so small.\"",
+   "url": "https://x.com/sama/status/2107691261776052633",
+   "ts": 1791347730,
+   "desc": "looking up at the stars with extra awe tonight.\n\n\"thy sea is so great and my boat is so small.\""
   },
   {
    "source": "X @sama",
@@ -2432,6 +2572,20 @@
   },
   {
    "source": "X @ylecun",
+   "title": "RT @AmourskyCyrille: 🇺🇦/🇷🇺/🇺🇸 Je résume le génie du cretin de la Maison Blanche :  - Il retire les sanctions contre le pétrole russe pour t…",
+   "url": "https://x.com/ylecun/status/2109620203978129661",
+   "ts": 1791807626,
+   "desc": "RT @AmourskyCyrille: 🇺🇦/🇷🇺/🇺🇸 Je résume le génie du cretin de la Maison Blanche :\n\n- Il retire les sanctions contre le pétrole russe pour t…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @hsu_steve: Michael I. Jordan, machine learning demigod, UC Berkeley   ... the young people who work at these companies operate in a wor…",
+   "url": "https://x.com/ylecun/status/2109618731827777920",
+   "ts": 1791807275,
+   "desc": "RT @hsu_steve: Michael I. Jordan, machine learning demigod, UC Berkeley \n\n... the young people who work at these companies operate in a wor…"
+  },
+  {
+   "source": "X @ylecun",
    "title": "RT @LingYang_PU: Introducing RSI-Anything: Unlocking Recursive Self-Improvement with World Models 🚀  Can AI learn to improve itself by pred…",
    "url": "https://x.com/ylecun/status/2109535041156243545",
    "ts": 1791787321,
@@ -2555,20 +2709,6 @@
    "url": "https://x.com/ylecun/status/2108627252170657856",
    "ts": 1791570887,
    "desc": "RT @ELLISforEurope: Sessions for the ELLIS UnConference are online! Kicking off with two sessions on World Models 🌍, including a 30-min tut…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @masayoshisson: don’t shoot the messenger https://t.co/ko6LtgWp31",
-   "url": "https://x.com/ylecun/status/2108623004355760372",
-   "ts": 1791569875,
-   "desc": "RT @masayoshisson: don’t shoot the messenger https://t.co/ko6LtgWp31"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @ianrich15813274: Let's be clear, the free world has nothing to learn about western values &amp; civilisation from MAGA USA. Most of us can…",
-   "url": "https://x.com/ylecun/status/2108622176928575684",
-   "ts": 1791569677,
-   "desc": "RT @ianrich15813274: Let's be clear, the free world has nothing to learn about western values &amp; civilisation from MAGA USA. Most of us can…"
   },
   {
    "source": "X @AndrewYNg",
@@ -2915,6 +3055,20 @@
   },
   {
    "source": "X @natolambert",
+   "title": "https://t.co/WvpSmgvJAv",
+   "url": "https://x.com/natolambert/status/2108673751860797479",
+   "ts": 1791581974,
+   "desc": "https://t.co/WvpSmgvJAv"
+  },
+  {
+   "source": "X @natolambert",
+   "title": "I’m more bought into AI becoming far more efficient, which is a massive lever on diffusion, than I am on AI models making massive breakthroughs that result in eliminating all the known weaknesses of LLMs.  Happily spending a few hours reflecting on R",
+   "url": "https://x.com/natolambert/status/2108673722282574224",
+   "ts": 1791581967,
+   "desc": "I’m more bought into AI becoming far more efficient, which is a massive lever on diffusion, than I am on AI models making massive breakthroughs that result in eliminating all the known weaknesses of LLMs.\n\nHappily spending a few hours reflecting on RSI after a great SF week. https://t.co/FmTfBvXLaW"
+  },
+  {
+   "source": "X @natolambert",
    "title": "About to go on and talk about how open science can still solve some of the hardest problems facing ai safety and diffusion. The most complex engineering problem humanity has undertaken yet.",
    "url": "https://x.com/natolambert/status/2108272495245898206",
    "ts": 1791486307,
@@ -2989,6 +3143,20 @@
    "url": "https://x.com/thsottiaux/status/2109090080497508356",
    "ts": 1791681234,
    "desc": "The day we reach perfection it will be resets from there onwards"
+  },
+  {
+   "source": "X @thsottiaux",
+   "title": "Global reset by EOD. May the tokens do good things for you.",
+   "url": "https://x.com/thsottiaux/status/2109045392684032299",
+   "ts": 1791670580,
+   "desc": "Global reset by EOD. May the tokens do good things for you."
+  },
+  {
+   "source": "X @thsottiaux",
+   "title": "Day 6/ Reset",
+   "url": "https://x.com/thsottiaux/status/2109045220411351517",
+   "ts": 1791670539,
+   "desc": "Day 6/ Reset"
   },
   {
    "source": "X @thsottiaux",
@@ -3447,17 +3615,10 @@
   },
   {
    "source": "HN",
-   "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-   "url": "https://github.com/rociiu/talorys",
-   "ts": 1791629529,
-   "desc": "323 points"
-  },
-  {
-   "source": "HN",
    "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
    "ts": 1791684158,
-   "desc": "191 points"
+   "desc": "199 points"
   },
   {
    "source": "HN",
@@ -3468,24 +3629,31 @@
   },
   {
    "source": "HN",
+   "title": "QGIS bans AI assisted contributions",
+   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+   "ts": 1791804144,
+   "desc": "157 points"
+  },
+  {
+   "source": "HN",
    "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
    "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
    "ts": 1791715641,
-   "desc": "98 points"
+   "desc": "121 points"
   },
   {
    "source": "HN",
    "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
    "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
    "ts": 1791716601,
-   "desc": "89 points"
+   "desc": "92 points"
   },
   {
    "source": "HN",
    "title": "AI is creating a 'human premium' for art created by people",
    "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
    "ts": 1791718468,
-   "desc": "71 points"
+   "desc": "72 points"
   },
   {
    "source": "HN",
@@ -3496,17 +3664,10 @@
   },
   {
    "source": "HN",
-   "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
-   "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
-   "ts": 1791624603,
-   "desc": "57 points"
-  },
-  {
-   "source": "HN",
    "title": "AI agents in a stand-up call",
    "url": "https://atoll92.github.io/agent-standup/",
    "ts": 1791690167,
-   "desc": "47 points"
+   "desc": "48 points"
   },
   {
    "source": "HN",
@@ -3521,13 +3682,6 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
    "ts": 1791690113,
    "desc": "42 points"
-  },
-  {
-   "source": "HN",
-   "title": "There's little that's \"inevitable\" about AI",
-   "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-   "ts": 1791633844,
-   "desc": "41 points"
   },
   {
    "source": "HN",
@@ -3573,13 +3727,6 @@
   },
   {
    "source": "HN",
-   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-   "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-   "ts": 1791627824,
-   "desc": "15 points"
-  },
-  {
-   "source": "HN",
    "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
    "url": "https://github.com/plimsollmark/plimsoll",
    "ts": 1791762479,
@@ -3594,6 +3741,13 @@
   },
   {
    "source": "HN",
+   "title": "AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware",
+   "url": "https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/",
+   "ts": 1791787381,
+   "desc": "13 points"
+  },
+  {
+   "source": "HN",
    "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
    "url": "https://thelastwave.substack.com/p/theres-no-going-back",
    "ts": 1791753227,
@@ -3601,16 +3755,16 @@
   },
   {
    "source": "HN",
-   "title": "AI is less regulated than milk, says Microsoft president",
-   "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
-   "ts": 1791760196,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
    "title": "Nvidia-backed data centre firm Firmus scraps IPO as AI valuation concerns deepen",
    "url": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
    "ts": 1791746765,
+   "desc": "12 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI is less regulated than milk, says Microsoft president",
+   "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+   "ts": 1791760196,
    "desc": "11 points"
   },
   {
@@ -3629,6 +3783,20 @@
   },
   {
    "source": "HN",
+   "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
+   "url": "https://github.com/qufei1993/skills-hub",
+   "ts": 1791773299,
+   "desc": "10 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI coding agents generate more code, but not more software",
+   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "ts": 1791771020,
+   "desc": "10 points"
+  },
+  {
+   "source": "HN",
    "title": "AI is changing how Lawyers work – and putting the billable hour under pressure",
    "url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
    "ts": 1791767047,
@@ -3643,17 +3811,17 @@
   },
   {
    "source": "HN",
-   "title": "Study on AI coding agents finds gains \"absorbed\" by human review \"bottleneck.\"",
-   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "ts": 1791618910,
+   "title": "Hetzner: The New GPU Server GEX63 for Professional AI Workloads",
+   "url": "https://www.hetzner.com/_ray/pow",
+   "ts": 1791797707,
    "desc": "9 points"
   },
   {
    "source": "HN",
-   "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
-   "url": "https://github.com/qufei1993/skills-hub",
-   "ts": 1791773299,
-   "desc": "9 points"
+   "title": "Show HN: Shpyrd – A new type of cloud for AI era",
+   "url": "https://www.shpyrd.io",
+   "ts": 1791758528,
+   "desc": "8 points"
   }
  ]
 }
