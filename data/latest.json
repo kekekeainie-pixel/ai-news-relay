@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T06:58:22.610240+00:00",
+ "generated_at": "2026-10-13T12:57:33.132309+00:00",
  "count": 534,
  "stats": [
   {
@@ -465,6 +465,20 @@
   },
   {
    "source": "X @huggingface",
+   "title": "RT @tomaarsen: 📈@Google's EmbeddingGemma2 is looking to be a huge success!  After only a week, it has surpasses EG1's likes to become the 4…",
+   "url": "https://x.com/huggingface/status/2109988989826449663",
+   "ts": 1791895551,
+   "desc": "RT @tomaarsen: 📈@Google's EmbeddingGemma2 is looking to be a huge success!\n\nAfter only a week, it has surpasses EG1's likes to become the 4…"
+  },
+  {
+   "source": "X @huggingface",
+   "title": "RT @ariG23498: I was finally able to push the kernels cookbook out!  What we cover here: &gt; using HF kernels from the Hub &gt; hardcoding trito…",
+   "url": "https://x.com/huggingface/status/2109909023491547600",
+   "ts": 1791876486,
+   "desc": "RT @ariG23498: I was finally able to push the kernels cookbook out!\n\nWhat we cover here:\n&gt; using HF kernels from the Hub\n&gt; hardcoding trito…"
+  },
+  {
+   "source": "X @huggingface",
    "title": "RT @NielsRogge: Decision Model (also called System One model or typed decision model) has been added as a method to Papers with Code  Explo…",
    "url": "https://x.com/huggingface/status/2109896376033137125",
    "ts": 1791873470,
@@ -588,20 +602,6 @@
    "url": "https://x.com/huggingface/status/2108733901237813582",
    "ts": 1791596315,
    "desc": "RT @jeffboudier: All of open source AI is coming together 🤗\n\nTGIF and Thanks to Sponsors @arcee_ai @reflection_ai \nand Co-Hosts @allen_ai @…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @inteldevs: Bay Area AI builders:  Open source demonstrates what's possible when builders collaborate to develop, improve, and share new…",
-   "url": "https://x.com/huggingface/status/2108631575915299185",
-   "ts": 1791571918,
-   "desc": "RT @inteldevs: Bay Area AI builders:\n\nOpen source demonstrates what's possible when builders collaborate to develop, improve, and share new…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @QGallouedec: TRL v1.15 is out. Our biggest optimization ever.  Fused LM head, on by default:  → up to 82% less peak VRAM → 7x longer se…",
-   "url": "https://x.com/huggingface/status/2108476632121897360",
-   "ts": 1791534977,
-   "desc": "RT @QGallouedec: TRL v1.15 is out. Our biggest optimization ever.\n\nFused LM head, on by default:\n\n→ up to 82% less peak VRAM\n→ 7x longer se…"
   },
   {
    "source": "X @NousResearch",
@@ -1137,6 +1137,13 @@
   },
   {
    "source": "X @Baidu_Inc",
+   "title": "We were honored to share Apollo Go's progress in Tung Chung, Hong Kong with Ms Candy Kwok, Deputy Commissioner for Transport/Transport Services and Management, and members of the Transport Department’s Autonomous Vehicle Applications Promotion Workin",
+   "url": "https://x.com/Baidu_Inc/status/2109973113480089620",
+   "ts": 1791891766,
+   "desc": "We were honored to share Apollo Go's progress in Tung Chung, Hong Kong with Ms Candy Kwok, Deputy Commissioner for Transport/Transport Services and Management, and members of the Transport Department’s Autonomous Vehicle Applications Promotion Working Group.\n\nNext, we'll welcome the general public aboard from 21 Oct for public test rides. Building on 280K km safely covered in Hong Kong, we're work"
+  },
+  {
+   "source": "X @Baidu_Inc",
    "title": "Can we all agree that staring at autumn leaves counts as having plans? 🍂  - Created with DuMate https://t.co/HoaCC44his",
    "url": "https://x.com/Baidu_Inc/status/2107833323846590893",
    "ts": 1791381600,
@@ -1239,13 +1246,6 @@
    "url": "https://x.com/Baidu_Inc/status/2096113183702568991",
    "ts": 1788587301,
    "desc": "From Hong Kong to Beijing, the conversation around autonomous driving continued at Apollo Park.\n\nIt was a pleasure to host Hong Kong’s Secretary for Transport and Logistics, Mable Chan and the members of the Legislative Council (LegCo) Panel on Transport and government representatives.\n\nHaving previously ridden in an RT6 in Hong Kong, Secretary Chan noted that its performance was equally impressiv"
-  },
-  {
-   "source": "X @Baidu_Inc",
-   "title": "Baidu's Class A ordinary shares traded on the Hong Kong Stock Exchange will be included in the Shanghai- Hong Kong Stock Connect program, effective next Monday, September 7, 2026.  https://t.co/B6MU4cJhQE",
-   "url": "https://x.com/Baidu_Inc/status/2095855235948544248",
-   "ts": 1788525802,
-   "desc": "Baidu's Class A ordinary shares traded on the Hong Kong Stock Exchange will be included in the Shanghai- Hong Kong Stock Connect program, effective next Monday, September 7, 2026.\n\nhttps://t.co/B6MU4cJhQE"
   },
   {
    "source": "X @TencentHunyuan",
@@ -1641,6 +1641,48 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @Av1dlive: i'm seriously considering switching full-time over to grok bot.  it's the closest thing i've found to hiring a real jarvis. i…",
+   "url": "https://x.com/elonmusk/status/2109966013714575870",
+   "ts": 1791890073,
+   "desc": "RT @Av1dlive: i'm seriously considering switching full-time over to grok bot.\n\nit's the closest thing i've found to hiring a real jarvis. i…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @jerrod_lew: Grok Bot is the strongest personal agent I've used yet.  Just the usage on it increases so fast, and so I'm afraid to give…",
+   "url": "https://x.com/elonmusk/status/2109960773116252577",
+   "ts": 1791888824,
+   "desc": "RT @jerrod_lew: Grok Bot is the strongest personal agent I've used yet.\n\nJust the usage on it increases so fast, and so I'm afraid to give…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Grok @Bot is like hiring a super smart employee",
+   "url": "https://x.com/elonmusk/status/2109955246923641259",
+   "ts": 1791887506,
+   "desc": "Grok @Bot is like hiring a super smart employee"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @Space_Station: The @SpaceX Dragon is counting down to its launch at 6:33 a.m. EDT today to resupply the Expedition 75 crew with over 6,…",
+   "url": "https://x.com/elonmusk/status/2109954637893964077",
+   "ts": 1791887361,
+   "desc": "RT @Space_Station: The @SpaceX Dragon is counting down to its launch at 6:33 a.m. EDT today to resupply the Expedition 75 crew with over 6,…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @melvindvivas: https://t.co/5ttM9rgnMV",
+   "url": "https://x.com/elonmusk/status/2109954513050505575",
+   "ts": 1791887331,
+   "desc": "RT @melvindvivas: https://t.co/5ttM9rgnMV"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @SpaceX: Watch Falcon 9 launch Dragon to the @Space_Station https://t.co/wkJ64eJSG4",
+   "url": "https://x.com/elonmusk/status/2109953737569505669",
+   "ts": 1791887146,
+   "desc": "RT @SpaceX: Watch Falcon 9 launch Dragon to the @Space_Station https://t.co/wkJ64eJSG4"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "Try Grok @Bot",
    "url": "https://x.com/elonmusk/status/2109881121047781430",
    "ts": 1791869833,
@@ -1652,13 +1694,6 @@
    "url": "https://x.com/elonmusk/status/2109879128573067414",
    "ts": 1791869358,
    "desc": "RT @B_doong2daddy: Grok Bot fixed a customer's bug while I was out with my family. My app user emailed me about an error. My Grok Bot handl…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @joehansen: A kid in a village school in India studies from the same textbook as a kid in Mumbai.   What they don't get is the internet.…",
-   "url": "https://x.com/elonmusk/status/2109877500700455161",
-   "ts": 1791868970,
-   "desc": "RT @joehansen: A kid in a village school in India studies from the same textbook as a kid in Mumbai. \n\nWhat they don't get is the internet.…"
   },
   {
    "source": "X @elonmusk",
@@ -1743,41 +1778,6 @@
    "url": "https://x.com/elonmusk/status/2109820513954705748",
    "ts": 1791855383,
    "desc": "Grok @Bot is this good"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @liam_fallen: Grok Bot can order your groceries.  It can also run your entire business.  That’s what I love about it.  → Give it a task…",
-   "url": "https://x.com/elonmusk/status/2109816993511886876",
-   "ts": 1791854544,
-   "desc": "RT @liam_fallen: Grok Bot can order your groceries.\n\nIt can also run your entire business.\n\nThat’s what I love about it.\n\n→ Give it a task…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "It’s awesome",
-   "url": "https://x.com/elonmusk/status/2109816487775219916",
-   "ts": 1791854423,
-   "desc": "It’s awesome"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @B_doong2daddy: My Grok Bot is connected to my finance, email inbox, coding, etc. I asked Grok Bot from my Cybertruck while I was on roa…",
-   "url": "https://x.com/elonmusk/status/2109815966079041899",
-   "ts": 1791854299,
-   "desc": "RT @B_doong2daddy: My Grok Bot is connected to my finance, email inbox, coding, etc. I asked Grok Bot from my Cybertruck while I was on roa…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @unclebobmartin: This is just so strange.  I'm talking to grokbot on my ipad, while it manipulates files on my mac, trying to adjust a v…",
-   "url": "https://x.com/elonmusk/status/2109812760427073760",
-   "ts": 1791853535,
-   "desc": "RT @unclebobmartin: This is just so strange.  I'm talking to grokbot on my ipad, while it manipulates files on my mac, trying to adjust a v…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @naoufal_elh: What is one tip that you swear by for Grok @Bot that you think everyone should know about?",
-   "url": "https://x.com/elonmusk/status/2109812489009627568",
-   "ts": 1791853470,
-   "desc": "RT @naoufal_elh: What is one tip that you swear by for Grok @Bot that you think everyone should know about?"
   },
   {
    "source": "X @sama",
@@ -3566,143 +3566,143 @@
   },
   {
    "source": "HN",
-   "title": "QGIS enacts moratorium on AI contributions",
-   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-   "ts": 1791804144,
-   "desc": "372 points"
-  },
-  {
-   "source": "HN",
    "title": "AI is a tool and using it well takes skill",
    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
    "ts": 1791841218,
-   "desc": "353 points"
+   "desc": "472 points"
+  },
+  {
+   "source": "HN",
+   "title": "QGIS enacts moratorium on AI contributions",
+   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+   "ts": 1791804144,
+   "desc": "378 points"
   },
   {
    "source": "HN",
    "title": "AI coding agents generate more code, but not more software",
    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
    "ts": 1791825241,
-   "desc": "331 points"
+   "desc": "344 points"
   },
   {
    "source": "HN",
    "title": "Why aren't AI companies being charged for hacking?",
    "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
    "ts": 1791816757,
-   "desc": "319 points"
+   "desc": "324 points"
   },
   {
    "source": "HN",
    "title": "'AI' Is Not a Tool by Rich Hickey",
    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
    "ts": 1791828025,
-   "desc": "255 points"
-  },
-  {
-   "source": "HN",
-   "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-   "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-   "ts": 1791715641,
-   "desc": "177 points"
-  },
-  {
-   "source": "HN",
-   "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-   "url": "https://taylor.town/kk-ai-2026",
-   "ts": 1791818205,
-   "desc": "175 points"
+   "desc": "282 points"
   },
   {
    "source": "HN",
    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
    "ts": 1791840935,
-   "desc": "161 points"
+   "desc": "262 points"
   },
   {
    "source": "HN",
-   "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+   "title": "AI models can provably hide arbitrary capabilities",
    "url": "https://arxiv.org/abs/2610.13928",
    "ts": 1791857228,
-   "desc": "140 points"
+   "desc": "237 points"
   },
   {
    "source": "HN",
-   "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-   "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
-   "ts": 1791716601,
-   "desc": "98 points"
+   "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+   "url": "https://taylor.town/kk-ai-2026",
+   "ts": 1791818205,
+   "desc": "198 points"
   },
   {
    "source": "HN",
-   "title": "AI models may be capable of self-replicating without access to a datacenter",
-   "url": "https://www.anthropic.com/research/self-replicating-ai",
-   "ts": 1791833129,
-   "desc": "85 points"
-  },
-  {
-   "source": "HN",
-   "title": "Epic Games tells employees to use AI to get Disney game done",
-   "url": "https://www.avclub.com/epic-games-disney-ai-delay",
-   "ts": 1791835662,
-   "desc": "82 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI is creating a 'human premium' for art created by people",
-   "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-   "ts": 1791718468,
-   "desc": "72 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-   "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
-   "ts": 1791809212,
-   "desc": "70 points"
-  },
-  {
-   "source": "HN",
-   "title": "\"Today we're laying off a large part of the Airtable team \"",
-   "url": "https://twitter.com/fedesimio/status/2109713695165329511",
-   "ts": 1791834976,
-   "desc": "41 points"
+   "title": "An hour of audio transcribed in about 13s on MacBook Air",
+   "url": "https://eg2.haku.sh/",
+   "ts": 1791890834,
+   "desc": "103 points"
   },
   {
    "source": "HN",
    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
    "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
    "ts": 1791871052,
-   "desc": "38 points"
+   "desc": "95 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI models may be capable of self-replicating without access to a datacenter",
+   "url": "https://www.anthropic.com/research/self-replicating-ai",
+   "ts": 1791833129,
+   "desc": "91 points"
+  },
+  {
+   "source": "HN",
+   "title": "Epic Games tells employees to use AI to get Disney game done",
+   "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+   "ts": 1791835662,
+   "desc": "83 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+   "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+   "ts": 1791809212,
+   "desc": "71 points"
+  },
+  {
+   "source": "HN",
+   "title": "Character.ai Files for Bankruptcy",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+   "ts": 1791890648,
+   "desc": "60 points"
+  },
+  {
+   "source": "HN",
+   "title": "\"Today we're laying off a large part of the Airtable team \"",
+   "url": "https://twitter.com/fedesimio/status/2109713695165329511",
+   "ts": 1791834976,
+   "desc": "42 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI models may soon self-replicate without access to data centers",
+   "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+   "ts": 1791886098,
+   "desc": "32 points"
   },
   {
    "source": "HN",
    "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
    "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
    "ts": 1791842707,
-   "desc": "28 points"
-  },
-  {
-   "source": "HN",
-   "title": "Open-source version of Adobe Creative Suite, built with Rust, using AI",
-   "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
-   "ts": 1791708812,
-   "desc": "25 points"
+   "desc": "30 points"
   },
   {
    "source": "HN",
    "title": "Software engineers don't get to be Luddites about AI",
    "url": "https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
    "ts": 1791866925,
-   "desc": "20 points"
+   "desc": "25 points"
+  },
+  {
+   "source": "HN",
+   "title": "Character.ai files for Chapter 11 bankruptcy",
+   "url": "https://blog.character.ai/an-update-on-character-ai/",
+   "ts": 1791876514,
+   "desc": "24 points"
   },
   {
    "source": "HN",
    "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
    "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
    "ts": 1791851928,
-   "desc": "18 points"
+   "desc": "21 points"
   },
   {
    "source": "HN",
@@ -3713,23 +3713,30 @@
   },
   {
    "source": "HN",
-   "title": "AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware",
-   "url": "https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/",
-   "ts": 1791787381,
-   "desc": "15 points"
-  },
-  {
-   "source": "HN",
    "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
    "url": "https://github.com/plimsollmark/plimsoll",
    "ts": 1791762479,
-   "desc": "15 points"
+   "desc": "16 points"
   },
   {
    "source": "HN",
    "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
    "url": "https://thelastwave.substack.com/p/theres-no-going-back",
    "ts": 1791753227,
+   "desc": "16 points"
+  },
+  {
+   "source": "HN",
+   "title": "Character.ai files for bankruptcy, agrees to sell some assets for $20M",
+   "url": "https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/",
+   "ts": 1791872218,
+   "desc": "15 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware",
+   "url": "https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/",
+   "ts": 1791787381,
    "desc": "15 points"
   },
   {
@@ -3748,24 +3755,17 @@
   },
   {
    "source": "HN",
-   "title": "Nvidia-backed data centre firm Firmus scraps IPO as AI valuation concerns deepen",
-   "url": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
-   "ts": 1791746765,
+   "title": "Ask HN: What to Build in the AI Era?",
+   "url": "https://news.ycombinator.com/item?id=50049047",
+   "ts": 1791760456,
    "desc": "12 points"
   },
   {
    "source": "HN",
-   "title": "Ask HN: What to Build in the AI Era?",
-   "url": "https://news.ycombinator.com/item?id=50049047",
-   "ts": 1791760456,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI Is Making Us Dumber – Unless We Fight Back",
-   "url": "https://baromae.blogspot.com/2026/10/can-ai-really-make-us-smarter-what_01666148514.html",
-   "ts": 1791840863,
-   "desc": "11 points"
+   "title": "Nvidia-backed data centre firm Firmus scraps IPO as AI valuation concerns deepen",
+   "url": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
+   "ts": 1791746765,
+   "desc": "12 points"
   }
  ]
 }
