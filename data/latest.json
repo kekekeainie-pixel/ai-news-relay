@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-14T07:15:45.735234+00:00",
- "count": 519,
+ "generated_at": "2026-10-14T13:11:04.491015+00:00",
+ "count": 507,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 449,
+   "count": 437,
    "note": "49 账号"
   },
   {
@@ -59,48 +59,6 @@
   },
   {
    "source": "X @OpenAI",
-   "title": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and will expand to Free and Go users starting tomorrow.  GPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6",
-   "url": "https://x.com/OpenAI/status/2107895006350791071",
-   "ts": 1791396306,
-   "desc": "GPT‑6 with Intelligent UI rolls out globally to Plus, Pro, Business, and Enterprise users today and will expand to Free and Go users starting tomorrow.\n\nGPT‑6 in ChatGPT is powered by GPT‑6 Sol for Plus, Pro, Business, and Enterprise tiers, and GPT‑6 Luna for Free and Go tiers. Both are tuned for everyday conversation.\n\nThis update applies to the Chat tab in ChatGPT. The models powering Work and C"
-  },
-  {
-   "source": "X @OpenAI",
-   "title": "Play around with interactive answers to help customize your response. https://t.co/WdREebLtd9",
-   "url": "https://x.com/OpenAI/status/2107895004819775938",
-   "ts": 1791396306,
-   "desc": "Play around with interactive answers to help customize your response. https://t.co/WdREebLtd9"
-  },
-  {
-   "source": "X @OpenAI",
-   "title": "Deepen your understanding of a topic with visuals that bring concepts to life. https://t.co/w3IUwyeljH",
-   "url": "https://x.com/OpenAI/status/2107895003490169213",
-   "ts": 1791396306,
-   "desc": "Deepen your understanding of a topic with visuals that bring concepts to life. https://t.co/w3IUwyeljH"
-  },
-  {
-   "source": "X @OpenAI",
-   "title": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator. https://t.co/7gwerFiaNu",
-   "url": "https://x.com/OpenAI/status/2107895002022187411",
-   "ts": 1791396305,
-   "desc": "Create interactive tools you can use right in the conversation, like a game or interactive budget planning calculator. https://t.co/7gwerFiaNu"
-  },
-  {
-   "source": "X @OpenAI",
-   "title": "Explore ideas through interactive visuals that respond as you learn, try, and discover. https://t.co/SXBxaHHLBF",
-   "url": "https://x.com/OpenAI/status/2107895000642294250",
-   "ts": 1791396305,
-   "desc": "Explore ideas through interactive visuals that respond as you learn, try, and discover. https://t.co/SXBxaHHLBF"
-  },
-  {
-   "source": "X @OpenAI",
-   "title": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, choosing how they fit together based on your question.  Responses can include graphics and charts to help explain an idea, along with tappable buttons",
-   "url": "https://x.com/OpenAI/status/2107894999119774148",
-   "ts": 1791396305,
-   "desc": "With Intelligent UI, GPT‑6 can now compose responses using text, visuals, and interactive elements, choosing how they fit together based on your question.\n\nResponses can include graphics and charts to help explain an idea, along with tappable buttons, forms, and interactive experiences you can use directly in your conversation."
-  },
-  {
-   "source": "X @OpenAI",
    "title": "RT @OpenAIDevs: dots demo.   Now... with better WiFi. https://t.co/ucMH7SI1vj",
    "url": "https://x.com/OpenAI/status/2105712311063453937",
    "ts": 1790875911,
@@ -112,6 +70,13 @@
    "url": "https://x.com/OpenAI/status/2105373267171438779",
    "ts": 1790795077,
    "desc": "Small teams are taking on more with AI—from finding customers to building products and managing finances.\n\nOur new report explores how small businesses are putting AI agents to work. And through a new partnership with @ASBDC, we're bringing hands-on AI training and local guidance to help more owners get started.\n\nhttps://t.co/4ExUmD1Jtb"
+  },
+  {
+   "source": "X @AnthropicAI",
+   "title": "We’ve opened an office in Singapore—our fifth in the Asia-Pacific region. We’ve also signed an MOU with the Government of Singapore on AI safety and responsible adoption.  You can read more about our new office here: https://t.co/125mBgHLkM",
+   "url": "https://x.com/AnthropicAI/status/2110289695888511368",
+   "ts": 1791967245,
+   "desc": "We’ve opened an office in Singapore—our fifth in the Asia-Pacific region. We’ve also signed an MOU with the Government of Singapore on AI safety and responsible adoption.\n\nYou can read more about our new office here: https://t.co/125mBgHLkM"
   },
   {
    "source": "X @AnthropicAI",
@@ -189,13 +154,6 @@
    "url": "https://x.com/AnthropicAI/status/2102897863097545197",
    "ts": 1790204895,
    "desc": "In the Democratic Republic of the Congo, global health organizations including @CEPIvaccines, @WHOAFRO, and @inrb_kinshasa are using Claude to accelerate their response to an outbreak of an unusual Ebola variant.\n\nRead the full piece here: https://t.co/lQKx17Mxc3"
-  },
-  {
-   "source": "X @AnthropicAI",
-   "title": "Claude Opus 5.5 is available today.",
-   "url": "https://x.com/AnthropicAI/status/2102435703535939725",
-   "ts": 1790094707,
-   "desc": "Claude Opus 5.5 is available today."
   },
   {
    "source": "X @GoogleDeepMind",
@@ -472,6 +430,13 @@
   },
   {
    "source": "X @huggingface",
+   "title": "Learn about how to get multipliers in local LLM speed-ups using speculative decoding in this livestream with @mervenoyann, @MaartenGr and @_EldarKurtic   https://t.co/tFexgaLcT5 https://t.co/Pad59uMr8J",
+   "url": "https://x.com/huggingface/status/2110350304613114226",
+   "ts": 1791981695,
+   "desc": "Learn about how to get multipliers in local LLM speed-ups using speculative decoding in this livestream with @mervenoyann, @MaartenGr and @_EldarKurtic \n\nhttps://t.co/tFexgaLcT5 https://t.co/Pad59uMr8J"
+  },
+  {
+   "source": "X @huggingface",
    "title": "RT @NVIDIARTXSpark: llama.cpp now has a Windows app 🦙  Llama Windows makes it easy to run models locally, with optimizations for NVIDIA RTX…",
    "url": "https://x.com/huggingface/status/2110105400058220955",
    "ts": 1791923305,
@@ -604,13 +569,6 @@
    "desc": "RT @ClementDelangue: If you’re a researcher, please consider sharing your RL environments openly! Something you built for one experiment co…"
   },
   {
-   "source": "X @huggingface",
-   "title": "RT @yb2698: Pi harness optimized for Qwen models? 👀  We tried to optimize the Pi harness for Qwen model series by trying to tweaking variou…",
-   "url": "https://x.com/huggingface/status/2109677030132568065",
-   "ts": 1791821174,
-   "desc": "RT @yb2698: Pi harness optimized for Qwen models? 👀\n\nWe tried to optimize the Pi harness for Qwen model series by trying to tweaking variou…"
-  },
-  {
    "source": "X @NousResearch",
    "title": "An agent with swag",
    "url": "https://x.com/NousResearch/status/2110209866996252729",
@@ -644,20 +602,6 @@
    "url": "https://x.com/NousResearch/status/2109012611555840069",
    "ts": 1791662764,
    "desc": "Wild MISSINGNO. appeared!\n\nA coding and agentic reasoning model that is highly token efficient, free for a limited time on Nous Portal\n\nTry it out in your Hermes Agent today https://t.co/5lNdyiu0mh"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "Slight Correction: Step 5 Preview's final score on Hermes Index has been updated to 32.83, slightly behind GPT-6 Luna (33.89) and GLM 5.3 Flash (34.95)  Learn more @ https://t.co/GMkIS99T2r",
-   "url": "https://x.com/NousResearch/status/2108645938403405896",
-   "ts": 1791575343,
-   "desc": "Slight Correction: Step 5 Preview's final score on Hermes Index has been updated to 32.83, slightly behind GPT-6 Luna (33.89) and GLM 5.3 Flash (34.95)\n\nLearn more @ https://t.co/GMkIS99T2r"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "Step 5 Preview from @StepFun_ai is free on Nous Portal for the next week  600B total / 27B active MoE, 1M context, with vision  Step 5 Preview scored 33.89 on Hermes Index, the same score as GPT-6 Luna https://t.co/y19dzmwHUA",
-   "url": "https://x.com/NousResearch/status/2108638389045960958",
-   "ts": 1791573543,
-   "desc": "Step 5 Preview from @StepFun_ai is free on Nous Portal for the next week\n\n600B total / 27B active MoE, 1M context, with vision\n\nStep 5 Preview scored 33.89 on Hermes Index, the same score as GPT-6 Luna https://t.co/y19dzmwHUA"
   },
   {
    "source": "X @NousResearch",
@@ -1158,6 +1102,13 @@
   },
   {
    "source": "X @Baidu_Inc",
+   "title": "Baidu World 2026 is coming to Beijing on Nov 12! 🚀  This year we'll explore how organizations can redesign processes, drive innovation, and deliver AI solutions at scale.  Stay tuned! https://t.co/Jn8eSIkFS7",
+   "url": "https://x.com/Baidu_Inc/status/2110301545887924528",
+   "ts": 1791970070,
+   "desc": "Baidu World 2026 is coming to Beijing on Nov 12! 🚀\n\nThis year we'll explore how organizations can redesign processes, drive innovation, and deliver AI solutions at scale.\n\nStay tuned! https://t.co/Jn8eSIkFS7"
+  },
+  {
+   "source": "X @Baidu_Inc",
    "title": "We were honored to share Apollo Go's progress in Tung Chung, Hong Kong with Ms Candy Kwok, Deputy Commissioner for Transport/Transport Services and Management, and members of the Transport Department’s Autonomous Vehicle Applications Promotion Workin",
    "url": "https://x.com/Baidu_Inc/status/2109973113480089620",
    "ts": 1791891766,
@@ -1260,13 +1211,6 @@
    "url": "https://x.com/Baidu_Inc/status/2096858526610251888",
    "ts": 1788765005,
    "desc": "The inclusion of Baidu's Class A ordinary shares in the Stock Connect programs became effective today.\nhttps://t.co/zqnWgPIG7R"
-  },
-  {
-   "source": "X @Baidu_Inc",
-   "title": "From Hong Kong to Beijing, the conversation around autonomous driving continued at Apollo Park.  It was a pleasure to host Hong Kong’s Secretary for Transport and Logistics, Mable Chan and the members of the Legislative Council (LegCo) Panel on Trans",
-   "url": "https://x.com/Baidu_Inc/status/2096113183702568991",
-   "ts": 1788587301,
-   "desc": "From Hong Kong to Beijing, the conversation around autonomous driving continued at Apollo Park.\n\nIt was a pleasure to host Hong Kong’s Secretary for Transport and Logistics, Mable Chan and the members of the Legislative Council (LegCo) Panel on Transport and government representatives.\n\nHaving previously ridden in an RT6 in Hong Kong, Secretary Chan noted that its performance was equally impressiv"
   },
   {
    "source": "X @TencentHunyuan",
@@ -1431,6 +1375,13 @@
   },
   {
    "source": "X @opencode",
+   "title": "Gemini 4 Argon is now available in OpenCode Go  $60 usage for $10 til Nov 30",
+   "url": "https://x.com/opencode/status/2110274311043072352",
+   "ts": 1791963577,
+   "desc": "Gemini 4 Argon is now available in OpenCode Go\n\n$60 usage for $10 til Nov 30"
+  },
+  {
+   "source": "X @opencode",
    "title": "RT @thdxr: https://t.co/JAGCoUao8j https://t.co/eA1OtP88jU",
    "url": "https://x.com/opencode/status/2110083203587531109",
    "ts": 1791918013,
@@ -1533,13 +1484,6 @@
    "url": "https://x.com/opencode/status/2107522288333803724",
    "ts": 1791307444,
    "desc": "full recap of our week in Argentina\nhttps://t.co/II9f5GQuOd"
-  },
-  {
-   "source": "X @opencode",
-   "title": "Space Bunny's free period is ending however we're sponsoring it in our free tier for a few more days  the model is being tuned before reveal",
-   "url": "https://x.com/opencode/status/2107398361733104102",
-   "ts": 1791277897,
-   "desc": "Space Bunny's free period is ending however we're sponsoring it in our free tier for a few more days\n\nthe model is being tuned before reveal"
   },
   {
    "source": "X @commandcodeai",
@@ -2460,6 +2404,13 @@
   },
   {
    "source": "X @ylecun",
+   "title": "RT @KenRoth: A Saudi court has sentenced a Sri Lankan migrant worker to death over a Facebook comment that was deemed blasphemous, whatever…",
+   "url": "https://x.com/ylecun/status/2110297609734860995",
+   "ts": 1791969132,
+   "desc": "RT @KenRoth: A Saudi court has sentenced a Sri Lankan migrant worker to death over a Facebook comment that was deemed blasphemous, whatever…"
+  },
+  {
+   "source": "X @ylecun",
    "title": "RT @KenRoth: Trump would sacrifice Ukraine for his corruption. He has implied that the point of allowing Russia to sell diesel is to lower…",
    "url": "https://x.com/ylecun/status/2110150115436687716",
    "ts": 1791933966,
@@ -2590,13 +2541,6 @@
    "url": "https://x.com/ylecun/status/2109185618106606042",
    "ts": 1791704012,
    "desc": "RT @TheTuringPost: What does the world look like inside an AI model?\n\nHere are 3 world model architectures based on how they represent the…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @PessimistsArc: “Faceless machines that can out think any man steadily move into new areas formerly reserved for the mind. They are elec…",
-   "url": "https://x.com/ylecun/status/2109184742654611481",
-   "ts": 1791703804,
-   "desc": "RT @PessimistsArc: “Faceless machines that can out think any man steadily move into new areas formerly reserved for the mind. They are elec…"
   },
   {
    "source": "X @AndrewYNg",
@@ -2929,13 +2873,6 @@
   },
   {
    "source": "X @natolambert",
-   "title": "Our model tracking repo is here and we welcome corrections! https://t.co/dm3oYL6gKx",
-   "url": "https://x.com/natolambert/status/2110075913849504240",
-   "ts": 1791916275,
-   "desc": "Our model tracking repo is here and we welcome corrections! https://t.co/dm3oYL6gKx"
-  },
-  {
-   "source": "X @natolambert",
    "title": "It’s bizarre to me how much noise anthropic made asking for regulatory help before doing this. Hopefully can be a conversation reset now.   Was doubly bizarre bc they emphasized the security risk of learning harmful behaviors from their leaky api. If",
    "url": "https://x.com/natolambert/status/2110002173732077632",
    "ts": 1791898694,
@@ -2961,13 +2898,6 @@
    "url": "https://x.com/natolambert/status/2108952534744256675",
    "ts": 1791648441,
    "desc": "I'd frame it as follows: The data industry has taken off in recent years, but the quality of our net output is still far too low (amplifying behaviors like reward hacking). \n\nWe're working to build scalable methods for creating sample-efficient data for RL. In order to keep this pipeline going, we need to push the frontier of evaluation science, while building specific benchmarks to hillclimb on a"
-  },
-  {
-   "source": "X @natolambert",
-   "title": "https://t.co/WvpSmgvJAv",
-   "url": "https://x.com/natolambert/status/2108673751860797479",
-   "ts": 1791581974,
-   "desc": "https://t.co/WvpSmgvJAv"
   },
   {
    "source": "X @thsottiaux",
@@ -3010,20 +2940,6 @@
    "url": "https://x.com/thsottiaux/status/2109090080497508356",
    "ts": 1791681234,
    "desc": "The day we reach perfection it will be resets from there onwards"
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "Global reset by EOD. May the tokens do good things for you.",
-   "url": "https://x.com/thsottiaux/status/2109045392684032299",
-   "ts": 1791670580,
-   "desc": "Global reset by EOD. May the tokens do good things for you."
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "Day 6/ Reset",
-   "url": "https://x.com/thsottiaux/status/2109045220411351517",
-   "ts": 1791670539,
-   "desc": "Day 6/ Reset"
   },
   {
    "source": "X @thsottiaux",
@@ -3457,27 +3373,27 @@
    "title": "AI is a tool and using it well takes skill",
    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
    "ts": 1791841218,
-   "desc": "662 points"
-  },
-  {
-   "source": "HN",
-   "title": "QGIS enacts moratorium on AI contributions",
-   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-   "ts": 1791804144,
-   "desc": "388 points"
+   "desc": "725 points"
   },
   {
    "source": "HN",
    "title": "AI coding agents generate more code, but not more software",
    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
    "ts": 1791825241,
-   "desc": "361 points"
+   "desc": "363 points"
   },
   {
    "source": "HN",
    "title": "Why aren't AI companies being charged for hacking?",
    "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
    "ts": 1791816757,
+   "desc": "334 points"
+  },
+  {
+   "source": "HN",
+   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+   "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+   "ts": 1791905150,
    "desc": "330 points"
   },
   {
@@ -3485,49 +3401,42 @@
    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
    "url": "https://blog.character.ai/an-update-on-character-ai/",
    "ts": 1791876514,
-   "desc": "317 points"
-  },
-  {
-   "source": "HN",
-   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-   "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-   "ts": 1791905150,
-   "desc": "317 points"
+   "desc": "327 points"
   },
   {
    "source": "HN",
    "title": "'AI' Is Not a Tool by Rich Hickey",
    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
    "ts": 1791828025,
-   "desc": "303 points"
+   "desc": "306 points"
   },
   {
    "source": "HN",
    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
    "ts": 1791840935,
-   "desc": "303 points"
+   "desc": "305 points"
   },
   {
    "source": "HN",
    "title": "AI models can provably hide arbitrary capabilities",
    "url": "https://arxiv.org/abs/2610.13928",
    "ts": 1791857228,
-   "desc": "273 points"
+   "desc": "275 points"
   },
   {
    "source": "HN",
    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
    "url": "https://taylor.town/kk-ai-2026",
    "ts": 1791818205,
-   "desc": "215 points"
+   "desc": "217 points"
   },
   {
    "source": "HN",
    "title": "How to engineer an AI harness for game development",
    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
    "ts": 1791900863,
-   "desc": "146 points"
+   "desc": "158 points"
   },
   {
    "source": "HN",
@@ -3541,98 +3450,112 @@
    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
    "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
    "ts": 1791871052,
-   "desc": "111 points"
+   "desc": "112 points"
   },
   {
    "source": "HN",
    "title": "AI models may be capable of self-replicating without access to a datacenter",
    "url": "https://www.anthropic.com/research/self-replicating-ai",
    "ts": 1791833129,
-   "desc": "108 points"
+   "desc": "109 points"
   },
   {
    "source": "HN",
    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
    "url": "https://pulseos.finance",
    "ts": 1791933203,
-   "desc": "101 points"
+   "desc": "107 points"
+  },
+  {
+   "source": "HN",
+   "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
+   "url": "https://blumify.io/people",
+   "ts": 1791940153,
+   "desc": "106 points"
   },
   {
    "source": "HN",
    "title": "Epic Games tells employees to use AI to get Disney game done",
    "url": "https://www.avclub.com/epic-games-disney-ai-delay",
    "ts": 1791835662,
-   "desc": "84 points"
-  },
-  {
-   "source": "HN",
-   "title": "I built a tool to track what AI leaders say and how their views change on video",
-   "url": "https://blumify.io/people",
-   "ts": 1791940153,
-   "desc": "79 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-   "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
-   "ts": 1791809212,
-   "desc": "72 points"
+   "desc": "85 points"
   },
   {
    "source": "HN",
    "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
    "url": "https://parsimony.lasu.dev/",
    "ts": 1791921031,
-   "desc": "65 points"
+   "desc": "71 points"
   },
   {
    "source": "HN",
    "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
    "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
    "ts": 1791957216,
-   "desc": "61 points"
+   "desc": "66 points"
   },
   {
    "source": "HN",
    "title": "Scientists wonder: Is my AI stealing my ideas?",
    "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
    "ts": 1791907551,
-   "desc": "46 points"
+   "desc": "48 points"
+  },
+  {
+   "source": "HN",
+   "title": "I let an AI run my startup for a week",
+   "url": "https://daily.tinyprojects.dev/221",
+   "ts": 1791973548,
+   "desc": "47 points"
   },
   {
    "source": "HN",
    "title": "\"Today we're laying off a large part of the Airtable team \"",
    "url": "https://twitter.com/fedesimio/status/2109713695165329511",
    "ts": 1791834976,
-   "desc": "44 points"
+   "desc": "45 points"
   },
   {
    "source": "HN",
    "title": "AI models may soon self-replicate without access to data centers",
    "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
    "ts": 1791886098,
-   "desc": "39 points"
+   "desc": "40 points"
   },
   {
    "source": "HN",
    "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
    "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
    "ts": 1791842707,
-   "desc": "34 points"
+   "desc": "35 points"
   },
   {
    "source": "HN",
    "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
    "url": "https://github.com/maharshi365/deslop",
    "ts": 1791913977,
-   "desc": "28 points"
+   "desc": "31 points"
+  },
+  {
+   "source": "HN",
+   "title": "TV4 postpones show after AI agent erases edited material",
+   "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+   "ts": 1791973706,
+   "desc": "29 points"
   },
   {
    "source": "HN",
    "title": "Software engineers don't get to be Luddites about AI",
    "url": "https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
    "ts": 1791866925,
-   "desc": "27 points"
+   "desc": "28 points"
+  },
+  {
+   "source": "HN",
+   "title": "NetBSD may have found a new role: The AI-free FOSS OS",
+   "url": "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818",
+   "ts": 1791957982,
+   "desc": "25 points"
   },
   {
    "source": "HN",
@@ -3654,13 +3577,6 @@
    "url": "https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/",
    "ts": 1791872218,
    "desc": "15 points"
-  },
-  {
-   "source": "HN",
-   "title": "Hetzner: The New GPU Server GEX63 for Professional AI Workloads",
-   "url": "https://www.hetzner.com/_ray/pow",
-   "ts": 1791797707,
-   "desc": "14 points"
   }
  ]
 }
