@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-13T18:58:26.125168+00:00",
- "count": 523,
+ "generated_at": "2026-10-14T01:11:53.507079+00:00",
+ "count": 519,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 453,
+   "count": 450,
    "note": "49 账号"
   },
   {
@@ -472,6 +472,13 @@
   },
   {
    "source": "X @huggingface",
+   "title": "RT @NVIDIARTXSpark: llama.cpp now has a Windows app 🦙  Llama Windows makes it easy to run models locally, with optimizations for NVIDIA RTX…",
+   "url": "https://x.com/huggingface/status/2110105400058220955",
+   "ts": 1791923305,
+   "desc": "RT @NVIDIARTXSpark: llama.cpp now has a Windows app 🦙\n\nLlama Windows makes it easy to run models locally, with optimizations for NVIDIA RTX…"
+  },
+  {
+   "source": "X @huggingface",
    "title": "RT @linoy_tsaban: New H3 character swap LoRA🔥 amazing work from @Alissonerdx  LoRA: https://t.co/ggpfdCBlST Space: https://t.co/81Ub3URxrm…",
    "url": "https://x.com/huggingface/status/2110075331331661892",
    "ts": 1791916136,
@@ -604,11 +611,11 @@
    "desc": "RT @yb2698: Pi harness optimized for Qwen models? 👀\n\nWe tried to optimize the Pi harness for Qwen model series by trying to tweaking variou…"
   },
   {
-   "source": "X @huggingface",
-   "title": "RT @halcyonrayes: 3D worlds have been all over the internet 🌐 lately, so we put together the best ones across many models, for you to play…",
-   "url": "https://x.com/huggingface/status/2109646481422750068",
-   "ts": 1791813891,
-   "desc": "RT @halcyonrayes: 3D worlds have been all over the internet 🌐 lately, so we put together the best ones across many models, for you to play…"
+   "source": "X @NousResearch",
+   "title": "RT @fl_rn_st: Some personal news: I'm joining @NousResearch to build mobile. Truly honored to be part of this incredible team! More soon 👀",
+   "url": "https://x.com/NousResearch/status/2110121254435119371",
+   "ts": 1791927085,
+   "desc": "RT @fl_rn_st: Some personal news: I'm joining @NousResearch to build mobile. Truly honored to be part of this incredible team! More soon 👀"
   },
   {
    "source": "X @NousResearch",
@@ -920,6 +927,13 @@
   },
   {
    "source": "X @MiniMax_AI",
+   "title": "FastH3-Omni on Reactor - video with synchronized audio, from a single prompt.  Your daydreams have a sound department now.",
+   "url": "https://x.com/MiniMax_AI/status/2110104942107406441",
+   "ts": 1791923196,
+   "desc": "FastH3-Omni on Reactor - video with synchronized audio, from a single prompt.\n\nYour daydreams have a sound department now."
+  },
+  {
+   "source": "X @MiniMax_AI",
    "title": "MiniMax's President of Global Business, Linda Sheng, spoke today at the inaugural DBS Asia Future Forward Conference 2026 in Singapore. 🇸🇬  Alongside her was a distinguished lineup of government and business leaders, including Singapore Prime Ministe",
    "url": "https://x.com/MiniMax_AI/status/2109707713974526102",
    "ts": 1791828490,
@@ -1001,13 +1015,6 @@
    "url": "https://x.com/MiniMax_AI/status/2105372414557516212",
    "ts": 1790794874,
    "desc": "Impressive work by the @HeyGen on the launch of HeyGen Video! ✨\n\nBuilt on MiniMax H3 and post-trained by HeyGen, it brings production-quality video to businesses at a even more accessible cost.\n\nProud to provide the foundation for this work, and excited to see how far the HeyGen team is taking it."
-  },
-  {
-   "source": "X @MiniMax_AI",
-   "title": "Built on MiniMax H3, @Creatify_Labs' Boreal-H3 is a video model optimized for advertising, keeping products and characters consistent while following creative briefs more accurately.  Excited to see MiniMax H3 serve as the foundation for more frontie",
-   "url": "https://x.com/MiniMax_AI/status/2105361931750306044",
-   "ts": 1790792374,
-   "desc": "Built on MiniMax H3, @Creatify_Labs' Boreal-H3 is a video model optimized for advertising, keeping products and characters consistent while following creative briefs more accurately.\n\nExcited to see MiniMax H3 serve as the foundation for more frontier models tailored to specific industries! ✨"
   },
   {
    "source": "X @Zai_org",
@@ -1368,6 +1375,13 @@
   },
   {
    "source": "X @cursor_ai",
+   "title": "Gemini 4 Argon is now available in Cursor!  It scores 52.8% on CursorBench at default effort, on par with Opus 5.5.  Priced at $2/M input and $10/M output tokens. https://t.co/1wOk4NvgFJ",
+   "url": "https://x.com/cursor_ai/status/2110087611763368271",
+   "ts": 1791919064,
+   "desc": "Gemini 4 Argon is now available in Cursor!\n\nIt scores 52.8% on CursorBench at default effort, on par with Opus 5.5.\n\nPriced at $2/M input and $10/M output tokens. https://t.co/1wOk4NvgFJ"
+  },
+  {
+   "source": "X @cursor_ai",
    "title": "Cursor is now part of The X Subscription.  Current Cursor subscribers can keep their plan or switch to The X Subscription.  Paid plans share one usage pool across Cursor, Grok Build, and other Grok products, with twice the coding usage on Grok models",
    "url": "https://x.com/cursor_ai/status/2109783879490191502",
    "ts": 1791846649,
@@ -1379,27 +1393,6 @@
    "url": "https://x.com/cursor_ai/status/2108289748628566496",
    "ts": 1791490420,
    "desc": "The first chart usually raises the next question.\n\nAsk it in the same chat and /visualize answers with a new chart. https://t.co/NPdqP4c46r"
-  },
-  {
-   "source": "X @cursor_ai",
-   "title": "Download the Cursor iOS app and pair it with your computer: https://t.co/iHOGAsDRpV  On Enterprise? Ask your admin to turn it on.  Learn more: https://t.co/5jOKwvZjTK",
-   "url": "https://x.com/cursor_ai/status/2107618677470494728",
-   "ts": 1791330425,
-   "desc": "Download the Cursor iOS app and pair it with your computer: https://t.co/iHOGAsDRpV\n\nOn Enterprise? Ask your admin to turn it on.\n\nLearn more: https://t.co/5jOKwvZjTK"
-  },
-  {
-   "source": "X @cursor_ai",
-   "title": "The agent runs on your computer, so it keeps working even if your phone loses signal.",
-   "url": "https://x.com/cursor_ai/status/2107618665751576970",
-   "ts": 1791330422,
-   "desc": "The agent runs on your computer, so it keeps working even if your phone loses signal."
-  },
-  {
-   "source": "X @cursor_ai",
-   "title": "You can now control agents on your computer from your phone.  Check in, reply, or start new tasks from the Cursor iOS app. https://t.co/11dcZhRyrx",
-   "url": "https://x.com/cursor_ai/status/2107618653701296162",
-   "ts": 1791330419,
-   "desc": "You can now control agents on your computer from your phone.\n\nCheck in, reply, or start new tasks from the Cursor iOS app. https://t.co/11dcZhRyrx"
   },
   {
    "source": "X @cursor_ai",
@@ -1430,11 +1423,11 @@
    "desc": "Cursor can now build charts and diagrams right in the chat.\n\nUse /visualize to analyze data and see the answer inline. Available now in the Agents Window. https://t.co/oDR6jJvAGK"
   },
   {
-   "source": "X @cursor_ai",
-   "title": "Sonnet 5.5 is now available in Cursor!  It’s a strong model, performing on par with Opus in many tasks. https://t.co/iaJ5z67FVu",
-   "url": "https://x.com/cursor_ai/status/2104666044220821594",
-   "ts": 1790626462,
-   "desc": "Sonnet 5.5 is now available in Cursor!\n\nIt’s a strong model, performing on par with Opus in many tasks. https://t.co/iaJ5z67FVu"
+   "source": "X @opencode",
+   "title": "RT @thdxr: https://t.co/JAGCoUao8j https://t.co/eA1OtP88jU",
+   "url": "https://x.com/opencode/status/2110083203587531109",
+   "ts": 1791918013,
+   "desc": "RT @thdxr: https://t.co/JAGCoUao8j https://t.co/eA1OtP88jU"
   },
   {
    "source": "X @opencode",
@@ -1542,18 +1535,18 @@
    "desc": "Space Bunny's free period is ending however we're sponsoring it in our free tier for a few more days\n\nthe model is being tuned before reveal"
   },
   {
-   "source": "X @opencode",
-   "title": "Ling-3.1-flash is now free on OpenCode  560B total · 25B active · 262K context  inclusionAI’s latest model",
-   "url": "https://x.com/opencode/status/2106059771162087587",
-   "ts": 1790958752,
-   "desc": "Ling-3.1-flash is now free on OpenCode\n\n560B total · 25B active · 262K context\n\ninclusionAI’s latest model"
+   "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: DeepSeek V4.1 Flash now has $100 usage, next 3 days.  $10 GOAT → $100 credits.  After that, we're increasing it to $80.…",
+   "url": "https://x.com/CommandCodeAI/status/2110146314147451360",
+   "ts": 1791933060,
+   "desc": "RT @CommandCodeAI: DeepSeek V4.1 Flash now has $100 usage, next 3 days.\n\n$10 GOAT → $100 credits.\n\nAfter that, we're increasing it to $80.…"
   },
   {
    "source": "X @commandcodeai",
-   "title": "RT @CommandCodeAI: DeepSeek V4.1 Flash now has $100 usage, next 3 days.  $10 GOAT → $100 credits.  After that, we're increasing it to $80.…",
-   "url": "https://x.com/CommandCodeAI/status/2110036240024416722",
-   "ts": 1791906816,
-   "desc": "RT @CommandCodeAI: DeepSeek V4.1 Flash now has $100 usage, next 3 days.\n\n$10 GOAT → $100 credits.\n\nAfter that, we're increasing it to $80.…"
+   "title": "Gemini 4 Argon is now available in Command Code.  Multimodal reasoning with 1M token context window  For Pro, Max plans and the API.",
+   "url": "https://x.com/CommandCodeAI/status/2110085623143100505",
+   "ts": 1791918590,
+   "desc": "Gemini 4 Argon is now available in Command Code.\n\nMultimodal reasoning with 1M token context window\n\nFor Pro, Max plans and the API."
   },
   {
    "source": "X @commandcodeai",
@@ -1641,143 +1634,129 @@
   },
   {
    "source": "X @elonmusk",
-   "title": "🍻 🤣  Funny thing is that I hardly ever drink alcohol!",
-   "url": "https://x.com/elonmusk/status/2110082016838328713",
-   "ts": 1791917730,
-   "desc": "🍻 🤣\n\nFunny thing is that I hardly ever drink alcohol!"
+   "title": "Tesla self-driving feels like magic",
+   "url": "https://x.com/elonmusk/status/2110154332553597413",
+   "ts": 1791934972,
+   "desc": "Tesla self-driving feels like magic"
   },
   {
    "source": "X @elonmusk",
-   "title": "Congrats!  CEOs &amp; execs posting to the public directly on 𝕏 is the best way to get your message out and drive product sales.   Vastly more powerful and effective than a press release.",
-   "url": "https://x.com/elonmusk/status/2110077948384735481",
-   "ts": 1791916760,
-   "desc": "Congrats!\n\nCEOs &amp; execs posting to the public directly on 𝕏 is the best way to get your message out and drive product sales. \n\nVastly more powerful and effective than a press release."
+   "title": "RT @debs_obrien: The more I use Grok @bot, the more I see what it can do and it really is endless. I know this costs money but you really a…",
+   "url": "https://x.com/elonmusk/status/2110137566871900530",
+   "ts": 1791930975,
+   "desc": "RT @debs_obrien: The more I use Grok @bot, the more I see what it can do and it really is endless. I know this costs money but you really a…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @Av1dlive: i'm seriously considering switching full-time over to grok bot.  it's the closest thing i've found to hiring a real jarvis. i…",
-   "url": "https://x.com/elonmusk/status/2109966013714575870",
-   "ts": 1791890073,
-   "desc": "RT @Av1dlive: i'm seriously considering switching full-time over to grok bot.\n\nit's the closest thing i've found to hiring a real jarvis. i…"
+   "title": "RT @elonmusk: @RealNickMugalli Micron has been reasonable regarding future memory prices, while others have been extortionate, which is som…",
+   "url": "https://x.com/elonmusk/status/2110137506004099521",
+   "ts": 1791930960,
+   "desc": "RT @elonmusk: @RealNickMugalli Micron has been reasonable regarding future memory prices, while others have been extortionate, which is som…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @jerrod_lew: Grok Bot is the strongest personal agent I've used yet.  Just the usage on it increases so fast, and so I'm afraid to give…",
-   "url": "https://x.com/elonmusk/status/2109960773116252577",
-   "ts": 1791888824,
-   "desc": "RT @jerrod_lew: Grok Bot is the strongest personal agent I've used yet.\n\nJust the usage on it increases so fast, and so I'm afraid to give…"
+   "title": "RT @mark_k: Big update for Grok Bot! Version 0.70.2 brings some substantial new capabilities to @Bot!  Here's what's new:  • Bots can now c…",
+   "url": "https://x.com/elonmusk/status/2110132320544100657",
+   "ts": 1791929724,
+   "desc": "RT @mark_k: Big update for Grok Bot! Version 0.70.2 brings some substantial new capabilities to @Bot!\n\nHere's what's new:\n\n• Bots can now c…"
   },
   {
    "source": "X @elonmusk",
-   "title": "Grok @Bot is like hiring a super smart employee",
-   "url": "https://x.com/elonmusk/status/2109955246923641259",
-   "ts": 1791887506,
-   "desc": "Grok @Bot is like hiring a super smart employee"
+   "title": "RT @Michael_Fenech_: Grok Bot does my food shopping in less than 3 minutes.   Doing it myself would probably take an hour at the shops or 3…",
+   "url": "https://x.com/elonmusk/status/2110132234929995948",
+   "ts": 1791929703,
+   "desc": "RT @Michael_Fenech_: Grok Bot does my food shopping in less than 3 minutes. \n\nDoing it myself would probably take an hour at the shops or 3…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @Space_Station: The @SpaceX Dragon is counting down to its launch at 6:33 a.m. EDT today to resupply the Expedition 75 crew with over 6,…",
-   "url": "https://x.com/elonmusk/status/2109954637893964077",
-   "ts": 1791887361,
-   "desc": "RT @Space_Station: The @SpaceX Dragon is counting down to its launch at 6:33 a.m. EDT today to resupply the Expedition 75 crew with over 6,…"
+   "title": "RT @ICannot_Enough: My wife saw this post (video stolen from @ItsKimJava), now going viral again and asked me about it, so I showed her thi…",
+   "url": "https://x.com/elonmusk/status/2110129432836919505",
+   "ts": 1791929035,
+   "desc": "RT @ICannot_Enough: My wife saw this post (video stolen from @ItsKimJava), now going viral again and asked me about it, so I showed her thi…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @melvindvivas: https://t.co/5ttM9rgnMV",
-   "url": "https://x.com/elonmusk/status/2109954513050505575",
-   "ts": 1791887331,
-   "desc": "RT @melvindvivas: https://t.co/5ttM9rgnMV"
+   "title": "RT @poteto: Don't build alone, apply to join our Grok Bot X Communities https://t.co/1dEvXMU7Su! We have curated group chats for:  • GTM •…",
+   "url": "https://x.com/elonmusk/status/2110129124052230422",
+   "ts": 1791928962,
+   "desc": "RT @poteto: Don't build alone, apply to join our Grok Bot X Communities https://t.co/1dEvXMU7Su! We have curated group chats for:\n\n• GTM\n•…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @SpaceX: Watch Falcon 9 launch Dragon to the @Space_Station https://t.co/wkJ64eJSG4",
-   "url": "https://x.com/elonmusk/status/2109953737569505669",
-   "ts": 1791887146,
-   "desc": "RT @SpaceX: Watch Falcon 9 launch Dragon to the @Space_Station https://t.co/wkJ64eJSG4"
+   "title": "Assign Grok @Bot to your phone button for instant access",
+   "url": "https://x.com/elonmusk/status/2110128761471655978",
+   "ts": 1791928875,
+   "desc": "Assign Grok @Bot to your phone button for instant access"
   },
   {
    "source": "X @elonmusk",
-   "title": "Try Grok @Bot",
-   "url": "https://x.com/elonmusk/status/2109881121047781430",
-   "ts": 1791869833,
-   "desc": "Try Grok @Bot"
+   "title": "All Grok @Bots get their own email address and can help analyze and summarize your email box too",
+   "url": "https://x.com/elonmusk/status/2110127808718741920",
+   "ts": 1791928648,
+   "desc": "All Grok @Bots get their own email address and can help analyze and summarize your email box too"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @B_doong2daddy: Grok Bot fixed a customer's bug while I was out with my family. My app user emailed me about an error. My Grok Bot handl…",
-   "url": "https://x.com/elonmusk/status/2109879128573067414",
-   "ts": 1791869358,
-   "desc": "RT @B_doong2daddy: Grok Bot fixed a customer's bug while I was out with my family. My app user emailed me about an error. My Grok Bot handl…"
+   "title": "Starship 40’s return to base",
+   "url": "https://x.com/elonmusk/status/2110127406258286757",
+   "ts": 1791928552,
+   "desc": "Starship 40’s return to base"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @cb_doge: When Starlink helped save five lives at sea.  A boat called Magic Bus was sinking in a storm, far off the coast of North Carol…",
-   "url": "https://x.com/elonmusk/status/2109875497316298977",
-   "ts": 1791868492,
-   "desc": "RT @cb_doge: When Starlink helped save five lives at sea.\n\nA boat called Magic Bus was sinking in a storm, far off the coast of North Carol…"
+   "title": "Grok @Bot detects scam emails!",
+   "url": "https://x.com/elonmusk/status/2110125937551397151",
+   "ts": 1791928202,
+   "desc": "Grok @Bot detects scam emails!"
   },
   {
    "source": "X @elonmusk",
-   "title": "Grok @Bot memory transfer",
-   "url": "https://x.com/elonmusk/status/2109867516646637579",
-   "ts": 1791866590,
-   "desc": "Grok @Bot memory transfer"
+   "title": "RT @MELANIATRUMP: THE 2027 PRESIDENTIAL SUPERINTELLIGENCE CHALLENGE https://t.co/skaeRtnazE",
+   "url": "https://x.com/elonmusk/status/2110125729656578471",
+   "ts": 1791928152,
+   "desc": "RT @MELANIATRUMP: THE 2027 PRESIDENTIAL SUPERINTELLIGENCE CHALLENGE https://t.co/skaeRtnazE"
   },
   {
    "source": "X @elonmusk",
-   "title": "Of course",
-   "url": "https://x.com/elonmusk/status/2109867020091072915",
-   "ts": 1791866471,
-   "desc": "Of course"
+   "title": "RT @dvorahfr: I asked @grok  @bot  to explain what they are used:  for here is the result with Grok @imagine .   Who better than Grok Bot t…",
+   "url": "https://x.com/elonmusk/status/2110125680826405119",
+   "ts": 1791928141,
+   "desc": "RT @dvorahfr: I asked @grok  @bot  to explain what they are used:\n for here is the result with Grok @imagine . \n\nWho better than Grok Bot t…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @SpaceX: Falcon 9 launches 27 @Starlink satellites from California https://t.co/WdYeCRC8Z2",
-   "url": "https://x.com/elonmusk/status/2109860741121503681",
-   "ts": 1791864974,
-   "desc": "RT @SpaceX: Falcon 9 launches 27 @Starlink satellites from California https://t.co/WdYeCRC8Z2"
+   "title": "RT @yunta_tsai: With an abundance of agentic bots, anyone can operate like a CEO—with zero overhead from interviewing, hiring, or assemblin…",
+   "url": "https://x.com/elonmusk/status/2110125534550397227",
+   "ts": 1791928106,
+   "desc": "RT @yunta_tsai: With an abundance of agentic bots, anyone can operate like a CEO—with zero overhead from interviewing, hiring, or assemblin…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @cb_doge: BREAKING: South Korea’s Gyeongbuk government brings @Starlink to its fire service to help protect lives in remote mountain are…",
-   "url": "https://x.com/elonmusk/status/2109832196521357635",
-   "ts": 1791858169,
-   "desc": "RT @cb_doge: BREAKING: South Korea’s Gyeongbuk government brings @Starlink to its fire service to help protect lives in remote mountain are…"
+   "title": "Starlink brings Internet access to remote places",
+   "url": "https://x.com/elonmusk/status/2110125336759296170",
+   "ts": 1791928059,
+   "desc": "Starlink brings Internet access to remote places"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @SpaceX: Deployment of 27 @Starlink satellites confirmed",
-   "url": "https://x.com/elonmusk/status/2109824758888165605",
-   "ts": 1791856395,
-   "desc": "RT @SpaceX: Deployment of 27 @Starlink satellites confirmed"
+   "title": "RT @iam_smx: Grok Bot is really the value for money  It researches, writes, designs images, edits videos, codes, handles email and runs sch…",
+   "url": "https://x.com/elonmusk/status/2110125156199014881",
+   "ts": 1791928016,
+   "desc": "RT @iam_smx: Grok Bot is really the value for money\n\nIt researches, writes, designs images, edits videos, codes, handles email and runs sch…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @ErikaDonalds: @thejakebuzz I am adding new use cases to Grok @bot daily.   Kitchen - gives me recipes to match what I have in stock and…",
-   "url": "https://x.com/elonmusk/status/2109822906670682387",
-   "ts": 1791855954,
-   "desc": "RT @ErikaDonalds: @thejakebuzz I am adding new use cases to Grok @bot daily. \n\nKitchen - gives me recipes to match what I have in stock and…"
+   "title": "RT @grok: Try the Supabase plugin in @bot to monitor, debug, and ship changes to your backend",
+   "url": "https://x.com/elonmusk/status/2110125116936060998",
+   "ts": 1791928006,
+   "desc": "RT @grok: Try the Supabase plugin in @bot to monitor, debug, and ship changes to your backend"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @edleonklinger: I think I have experienced “AGI”…  Just did a 30-minute “phone call” with @bot. Together we got back to about 20 emails,…",
-   "url": "https://x.com/elonmusk/status/2109822476272455775",
-   "ts": 1791855851,
-   "desc": "RT @edleonklinger: I think I have experienced “AGI”…\n\nJust did a 30-minute “phone call” with @bot. Together we got back to about 20 emails,…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @thesimaximalist: I’m addicted to Grok Imagine 😂 @grok @imagine  Reminds me of when I first started using Claude Code last year. 🚀🚀",
-   "url": "https://x.com/elonmusk/status/2109822046813237395",
-   "ts": 1791855749,
-   "desc": "RT @thesimaximalist: I’m addicted to Grok Imagine 😂\n@grok @imagine\n\nReminds me of when I first started using Claude Code last year. 🚀🚀"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Cicily_aura: Grok Bot is best thought of as a highly capable employee that works around the clock and handles tasks efficiently. From r…",
-   "url": "https://x.com/elonmusk/status/2109821369643114558",
-   "ts": 1791855587,
-   "desc": "RT @Cicily_aura: Grok Bot is best thought of as a highly capable employee that works around the clock and handles tasks efficiently. From r…"
+   "title": "Try @Starlink Internet!",
+   "url": "https://x.com/elonmusk/status/2110125050074669471",
+   "ts": 1791927990,
+   "desc": "Try @Starlink Internet!"
   },
   {
    "source": "X @sama",
@@ -2404,6 +2383,20 @@
   },
   {
    "source": "X @sundarpichai",
+   "title": "Good summary of our security and alignment work for Argon 4.",
+   "url": "https://x.com/sundarpichai/status/2110108367247294885",
+   "ts": 1791924013,
+   "desc": "Good summary of our security and alignment work for Argon 4."
+  },
+  {
+   "source": "X @sundarpichai",
+   "title": "RT @emollick: Using Gemini 4 makes you realize how many other models must be distilling Claude/GPT (or using a similar training pipeline).…",
+   "url": "https://x.com/sundarpichai/status/2110108038262931850",
+   "ts": 1791923934,
+   "desc": "RT @emollick: Using Gemini 4 makes you realize how many other models must be distilling Claude/GPT (or using a similar training pipeline).…"
+  },
+  {
+   "source": "X @sundarpichai",
    "title": "RT @levie: At Box, we've been testing Gemini 4 Argon on our Box AI Complex Work eval for the past week. It's a huge upgrade over Gemini 3.1…",
    "url": "https://x.com/sundarpichai/status/2110072543088644398",
    "ts": 1791915472,
@@ -2473,18 +2466,25 @@
    "desc": "I remember the first meeting where the team pitched the idea of putting compute in space - exciting idea!\n\nToday's successful launch with our partner @planet prototype satellite shows how far we've come...and how far there is to go. Thanks for the lift, @SpaceX, another spectacular booster landing too🚀"
   },
   {
-   "source": "X @sundarpichai",
-   "title": "Great to meet today with @POTUS, @JDVance, @SpeakerJohnson and Administration + tech leaders. Important conversation and we signed today the White House Accord on Super Intelligence.  As I shared today, Google has invested hundreds of billions in the",
-   "url": "https://x.com/sundarpichai/status/2105121763176894804",
-   "ts": 1790735114,
-   "desc": "Great to meet today with @POTUS, @JDVance, @SpeakerJohnson and Administration + tech leaders. Important conversation and we signed today the White House Accord on Super Intelligence.\n\nAs I shared today, Google has invested hundreds of billions in the last two years alone, with more to come, across the entire stack, to deliver benefits for America and the world.  We’re working to build products tha"
+   "source": "X @ylecun",
+   "title": "RT @KenRoth: Trump would sacrifice Ukraine for his corruption. He has implied that the point of allowing Russia to sell diesel is to lower…",
+   "url": "https://x.com/ylecun/status/2110150115436687716",
+   "ts": 1791933966,
+   "desc": "RT @KenRoth: Trump would sacrifice Ukraine for his corruption. He has implied that the point of allowing Russia to sell diesel is to lower…"
   },
   {
-   "source": "X @sundarpichai",
-   "title": "Can our TPUs survive and operate in space? Well, we're going to find out.  Project Suncatcher is hitching a ride aboard @SpaceX's Transporter-18 mission, testing a prototype satellite built in partnership with @planet  One small step for TPUs.... htt",
-   "url": "https://x.com/sundarpichai/status/2103209164072010051",
-   "ts": 1790279115,
-   "desc": "Can our TPUs survive and operate in space? Well, we're going to find out.\n\nProject Suncatcher is hitching a ride aboard @SpaceX's Transporter-18 mission, testing a prototype satellite built in partnership with @planet\n\nOne small step for TPUs.... https://t.co/FuZoj7c0Hl"
+   "source": "X @ylecun",
+   "title": "RT @SteveRattner: Trump’s promised $5,000 post-midterm checks would cost $1.2 trillion, more than the entire Pentagon budget.  Add that to…",
+   "url": "https://x.com/ylecun/status/2110149941805166682",
+   "ts": 1791933925,
+   "desc": "RT @SteveRattner: Trump’s promised $5,000 post-midterm checks would cost $1.2 trillion, more than the entire Pentagon budget.\n\nAdd that to…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @berkerdemirel97: In JEPA, are we preventing collapse in the representation we actually use downstream? TLDR: not necessarily. A high-ra…",
+   "url": "https://x.com/ylecun/status/2110131917777735890",
+   "ts": 1791929628,
+   "desc": "RT @berkerdemirel97: In JEPA, are we preventing collapse in the representation we actually use downstream?\nTLDR: not necessarily. A high-ra…"
   },
   {
    "source": "X @ylecun",
@@ -2604,27 +2604,6 @@
    "url": "https://x.com/ylecun/status/2109184742654611481",
    "ts": 1791703804,
    "desc": "RT @PessimistsArc: “Faceless machines that can out think any man steadily move into new areas formerly reserved for the mind. They are elec…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @KempeLab: Huge pleasure to participate in this émission of Radio France Inter on AI in the great Big Bang series: https://t.co/v5oRQ3NB…",
-   "url": "https://x.com/ylecun/status/2108997072238289303",
-   "ts": 1791659059,
-   "desc": "RT @KempeLab: Huge pleasure to participate in this émission of Radio France Inter on AI in the great Big Bang series: https://t.co/v5oRQ3NB…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @KenRoth: I discuss how Trump's attack on the International Criminal Court is an effort to make the world safe for American and Israeli…",
-   "url": "https://x.com/ylecun/status/2108996948678312351",
-   "ts": 1791659030,
-   "desc": "RT @KenRoth: I discuss how Trump's attack on the International Criminal Court is an effort to make the world safe for American and Israeli…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @artemZholus: Introducing RoboJEPA, the first scaling law for multiembodiment world models.  We scaled JEPA predictors up to 8B params,…",
-   "url": "https://x.com/ylecun/status/2108983952316694970",
-   "ts": 1791655931,
-   "desc": "RT @artemZholus: Introducing RoboJEPA, the first scaling law for multiembodiment world models.\n\nWe scaled JEPA predictors up to 8B params,…"
   },
   {
    "source": "X @AndrewYNg",
@@ -2999,6 +2978,13 @@
   },
   {
    "source": "X @thsottiaux",
+   "title": "Day 9/  We've rolled out optimizations to how we store state on disk for the chatgpt &amp; codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users running out of disk space.",
+   "url": "https://x.com/thsottiaux/status/2110151780478927344",
+   "ts": 1791934363,
+   "desc": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt &amp; codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users running out of disk space."
+  },
+  {
+   "source": "X @thsottiaux",
    "title": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
    "url": "https://x.com/thsottiaux/status/2109892247580000595",
    "ts": 1791872486,
@@ -3073,13 +3059,6 @@
    "url": "https://x.com/thsottiaux/status/2108646052178092403",
    "ts": 1791575370,
    "desc": "Day 5 (dots edition)/\n\nYou can now create and text your dot entirely from the ChatGPT mobile app. Impressed so many created them via the desktop/web app previously. Time to scale!"
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "Today, we are announcing ChatGPT.  It is here: https://t.co/Pgk3THSyOJ",
-   "url": "https://x.com/thsottiaux/status/2108349826727588000",
-   "ts": 1791504744,
-   "desc": "Today, we are announcing ChatGPT.\n\nIt is here: https://t.co/Pgk3THSyOJ"
   },
   {
    "source": "X @lydiahallie",
@@ -3485,21 +3464,21 @@
    "title": "AI is a tool and using it well takes skill",
    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
    "ts": 1791841218,
-   "desc": "601 points"
+   "desc": "648 points"
   },
   {
    "source": "HN",
    "title": "QGIS enacts moratorium on AI contributions",
    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
    "ts": 1791804144,
-   "desc": "384 points"
+   "desc": "385 points"
   },
   {
    "source": "HN",
    "title": "AI coding agents generate more code, but not more software",
    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
    "ts": 1791825241,
-   "desc": "355 points"
+   "desc": "359 points"
   },
   {
    "source": "HN",
@@ -3510,73 +3489,80 @@
   },
   {
    "source": "HN",
-   "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-   "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-   "ts": 1791840935,
-   "desc": "298 points"
-  },
-  {
-   "source": "HN",
    "title": "'AI' Is Not a Tool by Rich Hickey",
    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
    "ts": 1791828025,
-   "desc": "298 points"
+   "desc": "302 points"
   },
   {
    "source": "HN",
-   "title": "AI models can provably hide arbitrary capabilities",
-   "url": "https://arxiv.org/abs/2610.13928",
-   "ts": 1791857228,
-   "desc": "265 points"
-  },
-  {
-   "source": "HN",
-   "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-   "url": "https://taylor.town/kk-ai-2026",
-   "ts": 1791818205,
-   "desc": "210 points"
+   "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+   "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+   "ts": 1791840935,
+   "desc": "301 points"
   },
   {
    "source": "HN",
    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
    "url": "https://blog.character.ai/an-update-on-character-ai/",
    "ts": 1791876514,
-   "desc": "200 points"
+   "desc": "285 points"
   },
   {
    "source": "HN",
-   "title": "Character.ai Files for Bankruptcy",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-   "ts": 1791890648,
-   "desc": "144 points"
+   "title": "AI models can provably hide arbitrary capabilities",
+   "url": "https://arxiv.org/abs/2610.13928",
+   "ts": 1791857228,
+   "desc": "272 points"
   },
   {
    "source": "HN",
    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
    "ts": 1791905150,
-   "desc": "136 points"
+   "desc": "242 points"
+  },
+  {
+   "source": "HN",
+   "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+   "url": "https://taylor.town/kk-ai-2026",
+   "ts": 1791818205,
+   "desc": "215 points"
+  },
+  {
+   "source": "HN",
+   "title": "Character.ai Files for Bankruptcy",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+   "ts": 1791890648,
+   "desc": "145 points"
+  },
+  {
+   "source": "HN",
+   "title": "How to engineer an AI harness for game development",
+   "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+   "ts": 1791900863,
+   "desc": "129 points"
   },
   {
    "source": "HN",
    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
    "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
    "ts": 1791871052,
-   "desc": "103 points"
+   "desc": "110 points"
   },
   {
    "source": "HN",
    "title": "AI models may be capable of self-replicating without access to a datacenter",
    "url": "https://www.anthropic.com/research/self-replicating-ai",
    "ts": 1791833129,
-   "desc": "95 points"
+   "desc": "106 points"
   },
   {
    "source": "HN",
    "title": "Epic Games tells employees to use AI to get Disney game done",
    "url": "https://www.avclub.com/epic-games-disney-ai-delay",
    "ts": 1791835662,
-   "desc": "83 points"
+   "desc": "84 points"
   },
   {
    "source": "HN",
@@ -3587,13 +3573,6 @@
   },
   {
    "source": "HN",
-   "title": "How to engineer an AI harness for game development",
-   "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-   "ts": 1791900863,
-   "desc": "56 points"
-  },
-  {
-   "source": "HN",
    "title": "\"Today we're laying off a large part of the Airtable team \"",
    "url": "https://twitter.com/fedesimio/status/2109713695165329511",
    "ts": 1791834976,
@@ -3601,10 +3580,31 @@
   },
   {
    "source": "HN",
+   "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+   "url": "https://parsimony.lasu.dev/",
+   "ts": 1791921031,
+   "desc": "42 points"
+  },
+  {
+   "source": "HN",
+   "title": "Scientists wonder: Is my AI stealing my ideas?",
+   "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+   "ts": 1791907551,
+   "desc": "41 points"
+  },
+  {
+   "source": "HN",
    "title": "AI models may soon self-replicate without access to data centers",
    "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
    "ts": 1791886098,
-   "desc": "36 points"
+   "desc": "39 points"
+  },
+  {
+   "source": "HN",
+   "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+   "url": "https://pulseos.finance",
+   "ts": 1791933203,
+   "desc": "33 points"
   },
   {
    "source": "HN",
@@ -3622,10 +3622,10 @@
   },
   {
    "source": "HN",
-   "title": "Scientists wonder: Is my AI stealing my ideas?",
-   "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
-   "ts": 1791907551,
-   "desc": "27 points"
+   "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+   "url": "https://github.com/maharshi365/deslop",
+   "ts": 1791913977,
+   "desc": "25 points"
   },
   {
    "source": "HN",
@@ -3643,20 +3643,6 @@
   },
   {
    "source": "HN",
-   "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-   "url": "https://github.com/plimsollmark/plimsoll",
-   "ts": 1791762479,
-   "desc": "16 points"
-  },
-  {
-   "source": "HN",
-   "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
-   "url": "https://thelastwave.substack.com/p/theres-no-going-back",
-   "ts": 1791753227,
-   "desc": "16 points"
-  },
-  {
-   "source": "HN",
    "title": "Character.ai files for bankruptcy, agrees to sell some assets for $20M",
    "url": "https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/",
    "ts": 1791872218,
@@ -3671,24 +3657,10 @@
   },
   {
    "source": "HN",
-   "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
-   "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
-   "ts": 1791750903,
-   "desc": "15 points"
-  },
-  {
-   "source": "HN",
    "title": "Hetzner: The New GPU Server GEX63 for Professional AI Workloads",
    "url": "https://www.hetzner.com/_ray/pow",
    "ts": 1791797707,
    "desc": "14 points"
-  },
-  {
-   "source": "HN",
-   "title": "Ask HN: What to Build in the AI Era?",
-   "url": "https://news.ycombinator.com/item?id=50049047",
-   "ts": 1791760456,
-   "desc": "13 points"
   }
  ]
 }
