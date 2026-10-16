@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-16T07:14:53.652975+00:00",
- "count": 518,
+ "generated_at": "2026-10-16T13:13:57.754440+00:00",
+ "count": 520,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 449,
+   "count": 451,
    "note": "49 账号"
   },
   {
@@ -15,7 +15,7 @@
   {
    "source": "RSSHub X",
    "count": 0,
-   "note": "https://rsshub.ktachibana.party"
+   "note": "https://rsshub.rssforever.com"
   },
   {
    "source": "HN",
@@ -175,6 +175,13 @@
    "url": "https://x.com/AnthropicAI/status/2103541577083719888",
    "ts": 1790358368,
    "desc": "New on the Science Blog: Yes, Claude can do Nine Loops.\n\nTheoretical physicists predict how particles behave using formulas called scattering amplitudes. These are notoriously hard to compute, so researchers work with layers of increasingly fine corrections called “loops”—each added loop makes the answer more precise but takes exponentially more computation. Most calculations stop at two or three"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "Together with scientists around the world, our models and tools are helping make disease more detectable, treatable, and preventable. 🧬  From pinpointing rare genetic variants to speeding up drug discovery, here’s how we’re helping turn lab breakthro",
+   "url": "https://x.com/GoogleDeepMind/status/2111038207240388770",
+   "ts": 1792145704,
+   "desc": "Together with scientists around the world, our models and tools are helping make disease more detectable, treatable, and preventable. 🧬\n\nFrom pinpointing rare genetic variants to speeding up drug discovery, here’s how we’re helping turn lab breakthroughs into real-world care → https://t.co/sM5G0CLcKJ"
   },
   {
    "source": "X @GoogleDeepMind",
@@ -360,6 +367,13 @@
   },
   {
    "source": "X @AIatMeta",
+   "title": "RT @natolambert: Guys this is like my superbowl I waited so long for US open weight models to be relevant again. Before today the US models…",
+   "url": "https://x.com/AIatMeta/status/2111078665014645196",
+   "ts": 1792155350,
+   "desc": "RT @natolambert: Guys this is like my superbowl I waited so long for US open weight models to be relevant again. Before today the US models…"
+  },
+  {
+   "source": "X @AIatMeta",
    "title": "RT @ArtificialAnlys: Meta has released Muse Spark Open, an 816B (42B active) open-weights model that scores 39 on the Artificial Analysis I…",
    "url": "https://x.com/AIatMeta/status/2110895630470324448",
    "ts": 1792111711,
@@ -451,6 +465,13 @@
   },
   {
    "source": "X @MistralAI",
+   "title": "Turns out le Chonk is into rocket science.  Mistral Large 4 scoring well in engineering and astronomy on Ulam’s private benchmark, STEMBench: https://t.co/OW3reppzWN https://t.co/3BbnbEuYvP",
+   "url": "https://x.com/MistralAI/status/2111056939841163336",
+   "ts": 1792150170,
+   "desc": "Turns out le Chonk is into rocket science.\n\nMistral Large 4 scoring well in engineering and astronomy on Ulam’s private benchmark, STEMBench: https://t.co/OW3reppzWN https://t.co/3BbnbEuYvP"
+  },
+  {
+   "source": "X @MistralAI",
    "title": "Welcome to Mistral, New Material. Let’s bring design to mission-critical AI.",
    "url": "https://x.com/MistralAI/status/2110377713525796942",
    "ts": 1791988230,
@@ -485,11 +506,18 @@
    "desc": "https://t.co/S1Kg1eaiuc"
   },
   {
-   "source": "X @MistralAI",
-   "title": "We are aware of a claim alleging unauthorized access to our systems. Following a thorough investigation, we have found no evidence to support this claim and can confirm that our systems have not been compromised.",
-   "url": "https://x.com/MistralAI/status/2100824200126529725",
-   "ts": 1789710495,
-   "desc": "We are aware of a claim alleging unauthorized access to our systems. Following a thorough investigation, we have found no evidence to support this claim and can confirm that our systems have not been compromised."
+   "source": "X @huggingface",
+   "title": "RT @PrismML: Today, we’re releasing Bonsai 2 2B, 4B, and 9B.  Based on Qwen3.5, these new ternary models bring stronger reasoning, visual u…",
+   "url": "https://x.com/huggingface/status/2111080769468674531",
+   "ts": 1792155852,
+   "desc": "RT @PrismML: Today, we’re releasing Bonsai 2 2B, 4B, and 9B.\n\nBased on Qwen3.5, these new ternary models bring stronger reasoning, visual u…"
+  },
+  {
+   "source": "X @huggingface",
+   "title": "RT @mervenoyann: Meta is releasing Muse Spark Open as the most-capable US open-weight model.. 🥁 and it's an agent focused MoE that takes al…",
+   "url": "https://x.com/huggingface/status/2110999085377540409",
+   "ts": 1792136377,
+   "desc": "RT @mervenoyann: Meta is releasing Muse Spark Open as the most-capable US open-weight model.. 🥁 and it's an agent focused MoE that takes al…"
   },
   {
    "source": "X @huggingface",
@@ -497,13 +525,6 @@
    "url": "https://x.com/huggingface/status/2110793369727254886",
    "ts": 1792087330,
    "desc": "RT @ClementDelangue: llama serve -hf ggml-org/Muse-Spark-Open-816B-A42B-GGUF:Q2_K (on two mac studios). \n\nWell done @finkd &amp; @johnternus! h…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @mervenoyann: Meta is releasing Muse Spark Open as the most-capable US open-weight model.. 🥁 and it's an agent focused MoE that takes al…",
-   "url": "https://x.com/huggingface/status/2110788307043147882",
-   "ts": 1792086123,
-   "desc": "RT @mervenoyann: Meta is releasing Muse Spark Open as the most-capable US open-weight model.. 🥁 and it's an agent focused MoE that takes al…"
   },
   {
    "source": "X @huggingface",
@@ -623,13 +644,6 @@
    "url": "https://x.com/huggingface/status/2109909023491547600",
    "ts": 1791876486,
    "desc": "RT @ariG23498: I was finally able to push the kernels cookbook out!\n\nWhat we cover here:\n&gt; using HF kernels from the Hub\n&gt; hardcoding trito…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @NielsRogge: Decision Model (also called System One model or typed decision model) has been added as a method to Papers with Code  Explo…",
-   "url": "https://x.com/huggingface/status/2109896376033137125",
-   "ts": 1791873470,
-   "desc": "RT @NielsRogge: Decision Model (also called System One model or typed decision model) has been added as a method to Papers with Code\n\nExplo…"
   },
   {
    "source": "X @NousResearch",
@@ -1291,6 +1305,13 @@
   },
   {
    "source": "X @TencentHunyuan",
+   "title": "🚀 Hy Memory 2.0 is out — open-source model, framework, and MemHub.  Your private memory steward. Framework handles chat, work & code memories.  #1 open-source on 4 benchmarks.  Hy-Memory-30B-A3B beats Opus 5 across major frameworks. MemHub (CLI + Mac",
+   "url": "https://x.com/TencentHunyuan/status/2111027329816465435",
+   "ts": 1792143111,
+   "desc": "🚀 Hy Memory 2.0 is out — open-source model, framework, and MemHub. \nYour private memory steward.\nFramework handles chat, work & code memories. \n#1 open-source on 4 benchmarks. \nHy-Memory-30B-A3B beats Opus 5 across major frameworks.\nMemHub (CLI + Mac) syncs across 10+ AI tools.\n\n💻➡️\n\n🔗 SDK & MemHub: https://t.co/uP58VJanj8\n🔗 Model: https://t.co/nTQbJ2q8dl #HyMemory #AgentMemory"
+  },
+  {
+   "source": "X @TencentHunyuan",
    "title": "AMAZING😍",
    "url": "https://x.com/TencentHunyuan/status/2110263652746244350",
    "ts": 1791961036,
@@ -1386,13 +1407,6 @@
    "url": "https://x.com/TencentHunyuan/status/2102322081715409303",
    "ts": 1790067618,
    "desc": "RT @AiwithShoaib: @Miora_Design Free for a limited time. Miora throws in a 2-week free trial.\n\n→ open Miora in your browser\n→ sign in with…"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "The AI says the site is done. Then the homepage errors, the buttons overlap, and it added a login flow you never asked for. 🙃 Introduces WebCraftBench: agents actually use the live app, coverage-guided exploration finds what never got reached, then w",
-   "url": "https://x.com/TencentHunyuan/status/2102320407860977861",
-   "ts": 1790067219,
-   "desc": "The AI says the site is done. Then the homepage errors, the buttons overlap, and it added a login flow you never asked for. 🙃\nIntroduces WebCraftBench: agents actually use the live app, coverage-guided exploration finds what never got reached, then we score aesthetics, usability, and whether the original request was met.\nOn 197 human-validated pairs, it matches human preference 85.3% of the time."
   },
   {
    "source": "X @cursor_ai",
@@ -1886,6 +1900,13 @@
   },
   {
    "source": "X @RayDalio",
+   "title": "People typically feel bad about their mistakes because they think in a shortsighted way about the bad outcome and not about the evolutionary process of which mistakes are an integral part.   I once had a ski instructor who had also given lessons to M",
+   "url": "https://x.com/RayDalio/status/2111074441866219982",
+   "ts": 1792154343,
+   "desc": "People typically feel bad about their mistakes because they think in a shortsighted way about the bad outcome and not about the evolutionary process of which mistakes are an integral part. \n\nI once had a ski instructor who had also given lessons to Michael Jordan, the greatest basketball player of all time. Jordan, he told me, reveled in his mistakes, seeing each of them as an opportunity to impro"
+  },
+  {
+   "source": "X @RayDalio",
    "title": "You only have so much time and energy; make sure you are investing them in exploring the problems that, if fixed, will yield you the biggest returns. #principleoftheday https://t.co/MeITIGExpw",
    "url": "https://x.com/RayDalio/status/2110703932523638801",
    "ts": 1792066007,
@@ -2009,13 +2030,6 @@
    "url": "https://x.com/RayDalio/status/2106096887484829832",
    "ts": 1790967602,
    "desc": "They are rare. Such relationships take time to build and can only be built if you treat such people well. #principleoftheday https://t.co/ZaCxQi6ZuQ"
-  },
-  {
-   "source": "X @RayDalio",
-   "title": "When we are in meetings, we use a tool for what we call \"dotting.\" It allows everyone to convey what they are seeing and how each person is behaving in real time. You can look at a screen and see, in color, how people are seeing each other. You see w",
-   "url": "https://x.com/RayDalio/status/2106051461616476525",
-   "ts": 1790956771,
-   "desc": "When we are in meetings, we use a tool for what we call \"dotting.\" It allows everyone to convey what they are seeing and how each person is behaving in real time.\nYou can look at a screen and see, in color, how people are seeing each other. You see who thinks something is the most arrogant thing, or the stupidest thing, or that you aren't being considerate.\n\nWhen you see that visualization in real"
   },
   {
    "source": "X @karpathy",
@@ -2481,6 +2495,13 @@
   },
   {
    "source": "X @ylecun",
+   "title": "RT @arthurmensch: Should Europe leave frontier AI to the Americans and the Chinese?  The idea has gained ground in Europe. It is a fundamen…",
+   "url": "https://x.com/ylecun/status/2111054554301112639",
+   "ts": 1792149601,
+   "desc": "RT @arthurmensch: Should Europe leave frontier AI to the Americans and the Chinese?\n\nThe idea has gained ground in Europe. It is a fundamen…"
+  },
+  {
+   "source": "X @ylecun",
    "title": "RT @euinc_petition: Europe’s founders need a European standard to compete globally from day one.   Europe’s leaders committed to delivering…",
    "url": "https://x.com/ylecun/status/2110948817939963940",
    "ts": 1792124392,
@@ -2611,13 +2632,6 @@
    "url": "https://x.com/ylecun/status/2109665523831112021",
    "ts": 1791818431,
    "desc": "RT @KenRoth: Trump is begging to be impeached again. \"He hasn’t done anything as singularly transgressive as Jan. 6. But in a real sense, t…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @pentagoniac: Join Anthony Annunziata, @ylecun and myself tomorrow, in Tokyo, the world headquarters of Industrial AI.  We will talk abo…",
-   "url": "https://x.com/ylecun/status/2109661441792037306",
-   "ts": 1791817457,
-   "desc": "RT @pentagoniac: Join Anthony Annunziata, @ylecun and myself tomorrow, in Tokyo, the world headquarters of Industrial AI.\n\nWe will talk abo…"
   },
   {
    "source": "X @AndrewYNg",
@@ -3457,28 +3471,35 @@
    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
    "ts": 1791999923,
-   "desc": "940 points"
+   "desc": "944 points"
   },
   {
    "source": "HN",
    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
    "ts": 1792002772,
-   "desc": "378 points"
-  },
-  {
-   "source": "HN",
-   "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-   "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-   "ts": 1792076328,
-   "desc": "237 points"
+   "desc": "380 points"
   },
   {
    "source": "HN",
    "title": "Why We're Banning AI",
    "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
    "ts": 1792089149,
-   "desc": "234 points"
+   "desc": "245 points"
+  },
+  {
+   "source": "HN",
+   "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+   "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+   "ts": 1792076328,
+   "desc": "242 points"
+  },
+  {
+   "source": "HN",
+   "title": "Using AI to reverse engineer hardware",
+   "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+   "ts": 1792074915,
+   "desc": "218 points"
   },
   {
    "source": "HN",
@@ -3489,24 +3510,10 @@
   },
   {
    "source": "HN",
-   "title": "Using AI to reverse engineer hardware",
-   "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-   "ts": 1792074915,
-   "desc": "171 points"
-  },
-  {
-   "source": "HN",
-   "title": "TV4 postpones show after AI agent erases edited material",
-   "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-   "ts": 1791973706,
-   "desc": "155 points"
-  },
-  {
-   "source": "HN",
    "title": "Has AI tells",
    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
    "ts": 1791996762,
-   "desc": "136 points"
+   "desc": "137 points"
   },
   {
    "source": "HN",
@@ -3527,14 +3534,7 @@
    "title": "Market selloff, rising rates test AI data centre deal boom",
    "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
    "ts": 1792081060,
-   "desc": "69 points"
-  },
-  {
-   "source": "HN",
-   "title": "I let an AI run my startup for a week",
-   "url": "https://daily.tinyprojects.dev/221",
-   "ts": 1791973548,
-   "desc": "66 points"
+   "desc": "71 points"
   },
   {
    "source": "HN",
@@ -3548,13 +3548,20 @@
    "title": "Frontier Pre-Training at Microsoft AI",
    "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
    "ts": 1792080733,
-   "desc": "40 points"
+   "desc": "42 points"
   },
   {
    "source": "HN",
    "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
    "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
    "ts": 1792102284,
+   "desc": "38 points"
+  },
+  {
+   "source": "HN",
+   "title": "Danish Supreme Court Finds That AI CSAM Is CSAM",
+   "url": "https://domstol.fe1.tangora.com/Domsoversigt-(H%C3%B8jesteret).31478.aspx?recordid31478=2930",
+   "ts": 1792082398,
    "desc": "37 points"
   },
   {
@@ -3566,17 +3573,17 @@
   },
   {
    "source": "HN",
-   "title": "Danish Supreme Court Finds That AI CSAM Is CSAM",
-   "url": "https://domstol.fe1.tangora.com/Domsoversigt-(H%C3%B8jesteret).31478.aspx?recordid31478=2930",
-   "ts": 1792082398,
-   "desc": "32 points"
+   "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+   "url": "https://github.com/awslabs/aidlc-workflows",
+   "ts": 1792048839,
+   "desc": "25 points"
   },
   {
    "source": "HN",
-   "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-   "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-   "ts": 1791973584,
-   "desc": "28 points"
+   "title": "Companies rushed in on AI. Now some are pulling back",
+   "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+   "ts": 1792088969,
+   "desc": "25 points"
   },
   {
    "source": "HN",
@@ -3587,16 +3594,9 @@
   },
   {
    "source": "HN",
-   "title": "Companies rushed in on AI. Now some are pulling back",
-   "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
-   "ts": 1792088969,
-   "desc": "24 points"
-  },
-  {
-   "source": "HN",
-   "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-   "url": "https://github.com/awslabs/aidlc-workflows",
-   "ts": 1792048839,
+   "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
+   "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
+   "ts": 1792122575,
    "desc": "23 points"
   },
   {
@@ -3622,16 +3622,23 @@
   },
   {
    "source": "HN",
-   "title": "AI Safety Is Not a Corporate Plot",
-   "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
-   "ts": 1792027323,
+   "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
+   "url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
+   "ts": 1792112214,
    "desc": "16 points"
   },
   {
    "source": "HN",
-   "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
-   "url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
-   "ts": 1792112214,
+   "title": "AI Safety Is Not a Corporate Plot",
+   "url": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
+   "ts": 1792083190,
+   "desc": "16 points"
+  },
+  {
+   "source": "HN",
+   "title": "Linus Torvalds on \"don't use AI for X\"",
+   "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+   "ts": 1792122112,
    "desc": "15 points"
   },
   {
@@ -3653,6 +3660,13 @@
    "title": "Show HN: The first short movie built using code and AI",
    "url": "https://fframes.studio/the-why/",
    "ts": 1791991393,
+   "desc": "14 points"
+  },
+  {
+   "source": "HN",
+   "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
+   "url": "https://github.com/rlshaw-ml/BlastLoop",
+   "ts": 1792081599,
    "desc": "14 points"
   }
  ]
