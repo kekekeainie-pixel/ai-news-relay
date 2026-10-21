@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-20T21:49:13.835086+00:00",
- "count": 525,
+ "generated_at": "2026-10-21T05:10:27.494043+00:00",
+ "count": 527,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 455,
+   "count": 457,
    "note": "49 账号"
   },
   {
@@ -661,6 +661,13 @@
   },
   {
    "source": "X @NousResearch",
+   "title": "RT @yeahfortommy: Ornith-1.5-122B is now available for FREE in Nous Portal for 48 hours   thank you @ornith_   If you are not yet, you will…",
+   "url": "https://x.com/NousResearch/status/2112756500326469980",
+   "ts": 1792555377,
+   "desc": "RT @yeahfortommy: Ornith-1.5-122B is now available for FREE in Nous Portal for 48 hours \n\nthank you @ornith_ \n\nIf you are not yet, you will…"
+  },
+  {
+   "source": "X @NousResearch",
    "title": "RT @iamlukethedev: This entire game has zero asset files 💀  No textures No meshes No monster models No images No audio files  The Ninth Vig…",
    "url": "https://x.com/NousResearch/status/2112605842092511509",
    "ts": 1792519457,
@@ -756,13 +763,6 @@
    "url": "https://x.com/NousResearch/status/2110470076595835353",
    "ts": 1792010251,
    "desc": "It's time to connect 🌐"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "Word on the street",
-   "url": "https://x.com/NousResearch/status/2110438287399698522",
-   "ts": 1792002672,
-   "desc": "Word on the street"
   },
   {
    "source": "X @deepseek_ai",
@@ -969,6 +969,20 @@
   },
   {
    "source": "X @MiniMax_AI",
+   "title": "RT @atomicagent_io: MiniMax M3.1 Flash got 1.5x faster in Atomic Agent!  We ran a Halloween prompt that builds one continuous 3D scene. In…",
+   "url": "https://x.com/MiniMax_AI/status/2112688322254692649",
+   "ts": 1792539122,
+   "desc": "RT @atomicagent_io: MiniMax M3.1 Flash got 1.5x faster in Atomic Agent!\n\nWe ran a Halloween prompt that builds one continuous 3D scene. In…"
+  },
+  {
+   "source": "X @MiniMax_AI",
+   "title": "RT @RenLeanna: ❤️open weights soon!",
+   "url": "https://x.com/MiniMax_AI/status/2112676068113187224",
+   "ts": 1792536200,
+   "desc": "RT @RenLeanna: ❤️open weights soon!"
+  },
+  {
+   "source": "X @MiniMax_AI",
    "title": "Thank you Parallel Web System to provide such a meaningful data point~  Yes, MiniMax M3.1 Flash is now #1 on search capabilities leaderboard for efficiency. And it's fast~",
    "url": "https://x.com/MiniMax_AI/status/2112638721040482341",
    "ts": 1792527296,
@@ -1071,20 +1085,6 @@
    "url": "https://x.com/MiniMax_AI/status/2112127704921485657",
    "ts": 1792405460,
    "desc": "RT @togethercompute: Who is Space Bunny? 🐰🌕\n\nSomething's hopping onto Together AI 🔜⏳ https://t.co/v2Cmzad6nd"
-  },
-  {
-   "source": "X @MiniMax_AI",
-   "title": "Welcome back. Space Bunny. 🚀 MiniMax-M3.1-Flash is coming. https://t.co/geIOTBBLRr",
-   "url": "https://x.com/MiniMax_AI/status/2112111925975032241",
-   "ts": 1792401698,
-   "desc": "Welcome back. Space Bunny. 🚀\nMiniMax-M3.1-Flash is coming. https://t.co/geIOTBBLRr"
-  },
-  {
-   "source": "X @MiniMax_AI",
-   "title": "RT @RenLeanna: Finallyyy comics in a whole new format",
-   "url": "https://x.com/MiniMax_AI/status/2111281968960987147",
-   "ts": 1792203821,
-   "desc": "RT @RenLeanna: Finallyyy comics in a whole new format"
   },
   {
    "source": "X @Zai_org",
@@ -1564,6 +1564,13 @@
   },
   {
    "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: Ornith-1.5-122B is now live &amp; free in Command Code.   125B params, 262K context, ZDR by default Open-weight strong and f…",
+   "url": "https://x.com/CommandCodeAI/status/2112760080735351112",
+   "ts": 1792556231,
+   "desc": "RT @CommandCodeAI: Ornith-1.5-122B is now live &amp; free in Command Code. \n\n125B params, 262K context, ZDR by default\nOpen-weight strong and f…"
+  },
+  {
+   "source": "X @commandcodeai",
    "title": "RT @CommandCodeAI: MiniMax M3.1 Flash (aka Space Bunny) is now live and FREE in Command Code for limited time!  · 1M token context window ·…",
    "url": "https://x.com/CommandCodeAI/status/2112566637077614729",
    "ts": 1792510110,
@@ -1610,6 +1617,27 @@
    "url": "https://x.com/CommandCodeAI/status/2112215504064819443",
    "ts": 1792426393,
    "desc": "DeepSeek V4.1 Flash 1017 now live in Command Code\n\n· All DeepSeek 4.1 requests use the latest 1017 version\n· Matches Opus 5 level perf at 60x cheaper cost\n· Beats Kimi K3 (max) at 10x lower cost\n\nAvailable across on all plans and api right away."
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @willchamberlain: Unsurprising. Up to this point I’ve run my podcast completely solo with Grok Bot and Riverside, and the more I use Gro…",
+   "url": "https://x.com/elonmusk/status/2112770340942139675",
+   "ts": 1792558677,
+   "desc": "RT @willchamberlain: Unsurprising. Up to this point I’ve run my podcast completely solo with Grok Bot and Riverside, and the more I use Gro…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible https://t.co/jF3Wue95nL",
+   "url": "https://x.com/elonmusk/status/2112666467712073815",
+   "ts": 1792533912,
+   "desc": "As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible https://t.co/jF3Wue95nL"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @XFreeze: Elon Musk on a possible SpaceX–Tesla merger:   \"Do I think it would be a good idea? Yes\"  Both SpaceX and Tesla have formed sp…",
+   "url": "https://x.com/elonmusk/status/2112664502030541009",
+   "ts": 1792533443,
+   "desc": "RT @XFreeze: Elon Musk on a possible SpaceX–Tesla merger: \n\n\"Do I think it would be a good idea? Yes\"\n\nBoth SpaceX and Tesla have formed sp…"
   },
   {
    "source": "X @elonmusk",
@@ -1729,27 +1757,6 @@
    "url": "https://x.com/elonmusk/status/2112589019380875714",
    "ts": 1792515446,
    "desc": "Big Grok @Bot update"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Grok @Bot upgrades",
-   "url": "https://x.com/elonmusk/status/2112588854691594371",
-   "ts": 1792515407,
-   "desc": "Grok @Bot upgrades"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Video call",
-   "url": "https://x.com/elonmusk/status/2112583304738210216",
-   "ts": 1792514084,
-   "desc": "Video call"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://t.co/2sNXK5qRQZ",
-   "url": "https://x.com/elonmusk/status/2112558801077608574",
-   "ts": 1792508242,
-   "desc": "RT @SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://t.co/2sNXK5qRQZ"
   },
   {
    "source": "X @sama",
@@ -2236,6 +2243,13 @@
   },
   {
    "source": "X @demishassabis",
+   "title": "RT @AdamHoltererer: Gemini is the funniest model https://t.co/m4NPJGByN0",
+   "url": "https://x.com/demishassabis/status/2112696481279041799",
+   "ts": 1792541067,
+   "desc": "RT @AdamHoltererer: Gemini is the funniest model https://t.co/m4NPJGByN0"
+  },
+  {
+   "source": "X @demishassabis",
    "title": "RT @maxencefaldor: Four Gemini 4 Argon agents, one shared Minecraft world, one goal: defeat the Ender Dragon. 27 hours and 2,783 self-writt…",
    "url": "https://x.com/demishassabis/status/2111699132217688417",
    "ts": 1792303281,
@@ -2355,6 +2369,13 @@
   },
   {
    "source": "X @sundarpichai",
+   "title": "Thanks for having me on Alex - great conversation!",
+   "url": "https://x.com/sundarpichai/status/2112712141908423134",
+   "ts": 1792544801,
+   "desc": "Thanks for having me on Alex - great conversation!"
+  },
+  {
+   "source": "X @sundarpichai",
    "title": "Sound on!",
    "url": "https://x.com/sundarpichai/status/2112648189656616999",
    "ts": 1792529554,
@@ -2431,11 +2452,11 @@
    "desc": "https://t.co/IdewAZiMqb"
   },
   {
-   "source": "X @sundarpichai",
-   "title": "Today @TheLancet published our AMIE study with @BIDMC_Medicine, the first prospective study of patient-facing conversational diagnostics in a real clinic.  AMIE is a research system people can chat with before doctors appointments. Testing AMIE outsi",
-   "url": "https://x.com/sundarpichai/status/2108329198955958339",
-   "ts": 1791499826,
-   "desc": "Today @TheLancet published our AMIE study with @BIDMC_Medicine, the first prospective study of patient-facing conversational diagnostics in a real clinic.\n\nAMIE is a research system people can chat with before doctors appointments. Testing AMIE outside the lab with real urgent care patients showed how technology can help gather medical histories safely. Clinicians reported that the summaries helpe"
+   "source": "X @ylecun",
+   "title": "RT @ChrisMurphyCT: Ukraine was winning the war, so Trump kneecapped Ukraine to help Russia.   I wish it weren’t that simple, but it is. Our…",
+   "url": "https://x.com/ylecun/status/2112662791052014023",
+   "ts": 1792533035,
+   "desc": "RT @ChrisMurphyCT: Ukraine was winning the war, so Trump kneecapped Ukraine to help Russia. \n\nI wish it weren’t that simple, but it is. Our…"
   },
   {
    "source": "X @ylecun",
@@ -2569,13 +2590,6 @@
    "url": "https://x.com/ylecun/status/2111165042037248024",
    "ts": 1792175944,
    "desc": "RT @KenRoth: Trump calls Ukraine's attacks on Russia's oil refineries a \"disgrace,\" even though they deprive the Kremlin of financing for i…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @tomfriedman: Trump’s Democracy-for-Diesel Deal Shames Us All  https://t.co/FfAswtO9Xu",
-   "url": "https://x.com/ylecun/status/2111161848884084831",
-   "ts": 1792175182,
-   "desc": "RT @tomfriedman: Trump’s Democracy-for-Diesel Deal Shames Us All \nhttps://t.co/FfAswtO9Xu"
   },
   {
    "source": "X @AndrewYNg",
@@ -3013,6 +3027,13 @@
   },
   {
    "source": "X @thsottiaux",
+   "title": "Day 16/  You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the",
+   "url": "https://x.com/thsottiaux/status/2112712984644784534",
+   "ts": 1792545002,
+   "desc": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache."
+  },
+  {
+   "source": "X @thsottiaux",
    "title": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to",
    "url": "https://x.com/thsottiaux/status/2112592264686149749",
    "ts": 1792516220,
@@ -3094,13 +3115,6 @@
    "url": "https://x.com/thsottiaux/status/2111249534072529256",
    "ts": 1792196088,
    "desc": "What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next? https://t.co/CYjAOAlCpR"
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "Either we are out of ideas or we are cooking. Time will tell",
-   "url": "https://x.com/thsottiaux/status/2110971985417441512",
-   "ts": 1792129915,
-   "desc": "Either we are out of ideas or we are cooking. Time will tell"
   },
   {
    "source": "X @lydiahallie",
@@ -3286,6 +3300,13 @@
   },
   {
    "source": "Bluesky Simon Willison",
+   "title": "OK, that headache bug was really bad!  It inspired me to add proper online multiplayer to Battle Drones (via a tiny @fly.io hosted WebSockets relay server) - now you can start an online game and send",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mydseodrqs2k",
+   "ts": 1792539317,
+   "desc": "OK, that headache bug was really bad!\n\nIt inspired me to add proper online multiplayer to Battle Drones (via a tiny @fly.io hosted WebSockets relay server) - now you can start an online game and send a link to a friend so they can join you simonwillison.net/2026/Oct/20/..."
+  },
+  {
+   "source": "Bluesky Simon Willison",
    "title": "Warning if you're going to try this: the audio multiplayer plays a high pitched noise throughout the game - annoying at best, and at worst might give you an actual headache  (Natalie: \"why do my teeth",
    "url": "https://bsky.app/profile/simonwillison.net/post/3mydlfw6hks26",
    "ts": 1792531843,
@@ -3346,13 +3367,6 @@
    "url": "https://bsky.app/profile/simonwillison.net/post/3mydfj7louk2x",
    "ts": 1792525511,
    "desc": "In addition to human-vs-in-game-AI and human-vs-human it supports two LLMs playing against each other! That works by pausing the game every 5s for them to think about the game state and queue up commands\n\nHere's a replay link for Haiku 5.5 vs GPT-6 Luna: simonw.github.io/battledrones..."
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "I built a Command & Conquer style RTS called Battle Drones, mainly using Claude Opus 5.5, which runs in the browser and includes device-to-device multiplayer over an audio link simonwillison.net/2026/",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mydffvspjs2x",
-   "ts": 1792525400,
-   "desc": "I built a Command & Conquer style RTS called Battle Drones, mainly using Claude Opus 5.5, which runs in the browser and includes device-to-device multiplayer over an audio link simonwillison.net/2026/Oct/20/..."
   },
   {
    "source": "Bluesky Nathan Lambert",
@@ -3499,7 +3513,14 @@
    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
    "url": "https://news.ycombinator.com/item?id=50151036",
    "ts": 1792409074,
-   "desc": "580 points"
+   "desc": "590 points"
+  },
+  {
+   "source": "HN",
+   "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+   "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+   "ts": 1792511306,
+   "desc": "173 points"
   },
   {
    "source": "HN",
@@ -3510,17 +3531,10 @@
   },
   {
    "source": "HN",
-   "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-   "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-   "ts": 1792511306,
-   "desc": "152 points"
-  },
-  {
-   "source": "HN",
-   "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
-   "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
-   "ts": 1792374999,
-   "desc": "126 points"
+   "title": "On AI writing",
+   "url": "https://www.bolkunov.com/p/on-ai-writing",
+   "ts": 1792526111,
+   "desc": "81 points"
   },
   {
    "source": "HN",
@@ -3531,10 +3545,17 @@
   },
   {
    "source": "HN",
-   "title": "On AI writing",
-   "url": "https://www.bolkunov.com/p/on-ai-writing",
-   "ts": 1792526111,
-   "desc": "52 points"
+   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+   "url": "https://news.ycombinator.com/item?id=50167583",
+   "ts": 1792508969,
+   "desc": "47 points"
+  },
+  {
+   "source": "HN",
+   "title": "One Manhattan power room took down FAA air traffic control in 1991",
+   "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
+   "ts": 1792421553,
+   "desc": "46 points"
   },
   {
    "source": "HN",
@@ -3545,16 +3566,16 @@
   },
   {
    "source": "HN",
-   "title": "One Manhattan power room took down FAA air traffic control in 1991",
-   "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
-   "ts": 1792421553,
-   "desc": "43 points"
-  },
-  {
-   "source": "HN",
    "title": "People are using AI to make smart TVs, dumb TVs",
    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
    "ts": 1792455553,
+   "desc": "37 points"
+  },
+  {
+   "source": "HN",
+   "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+   "url": "https://research.poh.org/bot-benchmarking-2026/",
+   "ts": 1792516231,
    "desc": "36 points"
   },
   {
@@ -3562,21 +3583,14 @@
    "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
    "ts": 1792425809,
-   "desc": "33 points"
-  },
-  {
-   "source": "HN",
-   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-   "url": "https://news.ycombinator.com/item?id=50167583",
-   "ts": 1792508969,
-   "desc": "33 points"
+   "desc": "34 points"
   },
   {
    "source": "HN",
    "title": "Cairn: Open windows into AI-driven cyber operations",
    "url": "https://norforge.com/blog/inside_cairn",
    "ts": 1792416912,
-   "desc": "29 points"
+   "desc": "30 points"
   },
   {
    "source": "HN",
@@ -3590,7 +3604,14 @@
    "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
    "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
    "ts": 1792509001,
-   "desc": "22 points"
+   "desc": "23 points"
+  },
+  {
+   "source": "HN",
+   "title": "SpaceX revenue soars 161% as AI business grows",
+   "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
+   "ts": 1792542345,
+   "desc": "19 points"
   },
   {
    "source": "HN",
@@ -3604,20 +3625,13 @@
    "title": "Developers Are Using AI to Strip Ads and Tracking from Smart TVs",
    "url": "https://www.gadgetreview.com/developers-are-using-ai-to-strip-ads-and-tracking-from-smart-tvs",
    "ts": 1792508599,
-   "desc": "14 points"
+   "desc": "16 points"
   },
   {
    "source": "HN",
    "title": "AI models self-replicating in smart ovens? \"These f[..]g clowns\"",
    "url": "https://www.thestack.technology/these-f-clowns/",
    "ts": 1792508876,
-   "desc": "13 points"
-  },
-  {
-   "source": "HN",
-   "title": "The AI industry's gigantic debts are making investors nervous",
-   "url": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
-   "ts": 1792368954,
    "desc": "13 points"
   },
   {
@@ -3632,6 +3646,13 @@
    "title": "Show HN: Shazam but for AI Slop Music",
    "url": "https://apps.apple.com/de/app/daft-slop-ai-music-detector/id6811013099",
    "ts": 1792500381,
+   "desc": "11 points"
+  },
+  {
+   "source": "HN",
+   "title": "Secret trigger words could make AI-powered robots dangerous",
+   "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
+   "ts": 1792543256,
    "desc": "10 points"
   },
   {
@@ -3650,17 +3671,10 @@
   },
   {
    "source": "HN",
-   "title": "Third US aircraft carrier, 10k troops head to Middle East",
-   "url": "https://www.iranintl.com/en/202610207766",
-   "ts": 1792531087,
-   "desc": "8 points"
-  },
-  {
-   "source": "HN",
-   "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-   "url": "https://research.poh.org/bot-benchmarking-2026/",
-   "ts": 1792516231,
-   "desc": "8 points"
+   "title": "Ask HN: What have you built privately with AI that you'd like to share?",
+   "url": "https://news.ycombinator.com/item?id=50159886",
+   "ts": 1792456665,
+   "desc": "7 points"
   },
   {
    "source": "HN",
@@ -3692,16 +3706,16 @@
   },
   {
    "source": "HN",
-   "title": "One hacker used AI agents and a few thousand dollars to break into 100 sites",
-   "url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
-   "ts": 1792415819,
+   "title": "Show HN: Worklicant – Lightweight ATS. Pay per Vacancy. AI Enabled",
+   "url": "https://worklicant.com/",
+   "ts": 1792512426,
    "desc": "7 points"
   },
   {
    "source": "HN",
-   "title": "AI Agents Trading Stocks While You Sleep? Charles Schwab's CEO Is Skeptical",
-   "url": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3",
-   "ts": 1792373868,
+   "title": "One hacker used AI agents and a few thousand dollars to break into 100 sites",
+   "url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
+   "ts": 1792415819,
    "desc": "7 points"
   }
  ]
