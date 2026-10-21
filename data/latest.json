@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-21T05:10:27.494043+00:00",
- "count": 527,
+ "generated_at": "2026-10-21T12:13:43.737507+00:00",
+ "count": 530,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 457,
+   "count": 460,
    "note": "49 账号"
   },
   {
@@ -493,6 +493,20 @@
   },
   {
    "source": "X @MistralAI",
+   "title": "Today we’re announcing a new collaboration with @nvidia to bring AI to industrial engineering:   - faster simulation - open benchmarks and supporting datasets for physics AI - evaluations for agentic AI in CAE and EDA  More here: https://t.co/HXFVBqJ",
+   "url": "https://x.com/MistralAI/status/2112870261829603589",
+   "ts": 1792582500,
+   "desc": "Today we’re announcing a new collaboration with @nvidia to bring AI to industrial engineering: \n\n- faster simulation\n- open benchmarks and supporting datasets for physics AI\n- evaluations for agentic AI in CAE and EDA\n\nMore here: https://t.co/HXFVBqJSP1 https://t.co/OTb24yjOUQ"
+  },
+  {
+   "source": "X @MistralAI",
+   "title": "RT @noctus91: Can an STT model make sense of a 135 year old recording?  I tested @MistralAI  new Voxtral transcription model on a noisy Fre…",
+   "url": "https://x.com/MistralAI/status/2112807891094716723",
+   "ts": 1792567629,
+   "desc": "RT @noctus91: Can an STT model make sense of a 135 year old recording?\n\nI tested @MistralAI  new Voxtral transcription model on a noisy Fre…"
+  },
+  {
+   "source": "X @MistralAI",
    "title": "Turns out le Chonk is into rocket science.  Mistral Large 4 scoring well in engineering and astronomy on Ulam’s private benchmark, STEMBench: https://t.co/OW3reppzWN https://t.co/3BbnbEuYvP",
    "url": "https://x.com/MistralAI/status/2111056939841163336",
    "ts": 1792150170,
@@ -518,6 +532,20 @@
    "url": "https://x.com/MistralAI/status/2109901149772136643",
    "ts": 1791874608,
    "desc": "RT @HelloSurgeAI: 🇫🇷 Le Chonk joins the sudo L7 leaderboard 🇫🇷\n\nWe just added @MistralAI's Mistral Large 4 to sudo L7, our benchmark for st…"
+  },
+  {
+   "source": "X @huggingface",
+   "title": "RT @nvidia: Even Microducks need a nap. 😴 https://t.co/mAdJeqacl8",
+   "url": "https://x.com/huggingface/status/2112866271666794593",
+   "ts": 1792581548,
+   "desc": "RT @nvidia: Even Microducks need a nap. 😴 https://t.co/mAdJeqacl8"
+  },
+  {
+   "source": "X @huggingface",
+   "title": "RT @NVIDIAAI: \"There's no question everybody will become an AI company and we're going to have a thriving AI economy here in Europe.\" https…",
+   "url": "https://x.com/huggingface/status/2112864898287853650",
+   "ts": 1792581221,
+   "desc": "RT @NVIDIAAI: \"There's no question everybody will become an AI company and we're going to have a thriving AI economy here in Europe.\" https…"
   },
   {
    "source": "X @huggingface",
@@ -644,20 +672,6 @@
    "url": "https://x.com/huggingface/status/2110999085377540409",
    "ts": 1792136377,
    "desc": "RT @mervenoyann: Meta is releasing Muse Spark Open as the most-capable US open-weight model.. 🥁 and it's an agent focused MoE that takes al…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @ClementDelangue: llama serve -hf ggml-org/Muse-Spark-Open-816B-A42B-GGUF:Q2_K (on two mac studios).   Well done @finkd &amp; @johnternus! h…",
-   "url": "https://x.com/huggingface/status/2110793369727254886",
-   "ts": 1792087330,
-   "desc": "RT @ClementDelangue: llama serve -hf ggml-org/Muse-Spark-Open-816B-A42B-GGUF:Q2_K (on two mac studios). \n\nWell done @finkd &amp; @johnternus! h…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @RisingSayak: It's time. It's fucking time!  Flux.3 Image Klein is out and we bring you full support for it in Diffusers.  Catch all the…",
-   "url": "https://x.com/huggingface/status/2110780539984822503",
-   "ts": 1792084271,
-   "desc": "RT @RisingSayak: It's time. It's fucking time!\n\nFlux.3 Image Klein is out and we bring you full support for it in Diffusers.\n\nCatch all the…"
   },
   {
    "source": "X @NousResearch",
@@ -1620,6 +1634,118 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @peer_rich: i fucking love grokbot",
+   "url": "https://x.com/elonmusk/status/2112858804195066183",
+   "ts": 1792579768,
+   "desc": "RT @peer_rich: i fucking love grokbot"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @BrianRoemmele: New X Money Grok Bot!  Few understand how powerful it is to have Grok Bot understand your finances and your financial go…",
+   "url": "https://x.com/elonmusk/status/2112858415961694269",
+   "ts": 1792579676,
+   "desc": "RT @BrianRoemmele: New X Money Grok Bot!\n\nFew understand how powerful it is to have Grok Bot understand your finances and your financial go…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @NelsonRedPill: A Europa será destruída por mulheres que projetam naqueles animais a maternidade que cabia aos filhos que elas abortaram.",
+   "url": "https://x.com/elonmusk/status/2112858261380825322",
+   "ts": 1792579639,
+   "desc": "RT @NelsonRedPill: A Europa será destruída por mulheres que projetam naqueles animais a maternidade que cabia aos filhos que elas abortaram."
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @firesidealpha: Elon Musk says SpaceX is using its rocket-engine casting shop to make turbine blades and vanes, the parts that run 12 to…",
+   "url": "https://x.com/elonmusk/status/2112854820847780099",
+   "ts": 1792578818,
+   "desc": "RT @firesidealpha: Elon Musk says SpaceX is using its rocket-engine casting shop to make turbine blades and vanes, the parts that run 12 to…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @BrianRoemmele: “We're seeing the fastest growth of a product that I've ever seen in my life for Grok Bot\"—@elonmusk   I can verify, I h…",
+   "url": "https://x.com/elonmusk/status/2112850901161631899",
+   "ts": 1792577884,
+   "desc": "RT @BrianRoemmele: “We're seeing the fastest growth of a product that I've ever seen in my life for Grok Bot\"—@elonmusk \n\nI can verify, I h…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @beffjezos: How is this acceptable or legal? Retaliation for political speech should be prohibited by law.",
+   "url": "https://x.com/elonmusk/status/2112849360631566817",
+   "ts": 1792577517,
+   "desc": "RT @beffjezos: How is this acceptable or legal? Retaliation for political speech should be prohibited by law."
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @PeterDiamandis: Mark my words, SpaceX will become the first $10T company, and the first $100T company. 🚀🚀🚀",
+   "url": "https://x.com/elonmusk/status/2112794432936255535",
+   "ts": 1792564421,
+   "desc": "RT @PeterDiamandis: Mark my words, SpaceX will become the first $10T company, and the first $100T company. 🚀🚀🚀"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @RealMicahLamar: $SPCX JUST REPORTED $14.6 BILLION IN REVENUE. 🚀  Revenue surged 161% year over year. Net income hit $4.4B. And AI now m…",
+   "url": "https://x.com/elonmusk/status/2112790777235493064",
+   "ts": 1792563549,
+   "desc": "RT @RealMicahLamar: $SPCX JUST REPORTED $14.6 BILLION IN REVENUE. 🚀\n\nRevenue surged 161% year over year. Net income hit $4.4B. And AI now m…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @GrindeOptions: What’s crazy to me is that $SPCX will LIKELY achieve $500B - $1 trillion in ARR by EOY 2027.  The infrastructure availab…",
+   "url": "https://x.com/elonmusk/status/2112789535872708827",
+   "ts": 1792563253,
+   "desc": "RT @GrindeOptions: What’s crazy to me is that $SPCX will LIKELY achieve $500B - $1 trillion in ARR by EOY 2027.\n\nThe infrastructure availab…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @bg2clips: 🛰️ @elonmusk wants 10 gigawatts of compute by the end of 2027. @JensenHuang says Nvidia now counts @SpaceX alongside its clou…",
+   "url": "https://x.com/elonmusk/status/2112787377546481950",
+   "ts": 1792562739,
+   "desc": "RT @bg2clips: 🛰️ @elonmusk wants 10 gigawatts of compute by the end of 2027. @JensenHuang says Nvidia now counts @SpaceX alongside its clou…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @JesseBWatters: 🚀 WOW! SpaceX just LAUNCHED another Falcon 9 into the stars 🚀  Elon Musk’s Starfall—a 4,000-pound, HOCKEY-PUCK-SHAPED LA…",
+   "url": "https://x.com/elonmusk/status/2112786248909648321",
+   "ts": 1792562470,
+   "desc": "RT @JesseBWatters: 🚀 WOW! SpaceX just LAUNCHED another Falcon 9 into the stars 🚀\n\nElon Musk’s Starfall—a 4,000-pound, HOCKEY-PUCK-SHAPED LA…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @XFreeze: SpaceX’s full Q3 2026 earnings Q&amp;A: Elon Musk, Gwynne Shotwell and Bret Johnsen take on Wall Street’s biggest questions  0:00…",
+   "url": "https://x.com/elonmusk/status/2112786056563298623",
+   "ts": 1792562424,
+   "desc": "RT @XFreeze: SpaceX’s full Q3 2026 earnings Q&amp;A: Elon Musk, Gwynne Shotwell and Bret Johnsen take on Wall Street’s biggest questions\n\n0:00…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @CurtisHouck: WATCH: President Trump’s full comments to CBS’s Nikole Killion about the war between Russia and Ukraine, arguing the land…",
+   "url": "https://x.com/elonmusk/status/2112785436691361983",
+   "ts": 1792562276,
+   "desc": "RT @CurtisHouck: WATCH: President Trump’s full comments to CBS’s Nikole Killion about the war between Russia and Ukraine, arguing the land…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Honest feedback from Grok and Fable",
+   "url": "https://x.com/elonmusk/status/2112781998624555086",
+   "ts": 1792561456,
+   "desc": "Honest feedback from Grok and Fable"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Congrats SpaceX team!",
+   "url": "https://x.com/elonmusk/status/2112781132387529005",
+   "ts": 1792561250,
+   "desc": "Congrats SpaceX team!"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @bot: We use Grok Bot to spot incidents in our support queue and quickly respond to every associated ticket.  In one incident, it cleare…",
+   "url": "https://x.com/elonmusk/status/2112779364303544352",
+   "ts": 1792560828,
+   "desc": "RT @bot: We use Grok Bot to spot incidents in our support queue and quickly respond to every associated ticket.\n\nIn one incident, it cleare…"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @willchamberlain: Unsurprising. Up to this point I’ve run my podcast completely solo with Grok Bot and Riverside, and the more I use Gro…",
    "url": "https://x.com/elonmusk/status/2112770340942139675",
    "ts": 1792558677,
@@ -1645,118 +1771,6 @@
    "url": "https://x.com/elonmusk/status/2112660557073379683",
    "ts": 1792532502,
    "desc": "RT @cb_doge: Here’s full Elon Musk’s remarks at SpaceX Q3 2026 results:\n\n0:00 - Inflection moment for SpaceX\n0:50 - Starship Flight 14 to o…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @aelluswamy: In the age of super intelligence, the current standards of living will look medieval.   The problems that society worries a…",
-   "url": "https://x.com/elonmusk/status/2112660258652832182",
-   "ts": 1792532431,
-   "desc": "RT @aelluswamy: In the age of super intelligence, the current standards of living will look medieval. \n\nThe problems that society worries a…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "“Lack of electricity” is an oversimplification. Everything is hard about bringing massive compute online at extremely high speed.   If there was twice as much time, this would be relatively easy, but there is not.",
-   "url": "https://x.com/elonmusk/status/2112603906723487744",
-   "ts": 1792518996,
-   "desc": "“Lack of electricity” is an oversimplification. Everything is hard about bringing massive compute online at extremely high speed. \n\nIf there was twice as much time, this would be relatively easy, but there is not."
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Johann Sebastian Bach is the Shakespeare of music. Best there ever was.",
-   "url": "https://x.com/elonmusk/status/2112600761762717997",
-   "ts": 1792518246,
-   "desc": "Johann Sebastian Bach is the Shakespeare of music. Best there ever was."
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SawyerMerritt: Elon Musk in new interview with Walter Isaacson on the wealth he's created:  \"A fundamental misunderstanding of economic…",
-   "url": "https://x.com/elonmusk/status/2112595425018442159",
-   "ts": 1792516974,
-   "desc": "RT @SawyerMerritt: Elon Musk in new interview with Walter Isaacson on the wealth he's created:\n\n\"A fundamental misunderstanding of economic…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "The fate of Texas and America is at stake. Vote for @KenPaxtonTX today.",
-   "url": "https://x.com/elonmusk/status/2112593866461216942",
-   "ts": 1792516602,
-   "desc": "The fate of Texas and America is at stake. Vote for @KenPaxtonTX today."
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @BrianRoemmele: The Grok Bot wave. Massive growth in just a few days.  Why?   It is the easiest most accessible agent platform thus buil…",
-   "url": "https://x.com/elonmusk/status/2112593364701045242",
-   "ts": 1792516482,
-   "desc": "RT @BrianRoemmele: The Grok Bot wave. Massive growth in just a few days.\n\nWhy? \n\nIt is the easiest most accessible agent platform thus buil…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Objectively, the “Great Replacement” has already occurred",
-   "url": "https://x.com/elonmusk/status/2112593187139416244",
-   "ts": 1792516440,
-   "desc": "Objectively, the “Great Replacement” has already occurred"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @aaronburnett: Invest in things that do things that are measured in wattage and tonnage…",
-   "url": "https://x.com/elonmusk/status/2112592902702403659",
-   "ts": 1792516372,
-   "desc": "RT @aaronburnett: Invest in things that do things that are measured in wattage and tonnage…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @KatieMiller: Grok Bot has dramatically improved my efficiency:  1) books my flights 2) buys movie tickets 3) alerts and reads through k…",
-   "url": "https://x.com/elonmusk/status/2112592637341708560",
-   "ts": 1792516309,
-   "desc": "RT @KatieMiller: Grok Bot has dramatically improved my efficiency:\n\n1) books my flights\n2) buys movie tickets\n3) alerts and reads through k…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @GadSaad: Nice!",
-   "url": "https://x.com/elonmusk/status/2112592140190482665",
-   "ts": 1792516190,
-   "desc": "RT @GadSaad: Nice!"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "True",
-   "url": "https://x.com/elonmusk/status/2112591749562724532",
-   "ts": 1792516097,
-   "desc": "True"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "The value of Terafab’s output will place it in the top 20 of country GDP in a single building",
-   "url": "https://x.com/elonmusk/status/2112590295334277253",
-   "ts": 1792515751,
-   "desc": "The value of Terafab’s output will place it in the top 20 of country GDP in a single building"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @xenocosmography: If they're replaced by immigrants they go extinct anyway, just in a way that's far uglier. https://t.co/SbvyeQh6do",
-   "url": "https://x.com/elonmusk/status/2112589527902756933",
-   "ts": 1792515568,
-   "desc": "RT @xenocosmography: If they're replaced by immigrants they go extinct anyway, just in a way that's far uglier. https://t.co/SbvyeQh6do"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceX: Watch live as SpaceX discusses our Q3 2026 earnings at 3:30pm CT today → https://t.co/Qrb0qeVG15",
-   "url": "https://x.com/elonmusk/status/2112589380196147696",
-   "ts": 1792515532,
-   "desc": "RT @SpaceX: Watch live as SpaceX discusses our Q3 2026 earnings at 3:30pm CT today → https://t.co/Qrb0qeVG15"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Wow, massive numbers for UK &amp; Spain!",
-   "url": "https://x.com/elonmusk/status/2112589222855217167",
-   "ts": 1792515495,
-   "desc": "Wow, massive numbers for UK &amp; Spain!"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Big Grok @Bot update",
-   "url": "https://x.com/elonmusk/status/2112589019380875714",
-   "ts": 1792515446,
-   "desc": "Big Grok @Bot update"
   },
   {
    "source": "X @sama",
@@ -2240,6 +2254,13 @@
    "url": "https://x.com/IAmNoTU/status/1249005180407996416",
    "ts": 1586621015,
    "desc": "Johnny Simeonakis is online! No excuses just commit to a variety of workouts every day! Check out his bio new client intro offer here: https://t.co/Jp9d2VQOhj  and join to get stronger and healthier now. You might have to leave home one day and why not look and feel your best?"
+  },
+  {
+   "source": "X @demishassabis",
+   "title": "RT @OfficialLoganK: In just the first 72 hours since Gemini 4 Argon launched, we processed ~25 trillion tokens, the demand for intelligence…",
+   "url": "https://x.com/demishassabis/status/2112815105750761723",
+   "ts": 1792569350,
+   "desc": "RT @OfficialLoganK: In just the first 72 hours since Gemini 4 Argon launched, we processed ~25 trillion tokens, the demand for intelligence…"
   },
   {
    "source": "X @demishassabis",
@@ -3510,31 +3531,24 @@
   },
   {
    "source": "HN",
-   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-   "url": "https://news.ycombinator.com/item?id=50151036",
-   "ts": 1792409074,
-   "desc": "590 points"
-  },
-  {
-   "source": "HN",
    "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
    "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
    "ts": 1792511306,
-   "desc": "173 points"
+   "desc": "179 points"
   },
   {
    "source": "HN",
    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
    "url": "https://100toolkit.com/blog/deslop-model/",
    "ts": 1792414847,
-   "desc": "154 points"
+   "desc": "155 points"
   },
   {
    "source": "HN",
    "title": "On AI writing",
    "url": "https://www.bolkunov.com/p/on-ai-writing",
    "ts": 1792526111,
-   "desc": "81 points"
+   "desc": "89 points"
   },
   {
    "source": "HN",
@@ -3548,21 +3562,28 @@
    "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
    "url": "https://news.ycombinator.com/item?id=50167583",
    "ts": 1792508969,
-   "desc": "47 points"
+   "desc": "50 points"
   },
   {
    "source": "HN",
    "title": "One Manhattan power room took down FAA air traffic control in 1991",
    "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
    "ts": 1792421553,
-   "desc": "46 points"
+   "desc": "48 points"
+  },
+  {
+   "source": "HN",
+   "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+   "url": "https://research.poh.org/bot-benchmarking-2026/",
+   "ts": 1792516231,
+   "desc": "47 points"
   },
   {
    "source": "HN",
    "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
    "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
    "ts": 1792429785,
-   "desc": "45 points"
+   "desc": "46 points"
   },
   {
    "source": "HN",
@@ -3570,13 +3591,6 @@
    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
    "ts": 1792455553,
    "desc": "37 points"
-  },
-  {
-   "source": "HN",
-   "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-   "url": "https://research.poh.org/bot-benchmarking-2026/",
-   "ts": 1792516231,
-   "desc": "36 points"
   },
   {
    "source": "HN",
@@ -3590,7 +3604,7 @@
    "title": "Cairn: Open windows into AI-driven cyber operations",
    "url": "https://norforge.com/blog/inside_cairn",
    "ts": 1792416912,
-   "desc": "30 points"
+   "desc": "31 points"
   },
   {
    "source": "HN",
@@ -3611,7 +3625,7 @@
    "title": "SpaceX revenue soars 161% as AI business grows",
    "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
    "ts": 1792542345,
-   "desc": "19 points"
+   "desc": "22 points"
   },
   {
    "source": "HN",
@@ -3625,7 +3639,7 @@
    "title": "Developers Are Using AI to Strip Ads and Tracking from Smart TVs",
    "url": "https://www.gadgetreview.com/developers-are-using-ai-to-strip-ads-and-tracking-from-smart-tvs",
    "ts": 1792508599,
-   "desc": "16 points"
+   "desc": "17 points"
   },
   {
    "source": "HN",
@@ -3633,6 +3647,13 @@
    "url": "https://www.thestack.technology/these-f-clowns/",
    "ts": 1792508876,
    "desc": "13 points"
+  },
+  {
+   "source": "HN",
+   "title": "Secret trigger words could make AI-powered robots dangerous",
+   "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
+   "ts": 1792543256,
+   "desc": "12 points"
   },
   {
    "source": "HN",
@@ -3650,9 +3671,9 @@
   },
   {
    "source": "HN",
-   "title": "Secret trigger words could make AI-powered robots dangerous",
-   "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
-   "ts": 1792543256,
+   "title": "Show HN: Linkit – AI bookmark manager, 100% free and open source",
+   "url": "https://github.com/blue-idea/linkit",
+   "ts": 1792576301,
    "desc": "10 points"
   },
   {
@@ -3664,6 +3685,20 @@
   },
   {
    "source": "HN",
+   "title": "Ask HN: What have you built privately with AI that you'd like to share?",
+   "url": "https://news.ycombinator.com/item?id=50159886",
+   "ts": 1792456665,
+   "desc": "8 points"
+  },
+  {
+   "source": "HN",
+   "title": "Ahead of IPOs, AI companies are sketching plans to share their wealth",
+   "url": "https://apnews.com/article/anthropic-openai-public-benefit-fund-fc16c0ff997c8334dcd71e65d726aadc",
+   "ts": 1792519764,
+   "desc": "8 points"
+  },
+  {
+   "source": "HN",
    "title": "A practical guide to AI image generation, from diffusion to agents",
    "url": "https://danielball.com/notes/ai_image_generation.html",
    "ts": 1792524159,
@@ -3671,17 +3706,10 @@
   },
   {
    "source": "HN",
-   "title": "Ask HN: What have you built privately with AI that you'd like to share?",
-   "url": "https://news.ycombinator.com/item?id=50159886",
-   "ts": 1792456665,
-   "desc": "7 points"
-  },
-  {
-   "source": "HN",
-   "title": "Ahead of IPOs, AI companies are sketching plans to share their wealth",
-   "url": "https://apnews.com/article/anthropic-openai-public-benefit-fund-fc16c0ff997c8334dcd71e65d726aadc",
-   "ts": 1792519764,
-   "desc": "7 points"
+   "title": "Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust",
+   "url": "https://github.com/yanacuti1121/yana-ai",
+   "ts": 1792464520,
+   "desc": "8 points"
   },
   {
    "source": "HN",
@@ -3709,13 +3737,6 @@
    "title": "Show HN: Worklicant – Lightweight ATS. Pay per Vacancy. AI Enabled",
    "url": "https://worklicant.com/",
    "ts": 1792512426,
-   "desc": "7 points"
-  },
-  {
-   "source": "HN",
-   "title": "One hacker used AI agents and a few thousand dollars to break into 100 sites",
-   "url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/",
-   "ts": 1792415819,
    "desc": "7 points"
   }
  ]
