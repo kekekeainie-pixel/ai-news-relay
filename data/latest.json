@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-23T17:23:00.415016+00:00",
- "count": 520,
+ "generated_at": "2026-10-23T21:36:04.714432+00:00",
+ "count": 524,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 450,
+   "count": 454,
    "note": "49 账号"
   },
   {
@@ -29,6 +29,13 @@
   }
  ],
  "items": [
+  {
+   "source": "X @OpenAI",
+   "title": "Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached ver",
+   "url": "https://x.com/OpenAI/status/2113718797505036665",
+   "ts": 1792784806,
+   "desc": "Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached version of the web where they can still learn to browse, search, and use applications.\n\nOn September 20, after a model exploited a DNS misconfiguration t"
+  },
   {
    "source": "X @OpenAI",
    "title": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks.   Their findings helped strengthen safeguards as we expanded the system",
@@ -119,13 +126,6 @@
    "url": "https://x.com/OpenAI/status/2108269021430710412",
    "ts": 1791485479,
    "desc": "RT @OpenAIDevs: Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work.\n\nNear-Astra intelligence at up to 8x fa…"
-  },
-  {
-   "source": "X @OpenAI",
-   "title": "RT @michpokrass: today we’re shipping gpt-6 and intelligent ui to everyone!  intelligent ui is a bet on model intelligence. we’re letting g…",
-   "url": "https://x.com/OpenAI/status/2107940728009879622",
-   "ts": 1791407207,
-   "desc": "RT @michpokrass: today we’re shipping gpt-6 and intelligent ui to everyone!\n\nintelligent ui is a bet on model intelligence. we’re letting g…"
   },
   {
    "source": "X @AnthropicAI",
@@ -563,6 +563,13 @@
   },
   {
    "source": "X @huggingface",
+   "title": "RT @NVIDIAAI: Available now: NVIDIA Nemotron 3.5 Bolt E4B 4GB ⚡️  Our newest small open model is built for local assistants, interactive ch…",
+   "url": "https://x.com/huggingface/status/2113685391316533279",
+   "ts": 1792776842,
+   "desc": "RT @NVIDIAAI: Available now: NVIDIA Nemotron 3.5 Bolt E4B 4GB ⚡️\n\nOur newest small open model is built for local assistants, interactive ch…"
+  },
+  {
+   "source": "X @huggingface",
    "title": "🎯",
    "url": "https://x.com/huggingface/status/2113675645607706981",
    "ts": 1792774518,
@@ -695,11 +702,11 @@
    "desc": "RT @ClementDelangue: It feels pretty fitting for @JensenHuang &amp; @nvidia to end their European tour with Microducks on stage.\n\nMicroduck was…"
   },
   {
-   "source": "X @huggingface",
-   "title": "RT @benitoz: Here is the Microduck up close  You can program it work DGX spark  This baby duck represents the future of physical Ai  it rel…",
-   "url": "https://x.com/huggingface/status/2112932443942519185",
-   "ts": 1792597325,
-   "desc": "RT @benitoz: Here is the Microduck up close\n\nYou can program it work DGX spark\n\nThis baby duck represents the future of physical Ai\n\nit rel…"
+   "source": "X @NousResearch",
+   "title": "RT @yeahfortommy: K3.1 Pro is available with your Hermes Agent, go get em  ty @Kimi_Moonshot",
+   "url": "https://x.com/NousResearch/status/2113705080427889081",
+   "ts": 1792781536,
+   "desc": "RT @yeahfortommy: K3.1 Pro is available with your Hermes Agent, go get em\n\nty @Kimi_Moonshot"
   },
   {
    "source": "X @NousResearch",
@@ -833,13 +840,6 @@
    "url": "https://x.com/NousResearch/status/2111197966719390042",
    "ts": 1792183794,
    "desc": "RT @Teknium: Hermes Index has been updated to include GPT 6.1 Sol and several other models!\n\nCheck it out here:\nhttps://t.co/Ry6X5Y95KG"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "RT @AlexanderMann: @NousResearch @home_assistant I did not expect this post to blow up like it did, my Hermes agent suggested making a GitH…",
-   "url": "https://x.com/NousResearch/status/2111163090741985589",
-   "ts": 1792175479,
-   "desc": "RT @AlexanderMann: @NousResearch @home_assistant I did not expect this post to blow up like it did, my Hermes agent suggested making a GitH…"
   },
   {
    "source": "X @deepseek_ai",
@@ -1011,6 +1011,20 @@
   },
   {
    "source": "X @MiniMax_AI",
+   "title": "MiniMax M3.1 Flash is now on @tenstorrent Cloud -bringing frontier AI to Tensix silicon, Ethernet scale-out, and an open-source stack from the team led by Jim Keller.  Open weights. Diverse architectures. An open, heterogeneous AI future.🫡",
+   "url": "https://x.com/MiniMax_AI/status/2113737885262471328",
+   "ts": 1792789357,
+   "desc": "MiniMax M3.1 Flash is now on @tenstorrent Cloud -bringing frontier AI to Tensix silicon, Ethernet scale-out, and an open-source stack from the team led by Jim Keller.\n\nOpen weights. Diverse architectures. An open, heterogeneous AI future.🫡"
+  },
+  {
+   "source": "X @MiniMax_AI",
+   "title": "Thanks @FireworksAI_HQ for bringing M3.1 Flash to serverless on day 0! Looking sharp with the rebrand! 🎆  Try M3.1 Flash in serverless preview for your next multi-step agent workflow 🐰",
+   "url": "https://x.com/MiniMax_AI/status/2113704182058487889",
+   "ts": 1792781322,
+   "desc": "Thanks @FireworksAI_HQ for bringing M3.1 Flash to serverless on day 0! Looking sharp with the rebrand! 🎆\n\nTry M3.1 Flash in serverless preview for your next multi-step agent workflow 🐰"
+  },
+  {
+   "source": "X @MiniMax_AI",
    "title": "RT @SandbaseAI: Build with MiniMax M3.1 Flash for FREE. ⚡  You build. We cover the credits.  🌆 Remix any city, any way you imagine. 🏆 Compe…",
    "url": "https://x.com/MiniMax_AI/status/2113483886772805664",
    "ts": 1792728799,
@@ -1088,10 +1102,10 @@
   },
   {
    "source": "X @MiniMax_AI",
-   "title": "RT @aimlapi: MiniMax M3.1 Flash mogs Muse and DeepSeek for FREE 🔥  Try Space Bunny on https://t.co/wFX5XRm3ez https://t.co/wALCoxZStB",
-   "url": "https://x.com/MiniMax_AI/status/2112972934826578072",
-   "ts": 1792606979,
-   "desc": "RT @aimlapi: MiniMax M3.1 Flash mogs Muse and DeepSeek for FREE 🔥\n\nTry Space Bunny on https://t.co/wFX5XRm3ez https://t.co/wALCoxZStB"
+   "title": "Tutorial + code for you to cook with. ⬇️ https://t.co/40f8LlqbXA  https://t.co/5yorKjabtI",
+   "url": "https://x.com/MiniMax_AI/status/2112988717963178257",
+   "ts": 1792610742,
+   "desc": "Tutorial + code for you to cook with. ⬇️\nhttps://t.co/40f8LlqbXA\n\nhttps://t.co/5yorKjabtI"
   },
   {
    "source": "X @Zai_org",
@@ -1459,6 +1473,20 @@
   },
   {
    "source": "X @opencode",
+   "title": "RT @thdxr: https://t.co/pTmT9BypOs",
+   "url": "https://x.com/opencode/status/2113705626681401546",
+   "ts": 1792781666,
+   "desc": "RT @thdxr: https://t.co/pTmT9BypOs"
+  },
+  {
+   "source": "X @opencode",
+   "title": "Kimi K3.1 Pro is now available in OpenCode Go",
+   "url": "https://x.com/opencode/status/2113699251616412056",
+   "ts": 1792780146,
+   "desc": "Kimi K3.1 Pro is now available in OpenCode Go"
+  },
+  {
+   "source": "X @opencode",
    "title": "Meta Muse Wonder is now available on OpenCode",
    "url": "https://x.com/opencode/status/2112948459745763530",
    "ts": 1792601144,
@@ -1563,11 +1591,11 @@
    "desc": "RT @wagslane: Our AI Coding Course with OpenCode Launches on Monday!!! We've been waiting over a year to release this bad boi, as we've wan…"
   },
   {
-   "source": "X @opencode",
-   "title": "RT @ryanvogel: fully functional opencode 2.0 inside of 𝕏  https://t.co/nkuA4qpln5",
-   "url": "https://x.com/opencode/status/2110019907933106287",
-   "ts": 1791902922,
-   "desc": "RT @ryanvogel: fully functional opencode 2.0 inside of 𝕏\n\nhttps://t.co/nkuA4qpln5"
+   "source": "X @commandcodeai",
+   "title": "Kimi K3.1 Pro is now available in Command Code.  · 1M token context · 3T total, 104B active params, multimodal · Opus 5.5 and GPT-6 Astra level on benchmarks  Available across all plans and the api.",
+   "url": "https://x.com/CommandCodeAI/status/2113704514553585824",
+   "ts": 1792781401,
+   "desc": "Kimi K3.1 Pro is now available in Command Code.\n\n· 1M token context\n· 3T total, 104B active params, multimodal\n· Opus 5.5 and GPT-6 Astra level on benchmarks\n\nAvailable across all plans and the api."
   },
   {
    "source": "X @commandcodeai",
@@ -1641,6 +1669,55 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @alx: There are children starving and Bernie Sanders is giving $1 million to some Muslim in Michigan?  Does Bernie hate starving childre…",
+   "url": "https://x.com/elonmusk/status/2113692522509750760",
+   "ts": 1792778542,
+   "desc": "RT @alx: There are children starving and Bernie Sanders is giving $1 million to some Muslim in Michigan?\n\nDoes Bernie hate starving childre…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "The Economist has been anti-human for the past few decades. It is no longer worthy of respect.",
+   "url": "https://x.com/elonmusk/status/2113692448300097708",
+   "ts": 1792778524,
+   "desc": "The Economist has been anti-human for the past few decades. It is no longer worthy of respect."
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @APompliano: Every day I am more impressed by @grok bot",
+   "url": "https://x.com/elonmusk/status/2113684126360629466",
+   "ts": 1792776540,
+   "desc": "RT @APompliano: Every day I am more impressed by @grok bot"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @hnshah: I’ve got a problem. I’m addicted to Grok Bot.  I keep finding excuses to make another @grok @bot. Apparently I’ve made 81 bots…",
+   "url": "https://x.com/elonmusk/status/2113683508153434147",
+   "ts": 1792776393,
+   "desc": "RT @hnshah: I’ve got a problem. I’m addicted to Grok Bot.\n\nI keep finding excuses to make another @grok @bot. Apparently I’ve made 81 bots…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @XFreeze: This war has been going on for nearly five years, and somehow the one thing that never seems to run out is money  Zelensky kee…",
+   "url": "https://x.com/elonmusk/status/2113683429074038993",
+   "ts": 1792776374,
+   "desc": "RT @XFreeze: This war has been going on for nearly five years, and somehow the one thing that never seems to run out is money\n\nZelensky kee…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Yeah",
+   "url": "https://x.com/elonmusk/status/2113683278503072004",
+   "ts": 1792776338,
+   "desc": "Yeah"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @Truthful_ast: Grok Bot is insanely cool, wow.",
+   "url": "https://x.com/elonmusk/status/2113682653585293461",
+   "ts": 1792776189,
+   "desc": "RT @Truthful_ast: Grok Bot is insanely cool, wow."
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @milesdeutscher: Elon has done it. Grok Bot is officially the best AI agent on the planet.  Half of these Bots would have taken a full e…",
    "url": "https://x.com/elonmusk/status/2113682305961095246",
    "ts": 1792776106,
@@ -1687,55 +1764,6 @@
    "url": "https://x.com/elonmusk/status/2113678299394142433",
    "ts": 1792775151,
    "desc": "Talarico wants to trans your kids and destroy the border"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @KenPaxtonTX: The stakes have never been higher. I’m fighting for Texas every single day, and now I need you in the fight. Early voting…",
-   "url": "https://x.com/elonmusk/status/2113672758638915690",
-   "ts": 1792773830,
-   "desc": "RT @KenPaxtonTX: The stakes have never been higher. I’m fighting for Texas every single day, and now I need you in the fight. Early voting…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @nicksortor: 🔥 LMAO! James Talarico just got called out TO HIS FACE for whining about Elon Musk donating to Ken Paxton, while HE'S being…",
-   "url": "https://x.com/elonmusk/status/2113672575465226616",
-   "ts": 1792773786,
-   "desc": "RT @nicksortor: 🔥 LMAO! James Talarico just got called out TO HIS FACE for whining about Elon Musk donating to Ken Paxton, while HE'S being…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Hitler was a far left socialist. Literally in the name of his party!",
-   "url": "https://x.com/elonmusk/status/2113672397446381585",
-   "ts": 1792773744,
-   "desc": "Hitler was a far left socialist. Literally in the name of his party!"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Try Grok @Bot",
-   "url": "https://x.com/elonmusk/status/2113656412694073647",
-   "ts": 1792769933,
-   "desc": "Try Grok @Bot"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @IterIntellectus: grok bot is now integrated with XChat  i can basically do everything directly from X the everything app is coming toge…",
-   "url": "https://x.com/elonmusk/status/2113629956823519414",
-   "ts": 1792763625,
-   "desc": "RT @IterIntellectus: grok bot is now integrated with XChat\n\ni can basically do everything directly from X\nthe everything app is coming toge…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Try Grok @Bot",
-   "url": "https://x.com/elonmusk/status/2113508310267674684",
-   "ts": 1792734622,
-   "desc": "Try Grok @Bot"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Talarico supports voting fraud",
-   "url": "https://x.com/elonmusk/status/2113508214243573866",
-   "ts": 1792734600,
-   "desc": "Talarico supports voting fraud"
   },
   {
    "source": "X @sama",
@@ -1827,6 +1855,13 @@
    "url": "https://x.com/sama/status/2104995014208258235",
    "ts": 1790704894,
    "desc": "Dots are here!\n\nA new way to use AI that works 24/7 for you; get more of your time and attention back to work at a higher level.\n\nhttps://t.co/Kp4fPSGUTT"
+  },
+  {
+   "source": "X @RayDalio",
+   "title": "Proximate causes are typically the actions (or lack of actions) that lead to problems, so they are described with verbs (I missed the train because I didn't check the train schedule).   Root causes run much deeper and they are typically described wit",
+   "url": "https://x.com/RayDalio/status/2113716254968004945",
+   "ts": 1792784200,
+   "desc": "Proximate causes are typically the actions (or lack of actions) that lead to problems, so they are described with verbs (I missed the train because I didn't check the train schedule). \n\nRoot causes run much deeper and they are typically described with adjectives (I didn't check the train schedule because I am forgetful). \n\nYou can only truly solve your problems by removing their root causes, and t"
   },
   {
    "source": "X @RayDalio",
@@ -1953,13 +1988,6 @@
    "url": "https://x.com/RayDalio/status/2108712746741047414",
    "ts": 1791591271,
    "desc": "When there is pain, the animal instinct is flight-or-fight. Calm yourself down and reflect instead. \n\nThe pain you are feeling is due to things being in conflict--maybe you've come up against a terrible reality, such as the death of a friend, and are unable to accept it; maybe you've been forced to acknowledge a weakness that challenges the idea you'd had of yourself. #principleoftheday"
-  },
-  {
-   "source": "X @RayDalio",
-   "title": "Over long periods of time, debts tend to rise faster than incomes, creating the long-term debt cycle.  Even as people become more indebted, lenders freely extend credit because during economic booms, incomes rise, asset values soar, and the stock mar",
-   "url": "https://x.com/RayDalio/status/2108253474076975164",
-   "ts": 1791481772,
-   "desc": "Over long periods of time, debts tend to rise faster than incomes, creating the long-term debt cycle.\n\nEven as people become more indebted, lenders freely extend credit because during economic booms, incomes rise, asset values soar, and the stock market thrives. People borrow more to buy financial assets, pushing prices higher and creating a bubble.\n\nSo long as incomes keep rising, the debt burden"
   },
   {
    "source": "X @karpathy",
@@ -2922,6 +2950,27 @@
   },
   {
    "source": "X @natolambert",
+   "title": "Higher score than Fable 5.1 and Astra 6, wild stuff.",
+   "url": "https://x.com/natolambert/status/2113696375552512202",
+   "ts": 1792779461,
+   "desc": "Higher score than Fable 5.1 and Astra 6, wild stuff."
+  },
+  {
+   "source": "X @natolambert",
+   "title": "happy kimi day all - valuation of my labubu only goes up https://t.co/q6OYZSpSc3",
+   "url": "https://x.com/natolambert/status/2113687461754773807",
+   "ts": 1792777335,
+   "desc": "happy kimi day all - valuation of my labubu only goes up https://t.co/q6OYZSpSc3"
+  },
+  {
+   "source": "X @natolambert",
+   "title": "TLDR on the kimi k3.1 pro benchmarks is that it looks like they figured out their RL, where the initial release was a very impressive base model with lighter post-training. China is very much keeping pace with capability gains.",
+   "url": "https://x.com/natolambert/status/2113683001519284270",
+   "ts": 1792776272,
+   "desc": "TLDR on the kimi k3.1 pro benchmarks is that it looks like they figured out their RL, where the initial release was a very impressive base model with lighter post-training. China is very much keeping pace with capability gains."
+  },
+  {
+   "source": "X @natolambert",
    "title": "RT @joshua_saxe: I don't think \"everything is fine,\" but anyone claiming that php2shell is \"the worst day in cybersecurity history\" needs t…",
    "url": "https://x.com/natolambert/status/2113647678257271105",
    "ts": 1792767850,
@@ -2963,39 +3012,18 @@
    "desc": "The latest open models and some analysis of recent regulatory action from MOFCOM on model exports / DHS on DeepSeek. Great to see a bunch of strong US open weight models from Reflection, Meta, and Nvidia in this one!\nhttps://t.co/CBmAc9GJ45"
   },
   {
-   "source": "X @natolambert",
-   "title": "Probably great at defensive cyber too, but no one will post that and get clicks!",
-   "url": "https://x.com/natolambert/status/2112567715689042021",
-   "ts": 1792510367,
-   "desc": "Probably great at defensive cyber too, but no one will post that and get clicks!"
+   "source": "X @thsottiaux",
+   "title": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+   "url": "https://x.com/thsottiaux/status/2113029854417600834",
+   "ts": 1792620550,
+   "desc": "Fully included in the Pro plan, doesn't draw on your weekly usage."
   },
   {
-   "source": "X @natolambert",
-   "title": "This is really a wild way to get adoption on your models. Really great for the community, and the timing is hilarious given the govt just banned deepseek in federal agencies.",
-   "url": "https://x.com/natolambert/status/2112509913847210471",
-   "ts": 1792496586,
-   "desc": "This is really a wild way to get adoption on your models.\nReally great for the community, and the timing is hilarious given the govt just banned deepseek in federal agencies."
-  },
-  {
-   "source": "X @natolambert",
-   "title": "Trying to use the models for things outside of coding / ml, like making slides or coherent plans or longish content design, makes me feel the AGI-is-going-to-take-a-while.",
-   "url": "https://x.com/natolambert/status/2112150477123043514",
-   "ts": 1792410890,
-   "desc": "Trying to use the models for things outside of coding / ml, like making slides or coherent plans or longish content design, makes me feel the AGI-is-going-to-take-a-while."
-  },
-  {
-   "source": "X @natolambert",
-   "title": "RT @sophiamyang: Tomorrow at 9 AM CT: Join our AI Book Club author chat with @natolambert on Reinforcement Learning from Human Feedback 📖…",
-   "url": "https://x.com/natolambert/status/2111834760431714639",
-   "ts": 1792335617,
-   "desc": "RT @sophiamyang: Tomorrow at 9 AM CT: Join our AI Book Club author chat with @natolambert on Reinforcement Learning from Human Feedback 📖…"
-  },
-  {
-   "source": "X @natolambert",
-   "title": "RT @NandoDF: Closed frontier LLMs are dangerous  In most post-training reasoning efforts, a pre-trained base model trains on its own chains…",
-   "url": "https://x.com/natolambert/status/2111552154100199881",
-   "ts": 1792268238,
-   "desc": "RT @NandoDF: Closed frontier LLMs are dangerous\n\nIn most post-training reasoning efforts, a pre-trained base model trains on its own chains…"
+   "source": "X @thsottiaux",
+   "title": "Dot, Dotter, Dottest",
+   "url": "https://x.com/thsottiaux/status/2113029655095836957",
+   "ts": 1792620502,
+   "desc": "Dot, Dotter, Dottest"
   },
   {
    "source": "X @thsottiaux",
@@ -3251,6 +3279,13 @@
   },
   {
    "source": "Bluesky Simon Willison",
+   "title": "Notes on Kimi K3.1 - this one is a big deal, the first time an open weights (well, soon-to-be open weights) model has competed this credibly with the current frontier simonwillison.net/2026/Oct/23/...",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mykwxawoa22u",
+   "ts": 1792784754,
+   "desc": "Notes on Kimi K3.1 - this one is a big deal, the first time an open weights (well, soon-to-be open weights) model has competed this credibly with the current frontier simonwillison.net/2026/Oct/23/..."
+  },
+  {
+   "source": "Bluesky Simon Willison",
    "title": "Hardly at all - maybe hit the five hour limit once",
    "url": "https://bsky.app/profile/simonwillison.net/post/3myij5lrkis24",
    "ts": 1792701214,
@@ -3313,11 +3348,11 @@
    "desc": "It suggested Titan, like Colossus, Dreadnought, or Goliath - I liked Goliath best"
   },
   {
-   "source": "Bluesky Simon Willison",
-   "title": "I'd estimate several hundred dollars if paying API prices, but its ll fit in my ($200/month) Claude subscription",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mydiwswjjc2x",
-   "ts": 1792529188,
-   "desc": "I'd estimate several hundred dollars if paying API prices, but its ll fit in my ($200/month) Claude subscription"
+   "source": "Bluesky Nathan Lambert",
+   "title": "TLDR on the kimi k3.1 pro benchmarks (just released) is that it looks like they figured out their RL, where the initial release was a very impressive base model with lighter post-training. China is ve",
+   "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mykp3akewn2e",
+   "ts": 1792776298,
+   "desc": "TLDR on the kimi k3.1 pro benchmarks (just released) is that it looks like they figured out their RL, where the initial release was a very impressive base model with lighter post-training. China is very much keeping pace with capability gains."
   },
   {
    "source": "Bluesky Nathan Lambert",
@@ -3383,11 +3418,11 @@
    "desc": "In many ways, it feels like the epistemics of the models are getting way worse with increased RL -- they're super eager to solve, not eager to understand. Some older model, like GPT-4.5 and pre RL large models had a much better world model.\n\nI'm cautiously hoping Fable 5.5 helps solve some of this."
   },
   {
-   "source": "Bluesky Nathan Lambert",
-   "title": "I've even made a tool for this (markdown/html slides) and invested maybe a few hundred hours learning the skill of making slides with agents (tool is here: github.com/natolambert/... )",
-   "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mya62iykzy2l",
-   "ts": 1792414422,
-   "desc": "I've even made a tool for this (markdown/html slides) and invested maybe a few hundred hours learning the skill of making slides with agents (tool is here: github.com/natolambert/... )"
+   "source": "Bluesky Ethan Mollick",
+   "title": "This does not require the companies to train on the data of their customers, which they insist they do not do (and could not do legally in most cases), but merely a recognition that there is more mone",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mykp4xd7ec2o",
+   "ts": 1792776355,
+   "desc": "This does not require the companies to train on the data of their customers, which they insist they do not do (and could not do legally in most cases), but merely a recognition that there is more money in competing directly in finance of whatever than giving that capability to others."
   },
   {
    "source": "Bluesky Ethan Mollick",
@@ -3453,32 +3488,32 @@
    "desc": "I wrote about the exponential curve of the last 30 months of AI development: www.oneusefulthing.org/p/30-months-...\n\nAnd I asked Opus 5.5 to create the ultimate response to the test I use for all AI image generation models (make a picture of an otter on a plane using wifi), and it made this video."
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "My new book, Co-Existence, is out today. It is a guide to how to live and work in a world where AI is sometimes, but not always, better than you.  (And, for the release, I worked with Opus 5.5 to make",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3myd4idyjkk2c",
-   "ts": 1792515818,
-   "desc": "My new book, Co-Existence, is out today. It is a guide to how to live and work in a world where AI is sometimes, but not always, better than you.\n\n(And, for the release, I worked with Opus 5.5 to make a quite interesting experience for the book's new website: co-existence.ai)"
-  },
-  {
    "source": "HN",
    "title": "Every AI model has the same \"controversial\" take on humans",
    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "ts": 1792685280,
-   "desc": "594 points"
+   "desc": "609 points"
   },
   {
    "source": "HN",
    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
    "url": "https://github.com/NVIDIA/OpenShell",
    "ts": 1792691046,
-   "desc": "475 points"
+   "desc": "487 points"
   },
   {
    "source": "HN",
    "title": "Airbnb bans making guests do dishes and take out the trash",
    "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
    "ts": 1792625912,
-   "desc": "254 points"
+   "desc": "256 points"
+  },
+  {
+   "source": "HN",
+   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+   "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+   "ts": 1792737671,
+   "desc": "140 points"
   },
   {
    "source": "HN",
@@ -3489,59 +3524,45 @@
   },
   {
    "source": "HN",
-   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-   "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-   "ts": 1792737671,
-   "desc": "135 points"
-  },
-  {
-   "source": "HN",
-   "title": "Google staff resign in backlash over its AI contracts with military",
-   "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-   "ts": 1792610061,
-   "desc": "126 points"
-  },
-  {
-   "source": "HN",
    "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
    "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
    "ts": 1792702283,
-   "desc": "88 points"
+   "desc": "89 points"
   },
   {
    "source": "HN",
    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
    "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
    "ts": 1792692174,
-   "desc": "87 points"
+   "desc": "88 points"
   },
   {
    "source": "HN",
    "title": "Show HN: UI micro interactions prompts for AI",
    "url": "https://www.typeui.sh/micro-interactions",
    "ts": 1792693977,
-   "desc": "77 points"
+   "desc": "78 points"
   },
   {
    "source": "HN",
    "title": "Award-winning AI literature",
    "url": "https://jamesyu.org/award-winning-ai-literature/",
    "ts": 1792693706,
-   "desc": "64 points"
+   "desc": "65 points"
   },
   {
    "source": "HN",
-   "title": "Texas data center boom could erase decades of progress on air quality",
-   "url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
-   "ts": 1792604335,
-   "desc": "55 points"
+   "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+   "url": "https://www.thisandthat.chat/enron/",
+   "ts": 1792756973,
+   "desc": "54 points"
   },
   {
    "source": "HN",
    "title": "AI compute is the new oil–and needs a new market",
    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
    "ts": 1792712716,
-   "desc": "50 points"
+   "desc": "52 points"
   },
   {
    "source": "HN",
@@ -3552,17 +3573,17 @@
   },
   {
    "source": "HN",
-   "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-   "url": "https://www.thisandthat.chat/enron/",
-   "ts": 1792756973,
-   "desc": "44 points"
-  },
-  {
-   "source": "HN",
    "title": "United Airlines CEO Calls for National Wealth Tax",
    "url": "https://firstformoney.com/united-airlines-ceo-calls-for-national-wealth-tax-inheritance-tax-i-would-pay-them/",
    "ts": 1792693895,
-   "desc": "39 points"
+   "desc": "41 points"
+  },
+  {
+   "source": "HN",
+   "title": "Air Purifiers as White Noise Machines",
+   "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+   "ts": 1792776516,
+   "desc": "38 points"
   },
   {
    "source": "HN",
@@ -3580,10 +3601,31 @@
   },
   {
    "source": "HN",
+   "title": "AI Safety Is Mostly a Sex Cult in Berkeley, California",
+   "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
+   "ts": 1792773112,
+   "desc": "25 points"
+  },
+  {
+   "source": "HN",
+   "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+   "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+   "ts": 1792783896,
+   "desc": "18 points"
+  },
+  {
+   "source": "HN",
    "title": "Google Pushed AI into Schools–and Even Students Say It's Gone Too Far",
    "url": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
    "ts": 1792690332,
    "desc": "18 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI Is Not a Tool",
+   "url": "https://twitter.com/frascafrasca/status/2113637581426671850",
+   "ts": 1792774786,
+   "desc": "17 points"
   },
   {
    "source": "HN",
@@ -3594,10 +3636,10 @@
   },
   {
    "source": "HN",
-   "title": "The AI-Hacking Apocalypse Began Last Night",
-   "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/",
-   "ts": 1792612538,
-   "desc": "16 points"
+   "title": "An alignment assessment of the UK AISI cybertesting incident",
+   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+   "ts": 1792766690,
+   "desc": "15 points"
   },
   {
    "source": "HN",
@@ -3608,9 +3650,9 @@
   },
   {
    "source": "HN",
-   "title": "Airbnb bans hosts from making guests wash dishes or do laundry at checkout",
-   "url": "https://www.dexerto.com/entertainment/new-airbnb-rules-ban-hosts-from-making-guests-wash-dishes-do-laundry-other-checkout-chores-3420832/",
-   "ts": 1792604903,
+   "title": "Wolves enter Finnish villages after Google clears 1300 acres for AI data centers",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
+   "ts": 1792756582,
    "desc": "12 points"
   },
   {
@@ -3654,20 +3696,6 @@
    "url": "https://www.theatlantic.com/technology/2026/10/ai-midterm-election-voters-chatbots/689103/",
    "ts": 1792681526,
    "desc": "11 points"
-  },
-  {
-   "source": "HN",
-   "title": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
-   "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
-   "ts": 1792677527,
-   "desc": "10 points"
-  },
-  {
-   "source": "HN",
-   "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
-   "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
-   "ts": 1792757529,
-   "desc": "10 points"
   }
  ]
 }
