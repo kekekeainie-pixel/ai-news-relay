@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-23T21:36:04.714432+00:00",
- "count": 524,
+ "generated_at": "2026-10-24T04:55:45.570754+00:00",
+ "count": 526,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 454,
+   "count": 456,
    "note": "49 账号"
   },
   {
@@ -29,6 +29,20 @@
   }
  ],
  "items": [
+  {
+   "source": "X @OpenAI",
+   "title": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.  The flaw coul",
+   "url": "https://x.com/OpenAI/status/2113766354386084338",
+   "ts": 1792796145,
+   "desc": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their own code on affected systems by sending or replying with malicious compressed data, without any need to create a user acco"
+  },
+  {
+   "source": "X @OpenAI",
+   "title": "RT @ChatGPT: We’re using dots to build better dots.  @rennsong, an engineer at OpenAI, uses her dot to gather feedback from social media an…",
+   "url": "https://x.com/OpenAI/status/2113761048520167542",
+   "ts": 1792794880,
+   "desc": "RT @ChatGPT: We’re using dots to build better dots.\n\n@rennsong, an engineer at OpenAI, uses her dot to gather feedback from social media an…"
+  },
   {
    "source": "X @OpenAI",
    "title": "Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached ver",
@@ -112,20 +126,6 @@
    "url": "https://x.com/OpenAI/status/2110442001749659890",
    "ts": 1792003557,
    "desc": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among our EU enterprise and business customers now involves these tools, and the number of small business users has grown 8x across the region.\n\nOur latest Economic Research report explores Europe’s shift toward agentic AI—and the opportunity to turn broader adoption into deeper use.\n\nhttps://t.co/jUjCF5"
-  },
-  {
-   "source": "X @OpenAI",
-   "title": "RT @ChatGPT: Fresh updates for dots.  First up: you can now create your dot straight from your phone in the ChatGPT app on iOS and Android.…",
-   "url": "https://x.com/OpenAI/status/2108637293368242291",
-   "ts": 1791573281,
-   "desc": "RT @ChatGPT: Fresh updates for dots.\n\nFirst up: you can now create your dot straight from your phone in the ChatGPT app on iOS and Android.…"
-  },
-  {
-   "source": "X @OpenAI",
-   "title": "RT @OpenAIDevs: Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work.  Near-Astra intelligence at up to 8x fa…",
-   "url": "https://x.com/OpenAI/status/2108269021430710412",
-   "ts": 1791485479,
-   "desc": "RT @OpenAIDevs: Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work.\n\nNear-Astra intelligence at up to 8x fa…"
   },
   {
    "source": "X @AnthropicAI",
@@ -1101,13 +1101,6 @@
    "desc": "Thank you for bringing H3 to TPUs! Excited to see more open-source work on efficient video inference and what it could enable: faster creative iteration, new interactive experiences, and more ways for developers to build with H3."
   },
   {
-   "source": "X @MiniMax_AI",
-   "title": "Tutorial + code for you to cook with. ⬇️ https://t.co/40f8LlqbXA  https://t.co/5yorKjabtI",
-   "url": "https://x.com/MiniMax_AI/status/2112988717963178257",
-   "ts": 1792610742,
-   "desc": "Tutorial + code for you to cook with. ⬇️\nhttps://t.co/40f8LlqbXA\n\nhttps://t.co/5yorKjabtI"
-  },
-  {
    "source": "X @Zai_org",
    "title": "RT @youdotcom: Introducing Inference Router: enterprise-grade inference on demand.  Kimi K3, GLM 5.3, DeepSeek V4.1 Flash, Qwen3.8 Flash, M…",
    "url": "https://x.com/Zai_org/status/2113435769574739986",
@@ -1669,6 +1662,55 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @JohnnaCrider1: People who act like Elon owes Ukraine forget this very important detail:",
+   "url": "https://x.com/elonmusk/status/2113820625005404325",
+   "ts": 1792809084,
+   "desc": "RT @JohnnaCrider1: People who act like Elon owes Ukraine forget this very important detail:"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Talarico is a far left extremist",
+   "url": "https://x.com/elonmusk/status/2113820303952650534",
+   "ts": 1792809008,
+   "desc": "Talarico is a far left extremist"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Yes",
+   "url": "https://x.com/elonmusk/status/2113796285207552407",
+   "ts": 1792803281,
+   "desc": "Yes"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Grok @Bot saves sensitive info in a vault",
+   "url": "https://x.com/elonmusk/status/2113796183688982771",
+   "ts": 1792803257,
+   "desc": "Grok @Bot saves sensitive info in a vault"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @SawyerMerritt: Tesla has just expanded its Robotaxi service area in Austin, Texas.  The new service area now includes the area around A…",
+   "url": "https://x.com/elonmusk/status/2113755127882649730",
+   "ts": 1792793468,
+   "desc": "RT @SawyerMerritt: Tesla has just expanded its Robotaxi service area in Austin, Texas.\n\nThe new service area now includes the area around A…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @Rothmus: James Talarico is a 2021 woke remnant who must lose.   When he opposed a transgender athletes bill that year he told the Texas…",
+   "url": "https://x.com/elonmusk/status/2113754917185741158",
+   "ts": 1792793418,
+   "desc": "RT @Rothmus: James Talarico is a 2021 woke remnant who must lose. \n\nWhen he opposed a transgender athletes bill that year he told the Texas…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @gigafactories: Ramp-up is in full swing at Giga Berlin. This week we hit the next production milestone: 7,000 Model Y built in one week…",
+   "url": "https://x.com/elonmusk/status/2113754749288006108",
+   "ts": 1792793378,
+   "desc": "RT @gigafactories: Ramp-up is in full swing at Giga Berlin. This week we hit the next production milestone: 7,000 Model Y built in one week…"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @alx: There are children starving and Bernie Sanders is giving $1 million to some Muslim in Michigan?  Does Bernie hate starving childre…",
    "url": "https://x.com/elonmusk/status/2113692522509750760",
    "ts": 1792778542,
@@ -1750,20 +1792,6 @@
    "url": "https://x.com/elonmusk/status/2113679326910505300",
    "ts": 1792775396,
    "desc": "RT @WR4NYGov: Tesla Whiners: Earnings call wasn't optimistic\n\nThe Q3 Call:\n\n- Vaibhav: We will take over transportation of any kind on Eart…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @DogecoinNorway: Now the company is fixing the problem.  Thank you, Grok Bot!  I had a problem with a company doing some building work f…",
-   "url": "https://x.com/elonmusk/status/2113678691725160516",
-   "ts": 1792775245,
-   "desc": "RT @DogecoinNorway: Now the company is fixing the problem. \nThank you, Grok Bot!\n\nI had a problem with a company doing some building work f…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Talarico wants to trans your kids and destroy the border",
-   "url": "https://x.com/elonmusk/status/2113678299394142433",
-   "ts": 1792775151,
-   "desc": "Talarico wants to trans your kids and destroy the border"
   },
   {
    "source": "X @sama",
@@ -2488,6 +2516,20 @@
   },
   {
    "source": "X @ylecun",
+   "title": "RT @mosh_levy: 1/ JEPA selects which features its world model keeps. But how? Will it keep a feature it can't predict, like a traffic light…",
+   "url": "https://x.com/ylecun/status/2113787497402773858",
+   "ts": 1792801186,
+   "desc": "RT @mosh_levy: 1/ JEPA selects which features its world model keeps.\nBut how?\nWill it keep a feature it can't predict, like a traffic light…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @jon_barron: Hi all, I have a new result I'm excited to share. It turns out that *all existing implementations* of softmax and cross-ent…",
+   "url": "https://x.com/ylecun/status/2113766731512709380",
+   "ts": 1792796235,
+   "desc": "RT @jon_barron: Hi all, I have a new result I'm excited to share. It turns out that *all existing implementations* of softmax and cross-ent…"
+  },
+  {
+   "source": "X @ylecun",
    "title": "RT @EeroSimoncelli: Looking for a PhD program where you can study computational neuroscience?  NYU has a fantastic array of researchers cov…",
    "url": "https://x.com/ylecun/status/2113460412448378974",
    "ts": 1792723203,
@@ -2611,20 +2653,6 @@
    "url": "https://x.com/ylecun/status/2111500320501047412",
    "ts": 1792255880,
    "desc": "RT @DrTechlash: My new investigation maps nearly $3 BILLION in historical and projected funding behind the AI existential-risk ecosystem. h…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @NewYorker: “At a time when Donald Trump’s party is struggling to hold both houses of Congress and his own approval ratings are craterin…",
-   "url": "https://x.com/ylecun/status/2111467462239584737",
-   "ts": 1792248046,
-   "desc": "RT @NewYorker: “At a time when Donald Trump’s party is struggling to hold both houses of Congress and his own approval ratings are craterin…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @SteveRattner: Trump says drug prices are down 300–700% and Americans pay “the lowest drug prices” in the world.  Prescription drug pric…",
-   "url": "https://x.com/ylecun/status/2111250610280411624",
-   "ts": 1792196345,
-   "desc": "RT @SteveRattner: Trump says drug prices are down 300–700% and Americans pay “the lowest drug prices” in the world.\n\nPrescription drug pric…"
   },
   {
    "source": "X @AndrewYNg",
@@ -3013,17 +3041,10 @@
   },
   {
    "source": "X @thsottiaux",
-   "title": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
-   "url": "https://x.com/thsottiaux/status/2113029854417600834",
-   "ts": 1792620550,
-   "desc": "Fully included in the Pro plan, doesn't draw on your weekly usage."
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "Dot, Dotter, Dottest",
-   "url": "https://x.com/thsottiaux/status/2113029655095836957",
-   "ts": 1792620502,
-   "desc": "Dot, Dotter, Dottest"
+   "title": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
+   "url": "https://x.com/thsottiaux/status/2113838156193894447",
+   "ts": 1792813264,
+   "desc": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool."
   },
   {
    "source": "X @thsottiaux",
@@ -3087,13 +3108,6 @@
    "url": "https://x.com/thsottiaux/status/2111566005684289735",
    "ts": 1792271541,
    "desc": "Done"
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're still so early.",
-   "url": "https://x.com/thsottiaux/status/2111495392559067199",
-   "ts": 1792254705,
-   "desc": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're still so early."
   },
   {
    "source": "X @lydiahallie",
@@ -3492,21 +3506,14 @@
    "title": "Every AI model has the same \"controversial\" take on humans",
    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "ts": 1792685280,
-   "desc": "609 points"
+   "desc": "622 points"
   },
   {
    "source": "HN",
    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
    "url": "https://github.com/NVIDIA/OpenShell",
    "ts": 1792691046,
-   "desc": "487 points"
-  },
-  {
-   "source": "HN",
-   "title": "Airbnb bans making guests do dishes and take out the trash",
-   "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-   "ts": 1792625912,
-   "desc": "256 points"
+   "desc": "490 points"
   },
   {
    "source": "HN",
@@ -3524,10 +3531,17 @@
   },
   {
    "source": "HN",
+   "title": "Air Purifiers as White Noise Machines",
+   "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+   "ts": 1792776516,
+   "desc": "90 points"
+  },
+  {
+   "source": "HN",
    "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
    "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
    "ts": 1792702283,
-   "desc": "89 points"
+   "desc": "90 points"
   },
   {
    "source": "HN",
@@ -3541,7 +3555,7 @@
    "title": "Show HN: UI micro interactions prompts for AI",
    "url": "https://www.typeui.sh/micro-interactions",
    "ts": 1792693977,
-   "desc": "78 points"
+   "desc": "79 points"
   },
   {
    "source": "HN",
@@ -3555,7 +3569,7 @@
    "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
    "url": "https://www.thisandthat.chat/enron/",
    "ts": 1792756973,
-   "desc": "54 points"
+   "desc": "58 points"
   },
   {
    "source": "HN",
@@ -3566,10 +3580,17 @@
   },
   {
    "source": "HN",
+   "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+   "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+   "ts": 1792783896,
+   "desc": "47 points"
+  },
+  {
+   "source": "HN",
    "title": "Achieving AI-style reasoning without an LLM",
    "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
    "ts": 1792658818,
-   "desc": "46 points"
+   "desc": "47 points"
   },
   {
    "source": "HN",
@@ -3580,13 +3601,6 @@
   },
   {
    "source": "HN",
-   "title": "Air Purifiers as White Noise Machines",
-   "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-   "ts": 1792776516,
-   "desc": "38 points"
-  },
-  {
-   "source": "HN",
    "title": "Important updates to AI use on Etsy",
    "url": "https://www.etsy.com/seller-handbook/article/1522733284810",
    "ts": 1792682297,
@@ -3594,23 +3608,9 @@
   },
   {
    "source": "HN",
-   "title": "Data centers could erase decades of air quality gains",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-   "ts": 1792632494,
-   "desc": "30 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI Safety Is Mostly a Sex Cult in Berkeley, California",
-   "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california",
-   "ts": 1792773112,
-   "desc": "25 points"
-  },
-  {
-   "source": "HN",
-   "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-   "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
-   "ts": 1792783896,
+   "title": "AI Is Not a Tool",
+   "url": "https://twitter.com/frascafrasca/status/2113637581426671850",
+   "ts": 1792774786,
    "desc": "18 points"
   },
   {
@@ -3622,9 +3622,16 @@
   },
   {
    "source": "HN",
-   "title": "AI Is Not a Tool",
-   "url": "https://twitter.com/frascafrasca/status/2113637581426671850",
-   "ts": 1792774786,
+   "title": "An alignment assessment of the UK AISI cybertesting incident",
+   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+   "ts": 1792766690,
+   "desc": "17 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI is devastating higher education, but the system was broken",
+   "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+   "ts": 1792789919,
    "desc": "17 points"
   },
   {
@@ -3636,9 +3643,16 @@
   },
   {
    "source": "HN",
-   "title": "An alignment assessment of the UK AISI cybertesting incident",
-   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-   "ts": 1792766690,
+   "title": "AI devours a fifth of companies' IT budgets",
+   "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+   "ts": 1792792805,
+   "desc": "16 points"
+  },
+  {
+   "source": "HN",
+   "title": "Wolves enter Finnish villages after Google clears 1300 acres for AI data centers",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
+   "ts": 1792756582,
    "desc": "15 points"
   },
   {
@@ -3647,13 +3661,6 @@
    "url": "https://theedgemalaysia.com/node/822195",
    "ts": 1792665133,
    "desc": "14 points"
-  },
-  {
-   "source": "HN",
-   "title": "Wolves enter Finnish villages after Google clears 1300 acres for AI data centers",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
-   "ts": 1792756582,
-   "desc": "12 points"
   },
   {
    "source": "HN",
@@ -3667,13 +3674,6 @@
    "title": "US banks are blocking third-party AI agents access to customer accounts",
    "url": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
    "ts": 1792705426,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
-   "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
-   "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
-   "ts": 1792622882,
    "desc": "11 points"
   },
   {
@@ -3692,10 +3692,24 @@
   },
   {
    "source": "HN",
+   "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
+   "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+   "ts": 1792801937,
+   "desc": "11 points"
+  },
+  {
+   "source": "HN",
    "title": "America Is About to See What Happens When Voters Turn to AI",
    "url": "https://www.theatlantic.com/technology/2026/10/ai-midterm-election-voters-chatbots/689103/",
    "ts": 1792681526,
    "desc": "11 points"
+  },
+  {
+   "source": "HN",
+   "title": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
+   "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+   "ts": 1792677527,
+   "desc": "10 points"
   }
  ]
 }
