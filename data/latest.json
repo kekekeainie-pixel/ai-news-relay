@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-24T04:55:45.570754+00:00",
- "count": 526,
+ "generated_at": "2026-10-24T11:27:04.018540+00:00",
+ "count": 527,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 456,
+   "count": 457,
    "note": "49 账号"
   },
   {
@@ -1235,6 +1235,13 @@
   },
   {
    "source": "X @Baidu_Inc",
+   "title": "RT @Reuters: US-based Lyft unit Freenow and Baidu's Apollo Go unveiled the Chinese company's RT6 autonomous vehicle in London and said they…",
+   "url": "https://x.com/Baidu_Inc/status/2113925873066000484",
+   "ts": 1792834177,
+   "desc": "RT @Reuters: US-based Lyft unit Freenow and Baidu's Apollo Go unveiled the Chinese company's RT6 autonomous vehicle in London and said they…"
+  },
+  {
+   "source": "X @Baidu_Inc",
    "title": "Baidu World 2026 has more than a few lessons to share.  On Nov 12, our 30+ open classes cover why businesses adopt AI, how real projects take shape, and what you can try for yourself.  Here's a quick preview 👇 https://t.co/qD7soCJwk1",
    "url": "https://x.com/Baidu_Inc/status/2113631529184444455",
    "ts": 1792764000,
@@ -1585,6 +1592,20 @@
   },
   {
    "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: Try parallel chats in the Command Code desktop app.  Kick off a task, start another while it runs, track everything from…",
+   "url": "https://x.com/CommandCodeAI/status/2113861275730198612",
+   "ts": 1792818776,
+   "desc": "RT @CommandCodeAI: Try parallel chats in the Command Code desktop app.\n\nKick off a task, start another while it runs, track everything from…"
+  },
+  {
+   "source": "X @commandcodeai",
+   "title": "RT @CommandCodeAI: Kimi K3.1 Pro is now available in Command Code.  · 1M token context · 3T total, 104B active params, multimodal · Opus 5.…",
+   "url": "https://x.com/CommandCodeAI/status/2113861251336151436",
+   "ts": 1792818770,
+   "desc": "RT @CommandCodeAI: Kimi K3.1 Pro is now available in Command Code.\n\n· 1M token context\n· 3T total, 104B active params, multimodal\n· Opus 5.…"
+  },
+  {
+   "source": "X @commandcodeai",
    "title": "Kimi K3.1 Pro is now available in Command Code.  · 1M token context · 3T total, 104B active params, multimodal · Opus 5.5 and GPT-6 Astra level on benchmarks  Available across all plans and the api.",
    "url": "https://x.com/CommandCodeAI/status/2113704514553585824",
    "ts": 1792781401,
@@ -1654,11 +1675,102 @@
    "desc": "Statusline is now live in Command Code.\n\nRun /statusline to customize line below your prompt.\n\nShow model, usage, reasoning level, costs, and more. Reorder items and toggle indicators your way. https://t.co/eu2yd5Jx9A"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "DeepSeek V4.1 Flash 1017 now live in Command Code  · All DeepSeek 4.1 requests use the latest 1017 version · Matches Opus 5 level perf at 60x cheaper cost · Beats Kimi K3 (max) at 10x lower cost  Available across on all plans and api right away.",
-   "url": "https://x.com/CommandCodeAI/status/2112215504064819443",
-   "ts": 1792426393,
-   "desc": "DeepSeek V4.1 Flash 1017 now live in Command Code\n\n· All DeepSeek 4.1 requests use the latest 1017 version\n· Matches Opus 5 level perf at 60x cheaper cost\n· Beats Kimi K3 (max) at 10x lower cost\n\nAvailable across on all plans and api right away."
+   "source": "X @elonmusk",
+   "title": "RT @Rothmus: The guy running to represent Texas wants to dismantle capitalism and bury oil and gas.   When he was a state legislator in 202…",
+   "url": "https://x.com/elonmusk/status/2113878910253609262",
+   "ts": 1792822980,
+   "desc": "RT @Rothmus: The guy running to represent Texas wants to dismantle capitalism and bury oil and gas. \n\nWhen he was a state legislator in 202…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @mntruell: Instant login and checkout with @Bot",
+   "url": "https://x.com/elonmusk/status/2113878435336708459",
+   "ts": 1792822867,
+   "desc": "RT @mntruell: Instant login and checkout with @Bot"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "So do I",
+   "url": "https://x.com/elonmusk/status/2113877257613947348",
+   "ts": 1792822586,
+   "desc": "So do I"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @XFreeze: The Ultra plan is actually just $200 a month if you purchase it on the web  $260 is the cost if you buy it on the App Store or…",
+   "url": "https://x.com/elonmusk/status/2113877111656075373",
+   "ts": 1792822552,
+   "desc": "RT @XFreeze: The Ultra plan is actually just $200 a month if you purchase it on the web\n\n$260 is the cost if you buy it on the App Store or…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @Tesla: Inspired by fighter jet cockpits, Roadster’s interface was designed around the pilot https://t.co/xHsyuNVrWo",
+   "url": "https://x.com/elonmusk/status/2113871152049488160",
+   "ts": 1792821131,
+   "desc": "RT @Tesla: Inspired by fighter jet cockpits, Roadster’s interface was designed around the pilot https://t.co/xHsyuNVrWo"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @ClownWorld: $260 a month sounds crazy until you realize how much time and work this thing saves you @bot https://t.co/yNX1CfvhDL",
+   "url": "https://x.com/elonmusk/status/2113871080792203349",
+   "ts": 1792821114,
+   "desc": "RT @ClownWorld: $260 a month sounds crazy until you realize how much time and work this thing saves you @bot https://t.co/yNX1CfvhDL"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Cool",
+   "url": "https://x.com/elonmusk/status/2113870201053700098",
+   "ts": 1792820904,
+   "desc": "Cool"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "True",
+   "url": "https://x.com/elonmusk/status/2113870130799362063",
+   "ts": 1792820887,
+   "desc": "True"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @cb_doge: The legacy media is a pure propaganda machine for the left. They all say the same thing at the same time.  𝕏 is the real voice…",
+   "url": "https://x.com/elonmusk/status/2113870015430840662",
+   "ts": 1792820860,
+   "desc": "RT @cb_doge: The legacy media is a pure propaganda machine for the left. They all say the same thing at the same time.\n\n𝕏 is the real voice…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Odyssey with Grok Imagine",
+   "url": "https://x.com/elonmusk/status/2113869401930039702",
+   "ts": 1792820713,
+   "desc": "Odyssey with Grok Imagine"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "In his own words",
+   "url": "https://x.com/elonmusk/status/2113869278889811989",
+   "ts": 1792820684,
+   "desc": "In his own words"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Beautiful",
+   "url": "https://x.com/elonmusk/status/2113869123566641364",
+   "ts": 1792820647,
+   "desc": "Beautiful"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @kevinnbass: He is starting to believe https://t.co/7tcCuOfonk",
+   "url": "https://x.com/elonmusk/status/2113861498577592543",
+   "ts": 1792818829,
+   "desc": "RT @kevinnbass: He is starting to believe https://t.co/7tcCuOfonk"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @elonmusk: @Rothmus Those who are opposed to corporations and favor government do not realize that government is simply the largest, mos…",
+   "url": "https://x.com/elonmusk/status/2113860032584667529",
+   "ts": 1792818480,
+   "desc": "RT @elonmusk: @Rothmus Those who are opposed to corporations and favor government do not realize that government is simply the largest, mos…"
   },
   {
    "source": "X @elonmusk",
@@ -1701,97 +1813,6 @@
    "url": "https://x.com/elonmusk/status/2113754917185741158",
    "ts": 1792793418,
    "desc": "RT @Rothmus: James Talarico is a 2021 woke remnant who must lose. \n\nWhen he opposed a transgender athletes bill that year he told the Texas…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @gigafactories: Ramp-up is in full swing at Giga Berlin. This week we hit the next production milestone: 7,000 Model Y built in one week…",
-   "url": "https://x.com/elonmusk/status/2113754749288006108",
-   "ts": 1792793378,
-   "desc": "RT @gigafactories: Ramp-up is in full swing at Giga Berlin. This week we hit the next production milestone: 7,000 Model Y built in one week…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @alx: There are children starving and Bernie Sanders is giving $1 million to some Muslim in Michigan?  Does Bernie hate starving childre…",
-   "url": "https://x.com/elonmusk/status/2113692522509750760",
-   "ts": 1792778542,
-   "desc": "RT @alx: There are children starving and Bernie Sanders is giving $1 million to some Muslim in Michigan?\n\nDoes Bernie hate starving childre…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "The Economist has been anti-human for the past few decades. It is no longer worthy of respect.",
-   "url": "https://x.com/elonmusk/status/2113692448300097708",
-   "ts": 1792778524,
-   "desc": "The Economist has been anti-human for the past few decades. It is no longer worthy of respect."
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @APompliano: Every day I am more impressed by @grok bot",
-   "url": "https://x.com/elonmusk/status/2113684126360629466",
-   "ts": 1792776540,
-   "desc": "RT @APompliano: Every day I am more impressed by @grok bot"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @hnshah: I’ve got a problem. I’m addicted to Grok Bot.  I keep finding excuses to make another @grok @bot. Apparently I’ve made 81 bots…",
-   "url": "https://x.com/elonmusk/status/2113683508153434147",
-   "ts": 1792776393,
-   "desc": "RT @hnshah: I’ve got a problem. I’m addicted to Grok Bot.\n\nI keep finding excuses to make another @grok @bot. Apparently I’ve made 81 bots…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @XFreeze: This war has been going on for nearly five years, and somehow the one thing that never seems to run out is money  Zelensky kee…",
-   "url": "https://x.com/elonmusk/status/2113683429074038993",
-   "ts": 1792776374,
-   "desc": "RT @XFreeze: This war has been going on for nearly five years, and somehow the one thing that never seems to run out is money\n\nZelensky kee…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Yeah",
-   "url": "https://x.com/elonmusk/status/2113683278503072004",
-   "ts": 1792776338,
-   "desc": "Yeah"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Truthful_ast: Grok Bot is insanely cool, wow.",
-   "url": "https://x.com/elonmusk/status/2113682653585293461",
-   "ts": 1792776189,
-   "desc": "RT @Truthful_ast: Grok Bot is insanely cool, wow."
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @milesdeutscher: Elon has done it. Grok Bot is officially the best AI agent on the planet.  Half of these Bots would have taken a full e…",
-   "url": "https://x.com/elonmusk/status/2113682305961095246",
-   "ts": 1792776106,
-   "desc": "RT @milesdeutscher: Elon has done it. Grok Bot is officially the best AI agent on the planet.\n\nHalf of these Bots would have taken a full e…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @america: If Talarico and Democrats get back into power, they will restart the border invasion.  Our nation deserves a secure border.  V…",
-   "url": "https://x.com/elonmusk/status/2113680285451559004",
-   "ts": 1792775624,
-   "desc": "RT @america: If Talarico and Democrats get back into power, they will restart the border invasion.\n\nOur nation deserves a secure border.\n\nV…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @XFreeze: Elon Musk just shared how Tesla came within hours of dying on Christmas Eve in 2008, and it's incredible to think how much of…",
-   "url": "https://x.com/elonmusk/status/2113679421970301220",
-   "ts": 1792775419,
-   "desc": "RT @XFreeze: Elon Musk just shared how Tesla came within hours of dying on Christmas Eve in 2008, and it's incredible to think how much of…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @elonmusk: @WR4NYGov By the way, Tesla ramping up Megapack production rapidly to meet increasing demand",
-   "url": "https://x.com/elonmusk/status/2113679345562554445",
-   "ts": 1792775400,
-   "desc": "RT @elonmusk: @WR4NYGov By the way, Tesla ramping up Megapack production rapidly to meet increasing demand"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @WR4NYGov: Tesla Whiners: Earnings call wasn't optimistic  The Q3 Call:  - Vaibhav: We will take over transportation of any kind on Eart…",
-   "url": "https://x.com/elonmusk/status/2113679326910505300",
-   "ts": 1792775396,
-   "desc": "RT @WR4NYGov: Tesla Whiners: Earnings call wasn't optimistic\n\nThe Q3 Call:\n\n- Vaibhav: We will take over transportation of any kind on Eart…"
   },
   {
    "source": "X @sama",
@@ -3026,20 +3047,6 @@
    "desc": "Seems like cyber risk for AI may be more of an ecosystem issue than an open-weight models specific issue. If we can figure out the right balance here, I think there are a lot of people out there who want to support more openness in light of RSI and AI dynamics coming soon."
   },
   {
-   "source": "X @natolambert",
-   "title": "RT @interconnectsai: Artifacts 25: DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US &amp; China.   28 mode…",
-   "url": "https://x.com/natolambert/status/2112594632433627516",
-   "ts": 1792516785,
-   "desc": "RT @interconnectsai: Artifacts 25: DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US &amp; China. \n\n28 mode…"
-  },
-  {
-   "source": "X @natolambert",
-   "title": "The latest open models and some analysis of recent regulatory action from MOFCOM on model exports / DHS on DeepSeek. Great to see a bunch of strong US open weight models from Reflection, Meta, and Nvidia in this one! https://t.co/CBmAc9GJ45",
-   "url": "https://x.com/natolambert/status/2112592465043599510",
-   "ts": 1792516268,
-   "desc": "The latest open models and some analysis of recent regulatory action from MOFCOM on model exports / DHS on DeepSeek. Great to see a bunch of strong US open weight models from Reflection, Meta, and Nvidia in this one!\nhttps://t.co/CBmAc9GJ45"
-  },
-  {
    "source": "X @thsottiaux",
    "title": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "url": "https://x.com/thsottiaux/status/2113838156193894447",
@@ -3506,14 +3513,21 @@
    "title": "Every AI model has the same \"controversial\" take on humans",
    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
    "ts": 1792685280,
-   "desc": "622 points"
+   "desc": "636 points"
   },
   {
    "source": "HN",
    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
    "url": "https://github.com/NVIDIA/OpenShell",
    "ts": 1792691046,
-   "desc": "490 points"
+   "desc": "495 points"
+  },
+  {
+   "source": "HN",
+   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+   "ts": 1792820997,
+   "desc": "193 points"
   },
   {
    "source": "HN",
@@ -3524,17 +3538,17 @@
   },
   {
    "source": "HN",
+   "title": "Air Purifiers as White Noise Machines",
+   "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+   "ts": 1792776516,
+   "desc": "138 points"
+  },
+  {
+   "source": "HN",
    "title": "AI and the Enclosure of the Scientific Commons",
    "url": "https://arxiv.org/abs/2610.27251",
    "ts": 1792693696,
    "desc": "137 points"
-  },
-  {
-   "source": "HN",
-   "title": "Air Purifiers as White Noise Machines",
-   "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-   "ts": 1792776516,
-   "desc": "90 points"
   },
   {
    "source": "HN",
@@ -3548,7 +3562,7 @@
    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
    "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
    "ts": 1792692174,
-   "desc": "88 points"
+   "desc": "89 points"
   },
   {
    "source": "HN",
@@ -3569,7 +3583,14 @@
    "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
    "url": "https://www.thisandthat.chat/enron/",
    "ts": 1792756973,
-   "desc": "58 points"
+   "desc": "63 points"
+  },
+  {
+   "source": "HN",
+   "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+   "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+   "ts": 1792783896,
+   "desc": "56 points"
   },
   {
    "source": "HN",
@@ -3577,20 +3598,6 @@
    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
    "ts": 1792712716,
    "desc": "52 points"
-  },
-  {
-   "source": "HN",
-   "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-   "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
-   "ts": 1792783896,
-   "desc": "47 points"
-  },
-  {
-   "source": "HN",
-   "title": "Achieving AI-style reasoning without an LLM",
-   "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
-   "ts": 1792658818,
-   "desc": "47 points"
   },
   {
    "source": "HN",
@@ -3604,14 +3611,28 @@
    "title": "Important updates to AI use on Etsy",
    "url": "https://www.etsy.com/seller-handbook/article/1522733284810",
    "ts": 1792682297,
-   "desc": "35 points"
+   "desc": "36 points"
   },
   {
    "source": "HN",
    "title": "AI Is Not a Tool",
    "url": "https://twitter.com/frascafrasca/status/2113637581426671850",
    "ts": 1792774786,
-   "desc": "18 points"
+   "desc": "20 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI devours a fifth of companies' IT budgets",
+   "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+   "ts": 1792792805,
+   "desc": "20 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI is devastating higher education, but the system was broken",
+   "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+   "ts": 1792789919,
+   "desc": "20 points"
   },
   {
    "source": "HN",
@@ -3625,14 +3646,7 @@
    "title": "An alignment assessment of the UK AISI cybertesting incident",
    "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
    "ts": 1792766690,
-   "desc": "17 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI is devastating higher education, but the system was broken",
-   "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
-   "ts": 1792789919,
-   "desc": "17 points"
+   "desc": "18 points"
   },
   {
    "source": "HN",
@@ -3643,9 +3657,9 @@
   },
   {
    "source": "HN",
-   "title": "AI devours a fifth of companies' IT budgets",
-   "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
-   "ts": 1792792805,
+   "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+   "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+   "ts": 1792810843,
    "desc": "16 points"
   },
   {
@@ -3653,21 +3667,14 @@
    "title": "Wolves enter Finnish villages after Google clears 1300 acres for AI data centers",
    "url": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
    "ts": 1792756582,
-   "desc": "15 points"
+   "desc": "16 points"
   },
   {
    "source": "HN",
-   "title": "Chinese stocks turn biggest losers as global AI trade stumbles",
-   "url": "https://theedgemalaysia.com/node/822195",
-   "ts": 1792665133,
-   "desc": "14 points"
-  },
-  {
-   "source": "HN",
-   "title": "Barclays cutting 5k jobs as it increases reliance on AI",
-   "url": "https://www.bbc.com/news/articles/cm4g1p347qgxo",
-   "ts": 1792658602,
-   "desc": "12 points"
+   "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
+   "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+   "ts": 1792801937,
+   "desc": "16 points"
   },
   {
    "source": "HN",
@@ -3692,13 +3699,6 @@
   },
   {
    "source": "HN",
-   "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
-   "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
-   "ts": 1792801937,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
    "title": "America Is About to See What Happens When Voters Turn to AI",
    "url": "https://www.theatlantic.com/technology/2026/10/ai-midterm-election-voters-chatbots/689103/",
    "ts": 1792681526,
@@ -3709,6 +3709,13 @@
    "title": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
    "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
    "ts": 1792677527,
+   "desc": "10 points"
+  },
+  {
+   "source": "HN",
+   "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
+   "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
+   "ts": 1792757529,
    "desc": "10 points"
   }
  ]
