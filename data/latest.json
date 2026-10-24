@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-24T11:27:04.018540+00:00",
- "count": 527,
+ "generated_at": "2026-10-24T16:11:06.264261+00:00",
+ "count": 529,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 457,
+   "count": 459,
    "note": "49 账号"
   },
   {
@@ -703,6 +703,13 @@
   },
   {
    "source": "X @NousResearch",
+   "title": "RT @thekitze: oh no https://t.co/vp99OhqUIq",
+   "url": "https://x.com/NousResearch/status/2114024451528593786",
+   "ts": 1792857680,
+   "desc": "RT @thekitze: oh no https://t.co/vp99OhqUIq"
+  },
+  {
+   "source": "X @NousResearch",
    "title": "RT @yeahfortommy: K3.1 Pro is available with your Hermes Agent, go get em  ty @Kimi_Moonshot",
    "url": "https://x.com/NousResearch/status/2113705080427889081",
    "ts": 1792781536,
@@ -833,13 +840,6 @@
    "url": "https://x.com/NousResearch/status/2111243538440810641",
    "ts": 1792194659,
    "desc": "Motion. https://t.co/e7O6sZn0xT"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "RT @Teknium: Hermes Index has been updated to include GPT 6.1 Sol and several other models!  Check it out here: https://t.co/Ry6X5Y95KG",
-   "url": "https://x.com/NousResearch/status/2111197966719390042",
-   "ts": 1792183794,
-   "desc": "RT @Teknium: Hermes Index has been updated to include GPT 6.1 Sol and several other models!\n\nCheck it out here:\nhttps://t.co/Ry6X5Y95KG"
   },
   {
    "source": "X @deepseek_ai",
@@ -1053,13 +1053,6 @@
   },
   {
    "source": "X @MiniMax_AI",
-   "title": "We’re partnering with Inferact to advance production inference for MiniMax models, with engineering improvements contributed back to @vllm_project.  Thanks to the Inferact team for supporting M3.1 Flash in production from day one. Looking forward to",
-   "url": "https://x.com/MiniMax_AI/status/2113443062018183463",
-   "ts": 1792719066,
-   "desc": "We’re partnering with Inferact to advance production inference for MiniMax models, with engineering improvements contributed back to @vllm_project.\n\nThanks to the Inferact team for supporting M3.1 Flash in production from day one. Looking forward to building together!"
-  },
-  {
-   "source": "X @MiniMax_AI",
    "title": "From inference to RL, ready from day one. 🐰  Thanks to the teams behind SGLang, and Miles @sgl_project alongside @NVIDIAAI and @AMD, for supporting MiniMax M3.1 Flash. Great building together!",
    "url": "https://x.com/MiniMax_AI/status/2113441235100942680",
    "ts": 1792718630,
@@ -1099,6 +1092,20 @@
    "url": "https://x.com/MiniMax_AI/status/2113003478251614278",
    "ts": 1792614261,
    "desc": "Thank you for bringing H3 to TPUs! Excited to see more open-source work on efficient video inference and what it could enable: faster creative iteration, new interactive experiences, and more ways for developers to build with H3."
+  },
+  {
+   "source": "X @MiniMax_AI",
+   "title": "Tutorial + code for you to cook with. ⬇️ https://t.co/40f8LlqbXA  https://t.co/5yorKjabtI",
+   "url": "https://x.com/MiniMax_AI/status/2112988717963178257",
+   "ts": 1792610742,
+   "desc": "Tutorial + code for you to cook with. ⬇️\nhttps://t.co/40f8LlqbXA\n\nhttps://t.co/5yorKjabtI"
+  },
+  {
+   "source": "X @MiniMax_AI",
+   "title": "MiniMax M3.1 Flash + SGLang Omni: building toward a more interactive generation of voice agents. The shift ahead is from “ask, wait, listen” to conversations people can interrupt, correct, and redirect as a task unfolds.  MiniMax M3.1 Flash brings in",
+   "url": "https://x.com/MiniMax_AI/status/2112987176053215566",
+   "ts": 1792610374,
+   "desc": "MiniMax M3.1 Flash + SGLang Omni: building toward a more interactive generation of voice agents. The shift ahead is from “ask, wait, listen” to conversations people can interrupt, correct, and redirect as a task unfolds.\n\nMiniMax M3.1 Flash brings intelligence and fast, concise responses. SGLang Omni adds streaming, conversation state, and interruption handling so users can redirect conversations"
   },
   {
    "source": "X @Zai_org",
@@ -1676,6 +1683,104 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "Talarico is lunatic left",
+   "url": "https://x.com/elonmusk/status/2114026169813414022",
+   "ts": 1792858090,
+   "desc": "Talarico is lunatic left"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @TheAliceSmith: It’s very important to grasp this.",
+   "url": "https://x.com/elonmusk/status/2114007570637836656",
+   "ts": 1792853655,
+   "desc": "RT @TheAliceSmith: It’s very important to grasp this."
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Another 27 Starlink satellites",
+   "url": "https://x.com/elonmusk/status/2114003587156086798",
+   "ts": 1792852706,
+   "desc": "Another 27 Starlink satellites"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @KenPaxtonTX: Just one week of early voting left, Texas!  Early voting ends Friday, October 30. The radical Left is counting on Republic…",
+   "url": "https://x.com/elonmusk/status/2114003199090642981",
+   "ts": 1792852613,
+   "desc": "RT @KenPaxtonTX: Just one week of early voting left, Texas!\n\nEarly voting ends Friday, October 30. The radical Left is counting on Republic…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @dnapway: David Friedberg reveals France's public spending is 57% of GDP: greater than that of communist countries  \"This chart is a mea…",
+   "url": "https://x.com/elonmusk/status/2114001550594957625",
+   "ts": 1792852220,
+   "desc": "RT @dnapway: David Friedberg reveals France's public spending is 57% of GDP: greater than that of communist countries\n\n\"This chart is a mea…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @jayplemons: David Friedberg says this isn’t Suicidal Empathy, these are Armchair Do-Gooders.  He is referring to the French woman, who…",
+   "url": "https://x.com/elonmusk/status/2114001439114887447",
+   "ts": 1792852193,
+   "desc": "RT @jayplemons: David Friedberg says this isn’t Suicidal Empathy, these are Armchair Do-Gooders.\n\nHe is referring to the French woman, who…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "It is tragic that so many people still think the news is real",
+   "url": "https://x.com/elonmusk/status/2113998192547332212",
+   "ts": 1792851419,
+   "desc": "It is tragic that so many people still think the news is real"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @EvaFox: In early 2002, Elon was preparing to launch SpaceX and searching for the people who could help him build a rocket from scratch.…",
+   "url": "https://x.com/elonmusk/status/2113997336456339963",
+   "ts": 1792851215,
+   "desc": "RT @EvaFox: In early 2002, Elon was preparing to launch SpaceX and searching for the people who could help him build a rocket from scratch.…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Try Grok @Bot",
+   "url": "https://x.com/elonmusk/status/2113996858842563006",
+   "ts": 1792851101,
+   "desc": "Try Grok @Bot"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @XFreeze: Rogers is doubling down on its partnership with Starlink to bring expanded satellite-to-mobile coverage and capabilities acros…",
+   "url": "https://x.com/elonmusk/status/2113994014353469775",
+   "ts": 1792850423,
+   "desc": "RT @XFreeze: Rogers is doubling down on its partnership with Starlink to bring expanded satellite-to-mobile coverage and capabilities acros…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "True",
+   "url": "https://x.com/elonmusk/status/2113993492418683207",
+   "ts": 1792850299,
+   "desc": "True"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Roadster at Petersen",
+   "url": "https://x.com/elonmusk/status/2113993051719016814",
+   "ts": 1792850194,
+   "desc": "Roadster at Petersen"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @cb_doge: BREAKING: Oaxaca’s state government in Mexico has delivered 67 Starlink dishes to expand internet access for students. 🇲🇽  The…",
+   "url": "https://x.com/elonmusk/status/2113992726211436603",
+   "ts": 1792850116,
+   "desc": "RT @cb_doge: BREAKING: Oaxaca’s state government in Mexico has delivered 67 Starlink dishes to expand internet access for students. 🇲🇽\n\nThe…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @TheAliceSmith: How was Hitler a leftist?  Collectivism. Statism. Command economy. High government debt and spending. High confiscatory…",
+   "url": "https://x.com/elonmusk/status/2113992241211375851",
+   "ts": 1792850001,
+   "desc": "RT @TheAliceSmith: How was Hitler a leftist?\n\nCollectivism. Statism. Command economy. High government debt and spending. High confiscatory…"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @Rothmus: The guy running to represent Texas wants to dismantle capitalism and bury oil and gas.   When he was a state legislator in 202…",
    "url": "https://x.com/elonmusk/status/2113878910253609262",
    "ts": 1792822980,
@@ -1715,104 +1820,6 @@
    "url": "https://x.com/elonmusk/status/2113871080792203349",
    "ts": 1792821114,
    "desc": "RT @ClownWorld: $260 a month sounds crazy until you realize how much time and work this thing saves you @bot https://t.co/yNX1CfvhDL"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Cool",
-   "url": "https://x.com/elonmusk/status/2113870201053700098",
-   "ts": 1792820904,
-   "desc": "Cool"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "True",
-   "url": "https://x.com/elonmusk/status/2113870130799362063",
-   "ts": 1792820887,
-   "desc": "True"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @cb_doge: The legacy media is a pure propaganda machine for the left. They all say the same thing at the same time.  𝕏 is the real voice…",
-   "url": "https://x.com/elonmusk/status/2113870015430840662",
-   "ts": 1792820860,
-   "desc": "RT @cb_doge: The legacy media is a pure propaganda machine for the left. They all say the same thing at the same time.\n\n𝕏 is the real voice…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Odyssey with Grok Imagine",
-   "url": "https://x.com/elonmusk/status/2113869401930039702",
-   "ts": 1792820713,
-   "desc": "Odyssey with Grok Imagine"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "In his own words",
-   "url": "https://x.com/elonmusk/status/2113869278889811989",
-   "ts": 1792820684,
-   "desc": "In his own words"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Beautiful",
-   "url": "https://x.com/elonmusk/status/2113869123566641364",
-   "ts": 1792820647,
-   "desc": "Beautiful"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @kevinnbass: He is starting to believe https://t.co/7tcCuOfonk",
-   "url": "https://x.com/elonmusk/status/2113861498577592543",
-   "ts": 1792818829,
-   "desc": "RT @kevinnbass: He is starting to believe https://t.co/7tcCuOfonk"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @elonmusk: @Rothmus Those who are opposed to corporations and favor government do not realize that government is simply the largest, mos…",
-   "url": "https://x.com/elonmusk/status/2113860032584667529",
-   "ts": 1792818480,
-   "desc": "RT @elonmusk: @Rothmus Those who are opposed to corporations and favor government do not realize that government is simply the largest, mos…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @JohnnaCrider1: People who act like Elon owes Ukraine forget this very important detail:",
-   "url": "https://x.com/elonmusk/status/2113820625005404325",
-   "ts": 1792809084,
-   "desc": "RT @JohnnaCrider1: People who act like Elon owes Ukraine forget this very important detail:"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Talarico is a far left extremist",
-   "url": "https://x.com/elonmusk/status/2113820303952650534",
-   "ts": 1792809008,
-   "desc": "Talarico is a far left extremist"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Yes",
-   "url": "https://x.com/elonmusk/status/2113796285207552407",
-   "ts": 1792803281,
-   "desc": "Yes"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Grok @Bot saves sensitive info in a vault",
-   "url": "https://x.com/elonmusk/status/2113796183688982771",
-   "ts": 1792803257,
-   "desc": "Grok @Bot saves sensitive info in a vault"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SawyerMerritt: Tesla has just expanded its Robotaxi service area in Austin, Texas.  The new service area now includes the area around A…",
-   "url": "https://x.com/elonmusk/status/2113755127882649730",
-   "ts": 1792793468,
-   "desc": "RT @SawyerMerritt: Tesla has just expanded its Robotaxi service area in Austin, Texas.\n\nThe new service area now includes the area around A…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Rothmus: James Talarico is a 2021 woke remnant who must lose.   When he opposed a transgender athletes bill that year he told the Texas…",
-   "url": "https://x.com/elonmusk/status/2113754917185741158",
-   "ts": 1792793418,
-   "desc": "RT @Rothmus: James Talarico is a 2021 woke remnant who must lose. \n\nWhen he opposed a transgender athletes bill that year he told the Texas…"
   },
   {
    "source": "X @sama",
@@ -2537,6 +2544,34 @@
   },
   {
    "source": "X @ylecun",
+   "title": "RT @TrumpweTrust47: Here is George Clooney’s response after Trump accused him of being a \"Hollywood elite.\"  \"Here’s the thing: I grew up i…",
+   "url": "https://x.com/ylecun/status/2114020556630597722",
+   "ts": 1792856751,
+   "desc": "RT @TrumpweTrust47: Here is George Clooney’s response after Trump accused him of being a \"Hollywood elite.\"\n\n\"Here’s the thing: I grew up i…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @KenRoth: Most voters trust that the midterm ballots will be counted properly, but fears mount that Trump and his Republicans will try t…",
+   "url": "https://x.com/ylecun/status/2114017324554432964",
+   "ts": 1792855981,
+   "desc": "RT @KenRoth: Most voters trust that the midterm ballots will be counted properly, but fears mount that Trump and his Republicans will try t…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @ylecun: @TPurity_Alphas Elon says:   \"we will not be able to boss around AI that are smarter than us\".... while having built his fortun…",
+   "url": "https://x.com/ylecun/status/2114012155280323024",
+   "ts": 1792854748,
+   "desc": "RT @ylecun: @TPurity_Alphas Elon says:\n  \"we will not be able to boss around AI that are smarter than us\"....\nwhile having built his fortun…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @enact_intel: Today, Enact emerges from stealth with a $30M pre-seed to master dexterity through force and touch.  Vision and language a…",
+   "url": "https://x.com/ylecun/status/2113993308947026210",
+   "ts": 1792850255,
+   "desc": "RT @enact_intel: Today, Enact emerges from stealth with a $30M pre-seed to master dexterity through force and touch.\n\nVision and language a…"
+  },
+  {
+   "source": "X @ylecun",
    "title": "RT @mosh_levy: 1/ JEPA selects which features its world model keeps. But how? Will it keep a feature it can't predict, like a traffic light…",
    "url": "https://x.com/ylecun/status/2113787497402773858",
    "ts": 1792801186,
@@ -2646,34 +2681,6 @@
    "url": "https://x.com/ylecun/status/2111590540701737351",
    "ts": 1792277391,
    "desc": "RT @alexandr_wang: you’ll never believe what i saw on the highway today https://t.co/RnU3vKmFTN"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @AdrianoFeria: People seem confused about why Tesla is getting so much backlash over its new \"flying Roadster.\" For those of us who were…",
-   "url": "https://x.com/ylecun/status/2111589936197411230",
-   "ts": 1792277246,
-   "desc": "RT @AdrianoFeria: People seem confused about why Tesla is getting so much backlash over its new \"flying Roadster.\" For those of us who were…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @pewresearch: Trump’s approval rating has dropped in every religious group since the beginning of his second term.   Today, White evange…",
-   "url": "https://x.com/ylecun/status/2111564851302867363",
-   "ts": 1792271266,
-   "desc": "RT @pewresearch: Trump’s approval rating has dropped in every religious group since the beginning of his second term.\n \nToday, White evange…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @ylecun: @elonmusk Okay, so it's just compressed air. Easier.  But crappy specific impulse (less than 50 seconds).  Even assuming that 5…",
-   "url": "https://x.com/ylecun/status/2111501610505445588",
-   "ts": 1792256188,
-   "desc": "RT @ylecun: @elonmusk Okay, so it's just compressed air.\nEasier. \nBut crappy specific impulse (less than 50 seconds).\n\nEven assuming that 5…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @DrTechlash: My new investigation maps nearly $3 BILLION in historical and projected funding behind the AI existential-risk ecosystem. h…",
-   "url": "https://x.com/ylecun/status/2111500320501047412",
-   "ts": 1792255880,
-   "desc": "RT @DrTechlash: My new investigation maps nearly $3 BILLION in historical and projected funding behind the AI existential-risk ecosystem. h…"
   },
   {
    "source": "X @AndrewYNg",
@@ -2999,6 +3006,13 @@
   },
   {
    "source": "X @natolambert",
+   "title": "At the top end of models, real-world usability matters a lot more than +/- 2 points on AA. This takes a while to understand for a model, where AA is a sort of potential, but some models hit and some miss (e.g. opus 5 vs 5.5). Seems like 3.1 may be cl",
+   "url": "https://x.com/natolambert/status/2113967445727932676",
+   "ts": 1792844089,
+   "desc": "At the top end of models, real-world usability matters a lot more than +/- 2 points on AA. This takes a while to understand for a model, where AA is a sort of potential, but some models hit and some miss (e.g. opus 5 vs 5.5). Seems like 3.1 may be closer to the miss side."
+  },
+  {
+   "source": "X @natolambert",
    "title": "Higher score than Fable 5.1 and Astra 6, wild stuff.",
    "url": "https://x.com/natolambert/status/2113696375552512202",
    "ts": 1792779461,
@@ -3033,25 +3047,25 @@
    "desc": "I don’t know if it’s an internet scale disaster yet, but it’s definitely the biggest stress test we’ve had."
   },
   {
-   "source": "X @natolambert",
-   "title": "What a wild day. We have a lot of work to do to get through this llm transition. But still, feels like the AI world will get crazier and scarier before it gets better. I hope I'm wrong, but my current emotion is something like... \"gulp.\"",
-   "url": "https://x.com/natolambert/status/2113046396311859238",
-   "ts": 1792624494,
-   "desc": "What a wild day. We have a lot of work to do to get through this llm transition. But still, feels like the AI world will get crazier and scarier before it gets better. I hope I'm wrong, but my current emotion is something like... \"gulp.\""
-  },
-  {
-   "source": "X @natolambert",
-   "title": "Seems like cyber risk for AI may be more of an ecosystem issue than an open-weight models specific issue. If we can figure out the right balance here, I think there are a lot of people out there who want to support more openness in light of RSI and A",
-   "url": "https://x.com/natolambert/status/2112598663164055929",
-   "ts": 1792517746,
-   "desc": "Seems like cyber risk for AI may be more of an ecosystem issue than an open-weight models specific issue. If we can figure out the right balance here, I think there are a lot of people out there who want to support more openness in light of RSI and AI dynamics coming soon."
-  },
-  {
    "source": "X @thsottiaux",
    "title": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
    "url": "https://x.com/thsottiaux/status/2113838156193894447",
    "ts": 1792813264,
    "desc": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool."
+  },
+  {
+   "source": "X @thsottiaux",
+   "title": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+   "url": "https://x.com/thsottiaux/status/2113029854417600834",
+   "ts": 1792620550,
+   "desc": "Fully included in the Pro plan, doesn't draw on your weekly usage."
+  },
+  {
+   "source": "X @thsottiaux",
+   "title": "Dot, Dotter, Dottest",
+   "url": "https://x.com/thsottiaux/status/2113029655095836957",
+   "ts": 1792620502,
+   "desc": "Dot, Dotter, Dottest"
   },
   {
    "source": "X @thsottiaux",
@@ -3510,45 +3524,45 @@
   },
   {
    "source": "HN",
-   "title": "Every AI model has the same \"controversial\" take on humans",
-   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-   "ts": 1792685280,
-   "desc": "636 points"
-  },
-  {
-   "source": "HN",
    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
    "url": "https://github.com/NVIDIA/OpenShell",
    "ts": 1792691046,
-   "desc": "495 points"
+   "desc": "496 points"
   },
   {
    "source": "HN",
    "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
    "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
    "ts": 1792820997,
-   "desc": "193 points"
-  },
-  {
-   "source": "HN",
-   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-   "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-   "ts": 1792737671,
-   "desc": "140 points"
+   "desc": "398 points"
   },
   {
    "source": "HN",
    "title": "Air Purifiers as White Noise Machines",
    "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
    "ts": 1792776516,
-   "desc": "138 points"
+   "desc": "156 points"
+  },
+  {
+   "source": "HN",
+   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+   "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+   "ts": 1792737671,
+   "desc": "141 points"
   },
   {
    "source": "HN",
    "title": "AI and the Enclosure of the Scientific Commons",
    "url": "https://arxiv.org/abs/2610.27251",
    "ts": 1792693696,
-   "desc": "137 points"
+   "desc": "139 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+   "ts": 1792692174,
+   "desc": "91 points"
   },
   {
    "source": "HN",
@@ -3559,17 +3573,17 @@
   },
   {
    "source": "HN",
-   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-   "ts": 1792692174,
-   "desc": "89 points"
-  },
-  {
-   "source": "HN",
    "title": "Show HN: UI micro interactions prompts for AI",
    "url": "https://www.typeui.sh/micro-interactions",
    "ts": 1792693977,
    "desc": "79 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+   "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+   "ts": 1792840734,
+   "desc": "73 points"
   },
   {
    "source": "HN",
@@ -3583,21 +3597,21 @@
    "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
    "url": "https://www.thisandthat.chat/enron/",
    "ts": 1792756973,
-   "desc": "63 points"
+   "desc": "64 points"
   },
   {
    "source": "HN",
    "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
    "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
    "ts": 1792783896,
-   "desc": "56 points"
+   "desc": "62 points"
   },
   {
    "source": "HN",
    "title": "AI compute is the new oil–and needs a new market",
    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
    "ts": 1792712716,
-   "desc": "52 points"
+   "desc": "53 points"
   },
   {
    "source": "HN",
@@ -3608,10 +3622,17 @@
   },
   {
    "source": "HN",
-   "title": "Important updates to AI use on Etsy",
-   "url": "https://www.etsy.com/seller-handbook/article/1522733284810",
-   "ts": 1792682297,
-   "desc": "36 points"
+   "title": "AI devours a fifth of companies' IT budgets",
+   "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+   "ts": 1792792805,
+   "desc": "21 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI is devastating higher education, but the system was broken",
+   "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+   "ts": 1792789919,
+   "desc": "21 points"
   },
   {
    "source": "HN",
@@ -3622,17 +3643,10 @@
   },
   {
    "source": "HN",
-   "title": "AI devours a fifth of companies' IT budgets",
-   "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
-   "ts": 1792792805,
-   "desc": "20 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI is devastating higher education, but the system was broken",
-   "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
-   "ts": 1792789919,
-   "desc": "20 points"
+   "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
+   "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+   "ts": 1792810843,
+   "desc": "18 points"
   },
   {
    "source": "HN",
@@ -3650,17 +3664,17 @@
   },
   {
    "source": "HN",
+   "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
+   "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+   "ts": 1792801937,
+   "desc": "18 points"
+  },
+  {
+   "source": "HN",
    "title": "US appeals court ejects judge from case over AI errors",
    "url": "https://www.reuters.com/legal/government/appeals-court-lifts-block-mississippis-dei-ban-ejects-judge-over-ai-errors-2026-10-22/",
    "ts": 1792710679,
    "desc": "17 points"
-  },
-  {
-   "source": "HN",
-   "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
-   "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
-   "ts": 1792810843,
-   "desc": "16 points"
   },
   {
    "source": "HN",
@@ -3671,10 +3685,10 @@
   },
   {
    "source": "HN",
-   "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
-   "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
-   "ts": 1792801937,
-   "desc": "16 points"
+   "title": "That AI Temptation",
+   "url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation",
+   "ts": 1792822719,
+   "desc": "12 points"
   },
   {
    "source": "HN",
@@ -3692,23 +3706,9 @@
   },
   {
    "source": "HN",
-   "title": "Unvetted AI agents are accessing U.S. bank accounts",
-   "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
-   "ts": 1792677348,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
-   "title": "America Is About to See What Happens When Voters Turn to AI",
-   "url": "https://www.theatlantic.com/technology/2026/10/ai-midterm-election-voters-chatbots/689103/",
-   "ts": 1792681526,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
-   "title": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
-   "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
-   "ts": 1792677527,
+   "title": "CowAgent – Open-Source Super AI Assistant",
+   "url": "https://cowagent.ai/en/",
+   "ts": 1792812767,
    "desc": "10 points"
   },
   {
@@ -3717,6 +3717,20 @@
    "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
    "ts": 1792757529,
    "desc": "10 points"
+  },
+  {
+   "source": "HN",
+   "title": "Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups",
+   "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
+   "ts": 1792819623,
+   "desc": "10 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI models think humans are a bunch of amoral sheep",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
+   "ts": 1792779234,
+   "desc": "9 points"
   }
  ]
 }
