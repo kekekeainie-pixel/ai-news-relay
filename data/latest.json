@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T05:25:43.090271+00:00",
+ "generated_at": "2026-10-27T12:35:58.973332+00:00",
  "count": 522,
  "stats": [
   {
@@ -563,6 +563,13 @@
   },
   {
    "source": "X @huggingface",
+   "title": "RT @ben_burtenshaw: We closed out the Training Agents series in person in San Francisco with four talks and a panel on post-training agents…",
+   "url": "https://x.com/huggingface/status/2115014325937016838",
+   "ts": 1793093685,
+   "desc": "RT @ben_burtenshaw: We closed out the Training Agents series in person in San Francisco with four talks and a panel on post-training agents…"
+  },
+  {
+   "source": "X @huggingface",
    "title": "RT @NielsRogge: Papers with Code is now open-source!  Apache 2.0-license.  Let's collaboratively make the best paper interface!  https://t.…",
    "url": "https://x.com/huggingface/status/2114800366806093881",
    "ts": 1793042673,
@@ -693,13 +700,6 @@
    "url": "https://x.com/huggingface/status/2113233135844618546",
    "ts": 1792669016,
    "desc": "RT @multimodalart: just updated the Decision Index to 0.4 🧭\n\nwhat's new?\n🛡️ curbing benchmaxxing: score now exclusively made from private &amp;…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @_lewtun: Today we're releasing Carbon-X, a 14B model that brings DNA and natural language together for the first time 🧬  1. Beats every…",
-   "url": "https://x.com/huggingface/status/2113231516088078722",
-   "ts": 1792668630,
-   "desc": "RT @_lewtun: Today we're releasing Carbon-X, a 14B model that brings DNA and natural language together for the first time 🧬\n\n1. Beats every…"
   },
   {
    "source": "X @NousResearch",
@@ -997,6 +997,13 @@
   },
   {
    "source": "X @MiniMax_AI",
+   "title": "RT @EvoLinkAi: 🚀MiniMax M3.1 Flash is now available on EvoLink 💻Great for software engineering, interactive creation and research 📺Check wh…",
+   "url": "https://x.com/MiniMax_AI/status/2115015188336574554",
+   "ts": 1793093890,
+   "desc": "RT @EvoLinkAi: 🚀MiniMax M3.1 Flash is now available on EvoLink\n💻Great for software engineering, interactive creation and research\n📺Check wh…"
+  },
+  {
+   "source": "X @MiniMax_AI",
    "title": "RT @togethercompute: minimax m3.1 flash is now available for post-training on together ai  run sft or rl with your own data, rewards + envi…",
    "url": "https://x.com/MiniMax_AI/status/2114899528398860529",
    "ts": 1793066315,
@@ -1085,13 +1092,6 @@
    "url": "https://x.com/MiniMax_AI/status/2113371892786790534",
    "ts": 1792702098,
    "desc": "RT @0G_labs: The meter's off.\n\nMiniMax M3.1 Flash is free on 0G Private Computer until Oct 24, 13:00 UTC.\n\nNo balance needed, just an API k…"
-  },
-  {
-   "source": "X @MiniMax_AI",
-   "title": "RT @hellominds_: Congratulations to @MiniMax_AI on launching M3.1 Flash! 🎉 We're proud to be a launch partner from day one.  Faster, lighte…",
-   "url": "https://x.com/MiniMax_AI/status/2113205891394925024",
-   "ts": 1792662520,
-   "desc": "RT @hellominds_: Congratulations to @MiniMax_AI on launching M3.1 Flash! 🎉 We're proud to be a launch partner from day one.\n\nFaster, lighte…"
   },
   {
    "source": "X @Zai_org",
@@ -1473,6 +1473,13 @@
   },
   {
    "source": "X @opencode",
+   "title": "RT @LukeParkerDev: Announcing plugins for OpenCode Desktop  Make your own https://t.co/RwyYwOZzSR https://t.co/ayBfCpBr7F",
+   "url": "https://x.com/opencode/status/2115047407977165253",
+   "ts": 1793101572,
+   "desc": "RT @LukeParkerDev: Announcing plugins for OpenCode Desktop\n\nMake your own https://t.co/RwyYwOZzSR https://t.co/ayBfCpBr7F"
+  },
+  {
+   "source": "X @opencode",
    "title": "RT @thdxr: in the market for GB300 racks again. will be going with whoever can deliver soonest  send me a DM",
    "url": "https://x.com/opencode/status/2114912209725985219",
    "ts": 1793069338,
@@ -1591,13 +1598,6 @@
    "desc": "Gemini 4 Argon now available in OpenCode\n\nIt was our team’s second most-used model last week"
   },
   {
-   "source": "X @opencode",
-   "title": "Cat Jam (stealth model) is now free in OpenCode  - very fast - built for agentic coding - zero data retention",
-   "url": "https://x.com/opencode/status/2110068008945381853",
-   "ts": 1791914391,
-   "desc": "Cat Jam (stealth model) is now free in OpenCode\n\n- very fast\n- built for agentic coding\n- zero data retention"
-  },
-  {
    "source": "X @commandcodeai",
    "title": "RT @CommandCodeAI: GPT-6.1 Terra is now available in Command Code.  · Half the price of GPT-5.6 Terra · Strong at computer use &amp; visual rea…",
    "url": "https://x.com/CommandCodeAI/status/2114881292210950213",
@@ -1645,6 +1645,27 @@
    "url": "https://x.com/CommandCodeAI/status/2113861275730198612",
    "ts": 1792818776,
    "desc": "RT @CommandCodeAI: Try parallel chats in the Command Code desktop app.\n\nKick off a task, start another while it runs, track everything from…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Everyone should have at least a few penchants",
+   "url": "https://x.com/elonmusk/status/2114973768473039185",
+   "ts": 1793084015,
+   "desc": "Everyone should have at least a few penchants"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "He’s right",
+   "url": "https://x.com/elonmusk/status/2114967042952687676",
+   "ts": 1793082411,
+   "desc": "He’s right"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @DataRepublican: Well.",
+   "url": "https://x.com/elonmusk/status/2114966930964848811",
+   "ts": 1793082385,
+   "desc": "RT @DataRepublican: Well."
   },
   {
    "source": "X @elonmusk",
@@ -1764,27 +1785,6 @@
    "url": "https://x.com/elonmusk/status/2114850248132821462",
    "ts": 1793054565,
    "desc": "True"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Teslaconomics: I was already on SuperGrok Heavy, Grok’s top plan, and I still kept getting:  “You’re out of Bot usage.”  So today I upg…",
-   "url": "https://x.com/elonmusk/status/2114849376627757222",
-   "ts": 1793054358,
-   "desc": "RT @Teslaconomics: I was already on SuperGrok Heavy, Grok’s top plan, and I still kept getting:\n\n“You’re out of Bot usage.”\n\nSo today I upg…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Everyday is zero-day these days",
-   "url": "https://x.com/elonmusk/status/2114848066767630417",
-   "ts": 1793054045,
-   "desc": "Everyday is zero-day these days"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @petersellis: I’m joining the team at @X to lead Product.  I am a huge believer in @SpaceX's mission to extend human consciousness to th…",
-   "url": "https://x.com/elonmusk/status/2114821902623764790",
-   "ts": 1793047807,
-   "desc": "RT @petersellis: I’m joining the team at @X to lead Product.\n\nI am a huge believer in @SpaceX's mission to extend human consciousness to th…"
   },
   {
    "source": "X @sama",
@@ -3485,35 +3485,35 @@
    "title": "Concerning behavior from a popular open-weight AI model",
    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
    "ts": 1793032544,
-   "desc": "282 points"
+   "desc": "308 points"
   },
   {
    "source": "HN",
    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
    "ts": 1792945706,
-   "desc": "237 points"
+   "desc": "238 points"
+  },
+  {
+   "source": "HN",
+   "title": "The Mythical Man-Month in the Age of AI",
+   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "ts": 1793082337,
+   "desc": "234 points"
   },
   {
    "source": "HN",
    "title": "Brown student maps the hidden global labor powering AI",
    "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
    "ts": 1793019507,
-   "desc": "177 points"
-  },
-  {
-   "source": "HN",
-   "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-   "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-   "ts": 1792921877,
-   "desc": "144 points"
+   "desc": "179 points"
   },
   {
    "source": "HN",
    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
    "ts": 1793054508,
-   "desc": "105 points"
+   "desc": "146 points"
   },
   {
    "source": "HN",
@@ -3527,35 +3527,49 @@
    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
    "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
    "ts": 1792953743,
-   "desc": "84 points"
+   "desc": "89 points"
   },
   {
    "source": "HN",
    "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
    "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
    "ts": 1792987900,
-   "desc": "79 points"
+   "desc": "80 points"
   },
   {
    "source": "HN",
    "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
    "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
    "ts": 1792968546,
-   "desc": "71 points"
+   "desc": "72 points"
   },
   {
    "source": "HN",
    "title": "A mathematician reads the AI future",
    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
    "ts": 1792945881,
-   "desc": "68 points"
+   "desc": "70 points"
   },
   {
    "source": "HN",
    "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
    "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
    "ts": 1793049239,
-   "desc": "57 points"
+   "desc": "69 points"
+  },
+  {
+   "source": "HN",
+   "title": "Wikipedia's Cleanup of AI-Generated Content",
+   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+   "ts": 1793099295,
+   "desc": "52 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI is ruining haunted houses",
+   "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+   "ts": 1793091033,
+   "desc": "40 points"
   },
   {
    "source": "HN",
@@ -3566,6 +3580,13 @@
   },
   {
    "source": "HN",
+   "title": "“AI Skills” are worthless in 2026",
+   "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+   "ts": 1793082814,
+   "desc": "33 points"
+  },
+  {
+   "source": "HN",
    "title": "Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S.",
    "url": "https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/",
    "ts": 1793044364,
@@ -3573,17 +3594,24 @@
   },
   {
    "source": "HN",
+   "title": "In China, the AI bubble has burst",
+   "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+   "ts": 1793029854,
+   "desc": "23 points"
+  },
+  {
+   "source": "HN",
    "title": "AI models cost more when you don't use English",
    "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
    "ts": 1793048602,
-   "desc": "21 points"
+   "desc": "23 points"
   },
   {
    "source": "HN",
    "title": "Grand theft AI: Highway thieves are stealing millions in data center gear",
    "url": "https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733",
    "ts": 1793046512,
-   "desc": "21 points"
+   "desc": "22 points"
   },
   {
    "source": "HN",
@@ -3601,16 +3629,16 @@
   },
   {
    "source": "HN",
-   "title": "In China, the AI bubble has burst",
-   "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
-   "ts": 1793029854,
-   "desc": "18 points"
-  },
-  {
-   "source": "HN",
    "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
    "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
    "ts": 1792935679,
+   "desc": "15 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI promised less work. I've never worked more",
+   "url": "https://oioannou.com/blog/ai-promised-less-work/",
+   "ts": 1793099294,
    "desc": "15 points"
   },
   {
@@ -3654,34 +3682,6 @@
    "url": "https://github.com/socrates6969/jukebox-os",
    "ts": 1792945786,
    "desc": "11 points"
-  },
-  {
-   "source": "HN",
-   "title": "Police Pulling People over Because AI Deems Their Driving Patterns \"Suspicious\"",
-   "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-   "ts": 1793051123,
-   "desc": "8 points"
-  },
-  {
-   "source": "HN",
-   "title": "Analysis – In China, the AI bubble has burst",
-   "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN",
-   "ts": 1793050184,
-   "desc": "8 points"
-  },
-  {
-   "source": "HN",
-   "title": "The AI graveyard: a running list of projects and startups that didn't make it",
-   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "ts": 1792934209,
-   "desc": "8 points"
-  },
-  {
-   "source": "HN",
-   "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
-   "url": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
-   "ts": 1792919756,
-   "desc": "8 points"
   }
  ]
 }
