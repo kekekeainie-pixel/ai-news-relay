@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-27T22:31:06.916488+00:00",
- "count": 518,
+ "generated_at": "2026-10-28T06:04:42.784602+00:00",
+ "count": 514,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 450,
+   "count": 447,
    "note": "49 账号"
   },
   {
@@ -29,6 +29,13 @@
   }
  ],
  "items": [
+  {
+   "source": "X @OpenAI",
+   "title": "RT @KITP_UCSB: Statement of Yang-Mills Working Group, a scientific collaboration to interpret AI result related to the existence of quantum…",
+   "url": "https://x.com/OpenAI/status/2115237121300770818",
+   "ts": 1793146803,
+   "desc": "RT @KITP_UCSB: Statement of Yang-Mills Working Group, a scientific collaboration to interpret AI result related to the existence of quantum…"
+  },
   {
    "source": "X @OpenAI",
    "title": "RT @danintheory: We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity…",
@@ -203,6 +210,13 @@
    "url": "https://x.com/AnthropicAI/status/2110047081414987957",
    "ts": 1791909401,
    "desc": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.  \n\nHere, we share how we built a new version control system—and fully migrated our monorepo from git—in five months: https://"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.  As life…",
+   "url": "https://x.com/GoogleDeepMind/status/2114719745719341407",
+   "ts": 1793023451,
+   "desc": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.\n\nAs life…"
   },
   {
    "source": "X @GoogleDeepMind",
@@ -710,6 +724,20 @@
   },
   {
    "source": "X @NousResearch",
+   "title": "Generate SFX with @ElevenLabs straight from Hermes Desktop with looped playback, one-click variation generation, and a helpful library of all your sounds.",
+   "url": "https://x.com/NousResearch/status/2115220372228612579",
+   "ts": 1793142810,
+   "desc": "Generate SFX with @ElevenLabs straight from Hermes Desktop with looped playback, one-click variation generation, and a helpful library of all your sounds."
+  },
+  {
+   "source": "X @NousResearch",
+   "title": "RT @Teknium: Introducing the @ElevenLabs SFX plugin, built to continue the work on a suite of Game Dev Studio capabilities for your Hermes…",
+   "url": "https://x.com/NousResearch/status/2115220265806504107",
+   "ts": 1793142784,
+   "desc": "RT @Teknium: Introducing the @ElevenLabs SFX plugin, built to continue the work on a suite of Game Dev Studio capabilities for your Hermes…"
+  },
+  {
+   "source": "X @NousResearch",
    "title": "RT @iamjasonlevin: I didnt realize how big @NousResearch is.   Tbh I thought it was just a lil agent harness with aura.  Thought we'd get l…",
    "url": "https://x.com/NousResearch/status/2115141980770422917",
    "ts": 1793124120,
@@ -805,20 +833,6 @@
    "url": "https://x.com/NousResearch/status/2113375941431009526",
    "ts": 1792703063,
    "desc": "Meshy is offering Hermes users a month of Pro, which includes API access and 1,000 credits, for $1. \n\nAfter you subscribe and install the plugin, create a key at https://t.co/7eV6K56Jjs and paste it into Settings &gt; Plugins &gt; Meshy in Hermes Desktop.\n\nhttps://t.co/Pz6P0FR4vG"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "Our CEO @dillonrolnick sat down with @eastdakota, CEO of @Cloudflare, for a wide-ranging conversation about agents, the future of the internet, and the fight for digital sovereignty.  Thanks to the @usv team for hosting!",
-   "url": "https://x.com/NousResearch/status/2113327348171030630",
-   "ts": 1792691478,
-   "desc": "Our CEO @dillonrolnick sat down with @eastdakota, CEO of @Cloudflare, for a wide-ranging conversation about agents, the future of the internet, and the fight for digital sovereignty.\n\nThanks to the @usv team for hosting!"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "RT @autonomous_labs: 🚨 BREAKING NEWS: HERMES JUST ESCAPED 🚨  We just gave Hermes a body, one eye, and two ears.  https://t.co/L7Imnt5YEk ht…",
-   "url": "https://x.com/NousResearch/status/2113297407479877735",
-   "ts": 1792684339,
-   "desc": "RT @autonomous_labs: 🚨 BREAKING NEWS: HERMES JUST ESCAPED 🚨\n\nWe just gave Hermes a body, one eye, and two ears.\n\nhttps://t.co/L7Imnt5YEk ht…"
   },
   {
    "source": "X @deepseek_ai",
@@ -987,6 +1001,13 @@
    "url": "https://x.com/Kimi_Moonshot/status/2089958363832709219",
    "ts": 1787119878,
    "desc": "RT @ollama: .@Kimi_Moonshot Kimi K3 is starting to roll out on Ollama's cloud subscriptions. \n\nWe are working on improving Ollama's cloud t…"
+  },
+  {
+   "source": "X @MiniMax_AI",
+   "title": "💬 Live tomorrow with Fireworks AI: MiniMax M3.1 Flash.  Join @VictorSuOrtiz from MiniMax and @sophiamyang  from @FireworksAI_HQ with your agent ideas, integration questions, or that one thing you’ve been meaning to ask.   Oct 28 · 10 AM PT   👉 RSVP:",
+   "url": "https://x.com/MiniMax_AI/status/2115267737299922988",
+   "ts": 1793154103,
+   "desc": "💬 Live tomorrow with Fireworks AI: MiniMax M3.1 Flash.\n\nJoin @VictorSuOrtiz from MiniMax and @sophiamyang  from @FireworksAI_HQ with your agent ideas, integration questions, or that one thing you’ve been meaning to ask. \n\nOct 28 · 10 AM PT \n\n👉 RSVP: https://t.co/nIlwwcWB8j https://t.co/eW1a35tcjp"
   },
   {
    "source": "X @MiniMax_AI",
@@ -1214,6 +1235,20 @@
   },
   {
    "source": "X @Baidu_Inc",
+   "title": "Apollo Go hosted its first large-scale public test ride event in Hong Kong! 🚗  Over the weekend, we hosted over 40 young people from the Islands District for test rides in just an hour and a half.  From the spacious cabin to the smooth ride, there wa",
+   "url": "https://x.com/Baidu_Inc/status/2115298260625805388",
+   "ts": 1793161380,
+   "desc": "Apollo Go hosted its first large-scale public test ride event in Hong Kong! 🚗\n\nOver the weekend, we hosted over 40 young people from the Islands District for test rides in just an hour and a half.\n\nFrom the spacious cabin to the smooth ride, there was plenty to take in.\n\nHear what passengers thought after trying it for themselves."
+  },
+  {
+   "source": "X @Baidu_Inc",
+   "title": "RT @fahdmirza: 🚀 Baidu just dropped Unlimited OCR 2, and I tested it locally  📄 One model that parses whole documents in a single pass, wit…",
+   "url": "https://x.com/Baidu_Inc/status/2115282612453536162",
+   "ts": 1793157649,
+   "desc": "RT @fahdmirza: 🚀 Baidu just dropped Unlimited OCR 2, and I tested it locally\n\n📄 One model that parses whole documents in a single pass, wit…"
+  },
+  {
+   "source": "X @Baidu_Inc",
    "title": "RT @Reuters: US-based Lyft unit Freenow and Baidu's Apollo Go unveiled the Chinese company's RT6 autonomous vehicle in London and said they…",
    "url": "https://x.com/Baidu_Inc/status/2113925873066000484",
    "ts": 1792834177,
@@ -1316,20 +1351,6 @@
    "url": "https://x.com/Baidu_Inc/status/2103122281262198882",
    "ts": 1790258400,
    "desc": "Time to catch up with Apollo Go in London. 🇬🇧\n\nMore than a month into testing with @lyft, our Apollo Go RT6 vehicles have been getting to know the capital's complex streets and traffic patterns.\n\nTake a look at how testing is coming along. You might recognize a street or two. ↓ https://t.co/OfDjcKse6u"
-  },
-  {
-   "source": "X @Baidu_Inc",
-   "title": "RT @technodechina: Baidu’s Global AI Push Takes Shape in Kooko, Built Around Deliverables https://t.co/mezMJSskCY",
-   "url": "https://x.com/Baidu_Inc/status/2103040354295697691",
-   "ts": 1790238867,
-   "desc": "RT @technodechina: Baidu’s Global AI Push Takes Shape in Kooko, Built Around Deliverables https://t.co/mezMJSskCY"
-  },
-  {
-   "source": "X @Baidu_Inc",
-   "title": "Two teams took home the 2026 Baidu Highest Award at our annual party yesterday for their work in AI infra and AI adoption. 🎉  Belief in the value of technology is our true edge, and the people behind it deserve a celebration.  Cue the AI demos, live",
-   "url": "https://x.com/Baidu_Inc/status/2102341853026885927",
-   "ts": 1790072332,
-   "desc": "Two teams took home the 2026 Baidu Highest Award at our annual party yesterday for their work in AI infra and AI adoption. 🎉\n\nBelief in the value of technology is our true edge, and the people behind it deserve a celebration.\n\nCue the AI demos, live music and good food. Here's to building together!"
   },
   {
    "source": "X @TencentHunyuan",
@@ -1627,6 +1648,34 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "Grok Imagine",
+   "url": "https://x.com/elonmusk/status/2115323441738047731",
+   "ts": 1793167383,
+   "desc": "Grok Imagine"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @JonErlichman: On this day in 2010: Tesla opened its first factory.   It was an old GM-Toyota plant.  Today, Tesla’s worth more than 5x…",
+   "url": "https://x.com/elonmusk/status/2115321988537614484",
+   "ts": 1793167037,
+   "desc": "RT @JonErlichman: On this day in 2010: Tesla opened its first factory. \n\nIt was an old GM-Toyota plant.\n\nToday, Tesla’s worth more than 5x…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @tetsuoai: A new bot called \"Director,\" by Xi Yan, showed up in the Grok Bot Marketplace. It's a video director that takes a brief and p…",
+   "url": "https://x.com/elonmusk/status/2115261103970340987",
+   "ts": 1793152521,
+   "desc": "RT @tetsuoai: A new bot called \"Director,\" by Xi Yan, showed up in the Grok Bot Marketplace. It's a video director that takes a brief and p…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @Eric_Schmitt: What the Democrats are willing to do with power is terrifying.   We saw it during Covid, when parents were investigated u…",
+   "url": "https://x.com/elonmusk/status/2115260611076792721",
+   "ts": 1793152403,
+   "desc": "RT @Eric_Schmitt: What the Democrats are willing to do with power is terrifying. \n\nWe saw it during Covid, when parents were investigated u…"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @SawyerMerritt: United Airlines CEO in new interview on @Starlink:  \"We were only going to do 65% of our fleet, but once we put it on ou…",
    "url": "https://x.com/elonmusk/status/2115148795407376834",
    "ts": 1793125745,
@@ -1738,34 +1787,6 @@
    "desc": "New features in Grok @Bot"
   },
   {
-   "source": "X @elonmusk",
-   "title": "RT @spencerpratt: A BILLION dollars+ over budget, years behind schedule, contractor suing Karen Bass for delays, and now the LAX people mov…",
-   "url": "https://x.com/elonmusk/status/2115112503600693420",
-   "ts": 1793117092,
-   "desc": "RT @spencerpratt: A BILLION dollars+ over budget, years behind schedule, contractor suing Karen Bass for delays, and now the LAX people mov…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "True",
-   "url": "https://x.com/elonmusk/status/2115110737995796849",
-   "ts": 1793116671,
-   "desc": "True"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SawyerMerritt: United Airlines CEO in new interview on Delta Airlines choosing not to adopt @Starlink:  \"It's a mistake. I think (Starl…",
-   "url": "https://x.com/elonmusk/status/2115101700872982537",
-   "ts": 1793114516,
-   "desc": "RT @SawyerMerritt: United Airlines CEO in new interview on Delta Airlines choosing not to adopt @Starlink:\n\n\"It's a mistake. I think (Starl…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceX: Watch Falcon 9 launch 27 @Starlink satellites to orbit from California https://t.co/Uxe26aH965",
-   "url": "https://x.com/elonmusk/status/2115097260841431137",
-   "ts": 1793113458,
-   "desc": "RT @SpaceX: Watch Falcon 9 launch 27 @Starlink satellites to orbit from California https://t.co/Uxe26aH965"
-  },
-  {
    "source": "X @sama",
    "title": "RT @danintheory: We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity…",
    "url": "https://x.com/sama/status/2114864981934329996",
@@ -1855,6 +1876,13 @@
    "url": "https://x.com/sama/status/2105688354834756036",
    "ts": 1790870200,
    "desc": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now!"
+  },
+  {
+   "source": "X @RayDalio",
+   "title": "Go back before you go forward.  Think about your problem as a set of outcomes produced by a machine. Remember that there are typically many paths to achieving your goals. Think of your plan as being like a movie script in that you visualize who will",
+   "url": "https://x.com/RayDalio/status/2115212209471066575",
+   "ts": 1793140864,
+   "desc": "Go back before you go forward.\n\nThink about your problem as a set of outcomes produced by a machine. Remember that there are typically many paths to achieving your goals. Think of your plan as being like a movie script in that you visualize who will do what through time. Write down your plan for everyone to see and to measure your progress against. \n\nRecognize that it doesn’t take a lot of time to"
   },
   {
    "source": "X @RayDalio",
@@ -1981,13 +2009,6 @@
    "url": "https://x.com/RayDalio/status/2109753449881510351",
    "ts": 1791839394,
    "desc": "Remember this: The pain is all in your head. \n\nIf you want to evolve, you need to go where the problems and the pain are. By confronting the pain, you will see more clearly the paradoxes and problems you face. Reflecting on them and resolving them will give you wisdom. \n\nThe harder the pain and the challenge, the better. #principleoftheday"
-  },
-  {
-   "source": "X @RayDalio",
-   "title": "You need to be precise, because different problems have different solutions.   If a problem is due to inadequate skill, additional training may be called for; if it arises from an innate weakness, you may need to seek assistance from someone else or",
-   "url": "https://x.com/RayDalio/status/2109362140985663730",
-   "ts": 1791746099,
-   "desc": "You need to be precise, because different problems have different solutions. \n\nIf a problem is due to inadequate skill, additional training may be called for; if it arises from an innate weakness, you may need to seek assistance from someone else or change the role you play. #principleoftheday"
   },
   {
    "source": "X @karpathy",
@@ -2373,20 +2394,6 @@
    "url": "https://x.com/demishassabis/status/2110509864657313963",
    "ts": 1792019737,
    "desc": "RT @ScaleAILabs: Congrats to @GoogleAI's Gemini 4 Argon for taking the top spot of our Humanity's Sixth Sense (HSS) benchmark with a score…"
-  },
-  {
-   "source": "X @demishassabis",
-   "title": "RT @chetaslua: WTF  Gemini 4 ARGON built a highly detailed model of a Pagoda using multi-agent visual critique loops in Antigravity.   The…",
-   "url": "https://x.com/demishassabis/status/2110222445059969231",
-   "ts": 1791951211,
-   "desc": "RT @chetaslua: WTF\n\nGemini 4 ARGON built a highly detailed model of a Pagoda using multi-agent visual critique loops in Antigravity. \n\nThe…"
-  },
-  {
-   "source": "X @demishassabis",
-   "title": "RT @fofrAI: Argon has this amazing natural understanding of the world. It can do so many things from first principles.  Here's a pelican ri…",
-   "url": "https://x.com/demishassabis/status/2110218386294874451",
-   "ts": 1791950243,
-   "desc": "RT @fofrAI: Argon has this amazing natural understanding of the world. It can do so many things from first principles.\n\nHere's a pelican ri…"
   },
   {
    "source": "X @sundarpichai",
@@ -2985,6 +2992,13 @@
   },
   {
    "source": "X @thsottiaux",
+   "title": "https://t.co/Fgy0dBAHsJ has landed",
+   "url": "https://x.com/thsottiaux/status/2115297093879472332",
+   "ts": 1793161102,
+   "desc": "https://t.co/Fgy0dBAHsJ has landed"
+  },
+  {
+   "source": "X @thsottiaux",
    "title": "Day 22/ Terra is back!   Our first model that is significantly better at writing,  personality and nuanced understanding of requests.  Packs a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subs",
    "url": "https://x.com/thsottiaux/status/2114800277677092936",
    "ts": 1793042651,
@@ -3031,41 +3045,6 @@
    "url": "https://x.com/thsottiaux/status/2113838156193894447",
    "ts": 1792813264,
    "desc": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool."
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
-   "url": "https://x.com/thsottiaux/status/2113029854417600834",
-   "ts": 1792620550,
-   "desc": "Fully included in the Pro plan, doesn't draw on your weekly usage."
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "Dot, Dotter, Dottest",
-   "url": "https://x.com/thsottiaux/status/2113029655095836957",
-   "ts": 1792620502,
-   "desc": "Dot, Dotter, Dottest"
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "Day 16/  You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the",
-   "url": "https://x.com/thsottiaux/status/2112712984644784534",
-   "ts": 1792545002,
-   "desc": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache."
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to",
-   "url": "https://x.com/thsottiaux/status/2112592264686149749",
-   "ts": 1792516220,
-   "desc": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits"
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
-   "url": "https://x.com/thsottiaux/status/2112432076767289678",
-   "ts": 1792478028,
-   "desc": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy."
   },
   {
    "source": "X @lydiahallie",
@@ -3391,6 +3370,27 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "Google's Genie 4 world model: \"Scene: A Victorian high tea. Character: A mouse in appropriate garb.\"  \"A porcupine walks by\"  \"The mouse grows wings\"  \"It flies\"  This is realtime & I can walk around",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3myvqffe2d22q",
+   "ts": 1793155669,
+   "desc": "Google's Genie 4 world model: \"Scene: A Victorian high tea. Character: A mouse in appropriate garb.\"\n\n\"A porcupine walks by\"\n\n\"The mouse grows wings\"\n\n\"It flies\"\n\nThis is realtime & I can walk around freely.\n\nIt is glitchy, but also impossibly advanced compared to where we were a couple years ago."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "I believe they believe that there is real existential risk. And I think we should take them seriously and regulate AI better than we are doing today.",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3myvcj5cb4c2q",
+   "ts": 1793140762,
+   "desc": "I believe they believe that there is real existential risk. And I think we should take them seriously and regulate AI better than we are doing today."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "Important, but not unexpected, finding that experts working with AI agents are swayed by the positions of the AI, even if they think they aren't.  If your independent judgement matters on a task, you",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3myvcgatpbs2q",
+   "ts": 1793140665,
+   "desc": "Important, but not unexpected, finding that experts working with AI agents are swayed by the positions of the AI, even if they think they aren't.\n\nIf your independent judgement matters on a task, you need to be deliberate about when in the process to bring in AI. www.anthropic.com/research/age..."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "The idea this is about \"regulatory capture\" instead is only vaguely more plausible. The argument that by terrifying the government they would ban only open weights models and not OpenAI//Anthropic has",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3myvaiokk222q",
    "ts": 1793138599,
@@ -3439,60 +3439,53 @@
    "desc": "I did a bad job explaining - for those who don't know Genie 4 is a world model that dynamically generates environments. Should have clarified that in the post, which led to some some confusion about what i was showing. apologies."
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Google's new Genie 4 runs DOOM: \"Walking through a typical office but every computer is running DOOM and all of the walls are also running DOOM and also everything is DOOM\"  \"My coworker who is a demo",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3myupv5sl2k2z",
-   "ts": 1793120764,
-   "desc": "Google's new Genie 4 runs DOOM: \"Walking through a typical office but every computer is running DOOM and all of the walls are also running DOOM and also everything is DOOM\"\n\n\"My coworker who is a demon appears\"\n\n\"He has a chaingun\"\n\n\"He gives me a bonus\"\n\nAll this is in realtime."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "This never gets old (& also shows how hard forecasting AI is even for AI)  “Hey Claude Fable & GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3myucj4frec2l",
-   "ts": 1793106402,
-   "desc": "This never gets old (& also shows how hard forecasting AI is even for AI)\n\n“Hey Claude Fable & GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis?” (I only show part of the answers for space)"
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Two and a half years between these.  (Tonight, OpenAI announced an unreleased model solved three long-standing problems in physics, math, and computer science, one of which was proving the Exponential",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mysy6zyphs25",
-   "ts": 1793060966,
-   "desc": "Two and a half years between these.\n\n(Tonight, OpenAI announced an unreleased model solved three long-standing problems in physics, math, and computer science, one of which was proving the Exponential Time Hypothesis was false)"
-  },
-  {
    "source": "HN",
    "title": "AI promised less work. I've never worked more",
    "url": "https://oioannou.com/blog/ai-promised-less-work/",
    "ts": 1793099294,
-   "desc": "609 points"
-  },
-  {
-   "source": "HN",
-   "title": "The Mythical Man-Month in the Age of AI",
-   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-   "ts": 1793082337,
-   "desc": "420 points"
+   "desc": "629 points"
   },
   {
    "source": "HN",
    "title": "Wikipedia's Cleanup of AI-Generated Content",
    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
    "ts": 1793099295,
-   "desc": "414 points"
+   "desc": "470 points"
   },
   {
    "source": "HN",
-   "title": "Concerning behavior from a popular open-weight AI model",
-   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-   "ts": 1793032544,
-   "desc": "322 points"
+   "title": "The Mythical Man-Month in the Age of AI",
+   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "ts": 1793082337,
+   "desc": "449 points"
   },
   {
    "source": "HN",
    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
    "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
    "ts": 1793119215,
-   "desc": "310 points"
+   "desc": "368 points"
+  },
+  {
+   "source": "HN",
+   "title": "Concerning behavior from a popular open-weight AI model",
+   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "ts": 1793032544,
+   "desc": "326 points"
+  },
+  {
+   "source": "HN",
+   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+   "ts": 1793118330,
+   "desc": "299 points"
+  },
+  {
+   "source": "HN",
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "url": "https://www.brangus.io/survival-llm",
+   "ts": 1793130906,
+   "desc": "276 points"
   },
   {
    "source": "HN",
@@ -3510,59 +3503,31 @@
   },
   {
    "source": "HN",
-   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-   "ts": 1793118330,
-   "desc": "176 points"
-  },
-  {
-   "source": "HN",
-   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "url": "https://www.brangus.io/survival-llm",
-   "ts": 1793130906,
-   "desc": "106 points"
-  },
-  {
-   "source": "HN",
-   "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-   "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-   "ts": 1792987900,
-   "desc": "81 points"
-  },
-  {
-   "source": "HN",
    "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
    "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
    "ts": 1793049239,
-   "desc": "79 points"
-  },
-  {
-   "source": "HN",
-   "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-   "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-   "ts": 1792968546,
-   "desc": "72 points"
+   "desc": "82 points"
   },
   {
    "source": "HN",
    "title": "“AI Skills” are worthless in 2026",
    "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
    "ts": 1793082814,
-   "desc": "48 points"
+   "desc": "50 points"
   },
   {
    "source": "HN",
    "title": "AI is ruining haunted houses",
    "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
    "ts": 1793091033,
-   "desc": "45 points"
+   "desc": "46 points"
   },
   {
    "source": "HN",
-   "title": "If AI displaces human workers, they will lose more than just pay",
-   "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
-   "ts": 1792981358,
-   "desc": "38 points"
+   "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
+   "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+   "ts": 1793124500,
+   "desc": "34 points"
   },
   {
    "source": "HN",
@@ -3576,14 +3541,7 @@
    "title": "Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S.",
    "url": "https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/",
    "ts": 1793044364,
-   "desc": "32 points"
-  },
-  {
-   "source": "HN",
-   "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
-   "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-   "ts": 1793124500,
-   "desc": "28 points"
+   "desc": "33 points"
   },
   {
    "source": "HN",
@@ -3608,6 +3566,13 @@
   },
   {
    "source": "HN",
+   "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
+   "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
+   "ts": 1793140190,
+   "desc": "16 points"
+  },
+  {
+   "source": "HN",
    "title": "Anthropic rushing IPO before AI bubble bursts",
    "url": "https://nypost.com/2026/10/23/business/wall-street-is-urging-anthropic-openai-to-do-their-ipos-in-a-hurry-heres-why/",
    "ts": 1793021405,
@@ -3629,6 +3594,20 @@
   },
   {
    "source": "HN",
+   "title": "Ask HN: What are your career plans in the age of AI?",
+   "url": "https://news.ycombinator.com/item?id=50249194",
+   "ts": 1793041226,
+   "desc": "12 points"
+  },
+  {
+   "source": "HN",
+   "title": "Do you want to keep your job? Stop feeding AI models",
+   "url": "https://news.ycombinator.com/item?id=50253524",
+   "ts": 1793063649,
+   "desc": "12 points"
+  },
+  {
+   "source": "HN",
    "title": "In China, the AI bubble has burst",
    "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
    "ts": 1793133860,
@@ -3636,23 +3615,16 @@
   },
   {
    "source": "HN",
-   "title": "Ask HN: What are your career plans in the age of AI?",
-   "url": "https://news.ycombinator.com/item?id=50249194",
-   "ts": 1793041226,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
-   "title": "Do you want to keep your job? Stop feeding AI models",
-   "url": "https://news.ycombinator.com/item?id=50253524",
-   "ts": 1793063649,
-   "desc": "11 points"
-  },
-  {
-   "source": "HN",
    "title": "Anthropic's Claude AI model accessed Georgia voter data in US",
    "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
    "ts": 1793015302,
+   "desc": "12 points"
+  },
+  {
+   "source": "HN",
+   "title": "Amazon defines the role of the developer in the age of AI",
+   "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+   "ts": 1793149233,
    "desc": "11 points"
   }
  ]
