@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-29T06:16:30.968069+00:00",
- "count": 511,
+ "generated_at": "2026-10-29T13:32:53.223813+00:00",
+ "count": 512,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 443,
+   "count": 444,
    "note": "49 账号"
   },
   {
@@ -220,6 +220,13 @@
   },
   {
    "source": "X @GoogleDeepMind",
+   "title": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.  As life…",
+   "url": "https://x.com/GoogleDeepMind/status/2114719745719341407",
+   "ts": 1793023451,
+   "desc": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.\n\nAs life…"
+  },
+  {
+   "source": "X @GoogleDeepMind",
    "title": "RT @SpringerNature: Springer Nature and @GoogleDeepMind are partnering to co-design an AI peer review assistant, exploring how AI can help…",
    "url": "https://x.com/GoogleDeepMind/status/2114684344598200358",
    "ts": 1793015011,
@@ -294,13 +301,6 @@
    "url": "https://x.com/GoogleDeepMind/status/2110762690733895872",
    "ts": 1792080016,
    "desc": "RT @PeterWBattaglia: Last week, Hurricane Isaias made landfall in the Florida Panhandle. Our thoughts are with everyone affected and with t…"
-  },
-  {
-   "source": "X @GoogleDeepMind",
-   "title": "RT @googlecloud: Explore the latest advances in native audio models and the challenges of building better real-time voice experiences with…",
-   "url": "https://x.com/GoogleDeepMind/status/2110739249633087570",
-   "ts": 1792074427,
-   "desc": "RT @googlecloud: Explore the latest advances in native audio models and the challenges of building better real-time voice experiences with…"
   },
   {
    "source": "X @grok",
@@ -528,13 +528,6 @@
   },
   {
    "source": "X @MistralAI",
-   "title": "RT @GuillaumeLample: This Thursday, we are hosting events at our SF, NYC, and London offices to celebrate the launch of ML4 !  We're growin…",
-   "url": "https://x.com/MistralAI/status/2115615887252169005",
-   "ts": 1793237108,
-   "desc": "RT @GuillaumeLample: This Thursday, we are hosting events at our SF, NYC, and London offices to celebrate the launch of ML4 !\n\nWe're growin…"
-  },
-  {
-   "source": "X @MistralAI",
    "title": "Voxtral Mini Transcribe 3 ranks #2 on Voice Arena’s Diarization + ASR leaderboard.",
    "url": "https://x.com/MistralAI/status/2115380768394379474",
    "ts": 1793181051,
@@ -581,6 +574,20 @@
    "url": "https://x.com/MistralAI/status/2109901149772136643",
    "ts": 1791874608,
    "desc": "RT @HelloSurgeAI: 🇫🇷 Le Chonk joins the sudo L7 leaderboard 🇫🇷\n\nWe just added @MistralAI's Mistral Large 4 to sudo L7, our benchmark for st…"
+  },
+  {
+   "source": "X @huggingface",
+   "title": "RT @EmmaScharfmann: So much happened in AI for Science on the 🤗 Hub this month! I summarized what these new models and datasets are about,…",
+   "url": "https://x.com/huggingface/status/2115760696751489433",
+   "ts": 1793271633,
+   "desc": "RT @EmmaScharfmann: So much happened in AI for Science on the 🤗 Hub this month!\nI summarized what these new models and datasets are about,…"
+  },
+  {
+   "source": "X @huggingface",
+   "title": "RT @SergioPaniego: how do you post-train an agent?  we laid it out as a 5-step curriculum, from SFT to RL through a real harness, with live…",
+   "url": "https://x.com/huggingface/status/2115725107062767758",
+   "ts": 1793263148,
+   "desc": "RT @SergioPaniego: how do you post-train an agent?\n\nwe laid it out as a 5-step curriculum, from SFT to RL through a real harness, with live…"
   },
   {
    "source": "X @huggingface",
@@ -709,18 +716,11 @@
    "desc": "RT @Scenario_gg: We just open-sourced 1,300+ 3D models.\n\nThat's 39 GB of 3D files, free to download on Hugging Face.\n\nhttps://t.co/f6xyzZhv…"
   },
   {
-   "source": "X @huggingface",
-   "title": "RT @SergioPaniego: Live From SF! We’re teaching these folk how to train their own open weight agents. Sorry, but we won’t live stream. Full…",
-   "url": "https://x.com/huggingface/status/2113444615953268846",
-   "ts": 1792719437,
-   "desc": "RT @SergioPaniego: Live From SF! We’re teaching these folk how to train their own open weight agents. Sorry, but we won’t live stream. Full…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @fastinoAI: Our newest decision model is the world's best decision model.  Introducing GLiDE v1.2, the #1 model on the @huggingface Deci…",
-   "url": "https://x.com/huggingface/status/2113317614978052107",
-   "ts": 1792689157,
-   "desc": "RT @fastinoAI: Our newest decision model is the world's best decision model.\n\nIntroducing GLiDE v1.2, the #1 model on the @huggingface Deci…"
+   "source": "X @NousResearch",
+   "title": "Tomorrow gonna be a movie fr  (If they made movies about Discord groups that do foundational research and post-training then blossom into companies that proliferate the most widely used open source agent harness in the world that host an annual confe",
+   "url": "https://x.com/NousResearch/status/2115798012840579154",
+   "ts": 1793280530,
+   "desc": "Tomorrow gonna be a movie fr\n\n(If they made movies about Discord groups that do foundational research and post-training then blossom into companies that proliferate the most widely used open source agent harness in the world that host an annual conference every year except it's actually more like a big party slash beta test slash merch distribution mechanism)"
   },
   {
    "source": "X @NousResearch",
@@ -828,13 +828,6 @@
    "desc": "RT @witcheer: 25 new stories on the Hermes Agent use cases page this week:\n\n- a drainlaying business sends its quotes and invoices from Tel…"
   },
   {
-   "source": "X @NousResearch",
-   "title": "Your team and your Hermes can now share a computer.  The new @trycua Spaces plugin gives Hermes its own Linux, macOS, or Windows Space on hardware you already own. Anyone on your team can open it, watch live, step in, and hand it back while Hermes ke",
-   "url": "https://x.com/NousResearch/status/2113391397760041329",
-   "ts": 1792706748,
-   "desc": "Your team and your Hermes can now share a computer.\n\nThe new @trycua Spaces plugin gives Hermes its own Linux, macOS, or Windows Space on hardware you already own. Anyone on your team can open it, watch live, step in, and hand it back while Hermes keeps working.\n\nhttps://t.co/nVs7sCmspk"
-  },
-  {
    "source": "X @deepseek_ai",
    "title": "Please check out @DeepSeekHarness. We just released packaged desktop versions for macOS and Windows; Linux users can get it from the @​deepseek-ai/dsh package on npm. https://t.co/Cde0dZ6cPy",
    "url": "https://x.com/deepseek_ai/status/2105915715241062644",
@@ -903,6 +896,13 @@
    "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
    "ts": 1789912344,
    "desc": "Qwen-Image-2.1 is now supported in ComfyUI! Try it now and share your creations! 🖼️"
+  },
+  {
+   "source": "X @kimi_moonshot",
+   "title": "Kimi now works with Gmail, Google Drive, and Google Calendar.  Summarize Gmail threads, find files in Google Drive, and plan your day with Google Calendar — with secure OAuth access you control.  Try them at https://t.co/K6zMCNzfou https://t.co/xZTPm",
+   "url": "https://x.com/Kimi_Moonshot/status/2115777746639196376",
+   "ts": 1793275698,
+   "desc": "Kimi now works with Gmail, Google Drive, and Google Calendar.\n\nSummarize Gmail threads, find files in Google Drive, and plan your day with Google Calendar — with secure OAuth access you control.\n\nTry them at https://t.co/K6zMCNzfou https://t.co/xZTPm33ekM"
   },
   {
    "source": "X @kimi_moonshot",
@@ -996,11 +996,11 @@
    "desc": "Kimi Work for Financial Analysts - Tutorial #2\n\nUse Kimi Work for 3 common investment research tasks:\n- Build a live investor dashboard\n- Update financial models in spreadsheet\n- Process and generate reports in batch\n\nStay tuned for more Kimi Work workflows! https://t.co/nnvBnapqVu"
   },
   {
-   "source": "X @kimi_moonshot",
-   "title": "RT @ollama: .@Kimi_Moonshot Kimi K3 is starting to roll out on Ollama's cloud subscriptions.   We are working on improving Ollama's cloud t…",
-   "url": "https://x.com/Kimi_Moonshot/status/2089958363832709219",
-   "ts": 1787119878,
-   "desc": "RT @ollama: .@Kimi_Moonshot Kimi K3 is starting to roll out on Ollama's cloud subscriptions. \n\nWe are working on improving Ollama's cloud t…"
+   "source": "X @MiniMax_AI",
+   "title": "RT @SandbaseAI: ⏳ 72 hours left for AI City Remix.  Miniature skylines. Pixel streets. Your city, your way.  Build with @MiniMax_AI M3.1 Fl…",
+   "url": "https://x.com/MiniMax_AI/status/2115705312401559727",
+   "ts": 1793258429,
+   "desc": "RT @SandbaseAI: ⏳ 72 hours left for AI City Remix.\n\nMiniature skylines. Pixel streets. Your city, your way.\n\nBuild with @MiniMax_AI M3.1 Fl…"
   },
   {
    "source": "X @MiniMax_AI",
@@ -1480,6 +1480,13 @@
   },
   {
    "source": "X @opencode",
+   "title": "RT @Neriousy: /goal is finally in @opencode  enjoy https://t.co/MSd8PuWAz0",
+   "url": "https://x.com/opencode/status/2115791613029204118",
+   "ts": 1793279004,
+   "desc": "RT @Neriousy: /goal is finally in @opencode \nenjoy https://t.co/MSd8PuWAz0"
+  },
+  {
+   "source": "X @opencode",
    "title": "RT @thdxr: hokum, notifications for wayland - theme it however you want - nice springy animations - control notifs per app  https://t.co/nl…",
    "url": "https://x.com/opencode/status/2115541579733569951",
    "ts": 1793219392,
@@ -1598,13 +1605,6 @@
    "desc": "Gemini 4 Argon is now available in OpenCode Go\n\n$60 usage for $10 til Nov 30"
   },
   {
-   "source": "X @opencode",
-   "title": "RT @thdxr: https://t.co/JAGCoUao8j https://t.co/eA1OtP88jU",
-   "url": "https://x.com/opencode/status/2110083203587531109",
-   "ts": 1791918013,
-   "desc": "RT @thdxr: https://t.co/JAGCoUao8j https://t.co/eA1OtP88jU"
-  },
-  {
    "source": "X @commandcodeai",
    "title": "RT @CommandCodeAI: DeepSeek v4.1 flash 1017 is currently the best open weights model on the planet.   Command Code’s GOAT $10/mo plan is cu…",
    "url": "https://x.com/CommandCodeAI/status/2115651027273978212",
@@ -1652,6 +1652,20 @@
    "url": "https://x.com/CommandCodeAI/status/2114353461022376330",
    "ts": 1792936122,
    "desc": "RT @CommandCodeAI: Added /btw in the Command Code CLI.\n\nAsk side questions mid-session and get instant overlay answers without interrupting…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @matteosalvinimi: Very positive and constructive conversation with @elonmusk today.  Italy is looking with great interest at the opportu…",
+   "url": "https://x.com/elonmusk/status/2115791378663743599",
+   "ts": 1793278948,
+   "desc": "RT @matteosalvinimi: Very positive and constructive conversation with @elonmusk today.\n\nItaly is looking with great interest at the opportu…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @dwarkeshpodcast: Instead of Space Age carbon fiber or aluminum-lithium, SpaceX is building its Starship rocket out of stainless steel.…",
+   "url": "https://x.com/elonmusk/status/2115690222608593378",
+   "ts": 1793254831,
+   "desc": "RT @dwarkeshpodcast: Instead of Space Age carbon fiber or aluminum-lithium, SpaceX is building its Starship rocket out of stainless steel.…"
   },
   {
    "source": "X @elonmusk",
@@ -1780,20 +1794,6 @@
    "desc": "RT @boringcompany: Meet the Operations Team in the Global Ops Center in Bastrop, TX!\n\nToday, the team is remotely controlling machines in V…"
   },
   {
-   "source": "X @elonmusk",
-   "title": "RT @beffjezos: Easy to be an Elon Stan in 2026  Real ones were fans since the early 2000s",
-   "url": "https://x.com/elonmusk/status/2115637632890028454",
-   "ts": 1793242292,
-   "desc": "RT @beffjezos: Easy to be an Elon Stan in 2026\n\nReal ones were fans since the early 2000s"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @satyanadella: Just wrapped our earnings call. It was a fast start to our fiscal year.  Microsoft Cloud revenue surpassed $63B, with gro…",
-   "url": "https://x.com/elonmusk/status/2115636841034797123",
-   "ts": 1793242104,
-   "desc": "RT @satyanadella: Just wrapped our earnings call. It was a fast start to our fiscal year.\n\nMicrosoft Cloud revenue surpassed $63B, with gro…"
-  },
-  {
    "source": "X @sama",
    "title": "RT @danintheory: We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity…",
    "url": "https://x.com/sama/status/2114864981934329996",
@@ -1883,6 +1883,13 @@
    "url": "https://x.com/sama/status/2105688354834756036",
    "ts": 1790870200,
    "desc": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now!"
+  },
+  {
+   "source": "X @RayDalio",
+   "title": "A big choice in life is accomplishment versus savoring life.  Savoring life is taking a moment to smell the roses, enjoying a beautiful day, and making sure you have time with the people you love. Then there's the other side, which is accomplishment",
+   "url": "https://x.com/RayDalio/status/2115796515943788832",
+   "ts": 1793280173,
+   "desc": "A big choice in life is accomplishment versus savoring life.\n\nSavoring life is taking a moment to smell the roses, enjoying a beautiful day, and making sure you have time with the people you love. Then there's the other side, which is accomplishment and impact.\n\nYou have to discover for yourself where you are and how you deal with those choices. The key, and the most effective path, is where they"
   },
   {
    "source": "X @RayDalio",
@@ -3412,66 +3419,52 @@
   },
   {
    "source": "HN",
-   "title": "AI promised less work. I've never worked more",
-   "url": "https://oioannou.com/blog/ai-promised-less-work/",
-   "ts": 1793099294,
-   "desc": "669 points"
-  },
-  {
-   "source": "HN",
    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
    "url": "https://www.brangus.io/survival-llm",
    "ts": 1793130906,
-   "desc": "525 points"
-  },
-  {
-   "source": "HN",
-   "title": "Wikipedia's Cleanup of AI-Generated Content",
-   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-   "ts": 1793099295,
-   "desc": "499 points"
-  },
-  {
-   "source": "HN",
-   "title": "The Mythical Man-Month in the Age of AI",
-   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-   "ts": 1793082337,
-   "desc": "477 points"
+   "desc": "529 points"
   },
   {
    "source": "HN",
    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
    "ts": 1793194890,
-   "desc": "450 points"
+   "desc": "472 points"
   },
   {
    "source": "HN",
    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
    "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
    "ts": 1793119215,
-   "desc": "394 points"
+   "desc": "396 points"
   },
   {
    "source": "HN",
    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
    "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
    "ts": 1793118330,
-   "desc": "373 points"
+   "desc": "377 points"
   },
   {
    "source": "HN",
    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
    "url": "https://surgehq.ai/blog/dayjob-tax",
    "ts": 1793202390,
-   "desc": "222 points"
+   "desc": "247 points"
   },
   {
    "source": "HN",
    "title": "Google AI gets cagey when asked who won the 2020 elections",
    "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
    "ts": 1793218216,
-   "desc": "142 points"
+   "desc": "156 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI execs may be too out of touch to build for the general public",
+   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "ts": 1793226466,
+   "desc": "77 points"
   },
   {
    "source": "HN",
@@ -3492,42 +3485,21 @@
    "title": "Valve Responds to Developers Fearing AI Slop and Clones",
    "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
    "ts": 1793194044,
-   "desc": "65 points"
-  },
-  {
-   "source": "HN",
-   "title": "“AI Skills” are worthless in 2026",
-   "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
-   "ts": 1793082814,
-   "desc": "52 points"
-  },
-  {
-   "source": "HN",
-   "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-   "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-   "ts": 1793233837,
-   "desc": "49 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI is ruining haunted houses",
-   "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
-   "ts": 1793091033,
-   "desc": "48 points"
+   "desc": "67 points"
   },
   {
    "source": "HN",
    "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
    "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
    "ts": 1793232968,
-   "desc": "48 points"
+   "desc": "54 points"
   },
   {
    "source": "HN",
-   "title": "AI execs may be too out of touch to build for the general public",
-   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-   "ts": 1793226466,
-   "desc": "48 points"
+   "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+   "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+   "ts": 1793233837,
+   "desc": "53 points"
   },
   {
    "source": "HN",
@@ -3541,7 +3513,14 @@
    "title": "Decompiling Games with AI: Virtueel Zoetermeer",
    "url": "https://bou.ke/blog/zoetermeer/",
    "ts": 1793195012,
-   "desc": "23 points"
+   "desc": "29 points"
+  },
+  {
+   "source": "HN",
+   "title": "Outrage after airport self-service checkout asks for 18% tip",
+   "url": "https://www.the-independent.com/life-style/self-service-airport-tipping-culture-b3075115.html",
+   "ts": 1793228007,
+   "desc": "22 points"
   },
   {
    "source": "HN",
@@ -3559,10 +3538,10 @@
   },
   {
    "source": "HN",
-   "title": "Outrage after airport self-service checkout asks for 18% tip",
-   "url": "https://www.the-independent.com/life-style/self-service-airport-tipping-culture-b3075115.html",
-   "ts": 1793228007,
-   "desc": "17 points"
+   "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+   "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+   "ts": 1793268484,
+   "desc": "15 points"
   },
   {
    "source": "HN",
@@ -3573,6 +3552,13 @@
   },
   {
    "source": "HN",
+   "title": "Google AI Search Refuses to Say Who Won the 2020 Election",
+   "url": "https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/",
+   "ts": 1793229239,
+   "desc": "13 points"
+  },
+  {
+   "source": "HN",
    "title": "In China, the AI bubble has burst",
    "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
    "ts": 1793133860,
@@ -3580,10 +3566,10 @@
   },
   {
    "source": "HN",
-   "title": "Google AI Search Refuses to Say Who Won the 2020 Election",
-   "url": "https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/",
-   "ts": 1793229239,
-   "desc": "12 points"
+   "title": "Ask HN: We tax labour, why not tax AI?",
+   "url": "https://news.ycombinator.com/item?id=50281372",
+   "ts": 1793223907,
+   "desc": "9 points"
   },
   {
    "source": "HN",
@@ -3605,6 +3591,27 @@
    "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
    "ts": 1793177491,
    "desc": "9 points"
+  },
+  {
+   "source": "HN",
+   "title": "Wikipedia: Signs of AI Writing",
+   "url": "https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing",
+   "ts": 1793155731,
+   "desc": "8 points"
+  },
+  {
+   "source": "HN",
+   "title": "Norwegian media sue Meta over plans to use their journalism for AI",
+   "url": "https://www.euronews.com/2026/10/27/norwegian-media-sue-meta-over-plans-to-use-their-journalism-for-ai",
+   "ts": 1793123234,
+   "desc": "8 points"
+  },
+  {
+   "source": "HN",
+   "title": "Meta launches plan for $95B stock offering to fund AI expansion",
+   "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+   "ts": 1793135339,
+   "desc": "7 points"
   }
  ]
 }
