@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-30T06:17:12.432146+00:00",
- "count": 515,
+ "generated_at": "2026-10-30T13:23:36.606916+00:00",
+ "count": 517,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 445,
+   "count": 447,
    "note": "49 账号"
   },
   {
@@ -220,13 +220,6 @@
   },
   {
    "source": "X @GoogleDeepMind",
-   "title": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.  As life…",
-   "url": "https://x.com/GoogleDeepMind/status/2114719745719341407",
-   "ts": 1793023451,
-   "desc": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.\n\nAs life…"
-  },
-  {
-   "source": "X @GoogleDeepMind",
    "title": "RT @SpringerNature: Springer Nature and @GoogleDeepMind are partnering to co-design an AI peer review assistant, exploring how AI can help…",
    "url": "https://x.com/GoogleDeepMind/status/2114684344598200358",
    "ts": 1793015011,
@@ -301,6 +294,13 @@
    "url": "https://x.com/GoogleDeepMind/status/2110762690733895872",
    "ts": 1792080016,
    "desc": "RT @PeterWBattaglia: Last week, Hurricane Isaias made landfall in the Florida Panhandle. Our thoughts are with everyone affected and with t…"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "RT @googlecloud: Explore the latest advances in native audio models and the challenges of building better real-time voice experiences with…",
+   "url": "https://x.com/GoogleDeepMind/status/2110739249633087570",
+   "ts": 1792074427,
+   "desc": "RT @googlecloud: Explore the latest advances in native audio models and the challenges of building better real-time voice experiences with…"
   },
   {
    "source": "X @grok",
@@ -535,6 +535,27 @@
   },
   {
    "source": "X @MistralAI",
+   "title": "Three weeks of training camp for Le Chonk. No days off.  Thanks for putting it to the test, @ThibaultJaigu and @RequestyAI.",
+   "url": "https://x.com/MistralAI/status/2116105034673058023",
+   "ts": 1793353730,
+   "desc": "Three weeks of training camp for Le Chonk. No days off.\n\nThanks for putting it to the test, @ThibaultJaigu and @RequestyAI."
+  },
+  {
+   "source": "X @MistralAI",
+   "title": "RT @MTSlive: Mistral researcher @Sagar_Vaze argues some of the most serious recent AI cyberattacks came from closed models, not open-source…",
+   "url": "https://x.com/MistralAI/status/2116074254886412727",
+   "ts": 1793346391,
+   "desc": "RT @MTSlive: Mistral researcher @Sagar_Vaze argues some of the most serious recent AI cyberattacks came from closed models, not open-source…"
+  },
+  {
+   "source": "X @MistralAI",
+   "title": "RT @kilocode: Props to @MistralAI for the open-weights release of LE CHONK!  Use it in our new Kilo Desktop app today: https://t.co/u2hAQRz…",
+   "url": "https://x.com/MistralAI/status/2116073683299315809",
+   "ts": 1793346255,
+   "desc": "RT @kilocode: Props to @MistralAI for the open-weights release of LE CHONK!\n\nUse it in our new Kilo Desktop app today: https://t.co/u2hAQRz…"
+  },
+  {
+   "source": "X @MistralAI",
    "title": "RT @huggingface: We sat down with @MistralAI's Pierre Stock and Sagar Vaze from Mistral on launch day of Mistral Large 4.   Open weights. T…",
    "url": "https://x.com/MistralAI/status/2115829637091610941",
    "ts": 1793288070,
@@ -569,18 +590,18 @@
    "desc": "Turns out le Chonk is into rocket science.\n\nMistral Large 4 scoring well in engineering and astronomy on Ulam’s private benchmark, STEMBench: https://t.co/OW3reppzWN https://t.co/3BbnbEuYvP"
   },
   {
-   "source": "X @MistralAI",
-   "title": "Welcome to Mistral, New Material. Let’s bring design to mission-critical AI.",
-   "url": "https://x.com/MistralAI/status/2110377713525796942",
-   "ts": 1791988230,
-   "desc": "Welcome to Mistral, New Material. Let’s bring design to mission-critical AI."
+   "source": "X @huggingface",
+   "title": "RT @halcyonrayes: huge new model drop with idol!   the results are amazing, and they also have a @huggingface space for you to go play with…",
+   "url": "https://x.com/huggingface/status/2116126776942559667",
+   "ts": 1793358914,
+   "desc": "RT @halcyonrayes: huge new model drop with idol! \n\nthe results are amazing, and they also have a @huggingface space for you to go play with…"
   },
   {
-   "source": "X @MistralAI",
-   "title": "Look up! Mistral models are in orbit 🌍.   Proud to join @orbitworksspace and @LoftOrbital's first-of-its-kind AI satellite constellation with @NVIDIAAIInfra.",
-   "url": "https://x.com/MistralAI/status/2109998925037859091",
-   "ts": 1791897920,
-   "desc": "Look up! Mistral models are in orbit 🌍. \n\nProud to join @orbitworksspace and @LoftOrbital's first-of-its-kind AI satellite constellation with @NVIDIAAIInfra."
+   "source": "X @huggingface",
+   "title": "RT @lmstudio: You can now use oMLX in LM Studio!  Download the new engine and use it with MLX models you already have.  Excited to work wit…",
+   "url": "https://x.com/huggingface/status/2116097290272440705",
+   "ts": 1793351883,
+   "desc": "RT @lmstudio: You can now use oMLX in LM Studio!\n\nDownload the new engine and use it with MLX models you already have.\n\nExcited to work wit…"
   },
   {
    "source": "X @huggingface",
@@ -709,18 +730,11 @@
    "desc": "RT @ben_burtenshaw: We closed out the Training Agents series in person in San Francisco with four talks and a panel on post-training agents…"
   },
   {
-   "source": "X @huggingface",
-   "title": "RT @NielsRogge: Papers with Code is now open-source!  Apache 2.0-license.  Let's collaboratively make the best paper interface!  https://t.…",
-   "url": "https://x.com/huggingface/status/2114800366806093881",
-   "ts": 1793042673,
-   "desc": "RT @NielsRogge: Papers with Code is now open-source!\n\nApache 2.0-license.\n\nLet's collaboratively make the best paper interface!\n\nhttps://t.…"
-  },
-  {
-   "source": "X @huggingface",
-   "title": "RT @JensenHuang: I was the opening act for a family of ducks.  Thank you, Berlin. What a GTC.  Europe is building its AI ecosystem and econ…",
-   "url": "https://x.com/huggingface/status/2114778455132790866",
-   "ts": 1793037449,
-   "desc": "RT @JensenHuang: I was the opening act for a family of ducks.\n\nThank you, Berlin. What a GTC.\n\nEurope is building its AI ecosystem and econ…"
+   "source": "X @NousResearch",
+   "title": "Happy NousCon day to all who observe https://t.co/3JNvpcoGu5",
+   "url": "https://x.com/NousResearch/status/2116152083145482670",
+   "ts": 1793364947,
+   "desc": "Happy NousCon day to all who observe https://t.co/3JNvpcoGu5"
   },
   {
    "source": "X @NousResearch",
@@ -826,13 +840,6 @@
    "url": "https://x.com/NousResearch/status/2113705080427889081",
    "ts": 1792781536,
    "desc": "RT @yeahfortommy: K3.1 Pro is available with your Hermes Agent, go get em\n\nty @Kimi_Moonshot"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "RT @mattcynamon: In the last month, the Hermes Agent processed 53.3T tokens, making it the most widely used open source agent harness in th…",
-   "url": "https://x.com/NousResearch/status/2113672637541142766",
-   "ts": 1792773801,
-   "desc": "RT @mattcynamon: In the last month, the Hermes Agent processed 53.3T tokens, making it the most widely used open source agent harness in th…"
   },
   {
    "source": "X @deepseek_ai",
@@ -1438,6 +1445,13 @@
   },
   {
    "source": "X @cursor_ai",
+   "title": "We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplace, impacting at most 5,000 users. This malicious version of the extension was not developed by Anthropic. It does",
+   "url": "https://x.com/cursor_ai/status/2116074289053175808",
+   "ts": 1793346399,
+   "desc": "We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplace, impacting at most 5,000 users. This malicious version of the extension was not developed by Anthropic. It does not impact other extensions downloaded from the https://t.co/sJRGX5jLXW, Grok Bot, Grok or our other SpaceXSI products.\n\nIn response, we took down ou"
+  },
+  {
+   "source": "X @cursor_ai",
    "title": "DeepSeek V4.1 Flash is now available in Cursor!  Every effort level sits on the CursorBench cost frontier: from $0.60 to $0.98 per task, no model scores higher.  Turn it on in Cursor Settings &gt; Models. https://t.co/QNQmJpaOa0",
    "url": "https://x.com/cursor_ai/status/2114839997568405608",
    "ts": 1793052121,
@@ -1648,6 +1662,13 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @TPAction: AMERICA, WE NEED YOU! 🇺🇸  The work isn’t over just because you’ve voted! You can help turn out voters without ever leaving yo…",
+   "url": "https://x.com/elonmusk/status/2116054488545190044",
+   "ts": 1793341679,
+   "desc": "RT @TPAction: AMERICA, WE NEED YOU! 🇺🇸\n\nThe work isn’t over just because you’ve voted! You can help turn out voters without ever leaving yo…"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @as400495: You can report voter fraud through the https://t.co/e55dXUj1UR platform",
    "url": "https://x.com/elonmusk/status/2116049346516951240",
    "ts": 1793340453,
@@ -1766,13 +1787,6 @@
    "desc": "RT @teslaenergy: Your heat pump is one of the biggest electrical loads in your home\n\nHeat Pump Optimization allows your Powerwall to boost…"
   },
   {
-   "source": "X @elonmusk",
-   "title": "The Terafab project is going well",
-   "url": "https://x.com/elonmusk/status/2116035373361230325",
-   "ts": 1793337121,
-   "desc": "The Terafab project is going well"
-  },
-  {
    "source": "X @sama",
    "title": "RT @danintheory: We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity…",
    "url": "https://x.com/sama/status/2114864981934329996",
@@ -1862,6 +1876,13 @@
    "url": "https://x.com/sama/status/2105688354834756036",
    "ts": 1790870200,
    "desc": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now!"
+  },
+  {
+   "source": "X @RayDalio",
+   "title": "While we should all strive to see ourselves objectively, we shouldn't expect everyone to be able to do that well. We all have blind spots; people are by definition subjective.  For this reason, it is everyone's responsibility to help others learn wha",
+   "url": "https://x.com/RayDalio/status/2116157391410450698",
+   "ts": 1793366213,
+   "desc": "While we should all strive to see ourselves objectively, we shouldn't expect everyone to be able to do that well. We all have blind spots; people are by definition subjective.\n\nFor this reason, it is everyone's responsibility to help others learn what is true about themselves by giving them honest feedback, holding them accountable, and working through disagreements in an open-minded way. #princip"
   },
   {
    "source": "X @RayDalio",
@@ -1995,13 +2016,6 @@
    "url": "https://x.com/RayDalio/status/2110703932523638801",
    "ts": 1792066007,
    "desc": "You only have so much time and energy; make sure you are investing them in exploring the problems that, if fixed, will yield you the biggest returns. #principleoftheday https://t.co/MeITIGExpw"
-  },
-  {
-   "source": "X @RayDalio",
-   "title": "Everyone has his or her own principles and values, so all relationships entail a certain amount of negotiation or debate over how people should be with each other. What you learn about each other will either draw you together or drive you apart.   If",
-   "url": "https://x.com/RayDalio/status/2110386659820699760",
-   "ts": 1791990363,
-   "desc": "Everyone has his or her own principles and values, so all relationships entail a certain amount of negotiation or debate over how people should be with each other. What you learn about each other will either draw you together or drive you apart. \n\nIf your principles are aligned and you can work out your differences via a process of give-and-take, you will draw closer together. If not, you will mov"
   },
   {
    "source": "X @karpathy",
@@ -3429,69 +3443,76 @@
    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
    "ts": 1793194890,
-   "desc": "483 points"
-  },
-  {
-   "source": "HN",
-   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-   "url": "https://surgehq.ai/blog/dayjob-tax",
-   "ts": 1793202390,
-   "desc": "254 points"
+   "desc": "489 points"
   },
   {
    "source": "HN",
    "title": "We ran AI agent swarms in Minecraft and Mindustry",
    "url": "https://labs.ycombinator.com/projects/games/index.html",
    "ts": 1793310028,
-   "desc": "241 points"
+   "desc": "326 points"
   },
   {
    "source": "HN",
-   "title": "Google AI gets cagey when asked who won the 2020 elections",
-   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-   "ts": 1793218216,
-   "desc": "167 points"
-  },
-  {
-   "source": "HN",
-   "title": "Zombie stats: Where the numbers AI quotes come from",
-   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-   "ts": 1793286377,
-   "desc": "155 points"
+   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+   "url": "https://surgehq.ai/blog/dayjob-tax",
+   "ts": 1793202390,
+   "desc": "258 points"
   },
   {
    "source": "HN",
    "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
    "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
    "ts": 1793284146,
-   "desc": "150 points"
+   "desc": "180 points"
   },
   {
    "source": "HN",
-   "title": "AI execs may be too out of touch to build for the general public",
-   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-   "ts": 1793226466,
-   "desc": "89 points"
+   "title": "Zombie stats: Where the numbers AI quotes come from",
+   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+   "ts": 1793286377,
+   "desc": "171 points"
+  },
+  {
+   "source": "HN",
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "ts": 1793218216,
+   "desc": "169 points"
+  },
+  {
+   "source": "HN",
+   "title": "Ask HN: Are you tired too in this AI era?",
+   "url": "https://news.ycombinator.com/item?id=50301479",
+   "ts": 1793351863,
+   "desc": "108 points"
   },
   {
    "source": "HN",
    "title": "Proton goes all in on using AI",
    "url": "https://convo.casa/@b/117525936178835007",
    "ts": 1793310568,
-   "desc": "88 points"
+   "desc": "103 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI execs may be too out of touch to build for the general public",
+   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "ts": 1793226466,
+   "desc": "90 points"
+  },
+  {
+   "source": "HN",
+   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+   "url": "https://news.ycombinator.com/item?id=50291116",
+   "ts": 1793289392,
+   "desc": "73 points"
   },
   {
    "source": "HN",
    "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
    "url": "https://github.com/thomasunise/casecite",
    "ts": 1793195781,
-   "desc": "69 points"
-  },
-  {
-   "source": "HN",
-   "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
-   "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
-   "ts": 1793182258,
    "desc": "69 points"
   },
   {
@@ -3503,10 +3524,10 @@
   },
   {
    "source": "HN",
-   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-   "url": "https://news.ycombinator.com/item?id=50291116",
-   "ts": 1793289392,
-   "desc": "60 points"
+   "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+   "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+   "ts": 1793312533,
+   "desc": "66 points"
   },
   {
    "source": "HN",
@@ -3520,28 +3541,21 @@
    "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
    "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
    "ts": 1793233837,
-   "desc": "56 points"
-  },
-  {
-   "source": "HN",
-   "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-   "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-   "ts": 1793312533,
-   "desc": "50 points"
+   "desc": "57 points"
   },
   {
    "source": "HN",
    "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
    "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
    "ts": 1793268484,
-   "desc": "47 points"
+   "desc": "48 points"
   },
   {
    "source": "HN",
    "title": "MIT professor says AI is taking over your brain",
    "url": "https://www.bostonglobe.com/2026/10/23/opinion/ai-impact-cognitive-ability-eric-so/",
    "ts": 1793286529,
-   "desc": "42 points"
+   "desc": "43 points"
   },
   {
    "source": "HN",
@@ -3555,7 +3569,7 @@
    "title": "Trump and aides helped Flávio Bolsonaro flee Brazil amid criminal investigations",
    "url": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
    "ts": 1793297874,
-   "desc": "30 points"
+   "desc": "32 points"
   },
   {
    "source": "HN",
@@ -3566,10 +3580,10 @@
   },
   {
    "source": "HN",
-   "title": "Ask HN: What do you believe or not believe about AI?",
-   "url": "https://news.ycombinator.com/item?id=50271004",
-   "ts": 1793179752,
-   "desc": "20 points"
+   "title": "AI Made Me Homeless",
+   "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
+   "ts": 1793305149,
+   "desc": "19 points"
   },
   {
    "source": "HN",
@@ -3580,6 +3594,20 @@
   },
   {
    "source": "HN",
+   "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+   "url": "https://www.youtube.com/watch?v=MENoB3Rex28",
+   "ts": 1793358975,
+   "desc": "17 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI Contributions to GHC",
+   "url": "https://serokell.io/blog/ai-contributions-to-ghc",
+   "ts": 1793295750,
+   "desc": "17 points"
+  },
+  {
+   "source": "HN",
    "title": "Google AI Search Refuses to Say Who Won the 2020 Election",
    "url": "https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/",
    "ts": 1793229239,
@@ -3587,31 +3615,24 @@
   },
   {
    "source": "HN",
-   "title": "AI Made Me Homeless",
-   "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
-   "ts": 1793305149,
-   "desc": "16 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI Contributions to GHC",
-   "url": "https://serokell.io/blog/ai-contributions-to-ghc",
-   "ts": 1793295750,
-   "desc": "16 points"
-  },
-  {
-   "source": "HN",
    "title": "Sorry Harvey! I Made a Free Open-Source Alternative to Your Overpriced Legal AI",
    "url": "https://sorryharvey.com/",
    "ts": 1793282325,
-   "desc": "16 points"
+   "desc": "17 points"
   },
   {
    "source": "HN",
-   "title": "Amazon Software Engineer AI Guidelines",
-   "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
-   "ts": 1793179381,
-   "desc": "14 points"
+   "title": "Open-weight AI models can exploit the patch gap",
+   "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+   "ts": 1793313166,
+   "desc": "13 points"
+  },
+  {
+   "source": "HN",
+   "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+   "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
+   "ts": 1793297182,
+   "desc": "12 points"
   },
   {
    "source": "HN",
@@ -3619,13 +3640,6 @@
    "url": "https://www.msn.com/en-us/news/other/the-beleaguered-chip-sellers-getting-their-revenge-on-apple/ar-AA2ghTPi",
    "ts": 1793307164,
    "desc": "12 points"
-  },
-  {
-   "source": "HN",
-   "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
-   "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
-   "ts": 1793297182,
-   "desc": "11 points"
   },
   {
    "source": "HN",
