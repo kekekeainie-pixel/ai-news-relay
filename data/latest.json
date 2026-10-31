@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T06:09:06.953530+00:00",
+ "generated_at": "2026-10-31T12:58:40.771530+00:00",
  "count": 522,
  "stats": [
   {
@@ -227,13 +227,6 @@
   },
   {
    "source": "X @GoogleDeepMind",
-   "title": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.  As life…",
-   "url": "https://x.com/GoogleDeepMind/status/2114719745719341407",
-   "ts": 1793023451,
-   "desc": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.\n\nAs life…"
-  },
-  {
-   "source": "X @GoogleDeepMind",
    "title": "RT @SpringerNature: Springer Nature and @GoogleDeepMind are partnering to co-design an AI peer review assistant, exploring how AI can help…",
    "url": "https://x.com/GoogleDeepMind/status/2114684344598200358",
    "ts": 1793015011,
@@ -308,6 +301,13 @@
    "url": "https://x.com/GoogleDeepMind/status/2110762690733895872",
    "ts": 1792080016,
    "desc": "RT @PeterWBattaglia: Last week, Hurricane Isaias made landfall in the Florida Panhandle. Our thoughts are with everyone affected and with t…"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "RT @googlecloud: Explore the latest advances in native audio models and the challenges of building better real-time voice experiences with…",
+   "url": "https://x.com/GoogleDeepMind/status/2110739249633087570",
+   "ts": 1792074427,
+   "desc": "RT @googlecloud: Explore the latest advances in native audio models and the challenges of building better real-time voice experiences with…"
   },
   {
    "source": "X @grok",
@@ -738,6 +738,13 @@
   },
   {
    "source": "X @NousResearch",
+   "title": "RT @1ofthemanymatts: i think i figured out where @NousResearch is https://t.co/kgbeI1EQ2L",
+   "url": "https://x.com/NousResearch/status/2116491544769483234",
+   "ts": 1793445881,
+   "desc": "RT @1ofthemanymatts: i think i figured out where @NousResearch is https://t.co/kgbeI1EQ2L"
+  },
+  {
+   "source": "X @NousResearch",
    "title": "That was crazy",
    "url": "https://x.com/NousResearch/status/2116402350680420626",
    "ts": 1793424615,
@@ -840,13 +847,6 @@
    "url": "https://x.com/NousResearch/status/2114029282892595467",
    "ts": 1792858832,
    "desc": "Hermes Agent gives you control"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "RT @thekitze: oh no https://t.co/vp99OhqUIq",
-   "url": "https://x.com/NousResearch/status/2114024451528593786",
-   "ts": 1792857680,
-   "desc": "RT @thekitze: oh no https://t.co/vp99OhqUIq"
   },
   {
    "source": "X @deepseek_ai",
@@ -1242,6 +1242,13 @@
   },
   {
    "source": "X @Baidu_Inc",
+   "title": "https://t.co/hvqf0fQBUx",
+   "url": "https://x.com/Baidu_Inc/status/2116420446287712315",
+   "ts": 1793428930,
+   "desc": "https://t.co/hvqf0fQBUx"
+  },
+  {
+   "source": "X @Baidu_Inc",
    "title": "Baidu World 2026 is taking shape.  On Nov 12, explore our 6,000 m² exhibition of AI technology for intelligent organizations, featuring DuMate, Kooko, and more.  Take a look at what's in store 👇 https://t.co/QU5hvZYzMR",
    "url": "https://x.com/Baidu_Inc/status/2116168259728974202",
    "ts": 1793368804,
@@ -1351,13 +1358,6 @@
    "url": "https://x.com/Baidu_Inc/status/2105296642069164056",
    "ts": 1790776808,
    "desc": "https://t.co/iSHwimpFjT"
-  },
-  {
-   "source": "X @Baidu_Inc",
-   "title": "Baidu AI Cloud is teaming up with Finch, and we've got plans. 🤝",
-   "url": "https://x.com/Baidu_Inc/status/2104855752481673573",
-   "ts": 1790671692,
-   "desc": "Baidu AI Cloud is teaming up with Finch, and we've got plans. 🤝"
   },
   {
    "source": "X @TencentHunyuan",
@@ -1614,8 +1614,8 @@
   {
    "source": "X @commandcodeai",
    "title": "RT @CommandCodeAI: GOAT just made $100 credits PERMANENT  On $10/mo 🐐 plan  DeepSeek V4.1 Flash 1017: $100 usage GLM 5.3 Flash: $100 usage…",
-   "url": "https://x.com/CommandCodeAI/status/2116398307912413432",
-   "ts": 1793423652,
+   "url": "https://x.com/CommandCodeAI/status/2116466593194754463",
+   "ts": 1793439932,
    "desc": "RT @CommandCodeAI: GOAT just made $100 credits PERMANENT\n\nOn $10/mo 🐐 plan\n\nDeepSeek V4.1 Flash 1017: $100 usage\nGLM 5.3 Flash: $100 usage…"
   },
   {
@@ -1687,6 +1687,48 @@
    "url": "https://x.com/CommandCodeAI/status/2114751342204039295",
    "ts": 1793030984,
    "desc": "RT @CommandCodeAI: Last week in Command Code, a quick recap.\n\n· DeepSeek V4.1 Flash 1017 (latest)\n· MiniMax M3.1 Flash (aka Space Bunny)\n·…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @ZeekArkham: As a black man who was a liberal way back when, I’ve discovered two things:  Conservatives will hate your opinion. It reall…",
+   "url": "https://x.com/elonmusk/status/2116425592128291213",
+   "ts": 1793430157,
+   "desc": "RT @ZeekArkham: As a black man who was a liberal way back when, I’ve discovered two things:\n\nConservatives will hate your opinion. It reall…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @america: 5 minutes of James Talarico in his own words.  Send this to your friends in Texas and let them know today is their last day to…",
+   "url": "https://x.com/elonmusk/status/2116424602876338314",
+   "ts": 1793429921,
+   "desc": "RT @america: 5 minutes of James Talarico in his own words.\n\nSend this to your friends in Texas and let them know today is their last day to…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @JDVance: The Lone Star State has a choice this coming Tuesday that will have a national impact. Texas, make sure you make a plan to vot…",
+   "url": "https://x.com/elonmusk/status/2116423611800269027",
+   "ts": 1793429684,
+   "desc": "RT @JDVance: The Lone Star State has a choice this coming Tuesday that will have a national impact. Texas, make sure you make a plan to vot…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @SpaceX: Falcon 9 launches 27 @Starlink satellites from California https://t.co/1brhyI7HGD",
+   "url": "https://x.com/elonmusk/status/2116423243695370436",
+   "ts": 1793429597,
+   "desc": "RT @SpaceX: Falcon 9 launches 27 @Starlink satellites from California https://t.co/1brhyI7HGD"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @robotaxi: Bone voyage https://t.co/tQZx0b5uoO",
+   "url": "https://x.com/elonmusk/status/2116417736012071264",
+   "ts": 1793428284,
+   "desc": "RT @robotaxi: Bone voyage https://t.co/tQZx0b5uoO"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Something seriously wrong with Talarico",
+   "url": "https://x.com/elonmusk/status/2116414789194789254",
+   "ts": 1793427581,
+   "desc": "Something seriously wrong with Talarico"
   },
   {
    "source": "X @elonmusk",
@@ -1785,48 +1827,6 @@
    "url": "https://x.com/elonmusk/status/2116291813732495578",
    "ts": 1793398261,
    "desc": "Cool ❤️"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "True",
-   "url": "https://x.com/elonmusk/status/2116291315432587740",
-   "ts": 1793398143,
-   "desc": "True"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "You can now find out if any reach limitations have been applied to your account",
-   "url": "https://x.com/elonmusk/status/2116289989914787912",
-   "ts": 1793397827,
-   "desc": "You can now find out if any reach limitations have been applied to your account"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @kcoleman: My favorite things about this:  - You can see which of your posts have a visibility-limiting label, and decide if you think i…",
-   "url": "https://x.com/elonmusk/status/2116289807555162519",
-   "ts": 1793397783,
-   "desc": "RT @kcoleman: My favorite things about this:\n\n- You can see which of your posts have a visibility-limiting label, and decide if you think i…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @UpdatingOnRome: Western civilization is going backwards. Canada is just one example. The bigger question is why.  The American midterms…",
-   "url": "https://x.com/elonmusk/status/2116289012486824244",
-   "ts": 1793397593,
-   "desc": "RT @UpdatingOnRome: Western civilization is going backwards. Canada is just one example. The bigger question is why.\n\nThe American midterms…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Even F1 champions love Tesla self-driving",
-   "url": "https://x.com/elonmusk/status/2116287873918140737",
-   "ts": 1793397322,
-   "desc": "Even F1 champions love Tesla self-driving"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Talarico would abolish democracy in America and institute permanent one-party rule!",
-   "url": "https://x.com/elonmusk/status/2116242885376974965",
-   "ts": 1793386596,
-   "desc": "Talarico would abolish democracy in America and institute permanent one-party rule!"
   },
   {
    "source": "X @sama",
@@ -2320,6 +2320,13 @@
   },
   {
    "source": "X @demishassabis",
+   "title": "RT @mercor: Gemini 4 Carbon debuts at #1 on APEX-Agents, and it's the only model on the leaderboard with a mean above 90%.  🥇Gemini 4 Carbo…",
+   "url": "https://x.com/demishassabis/status/2116452833167814692",
+   "ts": 1793436651,
+   "desc": "RT @mercor: Gemini 4 Carbon debuts at #1 on APEX-Agents, and it's the only model on the leaderboard with a mean above 90%.\n\n🥇Gemini 4 Carbo…"
+  },
+  {
+   "source": "X @demishassabis",
    "title": "RT @sundarpichai: A ‘hello world’ milestone for Project Suncatcher 🚀  After launching our prototype satellite a few weeks ago, we’ve now su…",
    "url": "https://x.com/demishassabis/status/2116348266082386127",
    "ts": 1793411721,
@@ -2415,13 +2422,6 @@
    "url": "https://x.com/demishassabis/status/2111087298666184977",
    "ts": 1792157408,
    "desc": "RT @ai_for_success: 11 hours with Gemini 4 Argon, Google literally cooked with Gemini Argon. 🔥\nit's insane for building 3D stuff. A full As…"
-  },
-  {
-   "source": "X @demishassabis",
-   "title": "RT @sundarpichai: Some magical progress towards \"magic state\" in quantum!  Our @GoogleQuantumAI team has demonstrated \"magic state cultivat…",
-   "url": "https://x.com/demishassabis/status/2110928622399914403",
-   "ts": 1792119577,
-   "desc": "RT @sundarpichai: Some magical progress towards \"magic state\" in quantum!\n\nOur @GoogleQuantumAI team has demonstrated \"magic state cultivat…"
   },
   {
    "source": "X @sundarpichai",
@@ -3485,70 +3485,70 @@
    "title": "AI isn't replacing SREs, it's deskilling them",
    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
    "ts": 1793375538,
-   "desc": "551 points"
+   "desc": "610 points"
   },
   {
    "source": "HN",
    "title": "We ran AI agent swarms in Minecraft and Mindustry",
    "url": "https://labs.ycombinator.com/projects/games/index.html",
    "ts": 1793310028,
-   "desc": "400 points"
+   "desc": "403 points"
   },
   {
    "source": "HN",
    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
    "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
    "ts": 1793381085,
-   "desc": "269 points"
+   "desc": "281 points"
   },
   {
    "source": "HN",
    "title": "US tech stocks see sharp falls over AI cost fears",
    "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
    "ts": 1793376782,
-   "desc": "248 points"
+   "desc": "259 points"
   },
   {
    "source": "HN",
    "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
    "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
    "ts": 1793284146,
-   "desc": "223 points"
-  },
-  {
-   "source": "HN",
-   "title": "Zombie stats: Where the numbers AI quotes come from",
-   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-   "ts": 1793286377,
-   "desc": "177 points"
+   "desc": "229 points"
   },
   {
    "source": "HN",
    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
    "ts": 1793369300,
-   "desc": "145 points"
+   "desc": "216 points"
   },
   {
    "source": "HN",
-   "title": "Ask HN: Are you tired too in this AI era?",
-   "url": "https://news.ycombinator.com/item?id=50301479",
-   "ts": 1793351863,
-   "desc": "144 points"
+   "title": "Zombie stats: Where the numbers AI quotes come from",
+   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+   "ts": 1793286377,
+   "desc": "179 points"
   },
   {
    "source": "HN",
    "title": "Building an AI-native engineering org",
    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
    "ts": 1793311114,
-   "desc": "132 points"
+   "desc": "167 points"
+  },
+  {
+   "source": "HN",
+   "title": "Ask HN: Are you tired too in this AI era?",
+   "url": "https://news.ycombinator.com/item?id=50301479",
+   "ts": 1793351863,
+   "desc": "145 points"
   },
   {
    "source": "HN",
    "title": "Proton goes all in on using AI",
    "url": "https://convo.casa/@b/117525936178835007",
    "ts": 1793310568,
-   "desc": "115 points"
+   "desc": "118 points"
   },
   {
    "source": "HN",
@@ -3562,28 +3562,35 @@
    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
    "url": "https://news.ycombinator.com/item?id=50291116",
    "ts": 1793289392,
-   "desc": "76 points"
+   "desc": "77 points"
   },
   {
    "source": "HN",
-   "title": "Neal Stephenson on AI and What Comes Next [video]",
-   "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
-   "ts": 1793369914,
-   "desc": "52 points"
+   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+   "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+   "ts": 1793287788,
+   "desc": "74 points"
   },
   {
    "source": "HN",
    "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
    "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
    "ts": 1793395955,
-   "desc": "52 points"
+   "desc": "63 points"
   },
   {
    "source": "HN",
-   "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
-   "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-   "ts": 1793268484,
-   "desc": "48 points"
+   "title": "Some Thing is Happening A note from the AI companies",
+   "url": "https://alanbellows.com/some-thing-is-happening/",
+   "ts": 1793375622,
+   "desc": "54 points"
+  },
+  {
+   "source": "HN",
+   "title": "Neal Stephenson on AI and What Comes Next [video]",
+   "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+   "ts": 1793369914,
+   "desc": "53 points"
   },
   {
    "source": "HN",
@@ -3598,13 +3605,6 @@
    "url": "https://www.youtube.com/watch?v=MENoB3Rex28",
    "ts": 1793358975,
    "desc": "41 points"
-  },
-  {
-   "source": "HN",
-   "title": "Some Thing is Happening A note from the AI companies",
-   "url": "https://alanbellows.com/some-thing-is-happening/",
-   "ts": 1793375622,
-   "desc": "36 points"
   },
   {
    "source": "HN",
@@ -3657,13 +3657,6 @@
   },
   {
    "source": "HN",
-   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-   "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-   "ts": 1793287788,
-   "desc": "16 points"
-  },
-  {
-   "source": "HN",
    "title": "Musk, Zuckerberg push to rebrand AI as 'super intelligence' on earnings calls",
    "url": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
    "ts": 1793363582,
@@ -3682,6 +3675,13 @@
    "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
    "ts": 1793297182,
    "desc": "13 points"
+  },
+  {
+   "source": "HN",
+   "title": "Apple bullied flash memory suppliers, and why AI datacenters changed the game",
+   "url": "https://www.msn.com/en-us/news/other/the-beleaguered-chip-sellers-getting-their-revenge-on-apple/ar-AA2ghTPi",
+   "ts": 1793307164,
+   "desc": "12 points"
   }
  ]
 }
