@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-01T18:03:17.991544+00:00",
- "count": 526,
+ "generated_at": "2026-11-01T22:16:37.069320+00:00",
+ "count": 527,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 456,
+   "count": 457,
    "note": "49 账号"
   },
   {
@@ -241,6 +241,13 @@
   },
   {
    "source": "X @GoogleDeepMind",
+   "title": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.  As life…",
+   "url": "https://x.com/GoogleDeepMind/status/2114719745719341407",
+   "ts": 1793023451,
+   "desc": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.\n\nAs life…"
+  },
+  {
+   "source": "X @GoogleDeepMind",
    "title": "RT @SpringerNature: Springer Nature and @GoogleDeepMind are partnering to co-design an AI peer review assistant, exploring how AI can help…",
    "url": "https://x.com/GoogleDeepMind/status/2114684344598200358",
    "ts": 1793015011,
@@ -301,13 +308,6 @@
    "url": "https://x.com/GoogleDeepMind/status/2111127991401247033",
    "ts": 1792167110,
    "desc": "Four Gemini 4 Argon agents beat Minecraft from scratch in 27 hours.\n\nOperating in a sandbox using only code and text, they wrote 2,783 programs, divided up jobs over chat, shared notes, and debugged errors together - all with no human help ↓\nhttps://t.co/uyIhDOQXGT"
-  },
-  {
-   "source": "X @GoogleDeepMind",
-   "title": "Together with scientists around the world, our models and tools are helping make disease more detectable, treatable, and preventable. 🧬  From pinpointing rare genetic variants to speeding up drug discovery, here’s how we’re helping turn lab breakthro",
-   "url": "https://x.com/GoogleDeepMind/status/2111038207240388770",
-   "ts": 1792145704,
-   "desc": "Together with scientists around the world, our models and tools are helping make disease more detectable, treatable, and preventable. 🧬\n\nFrom pinpointing rare genetic variants to speeding up drug discovery, here’s how we’re helping turn lab breakthroughs into real-world care → https://t.co/sM5G0CLcKJ"
   },
   {
    "source": "X @grok",
@@ -1004,6 +1004,13 @@
   },
   {
    "source": "X @MiniMax_AI",
+   "title": "MiniMax M3.1 Flash, on more of your hardware.  Quantizing a 428B model opens up more ways to run it locally. Lower-bit weights reduce the memory needed to load the model and the weight data moved during decoding. Making those savings useful takes car",
+   "url": "https://x.com/MiniMax_AI/status/2116996123164569606",
+   "ts": 1793566182,
+   "desc": "MiniMax M3.1 Flash, on more of your hardware.\n\nQuantizing a 428B model opens up more ways to run it locally. Lower-bit weights reduce the memory needed to load the model and the weight data moved during decoding. Making those savings useful takes careful calibration, efficient low-bit kernels, and hardware-aware placement of experts across GPU and system RAM.\n\nThank you to the builders doing that"
+  },
+  {
+   "source": "X @MiniMax_AI",
    "title": "RT @SandbaseAI: ⏳ 72 hours left for AI City Remix.  Miniature skylines. Pixel streets. Your city, your way.  Build with @MiniMax_AI M3.1 Fl…",
    "url": "https://x.com/MiniMax_AI/status/2115705312401559727",
    "ts": 1793258429,
@@ -1099,13 +1106,6 @@
    "url": "https://x.com/MiniMax_AI/status/2113452026902589732",
    "ts": 1792721203,
    "desc": "M3.1 Flash weights are now open 🔓\n\nThanks to @togethercompute for being a day-0 launch partner and bringing M3.1 Flash to production on the AI Native Cloud. Open weights, no GPUs to manage. Great building together! 🐰"
-  },
-  {
-   "source": "X @MiniMax_AI",
-   "title": "From inference to RL, ready from day one. 🐰  Thanks to the teams behind SGLang, and Miles @sgl_project alongside @NVIDIAAI and @AMD, for supporting MiniMax M3.1 Flash. Great building together!",
-   "url": "https://x.com/MiniMax_AI/status/2113441235100942680",
-   "ts": 1792718630,
-   "desc": "From inference to RL, ready from day one. 🐰\n\nThanks to the teams behind SGLang, and Miles @sgl_project alongside @NVIDIAAI and @AMD, for supporting MiniMax M3.1 Flash. Great building together!"
   },
   {
    "source": "X @Zai_org",
@@ -1718,143 +1718,143 @@
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @herbertong: SpaceX just guided to a $35B quarter! The CFO sees $33B to $37B in Q1 2027 revenue, up from $14.6B this quarter. That's mor…",
-   "url": "https://x.com/elonmusk/status/2116890148474351711",
-   "ts": 1793540915,
-   "desc": "RT @herbertong: SpaceX just guided to a $35B quarter! The CFO sees $33B to $37B in Q1 2027 revenue, up from $14.6B this quarter. That's mor…"
+   "title": "RT @BrianRoemmele: I TESTED EVERY MAJOR “BOT” PLATFORM AND THE WINNER IS CLEAR.  @Grok @Bot wins on all measures.   At this point it can on…",
+   "url": "https://x.com/elonmusk/status/2117012027025576062",
+   "ts": 1793569974,
+   "desc": "RT @BrianRoemmele: I TESTED EVERY MAJOR “BOT” PLATFORM AND THE WINNER IS CLEAR.\n\n@Grok @Bot wins on all measures. \n\nAt this point it can on…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @KatieMiller: X is the only place where the Legacy Media can’t censor information.   They have to denigrate X in order to maintain their…",
-   "url": "https://x.com/elonmusk/status/2116887497384906779",
-   "ts": 1793540283,
-   "desc": "RT @KatieMiller: X is the only place where the Legacy Media can’t censor information. \n\nThey have to denigrate X in order to maintain their…"
+   "title": "RT @CollinRugg: NEW: Dem officials are raising alarm bells that Latino men are refusing to turn on President Trump in Texas and have a grow…",
+   "url": "https://x.com/elonmusk/status/2117010895167762492",
+   "ts": 1793569704,
+   "desc": "RT @CollinRugg: NEW: Dem officials are raising alarm bells that Latino men are refusing to turn on President Trump in Texas and have a grow…"
   },
   {
    "source": "X @elonmusk",
-   "title": "Starlink saves lives",
-   "url": "https://x.com/elonmusk/status/2116881187394445633",
-   "ts": 1793538779,
-   "desc": "Starlink saves lives"
+   "title": "RT @teslaownersSV: Google co-founder Larry Page on why he'd give his fortune to Elon instead of to charity:  \"THAT'S A WORTHY GOAL.\"  Charl…",
+   "url": "https://x.com/elonmusk/status/2117010740502782014",
+   "ts": 1793569667,
+   "desc": "RT @teslaownersSV: Google co-founder Larry Page on why he'd give his fortune to Elon instead of to charity:\n\n\"THAT'S A WORTHY GOAL.\"\n\nCharl…"
   },
   {
    "source": "X @elonmusk",
-   "title": "Maximizing for long-term unregretted user seconds",
-   "url": "https://x.com/elonmusk/status/2116880652389728748",
-   "ts": 1793538651,
-   "desc": "Maximizing for long-term unregretted user seconds"
+   "title": "RT @libsoftiktok: Holy shlit  Haley Stevens got nearly 50% if the vote in the Democratic Primary  Even she is now endorsing Mike Rogers  Ab…",
+   "url": "https://x.com/elonmusk/status/2117010490300019037",
+   "ts": 1793569607,
+   "desc": "RT @libsoftiktok: Holy shlit\n\nHaley Stevens got nearly 50% if the vote in the Democratic Primary\n\nEven she is now endorsing Mike Rogers\n\nAb…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @iam_smx: Naval Ravikant once shared a story about Bill Gates shorting Tesla, a bet that could ultimately cost him more than $10 billion…",
-   "url": "https://x.com/elonmusk/status/2116879825029771318",
-   "ts": 1793538454,
-   "desc": "RT @iam_smx: Naval Ravikant once shared a story about Bill Gates shorting Tesla, a bet that could ultimately cost him more than $10 billion…"
+   "title": "RT @Scobleizer: I keep checking out the others. They really suck. I am so glad I stayed here when a lot of my friends left, thinking X was…",
+   "url": "https://x.com/elonmusk/status/2117009039062102185",
+   "ts": 1793569261,
+   "desc": "RT @Scobleizer: I keep checking out the others. They really suck. I am so glad I stayed here when a lot of my friends left, thinking X was…"
   },
   {
    "source": "X @elonmusk",
-   "title": "Anyone with a brain is on 𝕏",
-   "url": "https://x.com/elonmusk/status/2116879037175898424",
-   "ts": 1793538266,
-   "desc": "Anyone with a brain is on 𝕏"
+   "title": "RT @MaaSonder: Gemini 4 Carbon is the first model to tie humans in physical 3D understanding  we are already approaching AGI, and I can’t i…",
+   "url": "https://x.com/elonmusk/status/2116994893130379571",
+   "ts": 1793565889,
+   "desc": "RT @MaaSonder: Gemini 4 Carbon is the first model to tie humans in physical 3D understanding\n\nwe are already approaching AGI, and I can’t i…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @elonmusk: @Grimezsz Nonetheless, look at how generic and banal day-to-day corpo fashion and cars have become for over 2 decades!!  Time…",
-   "url": "https://x.com/elonmusk/status/2116878754748231864",
-   "ts": 1793538199,
-   "desc": "RT @elonmusk: @Grimezsz Nonetheless, look at how generic and banal day-to-day corpo fashion and cars have become for over 2 decades!!\n\nTime…"
+   "title": "RT @KittyMidge: @elonmusk https://t.co/O2gvyYhZvO",
+   "url": "https://x.com/elonmusk/status/2116993181405606125",
+   "ts": 1793565480,
+   "desc": "RT @KittyMidge: @elonmusk https://t.co/O2gvyYhZvO"
   },
   {
    "source": "X @elonmusk",
-   "title": "I have this great idea for a drug called Regretamine. One dose and all your regrets are gone!  Including, obviously, having taken Regretamine in the first place.",
-   "url": "https://x.com/elonmusk/status/2116875604889112772",
-   "ts": 1793537448,
-   "desc": "I have this great idea for a drug called Regretamine. One dose and all your regrets are gone!\n\nIncluding, obviously, having taken Regretamine in the first place."
+   "title": "The other supercompute projects are unable to reach their goals, but SpaceX is already achieving ours",
+   "url": "https://x.com/elonmusk/status/2116991729660575998",
+   "ts": 1793565134,
+   "desc": "The other supercompute projects are unable to reach their goals, but SpaceX is already achieving ours"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @Founder_Mode_: Marc Andreessen revealed how Harvard Business School was built on a broken 1941 theory, and how it's now collapsing...…",
-   "url": "https://x.com/elonmusk/status/2116873035336614313",
-   "ts": 1793536835,
-   "desc": "RT @Founder_Mode_: Marc Andreessen revealed how Harvard Business School was built on a broken 1941 theory, and how it's now collapsing...…"
+   "title": "This is what they stole from us https://t.co/q1GnpjF394",
+   "url": "https://x.com/elonmusk/status/2116990933103509723",
+   "ts": 1793564944,
+   "desc": "This is what they stole from us https://t.co/q1GnpjF394"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @elonmusk: @zephyr_z9 Silly analysis.   Robot RAM needs will exceed everything else on Earth, as you need the robots to be on physical s…",
-   "url": "https://x.com/elonmusk/status/2116872423215935970",
-   "ts": 1793536689,
-   "desc": "RT @elonmusk: @zephyr_z9 Silly analysis. \n\nRobot RAM needs will exceed everything else on Earth, as you need the robots to be on physical s…"
+   "title": "Yes",
+   "url": "https://x.com/elonmusk/status/2116990584048984346",
+   "ts": 1793564861,
+   "desc": "Yes"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @robotaxi: Autonomy for all, including pumpkins https://t.co/1BnsRJF4hh",
-   "url": "https://x.com/elonmusk/status/2116866351587299336",
-   "ts": 1793535242,
-   "desc": "RT @robotaxi: Autonomy for all, including pumpkins https://t.co/1BnsRJF4hh"
+   "title": "It is",
+   "url": "https://x.com/elonmusk/status/2116990378536755218",
+   "ts": 1793564812,
+   "desc": "It is"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @cb_doge: \"I will die in America. I'm not going anywhere. I might go to Mars but that will be part of America.\" 🇺🇸  一 Elon Musk https://…",
-   "url": "https://x.com/elonmusk/status/2116864784670883976",
-   "ts": 1793534868,
-   "desc": "RT @cb_doge: \"I will die in America. I'm not going anywhere. I might go to Mars but that will be part of America.\" 🇺🇸\n\n一 Elon Musk https://…"
+   "title": "RT @XFreeze: The scale of SpaceX’s lead in global launch is absolutely insane  In 2025 alone, SpaceX delivered approximately 2,330 TONNES o…",
+   "url": "https://x.com/elonmusk/status/2116989969021411424",
+   "ts": 1793564715,
+   "desc": "RT @XFreeze: The scale of SpaceX’s lead in global launch is absolutely insane\n\nIn 2025 alone, SpaceX delivered approximately 2,330 TONNES o…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @UpdatingOnRome: Sorry to break character but I have to say it.   I am a Lifelong moderate liberal.   With Democrats nominating radicals…",
-   "url": "https://x.com/elonmusk/status/2116854907785679068",
-   "ts": 1793532513,
-   "desc": "RT @UpdatingOnRome: Sorry to break character but I have to say it. \n\nI am a Lifelong moderate liberal. \n\nWith Democrats nominating radicals…"
+   "title": "RT @GadSaad: But all of my progressive academic colleagues assured us that X would fail because Elon is mean, no?",
+   "url": "https://x.com/elonmusk/status/2116989721557577914",
+   "ts": 1793564656,
+   "desc": "RT @GadSaad: But all of my progressive academic colleagues assured us that X would fail because Elon is mean, no?"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @mayemusk: My father would not let anyone service his plane except himself. This photo was taken in Australia. My parents were the only…",
-   "url": "https://x.com/elonmusk/status/2116848640102998096",
-   "ts": 1793531019,
-   "desc": "RT @mayemusk: My father would not let anyone service his plane except himself. This photo was taken in Australia. My parents were the only…"
+   "title": "Grok @Bot will research gifts that your friends and family would love and buy them",
+   "url": "https://x.com/elonmusk/status/2116989604104392969",
+   "ts": 1793564628,
+   "desc": "Grok @Bot will research gifts that your friends and family would love and buy them"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @stevenmarkryan: Super Intelligence WILL EAT MANY ENTIRE businesses, industries and professions in the next few *months* and *quarters*.…",
-   "url": "https://x.com/elonmusk/status/2116724977156362517",
-   "ts": 1793501536,
-   "desc": "RT @stevenmarkryan: Super Intelligence WILL EAT MANY ENTIRE businesses, industries and professions in the next few *months* and *quarters*.…"
+   "title": "RT @chamath: He who shapes power, data centers, chips and models into an economically feasible endpoint, disproportionately shapes AI/SI ri…",
+   "url": "https://x.com/elonmusk/status/2116988302268199089",
+   "ts": 1793564317,
+   "desc": "RT @chamath: He who shapes power, data centers, chips and models into an economically feasible endpoint, disproportionately shapes AI/SI ri…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @BasedMikeLee: This is why Democrats orchestrated a border invasion.  This is why Democrats want more people dependent on the government…",
-   "url": "https://x.com/elonmusk/status/2116668779648389498",
-   "ts": 1793488137,
-   "desc": "RT @BasedMikeLee: This is why Democrats orchestrated a border invasion.\n\nThis is why Democrats want more people dependent on the government…"
+   "title": "RT @Jason: AnakinCore keeps hitting  https://t.co/LJvKHglQzM",
+   "url": "https://x.com/elonmusk/status/2116986769774374981",
+   "ts": 1793563952,
+   "desc": "RT @Jason: AnakinCore keeps hitting  https://t.co/LJvKHglQzM"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @fchollet: Dopamine does not spike highest for guaranteed rewards. It spikes highest at reward prediction error. If you want to have fun…",
-   "url": "https://x.com/elonmusk/status/2116664598858510514",
-   "ts": 1793487140,
-   "desc": "RT @fchollet: Dopamine does not spike highest for guaranteed rewards. It spikes highest at reward prediction error. If you want to have fun…"
+   "title": "The people deserve to have their RAM too! https://t.co/q6dwauALw4",
+   "url": "https://x.com/elonmusk/status/2116985908268572975",
+   "ts": 1793563746,
+   "desc": "The people deserve to have their RAM too! https://t.co/q6dwauALw4"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @shaunmmaguire: https://t.co/UsnkRkd4MV",
-   "url": "https://x.com/elonmusk/status/2116664012762914974",
-   "ts": 1793487001,
-   "desc": "RT @shaunmmaguire: https://t.co/UsnkRkd4MV"
+   "title": "RT @brivael: Having spent a long time watching Elon Musk, and having talked with him, I believe I understand what he understood before almo…",
+   "url": "https://x.com/elonmusk/status/2116970675814482091",
+   "ts": 1793560115,
+   "desc": "RT @brivael: Having spent a long time watching Elon Musk, and having talked with him, I believe I understand what he understood before almo…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @FischerKing64: We have a society that actively kneecaps young men in the name of ‘justice’ and then sit around scratching our heads abo…",
-   "url": "https://x.com/elonmusk/status/2116652598920921368",
-   "ts": 1793484279,
-   "desc": "RT @FischerKing64: We have a society that actively kneecaps young men in the name of ‘justice’ and then sit around scratching our heads abo…"
+   "title": "True",
+   "url": "https://x.com/elonmusk/status/2116970572592861616",
+   "ts": 1793560090,
+   "desc": "True"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @multiplanet1: In 2018, Elon Musk tweeted that he would fund the replacement of lead contaminated water pipes in Flint, Michigan for any…",
-   "url": "https://x.com/elonmusk/status/2116644644494684246",
-   "ts": 1793482383,
-   "desc": "RT @multiplanet1: In 2018, Elon Musk tweeted that he would fund the replacement of lead contaminated water pipes in Flint, Michigan for any…"
+   "title": "Talarico will vote to trans your kids",
+   "url": "https://x.com/elonmusk/status/2116969654849868192",
+   "ts": 1793559871,
+   "desc": "Talarico will vote to trans your kids"
   },
   {
    "source": "X @sama",
@@ -2089,6 +2089,13 @@
   },
   {
    "source": "X @karpathy",
+   "title": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5: https:",
+   "url": "https://x.com/karpathy/status/2116957135661945283",
+   "ts": 1793556886,
+   "desc": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://t.co/JIhXN7OSh1\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of t"
+  },
+  {
+   "source": "X @karpathy",
    "title": "RT @Tristan0x: If you've ever wondered why smart TVs are so cheap, this is why.  @log4j rooted his Samsung and found an always-on hot mic,…",
    "url": "https://x.com/karpathy/status/2114384346815820050",
    "ts": 1792943486,
@@ -2198,13 +2205,6 @@
    "url": "https://x.com/karpathy/status/2061928642029158853",
    "ts": 1780437071,
    "desc": "RT @trq212: https://t.co/R6exTuF7P8"
-  },
-  {
-   "source": "X @karpathy",
-   "title": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my",
-   "url": "https://x.com/karpathy/status/2056753169888334312",
-   "ts": 1779203142,
-   "desc": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time."
   },
   {
    "source": "X @ID_AA_Carmack",
@@ -2537,6 +2537,20 @@
   },
   {
    "source": "X @ylecun",
+   "title": "RT @heyshrutimishra: Yann LeCun was right &amp; nobody in this industry wants to say it out loud.  109 million parameters beat 72 billion.  He…",
+   "url": "https://x.com/ylecun/status/2116977874913648878",
+   "ts": 1793561831,
+   "desc": "RT @heyshrutimishra: Yann LeCun was right &amp; nobody in this industry wants to say it out loud.\n\n109 million parameters beat 72 billion.\n\nHe…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @ylecun: @iamsupersocks Tout cela est correct. Merci.  Sauf une chose : j'ai bien créé FAIR en 2013, y compris la branche parisienne en…",
+   "url": "https://x.com/ylecun/status/2116957881622819109",
+   "ts": 1793557064,
+   "desc": "RT @ylecun: @iamsupersocks Tout cela est correct. Merci.\n\nSauf une chose : j'ai bien créé FAIR en 2013, y compris la branche parisienne en…"
+  },
+  {
+   "source": "X @ylecun",
    "title": "RT @askalphaxiv: Yann LeCun and Randall Balestriero just Proved the Platonic Representation Hypothesis, and found a better way to achieve i…",
    "url": "https://x.com/ylecun/status/2116870670747341143",
    "ts": 1793536272,
@@ -2660,20 +2674,6 @@
    "url": "https://x.com/ylecun/status/2114065157554938340",
    "ts": 1792867385,
    "desc": "RT @MotherJones: The world’s first trillionaire is also a disinformation super-spreader. https://t.co/cLkCsaz9bH"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @mmpadellan: Republicans control the House. Republicans control the Senate. Republicans control the White House. Republicans control the…",
-   "url": "https://x.com/ylecun/status/2114065097559576680",
-   "ts": 1792867371,
-   "desc": "RT @mmpadellan: Republicans control the House.\nRepublicans control the Senate.\nRepublicans control the White House.\nRepublicans control the…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @spooked75: I'm an American, a U.S. Army veteran, and I live in Europe.  And I'll tell you something that might upset a few people back…",
-   "url": "https://x.com/ylecun/status/2114064699838853164",
-   "ts": 1792867276,
-   "desc": "RT @spooked75: I'm an American, a U.S. Army veteran, and I live in Europe.\n\nAnd I'll tell you something that might upset a few people back…"
   },
   {
    "source": "X @AndrewYNg",
@@ -2996,6 +2996,13 @@
    "url": "https://x.com/DrJimFan/status/2072337488782475390",
    "ts": 1782918734,
    "desc": "ENPIRE -&gt; ASPIRE, our 2nd work in the series for Physical AutoResearch. We are building the components for robot self-improvement, one /skill at a time."
+  },
+  {
+   "source": "X @natolambert",
+   "title": "RT @xeophon: imagine running a popular benchmark and the tasks get pulled from HF  @HelloSurgeAI pls fix 🙏 https://t.co/WTzLBTnTii",
+   "url": "https://x.com/natolambert/status/2116981445914931335",
+   "ts": 1793562682,
+   "desc": "RT @xeophon: imagine running a popular benchmark and the tasks get pulled from HF\n\n@HelloSurgeAI pls fix 🙏 https://t.co/WTzLBTnTii"
   },
   {
    "source": "X @natolambert",
@@ -3363,6 +3370,13 @@
   },
   {
    "source": "Bluesky Nathan Lambert",
+   "title": "No then I’d be selling it",
+   "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mzbl3kjfec2b",
+   "ts": 1793562287,
+   "desc": "No then I’d be selling it"
+  },
+  {
+   "source": "Bluesky Nathan Lambert",
    "title": "I give an incredible amount of alpha away for free at this website with my open models data: dashboard.interconnects.ai",
    "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mzb34kgier2a",
    "ts": 1793545141,
@@ -3423,13 +3437,6 @@
    "url": "https://bsky.app/profile/natolambert.bsky.social/post/3mywsw4h2lk24",
    "ts": 1793192737,
    "desc": "With the release of Artificial Analysis’s v5 index, this plot has been going around. Open models' demise has been exaggerated, but the previous AA index did flatter them.\n\nwww.interconnects.ai/p/artificial..."
-  },
-  {
-   "source": "Bluesky Nathan Lambert",
-   "title": "Having an effective org and team is worth multiple multiples in compute.   I also think there isn't that much secret sauce to building models. Yes, sure there are some tricks, but most of the gains co",
-   "url": "https://bsky.app/profile/natolambert.bsky.social/post/3myut24s3mb2t",
-   "ts": 1793124152,
-   "desc": "Having an effective org and team is worth multiple multiples in compute. \n\nI also think there isn't that much secret sauce to building models. Yes, sure there are some tricks, but most of the gains come from consistent execution and using your compute wisely.\nwww.interconnects.ai/p/how-to-man..."
   },
   {
    "source": "Bluesky Ethan Mollick",
@@ -3506,28 +3513,42 @@
    "title": "The AI cost of JavaScript frameworks",
    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
    "ts": 1793513179,
-   "desc": "207 points"
+   "desc": "269 points"
   },
   {
    "source": "HN",
    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
    "url": "https://arxiv.org/abs/2409.02292",
    "ts": 1793497589,
-   "desc": "155 points"
+   "desc": "176 points"
+  },
+  {
+   "source": "HN",
+   "title": "Frontier Airlines Likely Breached",
+   "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+   "ts": 1793551593,
+   "desc": "149 points"
   },
   {
    "source": "HN",
    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
    "ts": 1793540844,
-   "desc": "102 points"
+   "desc": "136 points"
+  },
+  {
+   "source": "HN",
+   "title": "It wasn't AI that flipped Proton's charge",
+   "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+   "ts": 1793559235,
+   "desc": "125 points"
   },
   {
    "source": "HN",
    "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
    "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
    "ts": 1793469749,
-   "desc": "78 points"
+   "desc": "79 points"
   },
   {
    "source": "HN",
@@ -3541,35 +3562,21 @@
    "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
    "ts": 1793453100,
-   "desc": "72 points"
-  },
-  {
-   "source": "HN",
-   "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
-   "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
-   "ts": 1793395955,
-   "desc": "70 points"
+   "desc": "73 points"
   },
   {
    "source": "HN",
    "title": "AI text watermarking and quality loss",
    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
    "ts": 1793483413,
-   "desc": "63 points"
-  },
-  {
-   "source": "HN",
-   "title": "Frontier Airlines Likely Breached",
-   "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-   "ts": 1793551593,
-   "desc": "58 points"
+   "desc": "65 points"
   },
   {
    "source": "HN",
    "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
    "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs",
    "ts": 1793487447,
-   "desc": "30 points"
+   "desc": "31 points"
   },
   {
    "source": "HN",
@@ -3583,7 +3590,7 @@
    "title": "How AI may drive union-resistant tech workers to the bargaining table",
    "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
    "ts": 1793494163,
-   "desc": "27 points"
+   "desc": "29 points"
   },
   {
    "source": "HN",
@@ -3594,17 +3601,10 @@
   },
   {
    "source": "HN",
-   "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
-   "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
-   "ts": 1793391498,
-   "desc": "19 points"
-  },
-  {
-   "source": "HN",
    "title": "The question we should all be asking about AI",
    "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
    "ts": 1793537076,
-   "desc": "17 points"
+   "desc": "19 points"
   },
   {
    "source": "HN",
@@ -3615,10 +3615,10 @@
   },
   {
    "source": "HN",
-   "title": "Defense Contractor Gave Their Personal AI Agent Access to Secure Pentagon System",
-   "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-   "ts": 1793392206,
-   "desc": "16 points"
+   "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+   "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
+   "ts": 1793557982,
+   "desc": "15 points"
   },
   {
    "source": "HN",
@@ -3626,13 +3626,6 @@
    "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
    "ts": 1793500691,
    "desc": "13 points"
-  },
-  {
-   "source": "HN",
-   "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
-   "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
-   "ts": 1793390772,
-   "desc": "12 points"
   },
   {
    "source": "HN",
@@ -3660,20 +3653,13 @@
    "title": "Reddit shares plunge as Google's AI search squeezes traffic",
    "url": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
    "ts": 1793478669,
-   "desc": "8 points"
+   "desc": "9 points"
   },
   {
    "source": "HN",
    "title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
    "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
    "ts": 1793472867,
-   "desc": "8 points"
-  },
-  {
-   "source": "HN",
-   "title": "Chinese AI chipmaker Iluvatar CoreX says new GPU matches Nvidia's H200",
-   "url": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates",
-   "ts": 1793392597,
    "desc": "8 points"
   },
   {
@@ -3685,20 +3671,6 @@
   },
   {
    "source": "HN",
-   "title": "Don't Make a Human Do What AI Is Amazing At",
-   "url": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
-   "ts": 1793393233,
-   "desc": "8 points"
-  },
-  {
-   "source": "HN",
-   "title": "Gnosh.ai – super intelligent AI that thinks, plans, recalls in Go",
-   "url": "https://gnosh.ai",
-   "ts": 1793384809,
-   "desc": "7 points"
-  },
-  {
-   "source": "HN",
    "title": "When AI writes almost all code, what happens to software engineering?",
    "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
    "ts": 1793489654,
@@ -3706,10 +3678,45 @@
   },
   {
    "source": "HN",
-   "title": "Generative AI's Environmental Impact",
-   "url": "https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117",
-   "ts": 1793394388,
+   "title": "Wikimedia Foundation Tries to Save Itself by Brokering AI Copyright Deal",
+   "url": "https://gizmodo.com/wikimedia-foundation-tries-to-save-itself-from-oblivion-by-brokering-ai-copyright-deal-2000833099",
+   "ts": 1793493034,
    "desc": "7 points"
+  },
+  {
+   "source": "HN",
+   "title": "The Limits of AI as an Economic Weapon",
+   "url": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/",
+   "ts": 1793472986,
+   "desc": "7 points"
+  },
+  {
+   "source": "HN",
+   "title": "Ask HN: Are you using AI to do election choices like Mayor, Special Measures",
+   "url": "https://news.ycombinator.com/item?id=50317351",
+   "ts": 1793462369,
+   "desc": "6 points"
+  },
+  {
+   "source": "HN",
+   "title": "James Mickens' Talk: A Sober Analysis of AI Impact (LABScon '26)",
+   "url": "https://www.youtube.com/watch?v=usZLo_9Jz54",
+   "ts": 1793499477,
+   "desc": "6 points"
+  },
+  {
+   "source": "HN",
+   "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
+   "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
+   "ts": 1793409971,
+   "desc": "6 points"
+  },
+  {
+   "source": "HN",
+   "title": "Postgres 19 is late, and it's AI's fault",
+   "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+   "ts": 1793410736,
+   "desc": "6 points"
   }
  ]
 }
