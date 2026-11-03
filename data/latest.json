@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-02T21:53:37.293887+00:00",
- "count": 529,
+ "generated_at": "2026-11-03T07:08:51.826696+00:00",
+ "count": 528,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 460,
+   "count": 459,
    "note": "49 账号"
   },
   {
@@ -128,20 +128,6 @@
    "desc": "OpenAI models are coming to Google Cloud.\n\nWe're bringing our frontier models and Codex agentic workflows to Google Cloud's Model Garden, so enterprises can use our technology where they already build.\n\nhttps://t.co/gjuLVALjDm"
   },
   {
-   "source": "X @OpenAI",
-   "title": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.  Point your Codex at this repo to guide you through it: https://t.co/XUEbOwXuQC",
-   "url": "https://x.com/OpenAI/status/2112945805686604033",
-   "ts": 1792600511,
-   "desc": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.\n\nPoint your Codex at this repo to guide you through it: https://t.co/XUEbOwXuQC"
-  },
-  {
-   "source": "X @OpenAI",
-   "title": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.  Over the past two months, we led a coalition",
-   "url": "https://x.com/OpenAI/status/2112907856018309586",
-   "ts": 1792591463,
-   "desc": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers, and security providers to prepare fixes and protections ahead of disclosure. This duration was necessary because the fix"
-  },
-  {
    "source": "X @AnthropicAI",
    "title": "Applications are now open for the Anthropic Residency, a paid, fixed-term research program for academics, technical founders, and staff-level engineers who want to make AI safe and beneficial for everyone. No ML background is required.  Apply by Nove",
    "url": "https://x.com/AnthropicAI/status/2117343929960112486",
@@ -248,6 +234,13 @@
   },
   {
    "source": "X @GoogleDeepMind",
+   "title": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.  As life…",
+   "url": "https://x.com/GoogleDeepMind/status/2114719745719341407",
+   "ts": 1793023451,
+   "desc": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.\n\nAs life…"
+  },
+  {
+   "source": "X @GoogleDeepMind",
    "title": "RT @SpringerNature: Springer Nature and @GoogleDeepMind are partnering to co-design an AI peer review assistant, exploring how AI can help…",
    "url": "https://x.com/GoogleDeepMind/status/2114684344598200358",
    "ts": 1793015011,
@@ -308,13 +301,6 @@
    "url": "https://x.com/GoogleDeepMind/status/2111127991401247033",
    "ts": 1792167110,
    "desc": "Four Gemini 4 Argon agents beat Minecraft from scratch in 27 hours.\n\nOperating in a sandbox using only code and text, they wrote 2,783 programs, divided up jobs over chat, shared notes, and debugged errors together - all with no human help ↓\nhttps://t.co/uyIhDOQXGT"
-  },
-  {
-   "source": "X @GoogleDeepMind",
-   "title": "Together with scientists around the world, our models and tools are helping make disease more detectable, treatable, and preventable. 🧬  From pinpointing rare genetic variants to speeding up drug discovery, here’s how we’re helping turn lab breakthro",
-   "url": "https://x.com/GoogleDeepMind/status/2111038207240388770",
-   "ts": 1792145704,
-   "desc": "Together with scientists around the world, our models and tools are helping make disease more detectable, treatable, and preventable. 🧬\n\nFrom pinpointing rare genetic variants to speeding up drug discovery, here’s how we’re helping turn lab breakthroughs into real-world care → https://t.co/sM5G0CLcKJ"
   },
   {
    "source": "X @grok",
@@ -1635,8 +1621,8 @@
   {
    "source": "X @commandcodeai",
    "title": "RT @CommandCodeAI: GLM 5.3 Flash gets you $100 usage on $10/mo GOAT.  · 300-500 TPS in Command Code harness · Full-weight model  🐐",
-   "url": "https://x.com/CommandCodeAI/status/2117286640469364759",
-   "ts": 1793635447,
+   "url": "https://x.com/CommandCodeAI/status/2117422988249412070",
+   "ts": 1793667954,
    "desc": "RT @CommandCodeAI: GLM 5.3 Flash gets you $100 usage on $10/mo GOAT.\n\n· 300-500 TPS in Command Code harness\n· Full-weight model\n\n🐐"
   },
   {
@@ -1718,6 +1704,125 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @MillionInt: Space datacenters actually make sense",
+   "url": "https://x.com/elonmusk/status/2117482570757656836",
+   "ts": 1793682160,
+   "desc": "RT @MillionInt: Space datacenters actually make sense"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @pbeisel: A lot of very smart people are tying themselves in knots trying to explain why dissipating heat from a compute satellite is im…",
+   "url": "https://x.com/elonmusk/status/2117480528618397848",
+   "ts": 1793681673,
+   "desc": "RT @pbeisel: A lot of very smart people are tying themselves in knots trying to explain why dissipating heat from a compute satellite is im…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Starlink saves lives",
+   "url": "https://x.com/elonmusk/status/2117479668768981376",
+   "ts": 1793681468,
+   "desc": "Starlink saves lives"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @thatsKAIZEN: It’s the same thing every time:  1. A black person has the courage to point the objective truth about slavery.   2. Person…",
+   "url": "https://x.com/elonmusk/status/2117478883175837856",
+   "ts": 1793681281,
+   "desc": "RT @thatsKAIZEN: It’s the same thing every time:\n\n1. A black person has the courage to point the objective truth about slavery.\n \n2. Person…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @ScottPresler: The single most important thing I can share with you going into Election Day is the following website:   https://t.co/244…",
+   "url": "https://x.com/elonmusk/status/2117476969579163956",
+   "ts": 1793680825,
+   "desc": "RT @ScottPresler: The single most important thing I can share with you going into Election Day is the following website: \n\nhttps://t.co/244…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @teslaownersSV: Elon Musk on going \"from the impossible to the merely late,\" his own description of how Starship got built:  \"When we fi…",
+   "url": "https://x.com/elonmusk/status/2117475670745853964",
+   "ts": 1793680515,
+   "desc": "RT @teslaownersSV: Elon Musk on going \"from the impossible to the merely late,\" his own description of how Starship got built:\n\n\"When we fi…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @Rothmus: 9 of America’s top 10 foreign aid recipients voted against us more than with us at the UN.  Jordan takes $1.74 billion and vot…",
+   "url": "https://x.com/elonmusk/status/2117473938024357953",
+   "ts": 1793680102,
+   "desc": "RT @Rothmus: 9 of America’s top 10 foreign aid recipients voted against us more than with us at the UN.\n\nJordan takes $1.74 billion and vot…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @elonmusk: @shaunmmaguire @broudsov Yeah, much easier to cool in space.   ~1300 W/m^2 is easily achievable for an aluminum radiator poin…",
+   "url": "https://x.com/elonmusk/status/2117464990579892594",
+   "ts": 1793677969,
+   "desc": "RT @elonmusk: @shaunmmaguire @broudsov Yeah, much easier to cool in space. \n\n~1300 W/m^2 is easily achievable for an aluminum radiator poin…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Grok @Bot",
+   "url": "https://x.com/elonmusk/status/2117463822332314036",
+   "ts": 1793677690,
+   "desc": "Grok @Bot"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @dkmitc: I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owne…",
+   "url": "https://x.com/elonmusk/status/2117463040060969417",
+   "ts": 1793677503,
+   "desc": "RT @dkmitc: I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owne…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Wow",
+   "url": "https://x.com/elonmusk/status/2117450915875852697",
+   "ts": 1793674613,
+   "desc": "Wow"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @Rothmus: Talarico has outspent Paxton nearly 9-to-1 since July.  $89.4 million vs $10 million.  He’s also spent $11.6M MORE THAN HE RAI…",
+   "url": "https://x.com/elonmusk/status/2117448110821585296",
+   "ts": 1793673944,
+   "desc": "RT @Rothmus: Talarico has outspent Paxton nearly 9-to-1 since July.\n\n$89.4 million vs $10 million.\n\nHe’s also spent $11.6M MORE THAN HE RAI…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement a…",
+   "url": "https://x.com/elonmusk/status/2117447949051437342",
+   "ts": 1793673905,
+   "desc": "RT @realDonaldTrump: TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement a…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @karolineleavitt: There is nothing moderate about James Talarico.  Talarico is a left-wing extremist.  Just listen to him in his own wor…",
+   "url": "https://x.com/elonmusk/status/2117441028756058232",
+   "ts": 1793672256,
+   "desc": "RT @karolineleavitt: There is nothing moderate about James Talarico.\n\nTalarico is a left-wing extremist.\n\nJust listen to him in his own wor…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @VigilantFox: Steven Bartlett asks James Talarico how Texas chases “equality” without chasing off figures like @ElonMusk.  Talarico’s an…",
+   "url": "https://x.com/elonmusk/status/2117440734119039353",
+   "ts": 1793672185,
+   "desc": "RT @VigilantFox: Steven Bartlett asks James Talarico how Texas chases “equality” without chasing off figures like @ElonMusk.\n\nTalarico’s an…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @DrewPavlou: FAR-LEFT VIOLENCE IN AUSTRALIA.   One Nation volunteer hospitalised in Australia with bleeding of the brain and multiple fa…",
+   "url": "https://x.com/elonmusk/status/2117440577281347649",
+   "ts": 1793672148,
+   "desc": "RT @DrewPavlou: FAR-LEFT VIOLENCE IN AUSTRALIA. \n\nOne Nation volunteer hospitalised in Australia with bleeding of the brain and multiple fa…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Grok @Bot improvements",
+   "url": "https://x.com/elonmusk/status/2117422818648555595",
+   "ts": 1793667914,
+   "desc": "Grok @Bot improvements"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "This is the way",
    "url": "https://x.com/elonmusk/status/2117360990119506022",
    "ts": 1793653173,
@@ -1736,125 +1841,6 @@
    "url": "https://x.com/elonmusk/status/2117272824830210391",
    "ts": 1793632153,
    "desc": "RT @elonmusk: @shaunmmaguire @uncovered_alpha Future super intelligence compute will obviously be overwhelmingly in space. \n\nBy “overwhelmi…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @XFreeze: Elon Musk's naming choices for Colossus 2 are on a completely different level 😭  • Macrohard • Macroharder • Minihard • Gun Ra…",
-   "url": "https://x.com/elonmusk/status/2117257075810316342",
-   "ts": 1793628398,
-   "desc": "RT @XFreeze: Elon Musk's naming choices for Colossus 2 are on a completely different level 😭\n\n• Macrohard\n• Macroharder\n• Minihard\n• Gun Ra…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Teslaconomics: Fuck you if you hate on Elon Musk.   Just imagine this was your son…  ALS took away Jake’s ability to use his wheelchair…",
-   "url": "https://x.com/elonmusk/status/2117253374039232553",
-   "ts": 1793627515,
-   "desc": "RT @Teslaconomics: Fuck you if you hate on Elon Musk. \n\nJust imagine this was your son…\n\nALS took away Jake’s ability to use his wheelchair…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Starlink saves lives",
-   "url": "https://x.com/elonmusk/status/2117252866503290905",
-   "ts": 1793627394,
-   "desc": "Starlink saves lives"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @stevenmarkryan: It's true.   Every single person I've told to try Grok Bot:  - \"Holy fk it's really THAT GOOD\" - Starts telling other p…",
-   "url": "https://x.com/elonmusk/status/2117070572433875075",
-   "ts": 1793583932,
-   "desc": "RT @stevenmarkryan: It's true. \n\nEvery single person I've told to try Grok Bot:\n\n- \"Holy fk it's really THAT GOOD\"\n- Starts telling other p…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Rothmus: California is trying to buy a Texas Senate seat.  Talarico is getting 53% of his itemized money from outside the state.   Cali…",
-   "url": "https://x.com/elonmusk/status/2117070283077292148",
-   "ts": 1793583863,
-   "desc": "RT @Rothmus: California is trying to buy a Texas Senate seat.\n\nTalarico is getting 53% of his itemized money from outside the state. \n\nCali…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @0xCodila: Introducing GrokBot's first live dashboard for your teams of agent  1 prompt + 2 min + &lt;1% usage = you have the same:  • no m…",
-   "url": "https://x.com/elonmusk/status/2117042166321287411",
-   "ts": 1793577159,
-   "desc": "RT @0xCodila: Introducing GrokBot's first live dashboard for your teams of agent\n\n1 prompt + 2 min + &lt;1% usage = you have the same:\n\n• no m…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @EXM7777: grok bot templates are a VERY good example of a feature that doubles as a distribution mechanism...  look closely and they're…",
-   "url": "https://x.com/elonmusk/status/2117041782987071682",
-   "ts": 1793577068,
-   "desc": "RT @EXM7777: grok bot templates are a VERY good example of a feature that doubles as a distribution mechanism...\n\nlook closely and they're…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @JulianGoldieSEO: wtf is Grok Jarvis.  Grok Jarvis is a Grok Bot plus a Page.  The bot holds the personality. The Page is the live scree…",
-   "url": "https://x.com/elonmusk/status/2117041294165905886",
-   "ts": 1793576951,
-   "desc": "RT @JulianGoldieSEO: wtf is Grok Jarvis.\n\nGrok Jarvis is a Grok Bot plus a Page.\n\nThe bot holds the personality. The Page is the live scree…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Saboo_Shubham_: This is INSANE. A huge step for humanity.  Google Gemma 4 is a actually running at a Data Center in Space.   Read that…",
-   "url": "https://x.com/elonmusk/status/2117040223477743684",
-   "ts": 1793576696,
-   "desc": "RT @Saboo_Shubham_: This is INSANE. A huge step for humanity.\n\nGoogle Gemma 4 is a actually running at a Data Center in Space. \n\nRead that…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Texas_Twins_Dad: Grok Bot is still so underrated. Most people haven't seen what it can really do yet.",
-   "url": "https://x.com/elonmusk/status/2117038135989207125",
-   "ts": 1793576198,
-   "desc": "RT @Texas_Twins_Dad: Grok Bot is still so underrated.\nMost people haven't seen what it can really do yet."
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Try Grok @Bot! You will love it.  We land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible.",
-   "url": "https://x.com/elonmusk/status/2117033967782113327",
-   "ts": 1793575205,
-   "desc": "Try Grok @Bot! You will love it.\n\nWe land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible."
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @BrianRoemmele: I TESTED EVERY MAJOR “BOT” PLATFORM AND THE WINNER IS CLEAR.  @Grok @Bot wins on all measures.   At this point it can on…",
-   "url": "https://x.com/elonmusk/status/2117012027025576062",
-   "ts": 1793569974,
-   "desc": "RT @BrianRoemmele: I TESTED EVERY MAJOR “BOT” PLATFORM AND THE WINNER IS CLEAR.\n\n@Grok @Bot wins on all measures. \n\nAt this point it can on…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @CollinRugg: NEW: Dem officials are raising alarm bells that Latino men are refusing to turn on President Trump in Texas and have a grow…",
-   "url": "https://x.com/elonmusk/status/2117010895167762492",
-   "ts": 1793569704,
-   "desc": "RT @CollinRugg: NEW: Dem officials are raising alarm bells that Latino men are refusing to turn on President Trump in Texas and have a grow…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @teslaownersSV: Google co-founder Larry Page on why he'd give his fortune to Elon instead of to charity:  \"THAT'S A WORTHY GOAL.\"  Charl…",
-   "url": "https://x.com/elonmusk/status/2117010740502782014",
-   "ts": 1793569667,
-   "desc": "RT @teslaownersSV: Google co-founder Larry Page on why he'd give his fortune to Elon instead of to charity:\n\n\"THAT'S A WORTHY GOAL.\"\n\nCharl…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @libsoftiktok: Holy shlit  Haley Stevens got nearly 50% if the vote in the Democratic Primary  Even she is now endorsing Mike Rogers  Ab…",
-   "url": "https://x.com/elonmusk/status/2117010490300019037",
-   "ts": 1793569607,
-   "desc": "RT @libsoftiktok: Holy shlit\n\nHaley Stevens got nearly 50% if the vote in the Democratic Primary\n\nEven she is now endorsing Mike Rogers\n\nAb…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Scobleizer: I keep checking out the others. They really suck. I am so glad I stayed here when a lot of my friends left, thinking X was…",
-   "url": "https://x.com/elonmusk/status/2117009039062102185",
-   "ts": 1793569261,
-   "desc": "RT @Scobleizer: I keep checking out the others. They really suck. I am so glad I stayed here when a lot of my friends left, thinking X was…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @MaaSonder: Gemini 4 Carbon is the first model to tie humans in physical 3D understanding  we are already approaching AGI, and I can’t i…",
-   "url": "https://x.com/elonmusk/status/2116994893130379571",
-   "ts": 1793565889,
-   "desc": "RT @MaaSonder: Gemini 4 Carbon is the first model to tie humans in physical 3D understanding\n\nwe are already approaching AGI, and I can’t i…"
   },
   {
    "source": "X @sama",
@@ -2544,6 +2530,27 @@
   },
   {
    "source": "X @ylecun",
+   "title": "RT @randall_balestr: Another example that we should spend more time thinking about improving pretraining losses rather than just searching…",
+   "url": "https://x.com/ylecun/status/2117442768410992899",
+   "ts": 1793672670,
+   "desc": "RT @randall_balestr: Another example that we should spend more time thinking about improving pretraining losses rather than just searching…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @lukaskuhn77: Introducing LeVJEPA 1.5 Large, the first step in scaling our method.  It closes the gap to V-JEPA on both image and video…",
+   "url": "https://x.com/ylecun/status/2117440743866610038",
+   "ts": 1793672188,
+   "desc": "RT @lukaskuhn77: Introducing LeVJEPA 1.5 Large, the first step in scaling our method.\n\nIt closes the gap to V-JEPA on both image and video…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @JeffDean: Election Tuesday is just two days away.  For those eligible to vote in the U.S., please make time to go to the polls to vote…",
+   "url": "https://x.com/ylecun/status/2117387783048409394",
+   "ts": 1793659561,
+   "desc": "RT @JeffDean: Election Tuesday is just two days away.  For those eligible to vote in the U.S., please make time to go to the polls to vote…"
+  },
+  {
+   "source": "X @ylecun",
    "title": "RT @KenRoth: The Trump administration is openly meddling in European democracies to promote far-right political parties that support Putin…",
    "url": "https://x.com/ylecun/status/2117207246358659500",
    "ts": 1793616517,
@@ -2660,27 +2667,6 @@
    "url": "https://x.com/ylecun/status/2114154982312153555",
    "ts": 1792888801,
    "desc": "RT @OurWorldInData: The world is getting more of its electricity from renewables but less from nuclear power.\n\nIf the world is to reduce it…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @AesPolitics1: This dude needs help. If Talarico wins he’s going to lose his mind. https://t.co/WPUZzpOGBU",
-   "url": "https://x.com/ylecun/status/2114093486198640871",
-   "ts": 1792874139,
-   "desc": "RT @AesPolitics1: This dude needs help. If Talarico wins he’s going to lose his mind. https://t.co/WPUZzpOGBU"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @ylecun: @elonmusk Hitler was as much of a far-left socialist as you are a democracy-loving humanist.",
-   "url": "https://x.com/ylecun/status/2114085541813584383",
-   "ts": 1792872245,
-   "desc": "RT @ylecun: @elonmusk Hitler was as much of a far-left socialist as you are a democracy-loving humanist."
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @nxthompson: “The U.S. has benefited from the skills that Indians bring without having had to invest much in their education. Many have…",
-   "url": "https://x.com/ylecun/status/2114084095856607523",
-   "ts": 1792871900,
-   "desc": "RT @nxthompson: “The U.S. has benefited from the skills that Indians bring without having had to invest much in their education. Many have…"
   },
   {
    "source": "X @AndrewYNg",
@@ -3076,6 +3062,20 @@
   },
   {
    "source": "X @thsottiaux",
+   "title": "Le GPT Fat",
+   "url": "https://x.com/thsottiaux/status/2117489367417803042",
+   "ts": 1793683780,
+   "desc": "Le GPT Fat"
+  },
+  {
+   "source": "X @thsottiaux",
+   "title": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team",
+   "url": "https://x.com/thsottiaux/status/2117412956950638872",
+   "ts": 1793665563,
+   "desc": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team"
+  },
+  {
+   "source": "X @thsottiaux",
    "title": "Day 28/ Banked 2/2",
    "url": "https://x.com/thsottiaux/status/2117035794678546764",
    "ts": 1793575640,
@@ -3136,13 +3136,6 @@
    "url": "https://x.com/thsottiaux/status/2115297093879472332",
    "ts": 1793161102,
    "desc": "https://t.co/Fgy0dBAHsJ has landed"
-  },
-  {
-   "source": "X @thsottiaux",
-   "title": "Day 22/ Terra is back!   Our first model that is significantly better at writing,  personality and nuanced understanding of requests.  Packs a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subs",
-   "url": "https://x.com/thsottiaux/status/2114800277677092936",
-   "ts": 1793042651,
-   "desc": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subscriptions."
   },
   {
    "source": "X @lydiahallie",
@@ -3461,6 +3454,34 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "This would have cost $4.81 in Opus 5.5 API fees (but is a small part of my Claude subscription)",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzfaucxnsk2y",
+   "ts": 1793688746,
+   "desc": "This would have cost $4.81 in Opus 5.5 API fees (but is a small part of my Claude subscription)"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "\"Opus, great, now turn that into a movie, i know you can make it amazing. figure it out.\"  Yes, that was the only prompt",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzf7jf5mnk2l",
+   "ts": 1793687305,
+   "desc": "\"Opus, great, now turn that into a movie, i know you can make it amazing. figure it out.\"\n\nYes, that was the only prompt"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "Opus 5.5: \"Give me 10 brilliant ideas for a science fiction short short story, pick the most brilliant and execute it terribly\"",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzeykcbvgk2l",
+   "ts": 1793679820,
+   "desc": "Opus 5.5: \"Give me 10 brilliant ideas for a science fiction short short story, pick the most brilliant and execute it terribly\""
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "Here is a mass attempted replication of old findings of LLMs with new models. Much conventional wisdom is outdated.  Recent models no longer invent citations and both hallucination rates & stereotypin",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzesndbbxs2l",
+   "ts": 1793673479,
+   "desc": "Here is a mass attempted replication of old findings of LLMs with new models. Much conventional wisdom is outdated.\n\nRecent models no longer invent citations and both hallucination rates & stereotyping has dropped. But they are still sycophantic & lean left.  zou-group.github.io/llm-claims-s..."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "If this holds up, it is big: \"We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math. It directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3mze7rbg2fc2l",
    "ts": 1793653210,
@@ -3502,94 +3523,66 @@
    "desc": "And it also is not Pro"
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Confusingly, you can only access Pro mode in the Chat interface. What appears to be the highest thinking mode in the Codex and ChatGPT Work interface is called Ultra, and it does something entirely di",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mza4ocgjos2w",
-   "ts": 1793512450,
-   "desc": "Confusingly, you can only access Pro mode in the Chat interface. What appears to be the highest thinking mode in the Codex and ChatGPT Work interface is called Ultra, and it does something entirely different (breaking work into pieces and spawning lots of agents to solve a problem)."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "The Pro series of GPT models continues to be really impressive for one-shot problems that involve complex calculations, references, or sophisticated ideas.  It isn't particularly fast (or particularly",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mz7swluwac2w",
-   "ts": 1793501991,
-   "desc": "The Pro series of GPT models continues to be really impressive for one-shot problems that involve complex calculations, references, or sophisticated ideas.\n\nIt isn't particularly fast (or particularly pleasant) to use but GPT-6 Astra Pro gives that \"ask one question of the great oracle\" feel."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "For Halloween, I asked Opus 5.5 to suggest a spooky project based on my existing work, and it came up with the idea of the ghost census. Pick a location to see how many people died within a 100 meters",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mz6itbgvo22r",
-   "ts": 1793456782,
-   "desc": "For Halloween, I asked Opus 5.5 to suggest a spooky project based on my existing work, and it came up with the idea of the ghost census. Pick a location to see how many people died within a 100 meters of it through all of history up to a century ago & get some example lives. ghost-census.netlify.app"
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "I was interviewed in Vox about my new book, and a question on the meaning of work let me discuss something I have been thinking a lot about, comparing the logic of industrialization to the logic of cr",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mz42rhvdbc2z",
-   "ts": 1793372970,
-   "desc": "I was interviewed in Vox about my new book, and a question on the meaning of work let me discuss something I have been thinking a lot about, comparing the logic of industrialization to the logic of craft: \"You’re a hand-weaver in a world of power looms.\" www.vox.com/technology/5..."
-  },
-  {
-   "source": "HN",
-   "title": "The AI cost of JavaScript frameworks",
-   "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-   "ts": 1793513179,
-   "desc": "466 points"
-  },
-  {
    "source": "HN",
    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
    "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
    "ts": 1793637629,
-   "desc": "247 points"
+   "desc": "314 points"
   },
   {
    "source": "HN",
    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "ts": 1793571045,
-   "desc": "241 points"
+   "desc": "242 points"
   },
   {
    "source": "HN",
    "title": "Frontier Airlines Likely Breached",
    "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
    "ts": 1793551593,
-   "desc": "218 points"
+   "desc": "223 points"
   },
   {
    "source": "HN",
-   "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-   "url": "https://arxiv.org/abs/2409.02292",
-   "ts": 1793497589,
-   "desc": "216 points"
+   "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+   "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+   "ts": 1793647657,
+   "desc": "183 points"
   },
   {
    "source": "HN",
    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
    "ts": 1793540844,
-   "desc": "175 points"
-  },
-  {
-   "source": "HN",
-   "title": "It wasn't AI that flipped Proton's charge",
-   "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
-   "ts": 1793559235,
-   "desc": "165 points"
+   "desc": "177 points"
   },
   {
    "source": "HN",
    "title": "Jobless tech workers are being left out of San Francisco's AI boom",
    "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
    "ts": 1793630405,
-   "desc": "146 points"
+   "desc": "173 points"
+  },
+  {
+   "source": "HN",
+   "title": "It wasn't AI that flipped Proton's charge",
+   "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+   "ts": 1793559235,
+   "desc": "167 points"
   },
   {
    "source": "HN",
    "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
    "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
    "ts": 1793604448,
+   "desc": "154 points"
+  },
+  {
+   "source": "HN",
+   "title": "Egoless Mathematics in the AI Era",
+   "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+   "ts": 1793645684,
    "desc": "146 points"
   },
   {
@@ -3597,7 +3590,7 @@
    "title": "Last night an AI agent performed brain surgery on a mouse",
    "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
    "ts": 1793623859,
-   "desc": "114 points"
+   "desc": "129 points"
   },
   {
    "source": "HN",
@@ -3608,31 +3601,17 @@
   },
   {
    "source": "HN",
-   "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-   "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-   "ts": 1793647657,
-   "desc": "98 points"
-  },
-  {
-   "source": "HN",
-   "title": "Egoless Mathematics in the AI Era",
-   "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-   "ts": 1793645684,
-   "desc": "65 points"
-  },
-  {
-   "source": "HN",
    "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
    "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
    "ts": 1793648197,
-   "desc": "65 points"
+   "desc": "71 points"
   },
   {
    "source": "HN",
    "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
    "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
    "ts": 1793557982,
-   "desc": "58 points"
+   "desc": "60 points"
   },
   {
    "source": "HN",
@@ -3643,23 +3622,23 @@
   },
   {
    "source": "HN",
-   "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs",
-   "ts": 1793487447,
-   "desc": "32 points"
-  },
-  {
-   "source": "HN",
-   "title": "How AI may drive union-resistant tech workers to the bargaining table",
-   "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
-   "ts": 1793494163,
-   "desc": "31 points"
+   "title": "Goldman Restricts Traders and Bankers from Using Some AI Tools",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools",
+   "ts": 1793643278,
+   "desc": "26 points"
   },
   {
    "source": "HN",
    "title": "Proton's AI manifesto for software engineering",
    "url": "https://proton.me/blog/ai-manifesto",
    "ts": 1793607045,
+   "desc": "25 points"
+  },
+  {
+   "source": "HN",
+   "title": "Microsoft just gave us the perfect name for AI thieves: Kyle",
+   "url": "https://ketanjoshi.co/2026/11/02/microsoft-just-gave-us-the-perfect-name-for-ai-thieves-kyle/",
+   "ts": 1793639203,
    "desc": "24 points"
   },
   {
@@ -3671,37 +3650,30 @@
   },
   {
    "source": "HN",
-   "title": "Microsoft just gave us the perfect name for AI thieves: Kyle",
-   "url": "https://ketanjoshi.co/2026/11/02/microsoft-just-gave-us-the-perfect-name-for-ai-thieves-kyle/",
-   "ts": 1793639203,
-   "desc": "19 points"
-  },
-  {
-   "source": "HN",
-   "title": "Goldman Restricts Traders and Bankers from Using Some AI Tools",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools",
-   "ts": 1793643278,
-   "desc": "19 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI Made Me Homeless",
-   "url": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
-   "ts": 1793500691,
-   "desc": "14 points"
+   "title": "South Korea targets ' highest performance' sovereign AI model",
+   "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+   "ts": 1793645180,
+   "desc": "22 points"
   },
   {
    "source": "HN",
    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
    "ts": 1793642457,
-   "desc": "13 points"
+   "desc": "15 points"
   },
   {
    "source": "HN",
-   "title": "South Korea targets ' highest performance' sovereign AI model",
-   "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
-   "ts": 1793645180,
+   "title": "A proposal: how to hire junior engineers in the age of AI",
+   "url": "https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai/",
+   "ts": 1793641638,
+   "desc": "14 points"
+  },
+  {
+   "source": "HN",
+   "title": "Grokipedia offers lessons in how AI can help Wikipedia",
+   "url": "https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/",
+   "ts": 1793636126,
    "desc": "12 points"
   },
   {
@@ -3713,9 +3685,9 @@
   },
   {
    "source": "HN",
-   "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-   "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-   "ts": 1793503675,
+   "title": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",
+   "url": "https://ownhackertube.cc/",
+   "ts": 1793675646,
    "desc": "11 points"
   },
   {
@@ -3727,10 +3699,31 @@
   },
   {
    "source": "HN",
-   "title": "Grokipedia offers lessons in how AI can help Wikipedia",
-   "url": "https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/",
-   "ts": 1793636126,
+   "title": "Researchers face record-low chances of getting a grant partly due to rise of AI",
+   "url": "https://nltimes.nl/2026/11/02/researchers-face-record-low-chances-getting-grant-partly-due-rise-ai",
+   "ts": 1793644126,
+   "desc": "11 points"
+  },
+  {
+   "source": "HN",
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "ts": 1793628162,
+   "desc": "11 points"
+  },
+  {
+   "source": "HN",
+   "title": "Developers are downgrading their AI on purpose – and it's working",
+   "url": "https://thenewstack.io/claude-code-developer-refusals/",
+   "ts": 1793663621,
    "desc": "10 points"
+  },
+  {
+   "source": "HN",
+   "title": "SUSE to cut one in ten employees because of AI",
+   "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+   "ts": 1793638094,
+   "desc": "9 points"
   }
  ]
 }
