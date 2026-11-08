@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-08T18:01:41.660065+00:00",
- "count": 509,
+ "generated_at": "2026-11-08T22:22:33.500910+00:00",
+ "count": 507,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 440,
+   "count": 439,
    "note": "49 账号"
   },
   {
    "source": "Bluesky KOL",
-   "count": 40,
+   "count": 39,
    "note": ""
   },
   {
@@ -164,13 +164,6 @@
   },
   {
    "source": "X @GoogleDeepMind",
-   "title": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.  As life…",
-   "url": "https://x.com/GoogleDeepMind/status/2114719745719341407",
-   "ts": 1793023451,
-   "desc": "RT @pushmeet: Delighted to see the launch of the UK’s new AI Biosecurity Lab, which @GoogleDeepMind will partner with and support.\n\nAs life…"
-  },
-  {
-   "source": "X @GoogleDeepMind",
    "title": "RT @SpringerNature: Springer Nature and @GoogleDeepMind are partnering to co-design an AI peer review assistant, exploring how AI can help…",
    "url": "https://x.com/GoogleDeepMind/status/2114684344598200358",
    "ts": 1793015011,
@@ -203,6 +196,13 @@
    "url": "https://x.com/GoogleDeepMind/status/2112974723659247896",
    "ts": 1792607405,
    "desc": "Gemini 4 Argon combined three open-source datasets to build an interactive 3D visualization of human anatomy.\n\nToggle different layers in motion, isolate muscles, or zoom inside a beating heart. https://t.co/60nfQ0QVkl"
+  },
+  {
+   "source": "X @GoogleDeepMind",
+   "title": "RT @TZahavy: Over the past year, the Discovery team at @GoogleDeepMind, in a project led by student researcher @dsantosmarco, has made new…",
+   "url": "https://x.com/GoogleDeepMind/status/2112924036791734645",
+   "ts": 1792595321,
+   "desc": "RT @TZahavy: Over the past year, the Discovery team at @GoogleDeepMind, in a project led by student researcher @dsantosmarco, has made new…"
   },
   {
    "source": "X @grok",
@@ -714,20 +714,6 @@
    "url": "https://x.com/NousResearch/status/2117998375912222908",
    "ts": 1793805137,
    "desc": "https://t.co/xfPVWKquYz"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "Would you rock this https://t.co/9UbiQBmwXW",
-   "url": "https://x.com/NousResearch/status/2117848456404545779",
-   "ts": 1793769394,
-   "desc": "Would you rock this https://t.co/9UbiQBmwXW"
-  },
-  {
-   "source": "X @NousResearch",
-   "title": "Thank you to everyone who traveled from across the world to NousCon 2026. We loved spending time with the people who make the Hermes community great.  As you all know, we released the Hermes Mobile beta at the event, and as anticipated it filled up q",
-   "url": "https://x.com/NousResearch/status/2117696344756252822",
-   "ts": 1793733128,
-   "desc": "Thank you to everyone who traveled from across the world to NousCon 2026. We loved spending time with the people who make the Hermes community great.\n\nAs you all know, we released the Hermes Mobile beta at the event, and as anticipated it filled up quickly. We are working tirelessly to free up more room in the beta, and to get the app production ready for wider release. The feedback has been incre"
   },
   {
    "source": "X @deepseek_ai",
@@ -1599,6 +1585,13 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "Interesting",
+   "url": "https://x.com/elonmusk/status/2119554927337017525",
+   "ts": 1794176248,
+   "desc": "Interesting"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @CarlHigbie: Uhh… you mean the kids who were found innocent???",
    "url": "https://x.com/elonmusk/status/2119484265671110904",
    "ts": 1794159401,
@@ -1729,13 +1722,6 @@
    "url": "https://x.com/elonmusk/status/2119179405436366943",
    "ts": 1794086717,
    "desc": "RT @anabology: Announcing a contest! 💸💸\n\nI'll give $420.69 in @XMoney to someone who makes the best Claudia music video by Friday, 10pm EST…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @anabology: Judging will take place this weekend!  Also - make sure your video you submitted is included at https://t.co/9uKEUsi4lz. If…",
-   "url": "https://x.com/elonmusk/status/2119179384376762623",
-   "ts": 1794086712,
-   "desc": "RT @anabology: Judging will take place this weekend!\n\nAlso - make sure your video you submitted is included at https://t.co/9uKEUsi4lz. If…"
   },
   {
    "source": "X @sama",
@@ -2439,6 +2425,13 @@
   },
   {
    "source": "X @ylecun",
+   "title": "RT @ylecun: @TimDarcet @gabriberton The P in JEPA stands for predictive. The main distinction is not between JEA and JEPA, but between Join…",
+   "url": "https://x.com/ylecun/status/2119522897555595583",
+   "ts": 1794168612,
+   "desc": "RT @ylecun: @TimDarcet @gabriberton The P in JEPA stands for predictive.\nThe main distinction is not between JEA and JEPA, but between Join…"
+  },
+  {
+   "source": "X @ylecun",
    "title": "RT @TheTuringPost: There's one great example that shows how physics can help upgrade AI world models, and it's LeHami.  @ylecun, @randall_b…",
    "url": "https://x.com/ylecun/status/2119482154715349117",
    "ts": 1794158898,
@@ -2569,13 +2562,6 @@
    "url": "https://x.com/ylecun/status/2118023352149487768",
    "ts": 1793811092,
    "desc": "RT @antirez: Remember one thing when you read JEPA vs LLMs in the context of the platonic representation hypothesis. Hidden state of an LLM…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @AlexiGlad: looped reasoning is completely overrated  Energy-Based Reasoning (EBR) runs circles around looped reasoning  paper dropping…",
-   "url": "https://x.com/ylecun/status/2117860139978076284",
-   "ts": 1793772179,
-   "desc": "RT @AlexiGlad: looped reasoning is completely overrated\n\nEnergy-Based Reasoning (EBR) runs circles around looped reasoning\n\npaper dropping…"
   },
   {
    "source": "X @AndrewYNg",
@@ -2905,6 +2891,13 @@
    "url": "https://x.com/DrJimFan/status/2080798306566045756",
    "ts": 1784935950,
    "desc": "Stay hungry, stay foolish. Absolute legend https://t.co/PMHyBdkxGT"
+  },
+  {
+   "source": "X @natolambert",
+   "title": "If tech stocks continue sharply downward on the Jensen news, looking back this could be what we think of as the first major correction in this boom. Debt went too far, the election, Jensen all in short succession… and Anthropic gonna IPO at the botto",
+   "url": "https://x.com/natolambert/status/2119536592608268710",
+   "ts": 1794171877,
+   "desc": "If tech stocks continue sharply downward on the Jensen news, looking back this could be what we think of as the first major correction in this boom. Debt went too far, the election, Jensen all in short succession… and Anthropic gonna IPO at the bottom?"
   },
   {
    "source": "X @natolambert",
@@ -3383,60 +3376,46 @@
    "desc": "This can be a golden age of investigative journalism. Analyzing filings, records and public data to go deep into a company or government or whatever used to be something that took a team of journalists a long time, so was relatively rare. Now LLMs can 10x investigative research to help reporting"
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "As a longtime reader (and writer of two small pieces in the 1990s) of WIRED, I was curious if the coverage of the AI era really does differ from its coverage of the early internet. A couple of experim",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3mzp6wfzwgt2h",
-   "ts": 1794030266,
-   "desc": "As a longtime reader (and writer of two small pieces in the 1990s) of WIRED, I was curious if the coverage of the AI era really does differ from its coverage of the early internet. A couple of experiments with Astra shows it does. Interpretation depends on your view of AI, though"
-  },
-  {
    "source": "HN",
    "title": "The end of Microsoft Research's AI Frontiers group",
    "url": "https://hunch.net/?p=13764006",
    "ts": 1794074537,
-   "desc": "482 points"
+   "desc": "487 points"
   },
   {
    "source": "HN",
-   "title": "AI is dramatically accelerating AI research",
-   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-   "ts": 1793996843,
-   "desc": "372 points"
-  },
-  {
-   "source": "HN",
-   "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-   "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
-   "ts": 1793988246,
-   "desc": "108 points"
+   "title": "How I Fight AI Brain Fry",
+   "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+   "ts": 1794166662,
+   "desc": "104 points"
   },
   {
    "source": "HN",
    "title": "The AI sell-off compared to well-known stock market crashes",
    "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
    "ts": 1794018006,
-   "desc": "97 points"
+   "desc": "98 points"
   },
   {
    "source": "HN",
-   "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
-   "url": "https://halfnarp.events.ccc.de",
-   "ts": 1793989003,
-   "desc": "53 points"
+   "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+   "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+   "ts": 1794163387,
+   "desc": "81 points"
   },
   {
    "source": "HN",
    "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
    "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
    "ts": 1794150042,
-   "desc": "38 points"
+   "desc": "53 points"
   },
   {
    "source": "HN",
    "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
    "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
    "ts": 1794151191,
-   "desc": "29 points"
+   "desc": "34 points"
   },
   {
    "source": "HN",
@@ -3475,6 +3454,13 @@
   },
   {
    "source": "HN",
+   "title": "AI stance is not binary",
+   "url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+   "ts": 1794147898,
+   "desc": "10 points"
+  },
+  {
+   "source": "HN",
    "title": "ThinkStream – AI generates the work. We still need to understand it",
    "url": "https://thinkstream.app/",
    "ts": 1794129604,
@@ -3503,31 +3489,10 @@
   },
   {
    "source": "HN",
-   "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam",
-   "ts": 1793999265,
-   "desc": "8 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI stance is not binary",
-   "url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
-   "ts": 1794147898,
-   "desc": "8 points"
-  },
-  {
-   "source": "HN",
    "title": "I Resist Generative \"AI\"",
    "url": "https://estherweidauer.com/articles/why-resist-generative-ai.html",
    "ts": 1794145741,
-   "desc": "8 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI-supported woodworking: Building an up-and-over tool chest with a clever hinge",
-   "url": "https://portalworkers.com/blog/up-and-over-tool-chest/",
-   "ts": 1793998946,
-   "desc": "8 points"
+   "desc": "9 points"
   },
   {
    "source": "HN",
@@ -3545,6 +3510,13 @@
   },
   {
    "source": "HN",
+   "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+   "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+   "ts": 1794165281,
+   "desc": "7 points"
+  },
+  {
+   "source": "HN",
    "title": "Driver AI in Stunt Car Racer, Commodore 64",
    "url": "https://gamesexplained.com/c64/stunt-car-racer/opponents.html",
    "ts": 1794081565,
@@ -3552,10 +3524,10 @@
   },
   {
    "source": "HN",
-   "title": "\"No human at the helm\": Delaware plan would let AI agents run businesses",
-   "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-   "ts": 1793991343,
-   "desc": "7 points"
+   "title": "One of Classical Music's Biggest Stars Says AI Is Degrading Our Taste",
+   "url": "https://www.bloomberg.com/features/2026-max-richter-weekend-interview/",
+   "ts": 1794155575,
+   "desc": "6 points"
   },
   {
    "source": "HN",
@@ -3566,9 +3538,16 @@
   },
   {
    "source": "HN",
-   "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
-   "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
-   "ts": 1793998633,
+   "title": "Canada's AI translation tool keeps making hilarious mistakes",
+   "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
+   "ts": 1794163962,
+   "desc": "6 points"
+  },
+  {
+   "source": "HN",
+   "title": "AI Alignment Considered Harmful",
+   "url": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
+   "ts": 1794136775,
    "desc": "6 points"
   },
   {
@@ -3590,6 +3569,13 @@
    "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
    "url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
    "ts": 1794100878,
+   "desc": "5 points"
+  },
+  {
+   "source": "HN",
+   "title": "DeepFinance: Can AI diligence a $100M deal?",
+   "url": "https://www.juliusresearch.ai/blog/deep-finance",
+   "ts": 1794005044,
    "desc": "5 points"
   }
  ]
