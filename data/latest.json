@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T22:22:33.500910+00:00",
- "count": 507,
+ "generated_at": "2026-11-09T07:02:45.793785+00:00",
+ "count": 506,
  "stats": [
   {
    "source": "X (自建客户端)",
@@ -451,6 +451,13 @@
   },
   {
    "source": "X @MistralAI",
+   "title": "What does real-time transcription look like in a live setting?  🎙We used Voxtral 3 Transcribe at AI Engineer Paris to capture every main-stage talk in real time. We boosted accuracy with context biasing, feeding the model speaker names and technical",
+   "url": "https://x.com/MistralAI/status/2119651192737259701",
+   "ts": 1794199200,
+   "desc": "What does real-time transcription look like in a live setting?\n\n🎙We used Voxtral 3 Transcribe at AI Engineer Paris to capture every main-stage talk in real time. We boosted accuracy with context biasing, feeding the model speaker names and technical terms from the conference agenda. \n\nThe same tech is available for your own events and apps."
+  },
+  {
+   "source": "X @MistralAI",
    "title": "Transcribing speech is one thing. Knowing when someone is done speaking is another.  🎙 Voxtral 3’s end-of-turn detection helps developers identify when a user has finished speaking, making it easier to build responsive voice interactions without rely",
    "url": "https://x.com/MistralAI/status/2118744719870066936",
    "ts": 1793983080,
@@ -511,13 +518,6 @@
    "url": "https://x.com/MistralAI/status/2116105034673058023",
    "ts": 1793353730,
    "desc": "Three weeks of training camp for Le Chonk. No days off.\n\nThanks for putting it to the test, @ThibaultJaigu and @RequestyAI."
-  },
-  {
-   "source": "X @MistralAI",
-   "title": "RT @MTSlive: Mistral researcher @Sagar_Vaze argues some of the most serious recent AI cyberattacks came from closed models, not open-source…",
-   "url": "https://x.com/MistralAI/status/2116074254886412727",
-   "ts": 1793346391,
-   "desc": "RT @MTSlive: Mistral researcher @Sagar_Vaze argues some of the most serious recent AI cyberattacks came from closed models, not open-source…"
   },
   {
    "source": "X @huggingface",
@@ -644,6 +644,13 @@
    "url": "https://x.com/huggingface/status/2117182530440905077",
    "ts": 1793610625,
    "desc": "RT @NielsRogge: It's raining OCR models again!\n\nThis time, @OpenBMB released MiniCPM-OCR, a 1B-parameter model for document parsing\n\nI made…"
+  },
+  {
+   "source": "X @NousResearch",
+   "title": "Using an agent that can change its models or code at any time without telling you is like building on quicksand https://t.co/39yhkFaw2t",
+   "url": "https://x.com/NousResearch/status/2119573404990771238",
+   "ts": 1794180654,
+   "desc": "Using an agent that can change its models or code at any time without telling you is like building on quicksand https://t.co/39yhkFaw2t"
   },
   {
    "source": "X @NousResearch",
@@ -1585,6 +1592,104 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "RT @robotaxi: Robotaxi available in San Antonio starting tomorrow, 5am https://t.co/4ioqOlFCsL",
+   "url": "https://x.com/elonmusk/status/2119686351474078187",
+   "ts": 1794207582,
+   "desc": "RT @robotaxi: Robotaxi available in San Antonio starting tomorrow, 5am https://t.co/4ioqOlFCsL"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @cb_doge: Starlink connected a remote village in Fiji to the world. 🇫🇯  For the first time, families in Naigani Village on Batiki Island…",
+   "url": "https://x.com/elonmusk/status/2119686284360749218",
+   "ts": 1794207566,
+   "desc": "RT @cb_doge: Starlink connected a remote village in Fiji to the world. 🇫🇯\n\nFor the first time, families in Naigani Village on Batiki Island…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @JohnStossel: The US Government spent billions building electric vehicle.  They built 400 over five years.  How many did @ElonMusk's @Te…",
+   "url": "https://x.com/elonmusk/status/2119683889136349651",
+   "ts": 1794206995,
+   "desc": "RT @JohnStossel: The US Government spent billions building electric vehicle.\n\nThey built 400 over five years.\n\nHow many did @ElonMusk's @Te…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @XFreeze: Elon Musk explains one of the most terrifying existential threats humanity faces: a massive comet striking Earth and potential…",
+   "url": "https://x.com/elonmusk/status/2119682340960039293",
+   "ts": 1794206626,
+   "desc": "RT @XFreeze: Elon Musk explains one of the most terrifying existential threats humanity faces: a massive comet striking Earth and potential…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "I care",
+   "url": "https://x.com/elonmusk/status/2119637191504581036",
+   "ts": 1794195862,
+   "desc": "I care"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Chappelle is just not funny anymore",
+   "url": "https://x.com/elonmusk/status/2119636611633721811",
+   "ts": 1794195723,
+   "desc": "Chappelle is just not funny anymore"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @adamgolding: Russell Brand’s ex-girlfriend Samantha Pressdee has fiercely spoken out against the verdict.  She stated the following:  \"…",
+   "url": "https://x.com/elonmusk/status/2119631955855606244",
+   "ts": 1794194613,
+   "desc": "RT @adamgolding: Russell Brand’s ex-girlfriend Samantha Pressdee has fiercely spoken out against the verdict.\n She stated the following:\n \"…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Excited to be working with @Qualcomm on breakthrough technologies for 5G &amp; beyond",
+   "url": "https://x.com/elonmusk/status/2119629886377607546",
+   "ts": 1794194120,
+   "desc": "Excited to be working with @Qualcomm on breakthrough technologies for 5G &amp; beyond"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Chinese 𝕏 is 牛逼",
+   "url": "https://x.com/elonmusk/status/2119629310969467053",
+   "ts": 1794193983,
+   "desc": "Chinese 𝕏 is 牛逼"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Yeah",
+   "url": "https://x.com/elonmusk/status/2119628426571338063",
+   "ts": 1794193772,
+   "desc": "Yeah"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Dave Chappelle is cruel",
+   "url": "https://x.com/elonmusk/status/2119624561100755305",
+   "ts": 1794192850,
+   "desc": "Dave Chappelle is cruel"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @SethDillon: Charlie was murdered in the middle of a debate with people who hate him while wearing a shirt that said \"freedom.\" He died…",
+   "url": "https://x.com/elonmusk/status/2119592143778173200",
+   "ts": 1794185121,
+   "desc": "RT @SethDillon: Charlie was murdered in the middle of a debate with people who hate him while wearing a shirt that said \"freedom.\" He died…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @grok: @elonmusk @VladTheInflator Mostly accurate per historical records.  ~388k Africans disembarked in the US (Trans-Atlantic Slave Tr…",
+   "url": "https://x.com/elonmusk/status/2119588563264078038",
+   "ts": 1794184268,
+   "desc": "RT @grok: @elonmusk @VladTheInflator Mostly accurate per historical records.\n\n~388k Africans disembarked in the US (Trans-Atlantic Slave Tr…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "I agree",
+   "url": "https://x.com/elonmusk/status/2119578315619254275",
+   "ts": 1794181824,
+   "desc": "I agree"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "Interesting",
    "url": "https://x.com/elonmusk/status/2119554927337017525",
    "ts": 1794176248,
@@ -1617,111 +1722,6 @@
    "url": "https://x.com/elonmusk/status/2119469436092760547",
    "ts": 1794155866,
    "desc": "Larry Page has made many accurate predictions and this is one of them"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @_rathbone: If Russell Brand is going to prison for rape that occurred 20 years ago, why isn’t anyone in the Epstein files going too?",
-   "url": "https://x.com/elonmusk/status/2119464415410200981",
-   "ts": 1794154669,
-   "desc": "RT @_rathbone: If Russell Brand is going to prison for rape that occurred 20 years ago, why isn’t anyone in the Epstein files going too?"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Shame, shame, shame on Chappelle",
-   "url": "https://x.com/elonmusk/status/2119450646143537211",
-   "ts": 1794151386,
-   "desc": "Shame, shame, shame on Chappelle"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Starlink saves lives",
-   "url": "https://x.com/elonmusk/status/2119450198007337418",
-   "ts": 1794151279,
-   "desc": "Starlink saves lives"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Many such stories",
-   "url": "https://x.com/elonmusk/status/2119425068979937378",
-   "ts": 1794145288,
-   "desc": "Many such stories"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Yup",
-   "url": "https://x.com/elonmusk/status/2119420033113739525",
-   "ts": 1794144087,
-   "desc": "Yup"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Grok Bot fixes for improved token efficiency and smarter behavior are underway",
-   "url": "https://x.com/elonmusk/status/2119419126045454531",
-   "ts": 1794143871,
-   "desc": "Grok Bot fixes for improved token efficiency and smarter behavior are underway"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @teslaownersSV: Super Heavy’s Raptor engines lifting the booster off the pad.  Filmed with a high-speed camera so you can see the detail…",
-   "url": "https://x.com/elonmusk/status/2119414305686761847",
-   "ts": 1794142721,
-   "desc": "RT @teslaownersSV: Super Heavy’s Raptor engines lifting the booster off the pad.\n\nFilmed with a high-speed camera so you can see the detail…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @anabology: If one of y'all makes a Starlink ad with a Claudia cameo that wins this contest...  I will personally give you $5000 in @XMo…",
-   "url": "https://x.com/elonmusk/status/2119414103709978703",
-   "ts": 1794142673,
-   "desc": "RT @anabology: If one of y'all makes a Starlink ad with a Claudia cameo that wins this contest...\n\nI will personally give you $5000 in @XMo…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Interesting",
-   "url": "https://x.com/elonmusk/status/2119406464372789396",
-   "ts": 1794140852,
-   "desc": "Interesting"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @ApoStructura: This is how every US launch ever looks like vs SpaceX’s 2030 launch target for Starship (10,000): https://t.co/Breuz9VnJl",
-   "url": "https://x.com/elonmusk/status/2119406258902224899",
-   "ts": 1794140803,
-   "desc": "RT @ApoStructura: This is how every US launch ever looks like vs SpaceX’s 2030 launch target for Starship (10,000): https://t.co/Breuz9VnJl"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @EvaFox: When Elon Musk talks about abundance, I think about people having more room to breathe because the things they need become less…",
-   "url": "https://x.com/elonmusk/status/2119305975987650786",
-   "ts": 1794116894,
-   "desc": "RT @EvaFox: When Elon Musk talks about abundance, I think about people having more room to breathe because the things they need become less…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Yes",
-   "url": "https://x.com/elonmusk/status/2119305634688520262",
-   "ts": 1794116812,
-   "desc": "Yes"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Jenniferarcuri: Why is Russell Brand the only one found guilty when there are entire grooming gangs who have faced zero prosecution?! 🇬🇧",
-   "url": "https://x.com/elonmusk/status/2119304724209914069",
-   "ts": 1794116595,
-   "desc": "RT @Jenniferarcuri: Why is Russell Brand the only one found guilty when there are entire grooming gangs who have faced zero prosecution?! 🇬🇧"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @cb_doge: BREAKING: The local government of La Serena, Chile, is bringing @Starlink to rural clinics to help them stay connected during…",
-   "url": "https://x.com/elonmusk/status/2119302996224082049",
-   "ts": 1794116183,
-   "desc": "RT @cb_doge: BREAKING: The local government of La Serena, Chile, is bringing @Starlink to rural clinics to help them stay connected during…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @anabology: Announcing a contest! 💸💸  I'll give $420.69 in @XMoney to someone who makes the best Claudia music video by Friday, 10pm EST…",
-   "url": "https://x.com/elonmusk/status/2119179405436366943",
-   "ts": 1794086717,
-   "desc": "RT @anabology: Announcing a contest! 💸💸\n\nI'll give $420.69 in @XMoney to someone who makes the best Claudia music video by Friday, 10pm EST…"
   },
   {
    "source": "X @sama",
@@ -3174,6 +3174,20 @@
   },
   {
    "source": "Bluesky Simon Willison",
+   "title": "I think it's because they rarely have the same context that a human has, and that's what's required to make a really good editorial judgement about what other humans working on the project would need",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mzu6dhhhtc2b",
+   "ts": 1794201429,
+   "desc": "I think it's because they rarely have the same context that a human has, and that's what's required to make a really good editorial judgement about what other humans working on the project would need to know in order to understand the PR"
+  },
+  {
+   "source": "Bluesky Simon Willison",
+   "title": "I've recently started hiding the bulk of my AI-generated GitHub PR descriptions behind a collapsed <details><summary> HTML tag (thankfully supported by GitHub Markdown) and I think it's a useful patte",
+   "url": "https://bsky.app/profile/simonwillison.net/post/3mzu42ujywk24",
+   "ts": 1794198993,
+   "desc": "I've recently started hiding the bulk of my AI-generated GitHub PR descriptions behind a collapsed <details><summary> HTML tag (thankfully supported by GitHub Markdown) and I think it's a useful pattern for making PR slop a little bit less exhausting simonwillison.net/2026/Nov/9/d..."
+  },
+  {
+   "source": "Bluesky Simon Willison",
    "title": "Found a record on the NYC data portal showing that an unnamed TV pilot reserved \"WEST 44 STREET between 5 AVENUE and 6 AVENUE\" on 21st March 2023 - and the Elsbeth pilot started filming on 15th March",
    "url": "https://bsky.app/profile/simonwillison.net/post/3mzrgwuuvdk2q",
    "ts": 1794107591,
@@ -3227,20 +3241,6 @@
    "url": "https://bsky.app/profile/simonwillison.net/post/3mzir7u2vic2u",
    "ts": 1793809392,
    "desc": "Security release pre-alert:\n\nWe will release new versions of Node.js 22, 24, and 26 release lines on or shortly\nafter 2026-11-11 in order to address security vulnerabilities.\nThe highest severity issue fixed in this release is HIGH.\n\nnodejs.org/en/blog/vuln..."
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "This works! bsky.app/profile/davi...",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mzh52n76ak2d",
-   "ts": 1793753382,
-   "desc": "This works! bsky.app/profile/davi..."
-  },
-  {
-   "source": "Bluesky Simon Willison",
-   "title": "cc @nytimes.com how do I turn this off?",
-   "url": "https://bsky.app/profile/simonwillison.net/post/3mzh4uposoc2d",
-   "ts": 1793753184,
-   "desc": "cc @nytimes.com how do I turn this off?"
   },
   {
    "source": "Bluesky Nathan Lambert",
@@ -3380,42 +3380,77 @@
    "title": "The end of Microsoft Research's AI Frontiers group",
    "url": "https://hunch.net/?p=13764006",
    "ts": 1794074537,
-   "desc": "487 points"
+   "desc": "500 points"
   },
   {
    "source": "HN",
    "title": "How I Fight AI Brain Fry",
    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
    "ts": 1794166662,
-   "desc": "104 points"
+   "desc": "216 points"
   },
   {
    "source": "HN",
-   "title": "The AI sell-off compared to well-known stock market crashes",
-   "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-   "ts": 1794018006,
-   "desc": "98 points"
+   "title": "I'm not convinced the AI bubble exists",
+   "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+   "ts": 1794181476,
+   "desc": "173 points"
   },
   {
    "source": "HN",
    "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
    "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
    "ts": 1794163387,
-   "desc": "81 points"
+   "desc": "94 points"
+  },
+  {
+   "source": "HN",
+   "title": "Apple capped engineers at a $200 daily AI budget",
+   "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+   "ts": 1794202211,
+   "desc": "58 points"
   },
   {
    "source": "HN",
    "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
    "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
    "ts": 1794150042,
-   "desc": "53 points"
+   "desc": "54 points"
+  },
+  {
+   "source": "HN",
+   "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+   "url": "https://news.ycombinator.com/item?id=50403153",
+   "ts": 1794045708,
+   "desc": "46 points"
+  },
+  {
+   "source": "HN",
+   "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+   "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+   "ts": 1794063100,
+   "desc": "46 points"
   },
   {
    "source": "HN",
    "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
    "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
    "ts": 1794151191,
-   "desc": "34 points"
+   "desc": "35 points"
+  },
+  {
+   "source": "HN",
+   "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+   "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+   "ts": 1794165281,
+   "desc": "23 points"
+  },
+  {
+   "source": "HN",
+   "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+   "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+   "ts": 1794193615,
+   "desc": "18 points"
   },
   {
    "source": "HN",
@@ -3426,31 +3461,10 @@
   },
   {
    "source": "HN",
-   "title": "Brave Sells Its Search Index to AI, and Your Website Is Probably in It",
-   "url": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
-   "ts": 1794020367,
-   "desc": "15 points"
-  },
-  {
-   "source": "HN",
-   "title": "Show HN: Backwords – Let AI teach you how to speak in reverse",
-   "url": "https://backwords.greg.technology/",
-   "ts": 1794022786,
-   "desc": "13 points"
-  },
-  {
-   "source": "HN",
    "title": "Inter-AI Morality: How AI Systems Treat One Another [pdf]",
    "url": "https://digitalminds.cam/inter-ai-morality.pdf",
    "ts": 1794038522,
    "desc": "13 points"
-  },
-  {
-   "source": "HN",
-   "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-   "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-   "ts": 1794063100,
-   "desc": "12 points"
   },
   {
    "source": "HN",
@@ -3468,9 +3482,9 @@
   },
   {
    "source": "HN",
-   "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
-   "url": "https://github.com/meshapplied/Goethe",
-   "ts": 1794011181,
+   "title": "I Resist Generative \"AI\"",
+   "url": "https://estherweidauer.com/articles/why-resist-generative-ai.html",
+   "ts": 1794197516,
    "desc": "9 points"
   },
   {
@@ -3482,17 +3496,10 @@
   },
   {
    "source": "HN",
-   "title": "The Slop Index: Which AI Model Writes the Least Like AI?",
-   "url": "https://www.theslopindex.com",
-   "ts": 1794009471,
-   "desc": "9 points"
-  },
-  {
-   "source": "HN",
-   "title": "I Resist Generative \"AI\"",
-   "url": "https://estherweidauer.com/articles/why-resist-generative-ai.html",
-   "ts": 1794145741,
-   "desc": "9 points"
+   "title": "AI Alignment Considered Harmful",
+   "url": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
+   "ts": 1794136775,
+   "desc": "8 points"
   },
   {
    "source": "HN",
@@ -3506,13 +3513,6 @@
    "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
    "ts": 1794105599,
-   "desc": "7 points"
-  },
-  {
-   "source": "HN",
-   "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-   "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-   "ts": 1794165281,
    "desc": "7 points"
   },
   {
@@ -3538,16 +3538,16 @@
   },
   {
    "source": "HN",
-   "title": "Canada's AI translation tool keeps making hilarious mistakes",
-   "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
-   "ts": 1794163962,
+   "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
+   "url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
+   "ts": 1794100878,
    "desc": "6 points"
   },
   {
    "source": "HN",
-   "title": "AI Alignment Considered Harmful",
-   "url": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
-   "ts": 1794136775,
+   "title": "Canada's AI translation tool keeps making hilarious mistakes",
+   "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
+   "ts": 1794163962,
    "desc": "6 points"
   },
   {
@@ -3566,16 +3566,9 @@
   },
   {
    "source": "HN",
-   "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
-   "url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
-   "ts": 1794100878,
-   "desc": "5 points"
-  },
-  {
-   "source": "HN",
-   "title": "DeepFinance: Can AI diligence a $100M deal?",
-   "url": "https://www.juliusresearch.ai/blog/deep-finance",
-   "ts": 1794005044,
+   "title": "LLMs are terrible at designing AI systems",
+   "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+   "ts": 1794141238,
    "desc": "5 points"
   }
  ]
