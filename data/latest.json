@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-14T18:25:43.366584+00:00",
- "count": 516,
+ "generated_at": "2026-11-14T22:41:17.803903+00:00",
+ "count": 520,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 446,
+   "count": 450,
    "note": "49 账号"
   },
   {
@@ -199,6 +199,13 @@
   },
   {
    "source": "X @grok",
+   "title": "We’re bringing more @SpaceXSI products together into one Grok experience, so there’s one place to create, build and get work done.",
+   "url": "https://x.com/grok/status/2121673185540378797",
+   "ts": 1794681280,
+   "desc": "We’re bringing more @SpaceXSI products together into one Grok experience, so there’s one place to create, build and get work done."
+  },
+  {
+   "source": "X @grok",
    "title": "You can now add `guidelines` to text API requests to further moderate how the Grok API handles specific content categories.   Grok follows the guidelines as it writes its response, in its own words.   Available to all API customers.  https://t.co/6KX",
    "url": "https://x.com/grok/status/2115584612122718296",
    "ts": 1793229651,
@@ -322,13 +329,6 @@
    "url": "https://x.com/grok/status/2101014596022874288",
    "ts": 1789755889,
    "desc": "RT @imagine: Hollywood would spend 7 figures on this Odyssey scene.\n\n@PJaccetturo and his studio made this pilot in 9 days, with 3,627 imag…"
-  },
-  {
-   "source": "X @grok",
-   "title": "Powered by Grok Voice ❤️  https://t.co/fZ8BTCcZPa",
-   "url": "https://x.com/grok/status/2100676271764054154",
-   "ts": 1789675226,
-   "desc": "Powered by Grok Voice ❤️\n\nhttps://t.co/fZ8BTCcZPa"
   },
   {
    "source": "X @AIatMeta",
@@ -1627,6 +1627,69 @@
   },
   {
    "source": "X @elonmusk",
+   "title": "Inspecting ship 42 right now https://t.co/mazv15Dxtk",
+   "url": "https://x.com/elonmusk/status/2121733992726802703",
+   "ts": 1794695778,
+   "desc": "Inspecting ship 42 right now https://t.co/mazv15Dxtk"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @SawyerMerritt: You're not gonna believe this, but @SpaceX caught their Starship rocket at 4:20 PM ET 😂 https://t.co/3VzaSZq9ck",
+   "url": "https://x.com/elonmusk/status/2121732719050977749",
+   "ts": 1794695474,
+   "desc": "RT @SawyerMerritt: You're not gonna believe this, but @SpaceX caught their Starship rocket at 4:20 PM ET 😂 https://t.co/3VzaSZq9ck"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @johnkrausphotos: https://t.co/gUueTHeGNT",
+   "url": "https://x.com/elonmusk/status/2121729222804951066",
+   "ts": 1794694641,
+   "desc": "RT @johnkrausphotos: https://t.co/gUueTHeGNT"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Congratulations to an incredible team at SpaceX!!! https://t.co/phiZ0amQyp",
+   "url": "https://x.com/elonmusk/status/2121726288968720709",
+   "ts": 1794693941,
+   "desc": "Congratulations to an incredible team at SpaceX!!! https://t.co/phiZ0amQyp"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Good deorbit burn.   Landing burn in 53 minutes.  https://t.co/GJIz7yiCvY",
+   "url": "https://x.com/elonmusk/status/2121701421183853007",
+   "ts": 1794688012,
+   "desc": "Good deorbit burn. \n\nLanding burn in 53 minutes.  https://t.co/GJIz7yiCvY"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "Starship deorbit burn in 30 seconds",
+   "url": "https://x.com/elonmusk/status/2121700409173487768",
+   "ts": 1794687771,
+   "desc": "Starship deorbit burn in 30 seconds"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @adeoressi: Grok Bot has been such a force multiplier for me. It’s insane.   It provides you with a team of experts, and you get a total…",
+   "url": "https://x.com/elonmusk/status/2121697251819229393",
+   "ts": 1794687018,
+   "desc": "RT @adeoressi: Grok Bot has been such a force multiplier for me. It’s insane. \n\nIt provides you with a team of experts, and you get a total…"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "RT @johnkrausphotos: https://t.co/AKUUOfLiGp",
+   "url": "https://x.com/elonmusk/status/2121696592168378490",
+   "ts": 1794686861,
+   "desc": "RT @johnkrausphotos: https://t.co/AKUUOfLiGp"
+  },
+  {
+   "source": "X @elonmusk",
+   "title": "All systems green for the deorbit burn of Starship",
+   "url": "https://x.com/elonmusk/status/2121695381759144393",
+   "ts": 1794686572,
+   "desc": "All systems green for the deorbit burn of Starship"
+  },
+  {
+   "source": "X @elonmusk",
    "title": "RT @elonmusk: @billlee This is not as good as it sounds, because Starlink required many satellites in low Earth orbit to achieve this bandw…",
    "url": "https://x.com/elonmusk/status/2121650594603847797",
    "ts": 1794675894,
@@ -1687,48 +1750,6 @@
    "url": "https://x.com/elonmusk/status/2121630693747024071",
    "ts": 1794671150,
    "desc": "RT @SpaceX: Flight 15 Update: Starship coasting in orbit, still looking good for return to launch site today. Pad and tower systems are go…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Improvements to Grok @Bot efficiency",
-   "url": "https://x.com/elonmusk/status/2121628295234023654",
-   "ts": 1794670578,
-   "desc": "Improvements to Grok @Bot efficiency"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Update on Starship",
-   "url": "https://x.com/elonmusk/status/2121627776881230121",
-   "ts": 1794670454,
-   "desc": "Update on Starship"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @AJamesMcCarthy: I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion.   Can you spot the moon? h…",
-   "url": "https://x.com/elonmusk/status/2121617733221818612",
-   "ts": 1794668060,
-   "desc": "RT @AJamesMcCarthy: I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion. \n\nCan you spot the moon? h…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @cb_doge: BREAKING: SpaceXSI completes MiniHard construction in just ~5 months, with Gun Range targeting a ~4-month build.  According to…",
-   "url": "https://x.com/elonmusk/status/2121615415155806253",
-   "ts": 1794667507,
-   "desc": "RT @cb_doge: BREAKING: SpaceXSI completes MiniHard construction in just ~5 months, with Gun Range targeting a ~4-month build.\n\nAccording to…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @firesidealpha: SemiAnalysis’s Dylan Patel says Google’s TPUs are just as good as Nvidia’s in his nightly benchmarks, and without Jensen…",
-   "url": "https://x.com/elonmusk/status/2121614151768248683",
-   "ts": 1794667206,
-   "desc": "RT @firesidealpha: SemiAnalysis’s Dylan Patel says Google’s TPUs are just as good as Nvidia’s in his nightly benchmarks, and without Jensen…"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @SpaceX: Starship in orbit over Africa https://t.co/vwkuBpdrLI",
-   "url": "https://x.com/elonmusk/status/2121611736902197480",
-   "ts": 1794666630,
-   "desc": "RT @SpaceX: Starship in orbit over Africa https://t.co/vwkuBpdrLI"
   },
   {
    "source": "X @sama",
@@ -2229,6 +2250,13 @@
   },
   {
    "source": "X @demishassabis",
+   "title": "RT @mirrokni: Check out our recent results solving open challenges across math/science and engineering with /teamwork and Gemini 4 models :…",
+   "url": "https://x.com/demishassabis/status/2121713883911950656",
+   "ts": 1794690984,
+   "desc": "RT @mirrokni: Check out our recent results solving open challenges across math/science and engineering with /teamwork and Gemini 4 models :…"
+  },
+  {
+   "source": "X @demishassabis",
    "title": "RT @sundarpichai: What we shipped this week @google   Monday: Two new 8th-gen TPUs Tuesday: Gemini 4 Carbon - AlphaProof Code verified Sign…",
    "url": "https://x.com/demishassabis/status/2121359939780194359",
    "ts": 1794606597,
@@ -2347,11 +2375,11 @@
    "desc": "RT @GoogleDeepMind: Gemini Robotics 2.5 is here. 🤖\n\nOur latest physical AI is able to learn hundreds of everyday skills - from folding laun…"
   },
   {
-   "source": "X @demishassabis",
-   "title": "RT @pushmeet: Announcing a major milestone achieved by my team @GoogleDeepMind: we have proven key security properties of the machine code…",
-   "url": "https://x.com/demishassabis/status/2120197387415408751",
-   "ts": 1794329423,
-   "desc": "RT @pushmeet: Announcing a major milestone achieved by my team @GoogleDeepMind: we have proven key security properties of the machine code…"
+   "source": "X @sundarpichai",
+   "title": "Congrats @SpaceX for that starship catch, still feels like science fiction! Watching it live was incredible. Upwards!",
+   "url": "https://x.com/sundarpichai/status/2121721987794174178",
+   "ts": 1794692916,
+   "desc": "Congrats @SpaceX for that starship catch, still feels like science fiction! Watching it live was incredible. Upwards!"
   },
   {
    "source": "X @sundarpichai",
@@ -2445,11 +2473,25 @@
    "desc": "RT @melvinjohnsonp: Gemini 4 Carbon at the Pareto on Cursorbench! Hope you all enjoy building with it."
   },
   {
-   "source": "X @sundarpichai",
-   "title": "RT @AravSrinivas: Rolling out Gemini 4 Carbon to all Perplexity Pro and Max subscribers. You can create persistent Teammates with them or u…",
-   "url": "https://x.com/sundarpichai/status/2120223128995746239",
-   "ts": 1794335560,
-   "desc": "RT @AravSrinivas: Rolling out Gemini 4 Carbon to all Perplexity Pro and Max subscribers. You can create persistent Teammates with them or u…"
+   "source": "X @ylecun",
+   "title": "RT @sainingxie: before hopping on the ‘encoder-free’ hype train, think twice.",
+   "url": "https://x.com/ylecun/status/2121702381125546472",
+   "ts": 1794688241,
+   "desc": "RT @sainingxie: before hopping on the ‘encoder-free’ hype train, think twice."
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @ClementDelangue: This whole thing sucks, and I wish none of it had happened. It’s a really sad day!  But I want to make one thing clear…",
+   "url": "https://x.com/ylecun/status/2121698920355024983",
+   "ts": 1794687416,
+   "desc": "RT @ClementDelangue: This whole thing sucks, and I wish none of it had happened. It’s a really sad day!\n\nBut I want to make one thing clear…"
+  },
+  {
+   "source": "X @ylecun",
+   "title": "RT @joanbruna: Mathematics and AI now define an interface full of fascinating questions that extend beyond a single discipline, and that re…",
+   "url": "https://x.com/ylecun/status/2121698166613635165",
+   "ts": 1794687236,
+   "desc": "RT @joanbruna: Mathematics and AI now define an interface full of fascinating questions that extend beyond a single discipline, and that re…"
   },
   {
    "source": "X @ylecun",
@@ -2569,27 +2611,6 @@
    "url": "https://x.com/ylecun/status/2119476601343656428",
    "ts": 1794157574,
    "desc": "RT @DeBunKerEtoiles: Attention, quelles que soient vos opinions politiques par ailleurs, cette mesure de LFI est extrêmement nocive pour la…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "Reminder from 3 years ago.",
-   "url": "https://x.com/ylecun/status/2119184445987287449",
-   "ts": 1794087919,
-   "desc": "Reminder from 3 years ago."
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @ylecun: @gabriberton Several comments: 1. image/video SSL methods differ by whether they use reconstruction or not. Joint embedding arc…",
-   "url": "https://x.com/ylecun/status/2119143975739142269",
-   "ts": 1794078270,
-   "desc": "RT @ylecun: @gabriberton Several comments:\n1. image/video SSL methods differ by whether they use reconstruction or not. Joint embedding arc…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @PolymathicAI: Interested in building what’s next in AI for Science? Join us at PolymathicAI in New York (NYU + Flatiron).  We are looki…",
-   "url": "https://x.com/ylecun/status/2118616957004189924",
-   "ts": 1793952619,
-   "desc": "RT @PolymathicAI: Interested in building what’s next in AI for Science? Join us at PolymathicAI in New York (NYU + Flatiron).\n\nWe are looki…"
   },
   {
    "source": "X @AndrewYNg",
@@ -2905,6 +2926,13 @@
    "url": "https://x.com/DrJimFan/status/2117331453558268081",
    "ts": 1793646131,
    "desc": "RT @tonyzzhao: This is a great model. Congratulations @DrJimFan and @yunzeman for the awesome work!"
+  },
+  {
+   "source": "X @natolambert",
+   "title": "\"Spark\" of progress in the near-term is a great term from @dwarkesh_sp as an alternative to complete takeoff",
+   "url": "https://x.com/natolambert/status/2121686707191820528",
+   "ts": 1794684504,
+   "desc": "\"Spark\" of progress in the near-term is a great term from @dwarkesh_sp as an alternative to complete takeoff"
   },
   {
    "source": "X @natolambert",
@@ -3363,6 +3391,48 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "The successful midair recovery of a 20 story tall rocket for the first time after 24 hours in space.",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2chudnxak2t",
+   "ts": 1794692695,
+   "desc": "The successful midair recovery of a 20 story tall rocket for the first time after 24 hours in space."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "(Not an AI post)",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2cgv2pat222",
+   "ts": 1794691646,
+   "desc": "(Not an AI post)"
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "Well, that looked like science fiction.",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2cgoirwps22",
+   "ts": 1794691425,
+   "desc": "Well, that looked like science fiction."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "I bought the book as well. But the book is available for lending on the Internet Archive, too, so this isn't straightforward as a violation  But I think we want a world where AI agents can help with c",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2c7l5nmgs22",
+   "ts": 1794683797,
+   "desc": "I bought the book as well. But the book is available for lending on the Internet Archive, too, so this isn't straightforward as a violation\n\nBut I think we want a world where AI agents can help with complex research projects, and we need to figure out a way to do that so it respects rights properly."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "gail.wharton.upenn.edu/gen-ai-studio/  Some of last semesters projects. I can't share others without permission.",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2c6j7d5ys22",
+   "ts": 1794682658,
+   "desc": "gail.wharton.upenn.edu/gen-ai-studio/\n\nSome of last semesters projects. I can't share others without permission."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "The end result of the reconstruction is very impressive, however. It made a version of the lost class, called the “hardest in the humanities,\" that is remarkably accessible and based on scattered text",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2c67rtdjs22",
+   "ts": 1794682342,
+   "desc": "The end result of the reconstruction is very impressive, however. It made a version of the lost class, called the “hardest in the humanities,\" that is remarkably accessible and based on scattered textual evidence from Auden's writing & surviving notes. auden-english-135.netlify.app#/tempest/son..."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "In any case, I donated to the Internet Archive for my use of the commons, but better solutions are needed.",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2bwpszc2s22",
    "ts": 1794674290,
@@ -3390,102 +3460,46 @@
    "desc": "\"You see the model called hydrogen is equivalent to the models called sonnet and luna and spark, but the model called fable is like wonder and astra and carbon (but it was like argon)\"\n\n\"Wait, why do you look confused?\""
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Got to see student presentations today at the Generative AI Studio at Penn. It was a visceral way to feel how far creative people can now get using AI. Already, almost every project from an individual",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n27qnrq3b222",
-   "ts": 1794599059,
-   "desc": "Got to see student presentations today at the Generative AI Studio at Penn. It was a visceral way to feel how far creative people can now get using AI. Already, almost every project from an individual was 10x further along than a fully done team project from three years ago."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "The various foundations are a funding source for our work, and they are nonprofits, not companies. They have no control over content or output (nor did they ask to do so).",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n25khulkbs2p",
-   "ts": 1794523699,
-   "desc": "The various foundations are a funding source for our work, and they are nonprofits, not companies. They have no control over content or output (nor did they ask to do so)."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "With Lilach Mollick Ben Przystanski, LJ Ciccarelli, Natalie Bach, and Laura Zarrow, and with thanks to the Bezos Family Foundation, the Walton Family Foundation & Charles and Lynn Schusterman Family P",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n25ju2qnkc2p",
-   "ts": 1794523035,
-   "desc": "With Lilach Mollick Ben Przystanski, LJ Ciccarelli, Natalie Bach, and Laura Zarrow, and with thanks to the Bezos Family Foundation, the Walton Family Foundation & Charles and Lynn Schusterman Family Philanthropies.\n\nPaper: papers.ssrn.com/sol3/papers....\n\nGithub: github.com/wharton-gene..."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "We believe that AI, when used properly, can have a large positive impact on education, but the major AIs are not built for learning out-of-the-box. We wanted to make sure we gave control to educators",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n25jrycra22p",
-   "ts": 1794522965,
-   "desc": "We believe that AI, when used properly, can have a large positive impact on education, but the major AIs are not built for learning out-of-the-box. We wanted to make sure we gave control to educators so they can make choices."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "We worked with teachers to help build this initial version. It is neutral as to the models or technologies, so adapt it as needed for your use.  And the last appendix is a prompt that hands the paper",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n25jrduesc2p",
-   "ts": 1794522943,
-   "desc": "We worked with teachers to help build this initial version. It is neutral as to the models or technologies, so adapt it as needed for your use.\n\nAnd the last appendix is a prompt that hands the paper to an AI agent and tells it to go build its own version of Primer. It is a paper you can run."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "🚨 Our Generative AI Lab is releasing Primer: an open source agent-driven system where a teacher talks through lessons & gets back a playable simulation for their students, grounded in pedagogy. We hop",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n25jpzcdtk2p",
-   "ts": 1794522899,
-   "desc": "🚨 Our Generative AI Lab is releasing Primer: an open source agent-driven system where a teacher talks through lessons & gets back a playable simulation for their students, grounded in pedagogy. We hope educators & researchers build on it. Paper/prompts/code are open: gail.wharton.upenn.edu/primer/"
-  },
-  {
    "source": "HN",
    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
    "ts": 1794624779,
-   "desc": "959 points"
-  },
-  {
-   "source": "HN",
-   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-   "ts": 1794520989,
-   "desc": "776 points"
+   "desc": "1013 points"
   },
   {
    "source": "HN",
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
    "url": "https://status.claude.com/incidents/nn11wk485zfn",
    "ts": 1794565093,
-   "desc": "489 points"
+   "desc": "493 points"
   },
   {
    "source": "HN",
    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
    "ts": 1794582524,
-   "desc": "439 points"
+   "desc": "453 points"
   },
   {
    "source": "HN",
    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
    "ts": 1794591010,
-   "desc": "415 points"
-  },
-  {
-   "source": "HN",
-   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-   "url": "https://unemploymentlabs.com/checkpoint-forensics",
-   "ts": 1794520571,
-   "desc": "369 points"
+   "desc": "421 points"
   },
   {
    "source": "HN",
    "title": "AI is destroying the trust between writers and readers",
    "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
    "ts": 1794568426,
-   "desc": "360 points"
+   "desc": "363 points"
   },
   {
    "source": "HN",
    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
    "ts": 1794524777,
-   "desc": "348 points"
+   "desc": "352 points"
   },
   {
    "source": "HN",
@@ -3499,63 +3513,56 @@
    "title": "No AI Slop: A Manifesto",
    "url": "https://www.slopmanifesto.com/",
    "ts": 1794599516,
-   "desc": "214 points"
+   "desc": "216 points"
   },
   {
    "source": "HN",
    "title": "All US airports are currently ground stopped",
    "url": "https://twitter.com/flightradar24/status/2121347654714077605",
    "ts": 1794604012,
-   "desc": "207 points"
-  },
-  {
-   "source": "HN",
-   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-   "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-   "ts": 1794517789,
-   "desc": "197 points"
+   "desc": "210 points"
   },
   {
    "source": "HN",
    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
    "url": "https://text.npr.org/nx-s1-6029408",
    "ts": 1794583750,
-   "desc": "191 points"
+   "desc": "192 points"
   },
   {
    "source": "HN",
    "title": "Why You Should Expect an AI Crash",
    "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
    "ts": 1794524911,
-   "desc": "102 points"
+   "desc": "103 points"
   },
   {
    "source": "HN",
    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
    "url": "https://claude.com/resources/articles/projects-redesigned",
    "ts": 1794616091,
-   "desc": "97 points"
+   "desc": "98 points"
   },
   {
    "source": "HN",
    "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
    "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
    "ts": 1794530321,
-   "desc": "89 points"
+   "desc": "90 points"
   },
   {
    "source": "HN",
    "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
    "url": "https://news.ycombinator.com/item?id=50494696",
    "ts": 1794639402,
-   "desc": "68 points"
+   "desc": "75 points"
   },
   {
    "source": "HN",
    "title": "The avalanche that hit math is coming for AI development",
    "url": "https://www.dwarkesh.com/p/rsi",
    "ts": 1794595182,
-   "desc": "64 points"
+   "desc": "65 points"
   },
   {
    "source": "HN",
@@ -3569,7 +3576,14 @@
    "title": "Israeli airstrike on Nasser hospital in Gaza killed surgeon and others",
    "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
    "ts": 1794634304,
-   "desc": "41 points"
+   "desc": "44 points"
+  },
+  {
+   "source": "HN",
+   "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+   "ts": 1794671937,
+   "desc": "39 points"
   },
   {
    "source": "HN",
@@ -3608,17 +3622,10 @@
   },
   {
    "source": "HN",
-   "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-   "ts": 1794671937,
-   "desc": "18 points"
-  },
-  {
-   "source": "HN",
    "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
    "ts": 1794609444,
-   "desc": "17 points"
+   "desc": "18 points"
   },
   {
    "source": "HN",
@@ -3629,6 +3636,20 @@
   },
   {
    "source": "HN",
+   "title": "Why platform teams fail (and AI makes it worse)",
+   "url": "https://willdady.com/why-platform-teams-fail",
+   "ts": 1794659556,
+   "desc": "14 points"
+  },
+  {
+   "source": "HN",
+   "title": "Open-source AI without Jensen",
+   "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+   "ts": 1794660241,
+   "desc": "12 points"
+  },
+  {
+   "source": "HN",
    "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
    "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
    "ts": 1794633591,
@@ -3636,10 +3657,17 @@
   },
   {
    "source": "HN",
-   "title": "Top Chinese AI labs built their newest models on Nvidia's Blackwell chips",
-   "url": "https://twitter.com/willdepue/status/2120992457630326841",
-   "ts": 1794520192,
-   "desc": "12 points"
+   "title": "New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details",
+   "url": "https://epyhia.com/new-access-to-justice-benchmark-finds-leading-ai-models-miss-critical",
+   "ts": 1794665431,
+   "desc": "10 points"
+  },
+  {
+   "source": "HN",
+   "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchase",
+   "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
+   "ts": 1794593847,
+   "desc": "10 points"
   }
  ]
 }
