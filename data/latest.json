@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-15T19:02:56.317287+00:00",
- "count": 524,
+ "generated_at": "2026-11-16T07:07:31.518562+00:00",
+ "count": 519,
  "stats": [
   {
    "source": "X (自建客户端)",
-   "count": 454,
+   "count": 449,
    "note": "49 账号"
   },
   {
@@ -29,6 +29,13 @@
   }
  ],
  "items": [
+  {
+   "source": "X @OpenAI",
+   "title": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice definition of the Standard Model.  It’s the first post on our new science blog: https://t.co/pLd0XmTUxD",
+   "url": "https://x.com/OpenAI/status/2122123437141553630",
+   "ts": 1794788629,
+   "desc": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice definition of the Standard Model.\n\nIt’s the first post on our new science blog:\nhttps://t.co/pLd0XmTUxD"
+  },
   {
    "source": "X @OpenAI",
    "title": "RT @jeffreygwang: (1/10) Today, we’re sharing new research from @OpenAI: How does CoT monitorability (no-CoT capability and CoT controllabi…",
@@ -794,6 +801,69 @@
   },
   {
    "source": "X @Alibaba_Qwen",
+   "title": "Qwen4-Max has made significant improvements on coding and finance tasks in particular. 🎉 @ValsAI",
+   "url": "https://x.com/Alibaba_Qwen/status/2122175103115075709",
+   "ts": 1794800947,
+   "desc": "Qwen4-Max has made significant improvements on coding and finance tasks in particular. 🎉 @ValsAI"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
+   "title": "+9 points over Qwen3.8-Max with lower costs. Give it a try! @ArtificialAnlys",
+   "url": "https://x.com/Alibaba_Qwen/status/2122174463479542126",
+   "ts": 1794800794,
+   "desc": "+9 points over Qwen3.8-Max with lower costs. Give it a try! @ArtificialAnlys"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
+   "title": "Live in OpenCode Go. Try it now! 👀",
+   "url": "https://x.com/Alibaba_Qwen/status/2122172575648514276",
+   "ts": 1794800344,
+   "desc": "Live in OpenCode Go. Try it now! 👀"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
+   "title": "Qwen4-Max is live on @OpenRouter — go build with it.🙌",
+   "url": "https://x.com/Alibaba_Qwen/status/2122171875573068153",
+   "ts": 1794800177,
+   "desc": "Qwen4-Max is live on @OpenRouter — go build with it.🙌"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
+   "title": "#4 on Python-PPTX arena and #5 on Spreadsheet arena. Thanks! @DesignArena",
+   "url": "https://x.com/Alibaba_Qwen/status/2122171494176563705",
+   "ts": 1794800086,
+   "desc": "#4 on Python-PPTX arena and #5 on Spreadsheet arena. Thanks! @DesignArena"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
+   "title": "Qwen4-Max landed #6 in Image-to-WebDev Arena with 1674 pts — up 35 pts over Qwen3.8-Max at 1639. 🎨",
+   "url": "https://x.com/Alibaba_Qwen/status/2122165801713303963",
+   "ts": 1794798729,
+   "desc": "Qwen4-Max landed #6 in Image-to-WebDev Arena with 1674 pts — up 35 pts over Qwen3.8-Max at 1639. 🎨"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
+   "title": "Qwen4-Max outperforms Qwen3.8-Max by +7.5% net on Agent Arena, making Alibaba #5 lab overall.",
+   "url": "https://x.com/Alibaba_Qwen/status/2122161519110844686",
+   "ts": 1794797708,
+   "desc": "Qwen4-Max outperforms Qwen3.8-Max by +7.5% net on Agent Arena, making Alibaba #5 lab overall."
+  },
+  {
+   "source": "X @Alibaba_Qwen",
+   "title": "Qwen4-Max lands at #6 in the Code Arena: WebDev — up 74 pts over Qwen3.8-Max. Give it a try! 🙌 @arena",
+   "url": "https://x.com/Alibaba_Qwen/status/2122156070781300934",
+   "ts": 1794796409,
+   "desc": "Qwen4-Max lands at #6 in the Code Arena: WebDev — up 74 pts over Qwen3.8-Max. Give it a try! 🙌 @arena"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
+   "title": "Qwen4 is coming.  Deeper knowledge. Richer world understanding. Stronger coding and agentic capabilities.  Built for real-world tasks — from complex coding and knowledge work to front-end builds and professional software workflows.  Qwen4-Max is now",
+   "url": "https://x.com/Alibaba_Qwen/status/2120335993643684315",
+   "ts": 1794362469,
+   "desc": "Qwen4 is coming.\n\nDeeper knowledge. Richer world understanding. Stronger coding and agentic capabilities.\n\nBuilt for real-world tasks — from complex coding and knowledge work to front-end builds and professional software workflows.\n\nQwen4-Max is now in preview on Alibaba’s Token Plan. You can also get early access to the new model on QwenWork, Qoder, Qwen APP, and QwenStudio.\n\nPut it to the test o"
+  },
+  {
+   "source": "X @Alibaba_Qwen",
    "title": "The becoming begins. https://t.co/SdWEEuG8F3",
    "url": "https://x.com/Alibaba_Qwen/status/2118674834632978755",
    "ts": 1793966418,
@@ -805,41 +875,6 @@
    "url": "https://x.com/Alibaba_Qwen/status/2110214931559899630",
    "ts": 1791949420,
    "desc": "Congrats to @lightseekorg on the impressive TokenSpeed results! 🚀 Great to see Qwen3.8-Flash-Next reaching 685 output tokens/s per user on Nvida GPUs. Excited to see the community unlock more of Qwen’s inference potential!"
-  },
-  {
-   "source": "X @Alibaba_Qwen",
-   "title": "Qwen3.8-27B is now accessible via @nebiustf. Whether you are building agents or doing deep research, this 27B dense model is ready for your multi-step workflows! 🥳",
-   "url": "https://x.com/Alibaba_Qwen/status/2105256053403508849",
-   "ts": 1790767131,
-   "desc": "Qwen3.8-27B is now accessible via @nebiustf. Whether you are building agents or doing deep research, this 27B dense model is ready for your multi-step workflows! 🥳"
-  },
-  {
-   "source": "X @Alibaba_Qwen",
-   "title": "⚡ Meet Qwen-Audio-3.1! ASR, TTS & Realtime are fully upgraded, joined by two new models: TTS-Next for audio creation and ASR-Next for audio understanding.  Five models, one complete audio stack: understanding, generation, interaction & creation.   Pl",
-   "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-   "ts": 1790154683,
-   "desc": "⚡ Meet Qwen-Audio-3.1! ASR, TTS & Realtime are fully upgraded, joined by two new models: TTS-Next for audio creation and ASR-Next for audio understanding.\n\nFive models, one complete audio stack: understanding, generation, interaction & creation. \n\nPlus big price cuts across the lineup: TTS ~70% off, Realtime ~85% off, and ASR up to 95% off.\n\nHighlights: 🥳\n- ASR: stronger multilingual & dialect rec"
-  },
-  {
-   "source": "X @Alibaba_Qwen",
-   "title": "Thanks @arena for the recognition! 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Image Edit and Text-to-Image Arenas. Try it now and show us what you create! 🎨",
-   "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
-   "ts": 1790126684,
-   "desc": "Thanks @arena for the recognition! 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Image Edit and Text-to-Image Arenas. Try it now and show us what you create! 🎨"
-  },
-  {
-   "source": "X @Alibaba_Qwen",
-   "title": "Day-0 OpenVINO support from @inteldevs! 🥳 Qwen-Image-2.1 is ready to run optimized on Intel hardware. One open-weight checkpoint for both generation and editing. 👇",
-   "url": "https://x.com/Alibaba_Qwen/status/2102248609106514355",
-   "ts": 1790050100,
-   "desc": "Day-0 OpenVINO support from @inteldevs! 🥳 Qwen-Image-2.1 is ready to run optimized on Intel hardware. One open-weight checkpoint for both generation and editing. 👇"
-  },
-  {
-   "source": "X @Alibaba_Qwen",
-   "title": "Thanks @sgl_project for the day-0 support! 🙌 SGLang-Diffusion now serves Qwen-Image-2.1: text-to-image generation, multi-image editing, and transparent RGBA output. Try it out! 🎨",
-   "url": "https://x.com/Alibaba_Qwen/status/2101866688425984233",
-   "ts": 1789959043,
-   "desc": "Thanks @sgl_project for the day-0 support! 🙌 SGLang-Diffusion now serves Qwen-Image-2.1: text-to-image generation, multi-image editing, and transparent RGBA output. Try it out! 🎨"
   },
   {
    "source": "X @kimi_moonshot",
@@ -1332,34 +1367,6 @@
    "desc": "Hy4  is coming to Chutes 🥳"
   },
   {
-   "source": "X @TencentHunyuan",
-   "title": "RT @YonglongT: Guess folks still love high-performing open-weight models 👀 We are taking a cautious approach to release the weights.  Give…",
-   "url": "https://x.com/TencentHunyuan/status/2118007946961711181",
-   "ts": 1793807419,
-   "desc": "RT @YonglongT: Guess folks still love high-performing open-weight models 👀 We are taking a cautious approach to release the weights.\n\nGive…"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "RT @tngtech: We had early access to Hy4, so we plugged it into our video game generator https://t.co/oIkEdDz4Ei  Big step up from Hy4-Previ…",
-   "url": "https://x.com/TencentHunyuan/status/2118007554643272137",
-   "ts": 1793807326,
-   "desc": "RT @tngtech: We had early access to Hy4, so we plugged it into our video game generator https://t.co/oIkEdDz4Ei\n\nBig step up from Hy4-Previ…"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "RT @victormustar: Hy4 Boeing Bench = quite good I feel https://t.co/ewhtIO2Y0L",
-   "url": "https://x.com/TencentHunyuan/status/2118007500712853704",
-   "ts": 1793807313,
-   "desc": "RT @victormustar: Hy4 Boeing Bench = quite good I feel https://t.co/ewhtIO2Y0L"
-  },
-  {
-   "source": "X @TencentHunyuan",
-   "title": "RT @ivanfioravanti: Here it is! This is the model I was early testing in these days! Don't underestimate Tencent. 🚀",
-   "url": "https://x.com/TencentHunyuan/status/2117982843205013584",
-   "ts": 1793801434,
-   "desc": "RT @ivanfioravanti: Here it is! This is the model I was early testing in these days! Don't underestimate Tencent. 🚀"
-  },
-  {
    "source": "X @cursor_ai",
    "title": "We’ve published an update on our recent security incident. See a detailed overview of what happened and our remediation steps here: https://t.co/2lf6lRJPlL",
    "url": "https://x.com/cursor_ai/status/2121411147714970092",
@@ -1379,6 +1386,13 @@
    "url": "https://x.com/cursor_ai/status/2114839997568405608",
    "ts": 1793052121,
    "desc": "DeepSeek V4.1 Flash is now available in Cursor!\n\nEvery effort level sits on the CursorBench cost frontier: from $0.60 to $0.98 per task, no model scores higher.\n\nTurn it on in Cursor Settings &gt; Models. https://t.co/QNQmJpaOa0"
+  },
+  {
+   "source": "X @opencode",
+   "title": "Qwen4 Max is now available in OpenCode Go",
+   "url": "https://x.com/opencode/status/2122159680462163993",
+   "ts": 1794797270,
+   "desc": "Qwen4 Max is now available in OpenCode Go"
   },
   {
    "source": "X @opencode",
@@ -1507,11 +1521,11 @@
    "desc": "no matter what agent you're using, your voice is the best way to talk to them\n\nand hex is the best way to use your voice:\n- fast\n- runs locally\n- works on mac, windows, linux\n\nstable release now available: https://t.co/Eb78egcyoP"
   },
   {
-   "source": "X @opencode",
-   "title": "Operation Cheepseek Phase 4:  $100 of usage for DeepSeek V4.1 Flash",
-   "url": "https://x.com/opencode/status/2116209960673800474",
-   "ts": 1793378746,
-   "desc": "Operation Cheepseek Phase 4:\n\n$100 of usage for DeepSeek V4.1 Flash"
+   "source": "X @commandcodeai",
+   "title": "Qwen4 Max is now live in Command Code on all plans.  - 1M token context window - Multimodal (text, image, video) - 50% less tokens, outperforms Qwen3.8 Max",
+   "url": "https://x.com/CommandCodeAI/status/2122222181308617200",
+   "ts": 1794812171,
+   "desc": "Qwen4 Max is now live in Command Code on all plans.\n\n- 1M token context window\n- Multimodal (text, image, video)\n- 50% less tokens, outperforms Qwen3.8 Max"
   },
   {
    "source": "X @commandcodeai",
@@ -1584,186 +1598,130 @@
    "desc": "RT @CommandCodeAI: Inkling 2 Small by Thinking Machines is now FREE in Command Code.\n\n· 1M token context window\n· Multimodal (text, image)…"
   },
   {
-   "source": "X @commandcodeai",
-   "title": "Inkling 2 Small by Thinking Machines is now FREE in Command Code.  · 1M token context window · Multimodal (text, image)  · On all plans, for all subs",
-   "url": "https://x.com/CommandCodeAI/status/2120922707135217770",
-   "ts": 1794502352,
-   "desc": "Inkling 2 Small by Thinking Machines is now FREE in Command Code.\n\n· 1M token context window\n· Multimodal (text, image) \n· On all plans, for all subs"
-  },
-  {
-   "source": "X @commandcodeai",
-   "title": "RT @CommandCodeAI: This week, we shipped several improvements to make the Command Code desktop app faster and more reliable.  • Mini chat f…",
-   "url": "https://x.com/CommandCodeAI/status/2120698237514637423",
-   "ts": 1794448835,
-   "desc": "RT @CommandCodeAI: This week, we shipped several improvements to make the Command Code desktop app faster and more reliable.\n\n• Mini chat f…"
-  },
-  {
-   "source": "X @commandcodeai",
-   "title": "RT @CommandCodeAI: Launching the Command Code Ambassador Program!  If you're building with open models, creating technical content, or orga…",
-   "url": "https://x.com/CommandCodeAI/status/2120350166893109379",
-   "ts": 1794365848,
-   "desc": "RT @CommandCodeAI: Launching the Command Code Ambassador Program!\n\nIf you're building with open models, creating technical content, or orga…"
-  },
-  {
-   "source": "X @commandcodeai",
-   "title": "RT @CommandCodeAI: Gemini 4 Carbon and Claude Fable 5.2 are now both live in Command Code.",
-   "url": "https://x.com/CommandCodeAI/status/2120350145812525099",
-   "ts": 1794365843,
-   "desc": "RT @CommandCodeAI: Gemini 4 Carbon and Claude Fable 5.2 are now both live in Command Code."
-  },
-  {
-   "source": "X @commandcodeai",
-   "title": "Gemini 4 Carbon and Claude Fable 5.2 are now both live in Command Code.",
-   "url": "https://x.com/CommandCodeAI/status/2120280401809969571",
-   "ts": 1794349215,
-   "desc": "Gemini 4 Carbon and Claude Fable 5.2 are now both live in Command Code."
-  },
-  {
-   "source": "X @commandcodeai",
-   "title": "RT @CommandCodeAI: Muse Ember is now live in Command Code on all plans.  · $10/mo GOAT gets $20 usage · 1M token context window · GPT-6 Lun…",
-   "url": "https://x.com/CommandCodeAI/status/2120217020767854762",
-   "ts": 1794334104,
-   "desc": "RT @CommandCodeAI: Muse Ember is now live in Command Code on all plans.\n\n· $10/mo GOAT gets $20 usage\n· 1M token context window\n· GPT-6 Lun…"
+   "source": "X @elonmusk",
+   "title": "Important",
+   "url": "https://x.com/elonmusk/status/2122223599079559603",
+   "ts": 1794812509,
+   "desc": "Important"
   },
   {
    "source": "X @elonmusk",
-   "title": "Starlink",
-   "url": "https://x.com/elonmusk/status/2122041658426765334",
-   "ts": 1794769131,
-   "desc": "Starlink"
+   "title": "RT @SonoranAstro: i find it really weird seeing people say spacex trashed “boca chica beach” when in reality my grandparents lived in brown…",
+   "url": "https://x.com/elonmusk/status/2122222491430994336",
+   "ts": 1794812245,
+   "desc": "RT @SonoranAstro: i find it really weird seeing people say spacex trashed “boca chica beach” when in reality my grandparents lived in brown…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @DavidSolomon: This is spectacular— looks like science fiction, but it’s real!  @elonmusk — I need to see this live one of these days!",
-   "url": "https://x.com/elonmusk/status/2122039309716828391",
-   "ts": 1794768571,
-   "desc": "RT @DavidSolomon: This is spectacular— looks like science fiction, but it’s real!  @elonmusk — I need to see this live one of these days!"
+   "title": "💯",
+   "url": "https://x.com/elonmusk/status/2122221516867895726",
+   "ts": 1794812013,
+   "desc": "💯"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @Cyborg21: It's here. Claudia's \"ALLOW ALWAYS\" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂 https…",
-   "url": "https://x.com/elonmusk/status/2121896179944349736",
-   "ts": 1794734446,
-   "desc": "RT @Cyborg21: It's here. Claudia's \"ALLOW ALWAYS\" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂 https…"
+   "title": "The amount of energy we harness for civilization from the Sun will obviously ultimately round up to 100% of all energy. That math is obvious and trivial.",
+   "url": "https://x.com/elonmusk/status/2122220308799316072",
+   "ts": 1794811725,
+   "desc": "The amount of energy we harness for civilization from the Sun will obviously ultimately round up to 100% of all energy. That math is obvious and trivial."
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @CBSNews: SpaceX is preparing for its 15th Starship launch from South Texas, with spectators gathering just across the street from the 4…",
-   "url": "https://x.com/elonmusk/status/2121884943529959468",
-   "ts": 1794731767,
-   "desc": "RT @CBSNews: SpaceX is preparing for its 15th Starship launch from South Texas, with spectators gathering just across the street from the 4…"
+   "title": "Yup",
+   "url": "https://x.com/elonmusk/status/2122203324460265943",
+   "ts": 1794807675,
+   "desc": "Yup"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @GavinSBaker: If you have kids, I highly recommend taking them to a launch. You can watch from the Margaritaville, the town beach or man…",
-   "url": "https://x.com/elonmusk/status/2121878725675622837",
-   "ts": 1794730285,
-   "desc": "RT @GavinSBaker: If you have kids, I highly recommend taking them to a launch. You can watch from the Margaritaville, the town beach or man…"
+   "title": "Yup",
+   "url": "https://x.com/elonmusk/status/2122191623731745133",
+   "ts": 1794804886,
+   "desc": "Yup"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @XFreeze: Starship Flight 15 mission in one timelapse  Launched from the tower → around Earth 14 times → caught by the tower https://t.c…",
-   "url": "https://x.com/elonmusk/status/2121877552171999280",
-   "ts": 1794730005,
-   "desc": "RT @XFreeze: Starship Flight 15 mission in one timelapse\n\nLaunched from the tower → around Earth 14 times → caught by the tower https://t.c…"
+   "title": "12 years ago",
+   "url": "https://x.com/elonmusk/status/2122186399575396604",
+   "ts": 1794803640,
+   "desc": "12 years ago"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @anabology: MADE ON EARTH   BY HUMANS https://t.co/y4vuSP0RTk",
-   "url": "https://x.com/elonmusk/status/2121876378052436213",
-   "ts": 1794729725,
-   "desc": "RT @anabology: MADE ON EARTH \n\nBY HUMANS https://t.co/y4vuSP0RTk"
+   "title": "RT @JohnLeFevre: The SpaceX engineers who caught the rocket don't write LinkedIn thought pieces about leadership.",
+   "url": "https://x.com/elonmusk/status/2122182607391920214",
+   "ts": 1794802736,
+   "desc": "RT @JohnLeFevre: The SpaceX engineers who caught the rocket don't write LinkedIn thought pieces about leadership."
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @AJamesMcCarthy: After careful consideration I’ve decided I’m quite bullish on civilization  KARDASHEV II HERE WE COME! https://t.co/t43…",
-   "url": "https://x.com/elonmusk/status/2121876044366201235",
-   "ts": 1794729646,
-   "desc": "RT @AJamesMcCarthy: After careful consideration I’ve decided I’m quite bullish on civilization\n\nKARDASHEV II HERE WE COME! https://t.co/t43…"
+   "title": "RT @elonmusk: @nbcsnl lol https://t.co/7vw3wS9Jm3",
+   "url": "https://x.com/elonmusk/status/2122179460435001423",
+   "ts": 1794801986,
+   "desc": "RT @elonmusk: @nbcsnl lol https://t.co/7vw3wS9Jm3"
   },
   {
    "source": "X @elonmusk",
-   "title": "5 years ago",
-   "url": "https://x.com/elonmusk/status/2121875758704370144",
-   "ts": 1794729578,
-   "desc": "5 years ago"
+   "title": "RT @LukeLeisher: The lesson of Icarus is not ‘don’t fly too close to the sun’ it’s ‘make better fucking wings’ https://t.co/M9bUgk83Le",
+   "url": "https://x.com/elonmusk/status/2122178893297905713",
+   "ts": 1794801850,
+   "desc": "RT @LukeLeisher: The lesson of Icarus is not ‘don’t fly too close to the sun’ it’s ‘make better fucking wings’ https://t.co/M9bUgk83Le"
   },
   {
    "source": "X @elonmusk",
-   "title": "This gives a clear sense of the catch maneuver",
-   "url": "https://x.com/elonmusk/status/2121875600906592260",
-   "ts": 1794729540,
-   "desc": "This gives a clear sense of the catch maneuver"
+   "title": "RT @max_west07: i’m happy to answer any questions anyone has https://t.co/vpjCbBx6ou",
+   "url": "https://x.com/elonmusk/status/2122164844107268542",
+   "ts": 1794798501,
+   "desc": "RT @max_west07: i’m happy to answer any questions anyone has https://t.co/vpjCbBx6ou"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @johnkrausphotos: Ship 42 returns to Starbase, Texas for the first-ever Starship tower catch during Flight 15! I have dreamt of creating…",
-   "url": "https://x.com/elonmusk/status/2121875411843830203",
-   "ts": 1794729495,
-   "desc": "RT @johnkrausphotos: Ship 42 returns to Starbase, Texas for the first-ever Starship tower catch during Flight 15! I have dreamt of creating…"
+   "title": "RT @punishablepress: Crazy feat of engineering https://t.co/PhNUOC7g9e",
+   "url": "https://x.com/elonmusk/status/2122164455425327419",
+   "ts": 1794798408,
+   "desc": "RT @punishablepress: Crazy feat of engineering https://t.co/PhNUOC7g9e"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @farzyness: In my opinion... we have achieved AGI.  Without a shadow of a doubt.  The combination of Grok Bot + Opus/Fable + Argon is a…",
-   "url": "https://x.com/elonmusk/status/2121875382614085666",
-   "ts": 1794729488,
-   "desc": "RT @farzyness: In my opinion... we have achieved AGI.\n\nWithout a shadow of a doubt.\n\nThe combination of Grok Bot + Opus/Fable + Argon is a…"
+   "title": "Grok @Bot can do almost anything",
+   "url": "https://x.com/elonmusk/status/2122164224382447808",
+   "ts": 1794798353,
+   "desc": "Grok @Bot can do almost anything"
   },
   {
    "source": "X @elonmusk",
-   "title": "Great day",
-   "url": "https://x.com/elonmusk/status/2121875056817328621",
-   "ts": 1794729410,
-   "desc": "Great day"
+   "title": "RT @AntiWokeMemes: @elonmusk Great timeline 😂 https://t.co/peznuqAnw3",
+   "url": "https://x.com/elonmusk/status/2122164088726016388",
+   "ts": 1794798321,
+   "desc": "RT @AntiWokeMemes: @elonmusk Great timeline 😂 https://t.co/peznuqAnw3"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @DannyLimanseta: Amidst all the chaos that happened in the past few days, this makes me feel proud of humanity.",
-   "url": "https://x.com/elonmusk/status/2121869641568112819",
-   "ts": 1794728119,
-   "desc": "RT @DannyLimanseta: Amidst all the chaos that happened in the past few days, this makes me feel proud of humanity."
+   "title": "RT @SawyerMerritt: Morgan Stanley’s Adam Jonas on @SpaceX successfully catching Starship on flight 15:  “In our view, Flight 15 is a histor…",
+   "url": "https://x.com/elonmusk/status/2122155781785346141",
+   "ts": 1794796340,
+   "desc": "RT @SawyerMerritt: Morgan Stanley’s Adam Jonas on @SpaceX successfully catching Starship on flight 15:\n\n“In our view, Flight 15 is a histor…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @Pedroascenbell: Wow, así se vio el catch de la Ship vista desde Matamoros, México. FUE UNA LOCURAAA 🚀❤️ #Starship #SpaceX https://t.co/…",
-   "url": "https://x.com/elonmusk/status/2121869348491157768",
-   "ts": 1794728049,
-   "desc": "RT @Pedroascenbell: Wow, así se vio el catch de la Ship vista desde Matamoros, México. FUE UNA LOCURAAA 🚀❤️ #Starship #SpaceX https://t.co/…"
+   "title": "Robotaxi life is a hard life. Tesla team empathizes with this guy. https://t.co/HE6NoyNv0r",
+   "url": "https://x.com/elonmusk/status/2122155440788099394",
+   "ts": 1794796259,
+   "desc": "Robotaxi life is a hard life. Tesla team empathizes with this guy. https://t.co/HE6NoyNv0r"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @rookisaacman: Do you believe now? https://t.co/w3EbswSyn0",
-   "url": "https://x.com/elonmusk/status/2121866340055019918",
-   "ts": 1794727332,
-   "desc": "RT @rookisaacman: Do you believe now? https://t.co/w3EbswSyn0"
+   "title": "RT @cb_doge: Joe Rogan praises Tesla FSD, saying his car drives him home at the press of a button.  “I leave the club. I press a button. It…",
+   "url": "https://x.com/elonmusk/status/2122147070132052059",
+   "ts": 1794794263,
+   "desc": "RT @cb_doge: Joe Rogan praises Tesla FSD, saying his car drives him home at the press of a button.\n\n“I leave the club. I press a button. It…"
   },
   {
    "source": "X @elonmusk",
-   "title": "RT @_MaxQ_: I’m lost for words https://t.co/B1oeJQjdDz",
-   "url": "https://x.com/elonmusk/status/2121866298502049890",
-   "ts": 1794727322,
-   "desc": "RT @_MaxQ_: I’m lost for words https://t.co/B1oeJQjdDz"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "Will the future that you want",
-   "url": "https://x.com/elonmusk/status/2121802527524164015",
-   "ts": 1794712118,
-   "desc": "Will the future that you want"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @Geiger_Capital: Choose your path Western man. https://t.co/2qtGHiKJXd",
-   "url": "https://x.com/elonmusk/status/2121802386880753924",
-   "ts": 1794712084,
-   "desc": "RT @Geiger_Capital: Choose your path Western man. https://t.co/2qtGHiKJXd"
-  },
-  {
-   "source": "X @elonmusk",
-   "title": "RT @AJamesMcCarthy: Everything has changed. https://t.co/MdMc1Q5j9Y",
-   "url": "https://x.com/elonmusk/status/2121791280208581035",
-   "ts": 1794709436,
-   "desc": "RT @AJamesMcCarthy: Everything has changed. https://t.co/MdMc1Q5j9Y"
+   "title": "RT @WR4NYGov: Jeff Bezos applied capital and engineering to the same industry with Blue Origin, starting in 2000, 2 years before Elon found…",
+   "url": "https://x.com/elonmusk/status/2122145343693598847",
+   "ts": 1794793852,
+   "desc": "RT @WR4NYGov: Jeff Bezos applied capital and engineering to the same industry with Blue Origin, starting in 2000, 2 years before Elon found…"
   },
   {
    "source": "X @sama",
@@ -2264,6 +2222,20 @@
   },
   {
    "source": "X @demishassabis",
+   "title": "RT @scottnarmstrong: on my first ever Carbon prompt it solved a research problem we’d been throwing wave after wave of Astras and Fables at…",
+   "url": "https://x.com/demishassabis/status/2122138684799508923",
+   "ts": 1794792264,
+   "desc": "RT @scottnarmstrong: on my first ever Carbon prompt it solved a research problem we’d been throwing wave after wave of Astras and Fables at…"
+  },
+  {
+   "source": "X @demishassabis",
+   "title": "RT @_mohansolo: We’re doubling the context window for Argon, Carbon, and Hydrogen in Antigravity.  Lots of work to make this happen but you…",
+   "url": "https://x.com/demishassabis/status/2122138623206441223",
+   "ts": 1794792249,
+   "desc": "RT @_mohansolo: We’re doubling the context window for Argon, Carbon, and Hydrogen in Antigravity.\n\nLots of work to make this happen but you…"
+  },
+  {
+   "source": "X @demishassabis",
    "title": "RT @elonmusk: Made on Earth by humans https://t.co/NEQ4zMs7bo",
    "url": "https://x.com/demishassabis/status/2121837667579310188",
    "ts": 1794720496,
@@ -2382,18 +2354,18 @@
    "desc": "RT @LuminaBench: Gemini 4 Carbon is ridiculously efficient\n\nIt barely uses any tokens, it's super cheap and incredibly fast for a model not…"
   },
   {
-   "source": "X @demishassabis",
-   "title": "RT @danielmckinn0n: Big G remains 👑 of rare-disease evals.  @GoogleDeepMind Gemini 4 Carbon and @AnthropicAI Fable 5.2 tie for first on @Ga…",
-   "url": "https://x.com/demishassabis/status/2120431155912519848",
-   "ts": 1794385157,
-   "desc": "RT @danielmckinn0n: Big G remains 👑 of rare-disease evals.\n\n@GoogleDeepMind Gemini 4 Carbon and @AnthropicAI Fable 5.2 tie for first on @Ga…"
+   "source": "X @sundarpichai",
+   "title": "RT @scottnarmstrong: on my first ever Carbon prompt it solved a research problem we’d been throwing wave after wave of Astras and Fables at…",
+   "url": "https://x.com/sundarpichai/status/2122120482950685080",
+   "ts": 1794787924,
+   "desc": "RT @scottnarmstrong: on my first ever Carbon prompt it solved a research problem we’d been throwing wave after wave of Astras and Fables at…"
   },
   {
-   "source": "X @demishassabis",
-   "title": "RT @cursor_ai: Gemini 4 Carbon is now available in Cursor!  At high effort, it's the top model on CursorBench at 60.4% https://t.co/4I32noz…",
-   "url": "https://x.com/demishassabis/status/2120294666969248255",
-   "ts": 1794352616,
-   "desc": "RT @cursor_ai: Gemini 4 Carbon is now available in Cursor!\n\nAt high effort, it's the top model on CursorBench at 60.4% https://t.co/4I32noz…"
+   "source": "X @sundarpichai",
+   "title": "RT @_mohansolo: We’re doubling the context window for Argon, Carbon, and Hydrogen in Antigravity.  Lots of work to make this happen but you…",
+   "url": "https://x.com/sundarpichai/status/2122120206910919037",
+   "ts": 1794787859,
+   "desc": "RT @_mohansolo: We’re doubling the context window for Argon, Carbon, and Hydrogen in Antigravity.\n\nLots of work to make this happen but you…"
   },
   {
    "source": "X @sundarpichai",
@@ -2480,18 +2452,11 @@
    "desc": "Thinking of all our veterans and their families today. Thank you for your service and sacrifice to our country.\n\nToday’s doodle showcases achievement medals across every branch of service. https://t.co/GnMLXInad6"
   },
   {
-   "source": "X @sundarpichai",
-   "title": "RT @carolina_parada: Excited to announce Gemini Robotics 2.5 for real-world general dexterity!  🦾  ✨   For robots to help people even more…",
-   "url": "https://x.com/sundarpichai/status/2120321486108119261",
-   "ts": 1794359010,
-   "desc": "RT @carolina_parada: Excited to announce Gemini Robotics 2.5 for real-world general dexterity!  🦾  ✨ \n\nFor robots to help people even more…"
-  },
-  {
-   "source": "X @sundarpichai",
-   "title": "RT @melvinjohnsonp: Gemini 4 Carbon at the Pareto on Cursorbench! Hope you all enjoy building with it.",
-   "url": "https://x.com/sundarpichai/status/2120230568789189087",
-   "ts": 1794337334,
-   "desc": "RT @melvinjohnsonp: Gemini 4 Carbon at the Pareto on Cursorbench! Hope you all enjoy building with it."
+   "source": "X @ylecun",
+   "title": "RT @ClementDelangue: As I’ve said for years, concentration of power, capabilities and wealth is the biggest risk in AI. The natural tendenc…",
+   "url": "https://x.com/ylecun/status/2122178644395041172",
+   "ts": 1794801791,
+   "desc": "RT @ClementDelangue: As I’ve said for years, concentration of power, capabilities and wealth is the biggest risk in AI. The natural tendenc…"
   },
   {
    "source": "X @ylecun",
@@ -2625,13 +2590,6 @@
    "url": "https://x.com/ylecun/status/2119929780057375160",
    "ts": 1794265620,
    "desc": "RT @randall_balestr: Our first major update on https://t.co/v8KSoNBKqM\n- venue confirmed in the heart of Manhattan\n- paper deadline is Dece…"
-  },
-  {
-   "source": "X @ylecun",
-   "title": "RT @ylecun: @TimDarcet @gabriberton The P in JEPA stands for predictive. The main distinction is not between JEA and JEPA, but between Join…",
-   "url": "https://x.com/ylecun/status/2119522897555595583",
-   "ts": 1794168612,
-   "desc": "RT @ylecun: @TimDarcet @gabriberton The P in JEPA stands for predictive.\nThe main distinction is not between JEA and JEPA, but between Join…"
   },
   {
    "source": "X @AndrewYNg",
@@ -3034,6 +2992,13 @@
   },
   {
    "source": "X @thsottiaux",
+   "title": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
+   "url": "https://x.com/thsottiaux/status/2122206990101536852",
+   "ts": 1794808549,
+   "desc": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY"
+  },
+  {
+   "source": "X @thsottiaux",
    "title": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming &amp; defense factory... What can we do better or improve?",
    "url": "https://x.com/thsottiaux/status/2121845965997101118",
    "ts": 1794722474,
@@ -3419,6 +3384,41 @@
   },
   {
    "source": "Bluesky Ethan Mollick",
+   "title": "That employment shock was much sooner, I had thought?  Anyhow, the substack has the source for the job category thing. And yes, many jobs transformed substantially.",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2ftrnxsa22t",
+   "ts": 1794808569,
+   "desc": "That employment shock was much sooner, I had thought?\n\nAnyhow, the substack has the source for the job category thing. And yes, many jobs transformed substantially."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "Most jobs just transformed gradually, but did not become obsolete, typists became secretaries became admins/customer service/etc. There was lots of transformation (see accountants, programmers, etc) b",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2fop4dxak2j",
+   "ts": 1794803115,
+   "desc": "Most jobs just transformed gradually, but did not become obsolete, typists became secretaries became admins/customer service/etc. There was lots of transformation (see accountants, programmers, etc) but they didn't disappear."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "The image comes from one of my first posts on OneUsefulThing right after the release of ChatGPT, based on the premonition that this time, things are going to be different.  If we avoid disaster, worth",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2fokq3w2k2j",
+   "ts": 1794802968,
+   "desc": "The image comes from one of my first posts on OneUsefulThing right after the release of ChatGPT, based on the premonition that this time, things are going to be different.\n\nIf we avoid disaster, worth remembering humans are very good at muddling through. www.oneusefulthing.org/p/becoming-s..."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "It also means that no leader of a Western company, government, or any other institution has ever had to deal with a radically different socio-technical regime. The old approaches that worked through t",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2fodip2y22j",
+   "ts": 1794802725,
+   "desc": "It also means that no leader of a Western company, government, or any other institution has ever had to deal with a radically different socio-technical regime. The old approaches that worked through the ups-and-downs of the previous 75 years may not work for the years ahead."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
+   "title": "I think often about the fact that almost everyone working in the West has lived in a quite stable socio-technical period  Only 1 job out of 270 in the 1950 census is now obsolete (elevator operator)",
+   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2fobx5wek2j",
+   "ts": 1794802673,
+   "desc": "I think often about the fact that almost everyone working in the West has lived in a quite stable socio-technical period\n\nOnly 1 job out of 270 in the 1950 census is now obsolete (elevator operator)\n\n2026 is similar to 1957 in a way that 1969 was not similar to 1900.\n\nThat may start to change, fast."
+  },
+  {
+   "source": "Bluesky Ethan Mollick",
    "title": "Projects.",
    "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2eorenhtc2g",
    "ts": 1794768831,
@@ -3453,95 +3453,32 @@
    "desc": "As a side note, a couple years ago, making this benchmark & analysis would’ve taken a considerable amount of time in STATA, likely several days, and making it look this nice would have been quite a while as well.\n\nThis was like 4 prompts to Fable 5.2"
   },
   {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Looked into it",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2cpufjb4222",
-   "ts": 1794701287,
-   "desc": "Looked into it"
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Private benchmarks start harder, but fall just as fast.",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2cpu3qff222",
-   "ts": 1794701277,
-   "desc": "Private benchmarks start harder, but fall just as fast."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Some of these are private benchmarks or holdout benchmarks, though.",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2cpbqwoo222",
-   "ts": 1794700661,
-   "desc": "Some of these are private benchmarks or holdout benchmarks, though."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "Here: github.com/emollick/sat...  Also thanks to The Benchmark Almanac: github.com/brianlzhou/b...",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2cozv3ea222",
-   "ts": 1794700397,
-   "desc": "Here: github.com/emollick/sat...\n\nAlso thanks to The Benchmark Almanac: github.com/brianlzhou/b..."
-  },
-  {
-   "source": "Bluesky Ethan Mollick",
-   "title": "AI is getting better faster than our measurements are.  I threw together SatBench, which measures how quickly major AI benchmarks become saturated (effectively solved) by AI. Of 173 benchmarks cited b",
-   "url": "https://bsky.app/profile/emollick.bsky.social/post/3n2cotuxdvk22",
-   "ts": 1794700196,
-   "desc": "AI is getting better faster than our measurements are.\n\nI threw together SatBench, which measures how quickly major AI benchmarks become saturated (effectively solved) by AI. Of 173 benchmarks cited by the Labs since 2023, 63% are now saturated. Saturation of new benchmarks is also happening faster."
-  },
-  {
-   "source": "HN",
-   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-   "ts": 1794624779,
-   "desc": "1090 points"
-  },
-  {
    "source": "HN",
    "title": "All AI-generated code should be Open Source",
    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
    "ts": 1794754018,
-   "desc": "715 points"
-  },
-  {
-   "source": "HN",
-   "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-   "url": "https://orcasairband.com/",
-   "ts": 1794607464,
-   "desc": "293 points"
-  },
-  {
-   "source": "HN",
-   "title": "No AI Slop: A Manifesto",
-   "url": "https://www.slopmanifesto.com/",
-   "ts": 1794599516,
-   "desc": "221 points"
-  },
-  {
-   "source": "HN",
-   "title": "All US airports are currently ground stopped",
-   "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-   "ts": 1794604012,
-   "desc": "213 points"
-  },
-  {
-   "source": "HN",
-   "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-   "url": "https://claude.com/resources/articles/projects-redesigned",
-   "ts": 1794616091,
-   "desc": "99 points"
-  },
-  {
-   "source": "HN",
-   "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-   "url": "https://news.ycombinator.com/item?id=50494696",
-   "ts": 1794639402,
-   "desc": "87 points"
+   "desc": "1137 points"
   },
   {
    "source": "HN",
    "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
    "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
    "ts": 1794711954,
-   "desc": "81 points"
+   "desc": "87 points"
+  },
+  {
+   "source": "HN",
+   "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+   "url": "https://www.hntrends.com/2026/november.html",
+   "ts": 1794792690,
+   "desc": "82 points"
+  },
+  {
+   "source": "HN",
+   "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+   "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+   "ts": 1794771586,
+   "desc": "64 points"
   },
   {
    "source": "HN",
@@ -3552,10 +3489,10 @@
   },
   {
    "source": "HN",
-   "title": "Israeli airstrike on Nasser hospital in Gaza killed surgeon and others",
-   "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-   "ts": 1794634304,
-   "desc": "51 points"
+   "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+   "url": "https://github.com/db-branch/db-branch",
+   "ts": 1794750651,
+   "desc": "41 points"
   },
   {
    "source": "HN",
@@ -3573,31 +3510,31 @@
   },
   {
    "source": "HN",
-   "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-   "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-   "ts": 1794610964,
-   "desc": "19 points"
-  },
-  {
-   "source": "HN",
-   "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
-   "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-   "ts": 1794609444,
-   "desc": "18 points"
-  },
-  {
-   "source": "HN",
-   "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-   "url": "https://github.com/db-branch/db-branch",
-   "ts": 1794750651,
-   "desc": "15 points"
-  },
-  {
-   "source": "HN",
-   "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
-   "url": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
-   "ts": 1794633591,
+   "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+   "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+   "ts": 1794785633,
    "desc": "14 points"
+  },
+  {
+   "source": "HN",
+   "title": "Agentic AI Designs an Analog Synthesizer",
+   "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+   "ts": 1794792490,
+   "desc": "14 points"
+  },
+  {
+   "source": "HN",
+   "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+   "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+   "ts": 1794801831,
+   "desc": "14 points"
+  },
+  {
+   "source": "HN",
+   "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+   "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+   "ts": 1794800095,
+   "desc": "11 points"
   },
   {
    "source": "HN",
@@ -3629,9 +3566,9 @@
   },
   {
    "source": "HN",
-   "title": "FAA lifts ground stop at U.S. airports",
-   "url": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/",
-   "ts": 1794620832,
+   "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
+   "url": "https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/",
+   "ts": 1794754270,
    "desc": "9 points"
   },
   {
@@ -3643,9 +3580,23 @@
   },
   {
    "source": "HN",
+   "title": "Ask HN: What do coding interviews look like in the age of AI?",
+   "url": "https://news.ycombinator.com/item?id=50510540",
+   "ts": 1794775534,
+   "desc": "8 points"
+  },
+  {
+   "source": "HN",
    "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
    "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
    "ts": 1794717757,
+   "desc": "8 points"
+  },
+  {
+   "source": "HN",
+   "title": "Taking AI Seriously",
+   "url": "https://borretti.me/article/taking-ai-seriously",
+   "ts": 1794738967,
    "desc": "8 points"
   },
   {
@@ -3657,31 +3608,17 @@
   },
   {
    "source": "HN",
-   "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
-   "url": "https://opencyclone.vercel.app/",
-   "ts": 1794624372,
+   "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+   "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
+   "ts": 1794682030,
    "desc": "8 points"
   },
   {
    "source": "HN",
-   "title": "AI has become a utility bill for Gen Z",
-   "url": "https://www.reuters.com/markets/on-the-money/how-ai-has-become-utility-bill-gen-z-2026-11-13/",
-   "ts": 1794619394,
-   "desc": "8 points"
-  },
-  {
-   "source": "HN",
-   "title": "Flights halted at airports across US due to air traffic control comms problems",
-   "url": "https://apnews.com/article/flights-halted-airports-faa-f81b0904331dafad6133f291e5f531a8",
-   "ts": 1794608569,
-   "desc": "8 points"
-  },
-  {
-   "source": "HN",
-   "title": "Drones over UK skies: US Air Force launches urgent response",
-   "url": "https://www.express.co.uk/news/uk/2266117/drones-uk-skies-us",
-   "ts": 1794610706,
-   "desc": "8 points"
+   "title": "So Far, AI Pessimism Is Observationally Equivalent to AI Optimism",
+   "url": "https://www.betonit.ai/p/so-far-ai-pessimism-is-observationally",
+   "ts": 1794657222,
+   "desc": "7 points"
   },
   {
    "source": "HN",
@@ -3692,9 +3629,37 @@
   },
   {
    "source": "HN",
-   "title": "So Far, AI Pessimism Is Observationally Equivalent to AI Optimism",
-   "url": "https://www.betonit.ai/p/so-far-ai-pessimism-is-observationally",
-   "ts": 1794657222,
+   "title": "'It's like the Wild West': how AI has rocked the literary world",
+   "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+   "ts": 1794790320,
+   "desc": "7 points"
+  },
+  {
+   "source": "HN",
+   "title": "Google AI Ultra Subscription Not Worth It",
+   "url": "https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/",
+   "ts": 1794805162,
+   "desc": "7 points"
+  },
+  {
+   "source": "HN",
+   "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+   "url": "https://finance.biggo.com/news/71888475bad974d6",
+   "ts": 1794785254,
+   "desc": "7 points"
+  },
+  {
+   "source": "HN",
+   "title": "Jensen Huang's departure blasts big hole in AI startup funding",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "ts": 1794675144,
+   "desc": "7 points"
+  },
+  {
+   "source": "HN",
+   "title": "Show HN: Timon, an open-source AI workstation for coordinating agents",
+   "url": "https://github.com/ai-timon/timon",
+   "ts": 1794660721,
    "desc": "7 points"
   }
  ]
